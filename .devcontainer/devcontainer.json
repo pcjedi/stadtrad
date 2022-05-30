@@ -1,0 +1,48 @@
+{
+	// https://code.visualstudio.com/docs/remote/devcontainerjson-reference#_image-or-dockerfile-specific-properties
+	"image": "mcr.microsoft.com/vscode/devcontainers/python",
+	"containerUser": "vscode",
+
+	// https://code.visualstudio.com/docs/remote/devcontainerjson-reference#_general-devcontainerjson-properties
+	"name": "Devcontainer",
+
+	// https://code.visualstudio.com/docs/remote/devcontainerjson-reference#_vs-code-specific-properties
+	"settings": { 
+		"python.linting.enabled": true,
+		"python.linting.flake8Enabled": true,
+		"python.linting.flake8Args": ["--max-line-length=127", "--verbose"],
+		"python.linting.pycodestyleArgs": ["--max-line-length=127"],
+		"python.linting.pylintArgs": ["--max-line-length=127"],
+		"python.formatting.autopep8Path": "/usr/local/py-utils/bin/autopep8",
+		"python.formatting.blackPath": "/usr/local/py-utils/bin/black",
+		"python.formatting.yapfPath": "/usr/local/py-utils/bin/yapf",
+	 	"python.formatting.blackArgs": ["--line-length", "127"],
+		"python.formatting.autopep8Args": ["--max-line-length", "127", "--experimental"],
+		"python.formatting.provider": "black",
+		"python.analysis.typeCheckingMode": "off",
+		"[python]": {"editor.formatOnSave": true},
+		"git.autofetch": true,
+		"git.confirmSync": false,
+		"git.enableSmartCommit": true
+	},
+	"extensions": [
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"GitHub.vscode-pull-request-github",
+		"GitHub.copilot",
+		"ms-azuretools.vscode-docker",
+		"ms-toolsai.jupyter",
+		"ms-toolsai.jupyter-renderers",
+		"ms-toolsai.jupyter-keymap",
+		"eamodio.gitlens"
+	],
+
+	// https://code.visualstudio.com/docs/remote/devcontainerjson-reference#_lifecycle-scripts
+	// "initializeCommand": "",
+	"onCreateCommand": "pip install requirements.txt"
+	// "updateContentCommand": "",
+	// "postCreateCommand": "",
+	// "postStartCommand": "",
+	// "postAttachCommand": "",
+    // "waitFor": ""
+}
