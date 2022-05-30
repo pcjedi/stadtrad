@@ -12,6 +12,7 @@ on:
 jobs:
   j1:
     runs-on: ubuntu-latest
+    container: python:slim
     steps:
       - uses: actions/checkout@main
       - run: mkdir data
