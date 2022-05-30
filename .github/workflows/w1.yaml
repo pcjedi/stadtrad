@@ -15,6 +15,8 @@ jobs:
     container: python:slim
     steps:
       - uses: actions/checkout@main
+      - run: apt-get update
+      - run: apt-get -y install git
       - run: mkdir -p data
       - run: pip install -r crawler/requirements.txt
       - run: python crawler/run.py
