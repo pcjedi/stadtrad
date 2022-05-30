@@ -15,7 +15,7 @@ jobs:
     container: python:slim
     steps:
       - uses: actions/checkout@main
-      - run: mkdir data
+      - run: mkdir -p data
       - run: pip install -r crawler/requirements.txt
       - run: python crawler/run.py
       - name: Commit and push if it changed
