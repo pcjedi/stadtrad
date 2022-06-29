@@ -1,23 +1,16 @@
-from dateutil import parser
-import requests
+import time
+from utils import stadtrad_payload, stadtrad_session
 import pandas as pd
+import json
 
-x = 53.566466
-y = 9.955832
-r = 2336
+payload_dict = dict()
 
-url_base = "https://stadtrad.hamburg.de/"
-url_path = "scs-search-and-book/"
-url_suffix = f"api/search/{x},{y},{r}"
+with open("crawler/params.json") as f:
+    for param in json.load(f):
+        payload = stadtrad_payload(**param, session=stadtrad_session())
+        payload_dict.update({(p["position"]["lat"], p["position"]["lng"]): p for p in payload})
 
-s = requests.Session()
-s.get(url_base + url_path)
-s.get(url_base)
-r = s.get(url_base + url_path + url_suffix)
-
-pd.json_normalize(
-    data=r.json().get("payload"),
-).to_csv(
-    path_or_buf="data/" + str(int(parser.parse(r.headers["date"]).utcnow().timestamp())) + ".csv",
+pd.json_normalize(data=payload_dict.values()).to_csv(
+    path_or_buf="data/" + str(int(time.time())) + ".csv",
     index=False,
 )
