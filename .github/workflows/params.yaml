@@ -1,13 +1,14 @@
-name: Stadtrad
+name: Parameter Crawler
 
 on:
-  schedule:
-    - cron: "0 * * * *"
   workflow_dispatch:
   push:
     paths:
-      - ".github/workflows/w1.yaml"
-      - "crawler/*"
+      - ".github/workflows/params.yaml"
+      - "crawler/write_params.py"
+
+env:
+  PYTHONUNBUFFERED: true
 
 jobs:
   j1:
@@ -17,14 +18,13 @@ jobs:
       - run: apt-get update
       - run: apt-get -y install git
       - uses: actions/checkout@main
-      - run: mkdir -p data
       - run: pip install -r crawler/requirements.txt
-      - run: python crawler/run.py
+      - run: python crawler/write_params.py
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git config pull.ff only
-          git add data/*
+          git add crawler/params.json
           git commit -a --allow-empty-message -m '' || exit 0
           git pull && git push
