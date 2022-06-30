@@ -8,6 +8,8 @@ on:
     paths:
       - ".github/workflows/w1.yaml"
       - "crawler/*"
+      - "requirements.txt"
+      - "drawer/*"
 
 jobs:
   j1:
