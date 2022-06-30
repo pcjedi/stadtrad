@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@main
       - run: mkdir -p data
       - run: mkdir -p drawer/stations
-      - run: pip install -r crawler/requirements.txt
+      - run: pip install -r requirements.txt
       - run: python crawler/run.py
       - run: python drawer/draw.py
       - name: Commit and push if it changed
@@ -28,5 +28,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git config pull.ff only
           git add data/*
+          git add drawer/stations/*
+          git add drawer/overview.svg
           git commit -a --allow-empty-message -m '' || exit 0
           git pull && git push
