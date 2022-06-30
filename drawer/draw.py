@@ -3,7 +3,7 @@ import pandas as pd
 import datetime
 from tqdm import tqdm
 from utils import plot_payload
-import numpy as np
+import matplotlib.pylab as plt
 
 dfs = []
 
@@ -15,7 +15,10 @@ for p in tqdm(glob("data/*"), desc="Loading data"):
     except pd.errors.EmptyDataError:
         pass
 
-for (lat, lng, name), dfg in tqdm(pd.concat(dfs).groupby(["position.lat", "position.lng", "name"]), desc="Plotting data"):
+df = pd.concat(dfs)
+
+for (lat, lng, name), dfg in tqdm(df.groupby(["position.lat", "position.lng", "name"]), desc="Plotting data"):
+    plt.clf()
     dfg.set_index("time")["rentalObjectCount.bike"].plot(
         drawstyle="steps",
         title=name,
@@ -28,7 +31,7 @@ f, ax = plot_payload(
     lats=df_now["position.lat"],
     # alpha=0.25 + df_now["rentalObjectCount.bike"] / (2 * np.max(df_now["rentalObjectCount.bike"])),
     s=100,
-    figsize=(50, 10),
+    figsize=(30, 30),
 )
 for ix, row in df_now.iterrows():
     ax.text(
