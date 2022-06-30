@@ -31,11 +31,11 @@ f, ax = plot_payload(
     lats=df_now["position.lat"],
     s=100,
     figsize=(100, 100),
-    max_total=200,
+    max_total=80,
 )
 
 for ix, row in df_now.iterrows():
-    url = f"stations/{row['position.lat']}-{row['position.lng']}"
+    url = f"stations/{row['position.lat']}-{row['position.lng']}.svg"
     ax.text(
         x=row["position.lng"],
         y=row["position.lat"],
