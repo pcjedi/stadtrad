@@ -29,11 +29,13 @@ df_now = df[df.time == df.time.max()]
 f, ax = plot_payload(
     lngs=df_now["position.lng"],
     lats=df_now["position.lat"],
-    # alpha=0.25 + df_now["rentalObjectCount.bike"] / (2 * np.max(df_now["rentalObjectCount.bike"])),
     s=100,
-    figsize=(30, 30),
+    figsize=(100, 100),
+    max_total=200,
 )
+
 for ix, row in df_now.iterrows():
+    url = f"stations/{row['position.lat']}-{row['position.lng']}"
     ax.text(
         x=row["position.lng"],
         y=row["position.lat"],
@@ -41,5 +43,8 @@ for ix, row in df_now.iterrows():
         fontdict={
             "size": 6,
         },
+        url=url,
+        bbox=dict(color="w", alpha=0.01, url=url),
     )
-f.savefig("drawer/overview.svg")
+
+f.savefig(fname="drawer/overview.svg", bbox_inches="tight")
