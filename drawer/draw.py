@@ -26,7 +26,7 @@ df_now = df[df.time == df.time.max()]
 f, ax = plot_payload(
     lngs=df_now["position.lng"],
     lats=df_now["position.lat"],
-    alpha=0.25 + df_now["rentalObjectCount.bike"] / (2 * np.max(df_now["rentalObjectCount.bike"])),
+    # alpha=0.25 + df_now["rentalObjectCount.bike"] / (2 * np.max(df_now["rentalObjectCount.bike"])),
     s=100,
     figsize=(50, 10),
 )
