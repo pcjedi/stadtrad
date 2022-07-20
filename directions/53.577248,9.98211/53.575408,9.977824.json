@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5773348,
+        "lng": 9.9821098
+      },
+      "southwest": {
+        "lat": 53.574361,
+        "lng": 9.9779035
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 632
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 105
+        },
+        "end_address": "Grindelberg / Bezirksamt Eimsb\u00fcttel, 20144 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5754933,
+          "lng": 9.9779035
+        },
+        "start_address": "Innocentiapark / Oberstra\u00dfe, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5772437,
+          "lng": 9.9821098
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5772339,
+              "lng": 9.981892799999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Oberstra\u00dfe</b> toward <b>Brahmsallee</b>",
+            "polyline": {
+              "points": "wh_fIes|{@AXBP"
+            },
+            "start_location": {
+              "lat": 53.5772437,
+              "lng": 9.9821098
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "12 m",
+              "value": 12
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5773348,
+              "lng": 9.9818324
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Brahmsallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uh_fIyq|{@G?C@A@A@CB?@"
+            },
+            "start_location": {
+              "lat": 53.5772339,
+              "lng": 9.981892799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5769793,
+              "lng": 9.9808367
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ii_fImq|{@LLHPDPFVDRJr@FV?BDV"
+            },
+            "start_location": {
+              "lat": 53.5773348,
+              "lng": 9.9818324
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 303
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 54
+            },
+            "end_location": {
+              "lat": 53.57444040000001,
+              "lng": 9.9795568
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cg_fIgk|{@xCBDBJDt@@@?HF^j@`@h@BBn@j@x@f@p@ZFDZRFB"
+            },
+            "start_location": {
+              "lat": 53.5769793,
+              "lng": 9.9808367
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 225
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5754933,
+              "lng": 9.9779035
+            },
+            "html_instructions": "Sharp <b>right</b> onto <b>Grindelberg</b>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "gw~eIgc|{@BJBHBLBP?L?JAPALEL?@EHGHIBMDCCCCICKAO?O@Q?K?SA[@Q?GDE@?@ABAH?L?F?D?D?b@Ax@?X?F"
+            },
+            "start_location": {
+              "lat": 53.57444040000001,
+              "lng": 9.9795568
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh_fIes|{@@j@K@GHV^Lh@XbBDVxCBPHv@@h@r@d@l@n@j@x@f@x@`@b@VNt@?XC^ENMRWHGGUE_@@mA?YDEBCL?TAhB?`@"
+    },
+    "summary": "Grindelberg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

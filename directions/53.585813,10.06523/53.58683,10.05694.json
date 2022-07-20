@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5888938,
+        "lng": 10.0653471
+      },
+      "southwest": {
+        "lat": 53.58585129999999,
+        "lng": 10.056994
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 812
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 182
+        },
+        "end_address": "L\u00e4mmersieth / Wachtelstra\u00dfe, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58689589999999,
+          "lng": 10.056994
+        },
+        "start_address": "U Alter Teichweg / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58585129999999,
+          "lng": 10.0653471
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 340
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5883304,
+              "lng": 10.0623527
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Nordschleswiger Str.</b> toward <b>Alter Teichweg</b>",
+            "polyline": {
+              "points": "q~`fIm{l|@e@b@cBbBeAjAGHEDW`@[f@_BvBMPOR[f@OTMRe@x@"
+            },
+            "start_location": {
+              "lat": 53.58585129999999,
+              "lng": 10.0653471
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "90 m",
+              "value": 90
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5888938,
+              "lng": 10.0613842
+            },
+            "html_instructions": "Continue onto <b>Habichtstra\u00dfe</b>",
+            "polyline": {
+              "points": "anafIuhl|@_AjBo@tA"
+            },
+            "start_location": {
+              "lat": 53.5883304,
+              "lng": 10.0623527
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 356
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 96
+            },
+            "end_location": {
+              "lat": 53.58678880000001,
+              "lng": 10.0573427
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>L\u00e4mmersieth</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qqafIsbl|@FJHPBDBH@@nArDBFtAvDn@hBN^LTl@bAHP`@t@h@bAJR"
+            },
+            "start_location": {
+              "lat": 53.5888938,
+              "lng": 10.0613842
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "26 m",
+              "value": 26
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.58689589999999,
+              "lng": 10.056994
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wachtelstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mdafIkik|@On@ET"
+            },
+            "start_location": {
+              "lat": 53.58678880000001,
+              "lng": 10.0573427
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "q~`fIm{l|@iCfCmAtA]f@{B~CiAbBs@lAoB`EXl@jDtJ~@hCz@xA`B~CUdA"
+    },
+    "summary": "Nordschleswiger Str. and L\u00e4mmersieth",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

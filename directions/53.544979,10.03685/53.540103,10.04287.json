@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5449103,
+        "lng": 10.0431335
+      },
+      "southwest": {
+        "lat": 53.5401063,
+        "lng": 10.0364975
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 852
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 184
+        },
+        "end_address": "S Rothenburgsort / Billhorner Deich, 20539 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5401063,
+          "lng": 10.0428079
+        },
+        "start_address": "Bullerdeich / Stadtreinigung Hamburg, 20537 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5448336,
+          "lng": 10.036939
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "31 m",
+              "value": 31
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.54473369999999,
+              "lng": 10.0364975
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Bullerdeich</b>",
+            "polyline": {
+              "points": "e~xeI{ig|@Hr@Hb@"
+            },
+            "start_location": {
+              "lat": 53.5448336,
+              "lng": 10.036939
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5446062,
+              "lng": 10.0366016
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bullerdeich</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q}xeIcgg|@VS"
+            },
+            "start_location": {
+              "lat": 53.54473369999999,
+              "lng": 10.0364975
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 261
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.54423569999999,
+              "lng": 10.0401649
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Bullerdeich</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "y|xeIwgg|@c@kCACAMMw@E[BUDSJ[Lc@DSNy@FWFYNm@Ji@@EFUNi@DmA"
+            },
+            "start_location": {
+              "lat": 53.5446062,
+              "lng": 10.0366016
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 262
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5426128,
+              "lng": 10.0429009
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Billwerder Steindamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ozxeI_~g|@JALEFEPMNQBEHOFIFIDMDMHQHYJWDM`@qADOVw@JODIPe@DML[FMRe@FABA@AN_@"
+            },
+            "start_location": {
+              "lat": 53.54423569999999,
+              "lng": 10.0401649
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 282
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5401063,
+              "lng": 10.0428079
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Billhorner Deich</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ipxeIcoh|@TMPI\\IPEXA\\EH@ZBt@Fx@Lb@DVDtBTZB"
+            },
+            "start_location": {
+              "lat": 53.5426128,
+              "lng": 10.0429009
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "e~xeI{ig|@RvAVSc@kCCQSsAHi@X_Ad@_Cd@sBNi@DmAXGXSRW^q@jByFPYVs@Ti@Re@FADCN_@TMn@Sj@Gf@CpAJjFn@ZB"
+    },
+    "summary": "Bullerdeich, Billwerder Steindamm and Billhorner Deich",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

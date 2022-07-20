@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5627355,
+        "lng": 9.9640367
+      },
+      "southwest": {
+        "lat": 53.5588828,
+        "lng": 9.961062799999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 481
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 112
+        },
+        "end_address": "Neuer Pferdemarkt / Beim Gr\u00fcnen J\u00e4ger, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5588828,
+          "lng": 9.9637698
+        },
+        "start_address": "Schulterblatt / Eifflerstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5627355,
+          "lng": 9.961062799999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 448
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Schulterblatt</b> toward <b>Juliusstra\u00dfe</b>",
+            "polyline": {
+              "points": "cn|eIsox{@t@u@`@c@`@e@r@s@TWZa@d@a@hA_Al@g@FEPOrAaAlAo@RMbCeA"
+            },
+            "start_location": {
+              "lat": 53.5627355,
+              "lng": 9.961062799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5588828,
+              "lng": 9.9637698
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Schanzenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qw{eIgby{@X^BDBDNH"
+            },
+            "start_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cn|eIsox{@lDsDp@y@nBaBzC_C`B}@bCeAX^FJNH"
+    },
+    "summary": "Schulterblatt",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

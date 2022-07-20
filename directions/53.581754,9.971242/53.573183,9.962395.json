@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5816917,
+        "lng": 9.9713212
+      },
+      "southwest": {
+        "lat": 53.5731535,
+        "lng": 9.9612585
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1289
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 284
+        },
+        "end_address": "Osterstra\u00dfe / Bismarckstra\u00dfe, 20259 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5731535,
+          "lng": 9.962462700000001
+        },
+        "start_address": "Eppendorfer Weg / Hoheluftchaussee, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5816917,
+          "lng": 9.9713212
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1147
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 228
+            },
+            "end_location": {
+              "lat": 53.5739221,
+              "lng": 9.9612585
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Eppendorfer Weg</b> toward <b>Moltkestra\u00dfe</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "polyline": {
+              "points": "qd`fIwoz{@?@z@fC~AvE~@nCZ~@bBxEJ^`AnCb@jAxAjEVv@Nf@DPBDBFBHN\\BDFDBBBDHH\\Xb@ZLLv@^@@DBFBVP@B@D@BB@@B@@B?B@DA@?BA@CBA@C@C?CB?B?p@?HIB@ZJbAj@@@RLd@VXRlAv@fBhApAx@NHVPZVVTbAjA"
+            },
+            "start_location": {
+              "lat": 53.5816917,
+              "lng": 9.9713212
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5735523,
+              "lng": 9.9625286
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Osterstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_t~eI{px{@Nk@Lm@F[BKBS@GDM?ABKNcA"
+            },
+            "start_location": {
+              "lat": 53.5739221,
+              "lng": 9.9612585
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5731535,
+              "lng": 9.962462700000001
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uq~eIyxx{@XONCB@D@DDDDDDFH@@"
+            },
+            "start_location": {
+              "lat": 53.5735523,
+              "lng": 9.9625286
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qd`fIwoz{@zEpNlEhM|BvGf@~APh@Rb@JHLN`At@LLv@^FD^TBHHJN?JK@GF?p@?HI^L~BrA`HnEf@Zr@l@bAjANk@TiANu@BMNcAXORAJFTV"
+    },
+    "summary": "Eppendorfer Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

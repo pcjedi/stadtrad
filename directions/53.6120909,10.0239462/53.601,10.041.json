@@ -1,0 +1,287 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6136892,
+        "lng": 10.040986
+      },
+      "southwest": {
+        "lat": 53.6009992,
+        "lng": 10.0237757
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.8 km",
+          "value": 2789
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 556
+        },
+        "end_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hartzloh, 22307 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6009992,
+          "lng": 10.040986
+        },
+        "start_address": "Alsterdorfer Markt / Evangelische Stiftung, 22297 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6120975,
+          "lng": 10.0239366
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.6117466,
+              "lng": 10.024148
+            },
+            "html_instructions": "Head <b>south</b> toward <b>Alsterdorfer Markt</b>",
+            "polyline": {
+              "points": "sbffIsxd|@@@@B@?B?@?BAFEl@g@"
+            },
+            "start_location": {
+              "lat": 53.6120975,
+              "lng": 10.0239366
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.6117034,
+              "lng": 10.0239273
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Alsterdorfer Markt</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m`ffI}yd|@@D@LDV"
+            },
+            "start_location": {
+              "lat": 53.6117466,
+              "lng": 10.024148
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.61162179999999,
+              "lng": 10.0237757
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Alsterdorfer Markt</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "c`ffIqxd|@@@BBBHDL"
+            },
+            "start_location": {
+              "lat": 53.6117034,
+              "lng": 10.0239273
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 162
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.610385,
+              "lng": 10.0250208
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Paul-Stritter-Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "s_ffIswd|@FGNMDGDCJGJGJIFELMFI@C@EBKBIFIDIHGb@a@BCRQPKHGBCFGHI"
+            },
+            "start_location": {
+              "lat": 53.61162179999999,
+              "lng": 10.0237757
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 402
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 94
+            },
+            "end_location": {
+              "lat": 53.613416,
+              "lng": 10.0277667
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Paul-Stritter-Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{wefIk_e|@Sk@Uq@Ym@o@oAi@w@QWcAmAY[cAq@OAMAIAGEKKEG]WCAo@WUISGMC?AQCGAIAG?C@CBCBIH"
+            },
+            "start_location": {
+              "lat": 53.610385,
+              "lng": 10.0250208
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "60 m",
+              "value": 60
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.61325739999999,
+              "lng": 10.0286302
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Paul-Stritter-Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{jffIqpe|@Fo@@KHu@@CHu@"
+            },
+            "start_location": {
+              "lat": 53.613416,
+              "lng": 10.0277667
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 251
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.6136892,
+              "lng": 10.0322823
+            },
+            "html_instructions": "Continue onto <b>Feuerbergstra\u00dfe</b>",
+            "polyline": {
+              "points": "{iffI}ue|@BS?QAg@?AAy@Cm@E{@Ak@?S?O@Q@M@G?C?MAKKy@CYG]E]GWG]ACKs@QqA"
+            },
+            "start_location": {
+              "lat": 53.61325739999999,
+              "lng": 10.0286302
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 691
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 128
+            },
+            "end_location": {
+              "lat": 53.6075556,
+              "lng": 10.0338525
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R\u00fcbenkamp</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qlffIwlf|@T?NAPCRGVGTGhBWLCt@OlCi@p@OzAUzCe@ZE~@Q~Be@zBc@@?d@Id@Il@@TE"
+            },
+            "start_location": {
+              "lat": 53.6136892,
+              "lng": 10.0322823
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 326
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.60826369999999,
+              "lng": 10.0386228
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hebebrandstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gfefIqvf|@E]K}@QcBGc@SsBI_@CQCOMeAKkAKiA?AE{@AGC{@CaAC_C"
+            },
+            "start_location": {
+              "lat": 53.6075556,
+              "lng": 10.0338525
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 825
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 144
+            },
+            "end_location": {
+              "lat": 53.6009992,
+              "lng": 10.040986
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Fuhlsb\u00fcttler Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sjefIktg|@FA`C_@REnA[`@IVGVIVIp@Wr@[z@c@VMBC@?HE@?j@W@AZOfA]rA_@xBg@v@OJCREHAf@KREVEPETEl@ENClAKlAIlAG\\EBA"
+            },
+            "start_location": {
+              "lat": 53.60826369999999,
+              "lng": 10.0386228
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sbffIsxd|@HDz@o@BRFXFLDLFGTUDCVOROTWBIFULSdA_AZSJKHISk@o@_Bo@oAi@w@uAeB}AmA]CQGQSa@YeAa@s@QQCK@GFIHFo@JaAJy@Be@Ai@MoEBcA?e@]oCOu@Mw@QqAT?`@Ej@O~B_@bGmAvF{@zAWbHsAd@Il@@TEE]]aD[wC_@gC]sEEcAGaEhCa@bBa@x@Qn@SdBs@rAq@PIl@YZOfA]rA_@xBg@bASxAYh@KbAKxFa@`@G"
+    },
+    "summary": "Fuhlsb\u00fcttler Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5568936,
+        "lng": 9.9338792
+      },
+      "southwest": {
+        "lat": 53.551766,
+        "lng": 9.9280746
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 820
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 182
+        },
+        "end_address": "V\u00f6lckersstra\u00dfe 1, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5568936,
+          "lng": 9.9280746
+        },
+        "start_address": "Bahnhof Altona / Busbahnhof, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.551766,
+          "lng": 9.9338676
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5517699,
+              "lng": 9.933707799999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Paul-Nevermann-Platz</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "qizeIues{@?^"
+            },
+            "start_location": {
+              "lat": 53.551766,
+              "lng": 9.9338676
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5521262,
+              "lng": 9.933713599999999
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Paul-Nevermann-Platz</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qizeIuds{@c@?c@?"
+            },
+            "start_location": {
+              "lat": 53.5517699,
+              "lng": 9.933707799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 101
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.55300889999999,
+              "lng": 9.9336881
+            },
+            "html_instructions": "Continue onto <b>Ottenser Hauptstra\u00dfe</b>",
+            "polyline": {
+              "points": "ykzeIuds{@UEKEIEWGCAMEO@MDQJEBOFSD"
+            },
+            "start_location": {
+              "lat": 53.5521262,
+              "lng": 9.933713599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 123
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.55399600000001,
+              "lng": 9.932887899999999
+            },
+            "html_instructions": "Continue onto <b>Hahnenkamp</b>/<wbr/><b>Scheel-Plessen-Stra\u00dfe</b><div style=\"font-size:0.9em\">Continue to follow Hahnenkamp</div>",
+            "polyline": {
+              "points": "iqzeIqds{@CFEDKFIHEDEFCBGBe@ZWNu@`@YZ"
+            },
+            "start_location": {
+              "lat": 53.55300889999999,
+              "lng": 9.9336881
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 296
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.5546867,
+              "lng": 9.9285649
+            },
+            "html_instructions": "<b>Hahnenkamp</b> turns slightly <b>left</b> and becomes <b>Hohenesch</b>",
+            "polyline": {
+              "points": "owzeIq_s{@WpBWzCAJ_@`DMnAS~CUtD"
+            },
+            "start_location": {
+              "lat": 53.55399600000001,
+              "lng": 9.932887899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 249
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.5568936,
+              "lng": 9.9280746
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bahrenfelder Str.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "y{zeIodr{@iCHiALyANk@Xu@Tc@HC?"
+            },
+            "start_location": {
+              "lat": 53.5546867,
+              "lng": 9.9285649
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qizeIues{@?^c@?c@?UEUK[IMEO@_@Pi@PILUPKLKF}@j@u@`@YZWpBWzCa@lDa@nFUtDiCHcD\\k@Xu@Tg@H"
+    },
+    "summary": "Hohenesch and Bahrenfelder Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

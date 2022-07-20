@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55079569999999,
+        "lng": 9.9255736
+      },
+      "southwest": {
+        "lat": 53.5500767,
+        "lng": 9.9221659
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.3 km",
+          "value": 298
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 43
+        },
+        "end_address": "Eulenstra\u00dfe / Gro\u00dfe Brunnenstra\u00dfe, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55079569999999,
+          "lng": 9.9255736
+        },
+        "start_address": "Fischersallee / Bleickenallee, 22763 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5507021,
+          "lng": 9.9221659
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 215
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5500767,
+              "lng": 9.925253099999999
+            },
+            "html_instructions": "Head <b>east</b> on <b>Keplerstra\u00dfe</b> toward <b>Fischers Allee</b>",
+            "polyline": {
+              "points": "{bzeIq|p{@Fg@pAsK`@kD"
+            },
+            "start_location": {
+              "lat": 53.5507021,
+              "lng": 9.9221659
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "83 m",
+              "value": 83
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.55079569999999,
+              "lng": 9.9255736
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Gro\u00dfe Brunnenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "__zeIyoq{@o@[m@Qq@Q"
+            },
+            "start_location": {
+              "lat": 53.5500767,
+              "lng": 9.925253099999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{bzeIq|p{@xA{L`@kDo@[_Bc@"
+    },
+    "summary": "Keplerstra\u00dfe and Gro\u00dfe Brunnenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

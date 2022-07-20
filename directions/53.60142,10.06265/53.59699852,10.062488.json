@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6014442,
+        "lng": 10.0625012
+      },
+      "southwest": {
+        "lat": 53.5970575,
+        "lng": 10.0603272
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 636
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 132
+        },
+        "end_address": "Hellbrookkamp / Novomind AG, 22177 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5970575,
+          "lng": 10.0625012
+        },
+        "start_address": "Fabriciusstra\u00dfe / Buschrosenweg, 22177 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6014442,
+          "lng": 10.0624674
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 491
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 82
+            },
+            "end_location": {
+              "lat": 53.59722619999999,
+              "lng": 10.0603272
+            },
+            "html_instructions": "Head <b>south</b> on <b>Fabriciusstra\u00dfe</b> toward <b>Buschrosenweg</b>",
+            "polyline": {
+              "points": "_`dfImil|@\\JnA^xBl@VHlBf@f@NFDHBNBJDJD^NZJb@Tt@`@VLh@^JF\\R~@j@PNd@Z"
+            },
+            "start_location": {
+              "lat": 53.6014442,
+              "lng": 10.0624674
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.5970575,
+              "lng": 10.0625012
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hellbrookkamp</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uecfIa|k|@FiBR}FDiA"
+            },
+            "start_location": {
+              "lat": 53.59722619999999,
+              "lng": 10.0603272
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_`dfImil|@~FbBfD`AfA^~@`@lAn@t@f@|A~@v@j@ZgJDiA"
+    },
+    "summary": "Fabriciusstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

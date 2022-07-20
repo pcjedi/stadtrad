@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.52627709999999,
+        "lng": 10.0980711
+      },
+      "southwest": {
+        "lat": 53.5162493,
+        "lng": 10.0887775
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1634
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 404
+        },
+        "end_address": "Moorfleeter Stra\u00dfe / Pinkertweg, 22113 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.52627709999999,
+          "lng": 10.0926439
+        },
+        "start_address": "Alter Landweg 40, 22113 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5163603,
+          "lng": 10.0963195
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 366
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.51855380000001,
+              "lng": 10.0980711
+            },
+            "html_instructions": "Head <b>west</b>",
+            "polyline": {
+              "points": "glseI_}r|@AD?@?DBF@DFX?@HNUj@CJWj@EJA@CBA?C?AAAACGACOUKMAAYe@[g@S[_AwA[e@[e@[e@aCqD"
+            },
+            "start_location": {
+              "lat": 53.5163603,
+              "lng": 10.0963195
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 747
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 135
+            },
+            "end_location": {
+              "lat": 53.5223704,
+              "lng": 10.0887775
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bredowstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}yseI}gs|@i@xAo@hBM`@Un@_@fAk@hB]|@CFK\\k@bBa@xAi@hBe@zA[dAU|@Ob@W~@GPSr@c@zAe@~Ao@zBk@pBiAxD"
+            },
+            "start_location": {
+              "lat": 53.51855380000001,
+              "lng": 10.0980711
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 509
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 91
+            },
+            "end_location": {
+              "lat": 53.52624290000001,
+              "lng": 10.0928179
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Moorfleeter Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yqteI{mq|@OUaC{CmA}AIIuAaB}@cAoCcDw@}@IIOQUO[UAA[Me@YQE]S"
+            },
+            "start_location": {
+              "lat": 53.5223704,
+              "lng": 10.0887775
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "12 m",
+              "value": 12
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 76
+            },
+            "end_location": {
+              "lat": 53.52627709999999,
+              "lng": 10.0926439
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Pinkertweg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_jueIcgr|@Gb@"
+            },
+            "start_location": {
+              "lat": 53.52624290000001,
+              "lng": 10.0928179
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "glseI_}r|@AFBLH^HPq@bBKPICa@o@_FuHaCqDi@xA}@jC_C~G}AbFaChIiFrQiAxDOUoEyFmHsIaAgAe@a@]WaAg@o@YGb@"
+    },
+    "summary": "Bredowstra\u00dfe and Moorfleeter Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

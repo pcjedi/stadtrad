@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55220019999999,
+        "lng": 10.0322074
+      },
+      "southwest": {
+        "lat": 53.5432784,
+        "lng": 10.0266539
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1335
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 301
+        },
+        "end_address": "Eiffestra\u00dfe / Normannenweg, 20537 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5521123,
+          "lng": 10.0303069
+        },
+        "start_address": "Heidenkampsweg / R+V Versicherung, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54389880000001,
+          "lng": 10.0314839
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "76 m",
+              "value": 76
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5432784,
+              "lng": 10.0319619
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Heidenkampsweg</b>/<wbr/><b>B75</b> toward <b>Gr\u00fcner Deich</b>",
+            "polyline": {
+              "points": "kxxeIwgf|@ZWDCHGnA{@"
+            },
+            "start_location": {
+              "lat": 53.54389880000001,
+              "lng": 10.0314839
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 950
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 225
+            },
+            "end_location": {
+              "lat": 53.5510339,
+              "lng": 10.0266539
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Gr\u00fcner Deich</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "otxeIwjf|@GYEW[T}@n@[REDyCvBA@kBrAQLa@ZqBzAIFi@\\cEjC]VOLu@l@YReChB_Ap@s@d@k@`@CBYTk@\\_@TWLMHMFMFOFG@KBUDC@[FE@I@c@L"
+            },
+            "start_location": {
+              "lat": 53.5432784,
+              "lng": 10.0319619
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 299
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.55220019999999,
+              "lng": 10.0302603
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Anckelmannspl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}dzeIqie|@OOKEICUAQCOEECGG]kBOs@EWIa@Ia@]_BEg@AMAUAa@?W?UAS?IEa@A}@Ai@"
+            },
+            "start_location": {
+              "lat": 53.5510339,
+              "lng": 10.0266539
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5521123,
+              "lng": 10.0303069
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Normannenweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "glzeIc`f|@PI"
+            },
+            "start_location": {
+              "lat": 53.55220019999999,
+              "lng": 10.0302603
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kxxeIwgf|@zB_BMq@yAdA}DrCqGxEuGhEeFxDcD|BeAr@w@b@i@Xy@Re@Jm@N[U_@Ea@IMKm@_Dw@{DGu@Cw@AkAEa@A}@Ai@PI"
+    },
+    "summary": "Heidenkampsweg/B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

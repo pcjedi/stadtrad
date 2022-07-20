@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.63821549999999,
+        "lng": 9.9230059
+      },
+      "southwest": {
+        "lat": 53.6325594,
+        "lng": 9.9063036
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1477
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 427
+        },
+        "end_address": "AKN Schnelsen / Pinneberger Stra\u00dfe, 22457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.63310689999999,
+          "lng": 9.9063036
+        },
+        "start_address": "Modering / Oldesloer Stra\u00dfe, 22457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6373096,
+          "lng": 9.9218419
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 148
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.63821549999999,
+              "lng": 9.9228954
+            },
+            "html_instructions": "Head <b>east</b> on <b>Modering</b> toward <b>Oldesloer Str.</b>",
+            "polyline": {
+              "points": "e`kfIozp{@CSOaAUiAMg@EQEGECAAEAI?yAT"
+            },
+            "start_location": {
+              "lat": 53.6373096,
+              "lng": 9.9218419
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1009
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 302
+            },
+            "end_location": {
+              "lat": 53.6328498,
+              "lng": 9.9108424
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Oldesloer Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{ekfIcaq{@J`AJ`ANvAD\\Hv@NpAATBPDXFTLj@l@rBNXl@|@PPjBhEf@hAl@rAFJJT`@|@n@vArBdEp@dB?@b@jAx@~BJ\\^jAv@dB~AfEFPJXVx@Pd@Th@H\\"
+            },
+            "start_location": {
+              "lat": 53.63821549999999,
+              "lng": 9.9228954
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 320
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 97
+            },
+            "end_location": {
+              "lat": 53.63310689999999,
+              "lng": 9.9063036
+            },
+            "html_instructions": "Continue onto <b>Pinneberger Str.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "idjfIwun{@BJ@NDf@Dv@NzCDx@Dz@Dp@?BBl@?L@L@XAJ?H?F?FCZAPEVCPGXK^GPCH[bA?@KTUr@"
+            },
+            "start_location": {
+              "lat": 53.6328498,
+              "lng": 9.9108424
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "e`kfIozp{@SuAc@qBKYGEOAyATJ`AZxCNtANpAATHj@T`Al@rBNX~@nArCrGbBrDbD|Gp@fBhCtHvClHRj@hAfDDZJ~A`@bIDlA?v@KlA_@|AaAxC"
+    },
+    "summary": "Oldesloer Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

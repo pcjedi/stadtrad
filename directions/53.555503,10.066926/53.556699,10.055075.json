@@ -1,0 +1,95 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5568052,
+        "lng": 10.0669316
+      },
+      "southwest": {
+        "lat": 53.5554475,
+        "lng": 10.0552857
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 806
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 134
+        },
+        "end_address": "U Hammer Kirche / Hammer Park, 20535 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5568052,
+          "lng": 10.0552857
+        },
+        "start_address": "U Rauhes Haus / Horner Weg, 20535 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5554624,
+          "lng": 10.0669316
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 715
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 118
+            },
+            "end_location": {
+              "lat": 53.5561975,
+              "lng": 10.0561977
+            },
+            "html_instructions": "Head <b>west</b> on <b>Horner Weg</b> toward <b>Morahtstieg</b>",
+            "polyline": {
+              "points": "s`{eIiem|@?F@t@?dAAl@Av@I~AO`AA^GrACTM~BE`AGhAGvB?\\AlAIxCIdDKtECpAAZAj@?XC`AG|A?NElAC`A?RE|@"
+            },
+            "start_location": {
+              "lat": 53.5554624,
+              "lng": 10.0669316
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "91 m",
+              "value": 91
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5568052,
+              "lng": 10.0552857
+            },
+            "html_instructions": "Continue onto <b>b. d. Hammer Kirche</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "ge{eIgbk|@ERCLi@x@MPk@v@KN"
+            },
+            "start_location": {
+              "lat": 53.5561975,
+              "lng": 10.0561977
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "s`{eIiem|@@|@ArBKvCO`AA^KhBS`EO`EAjBc@fRGbDQ|FEpAI`@oBrC"
+    },
+    "summary": "Horner Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

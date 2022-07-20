@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5630237,
+        "lng": 9.950628199999999
+      },
+      "southwest": {
+        "lat": 53.5557996,
+        "lng": 9.9476415
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 875
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 171
+        },
+        "end_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "start_address": "Holstenstra\u00dfe / Thadenstra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5557996,
+          "lng": 9.950628199999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 614
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.5609631,
+              "lng": 9.9476415
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Holstenstra\u00dfe</b> toward <b>Chemnitzstra\u00dfe</b>",
+            "polyline": {
+              "points": "wb{eImnv{@ONq@TWJGBEDCFYHcA^g@L_DbAa@LKEM?SDmA\\WH_Bt@KHMRQJe@VUNYP_@Vi@`@m@f@IF?@EBI@OPQPi@n@"
+            },
+            "start_location": {
+              "lat": 53.5557996,
+              "lng": 9.950628199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 172
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5623472,
+              "lng": 9.9487987
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenpl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_c|eIw{u{@SOOMOOSUOOOOIIKKIESMUQKGWOGEUOKIUO"
+            },
+            "start_location": {
+              "lat": 53.5609631,
+              "lng": 9.9476415
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "89 m",
+              "value": 89
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>D\u00fcppelstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uk|eI_cv{@E^INKJCBGF}@X_@L"
+            },
+            "start_location": {
+              "lat": 53.5623472,
+              "lng": 9.9487987
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wb{eImnv{@ONq@T_@NIL}Ah@gEpAa@LKEa@DeBf@_Bt@KHMRQJ{@f@y@h@aBrAODOP{@`Ac@]cAeAs@i@aAo@a@YUOE^UZKJ}Af@"
+    },
+    "summary": "Holstenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

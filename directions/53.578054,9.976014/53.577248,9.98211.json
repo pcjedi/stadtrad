@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5789264,
+        "lng": 9.9821098
+      },
+      "southwest": {
+        "lat": 53.5772339,
+        "lng": 9.975954999999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 638
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 168
+        },
+        "end_address": "Innocentiapark / Oberstra\u00dfe, 20144 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5772437,
+          "lng": 9.9821098
+        },
+        "start_address": "U Hoheluftbr\u00fccke / Kaiser-Friedrich-Ufer, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780879,
+          "lng": 9.975954999999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "html_instructions": "Head <b>northeast</b>",
+            "polyline": {
+              "points": "an_fIul{{@KU"
+            },
+            "start_location": {
+              "lat": 53.5780879,
+              "lng": 9.975954999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "87 m",
+              "value": 87
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 66
+            },
+            "end_location": {
+              "lat": 53.5780591,
+              "lng": 9.9770886
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Isestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mn_fIkm{{@Ne@@A?C?A?AAA?A?AA??AC?EAEOCCGQAEAA?A?A?ABI@I?G@E@I@C@CTk@"
+            },
+            "start_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 127
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5789264,
+              "lng": 9.9783374
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Isestra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{m_fIys{{@qAwB{AaC"
+            },
+            "start_location": {
+              "lat": 53.5780591,
+              "lng": 9.9770886
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 215
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5788215,
+              "lng": 9.9815186
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Innocentiastra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "is_fIs{{{@DKDOHU@G@C@E?C@E?G?E?QCwAAwA?y@AcH"
+            },
+            "start_location": {
+              "lat": 53.5789264,
+              "lng": 9.9783374
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 185
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5772339,
+              "lng": 9.981892799999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Brahmsallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sr_fIoo|{@pF?PGDEBEP[HM?ABC@A@ABAF?"
+            },
+            "start_location": {
+              "lat": 53.5788215,
+              "lng": 9.9815186
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5772437,
+              "lng": 9.9821098
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Oberstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uh_fIyq|{@CQ@Y"
+            },
+            "start_location": {
+              "lat": 53.5772339,
+              "lng": 9.981892799999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "an_fIul{{@KUNe@@A?GCECAKQO]BODa@BGTk@qAwB{AaCDKNe@DU@e@EoDA}IpF?PGHK^o@NEAk@"
+    },
+    "summary": "Innocentiastra\u00dfe and Brahmsallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

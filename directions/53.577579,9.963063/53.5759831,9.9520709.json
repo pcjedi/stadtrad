@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5778071,
+        "lng": 9.963061699999999
+      },
+      "southwest": {
+        "lat": 53.5747068,
+        "lng": 9.9520903
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 965
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 223
+        },
+        "end_address": "Osterstra\u00dfe 121, 20255 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.576037,
+          "lng": 9.9520903
+        },
+        "start_address": "Goebenstra\u00dfe / Eppendorfer Weg, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5775784,
+          "lng": 9.963061699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5778071,
+              "lng": 9.9620795
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Goebenstra\u00dfe</b> toward <b>Im Geh\u00f6lz</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "{j_fIc|x{@ABa@`CI|@"
+            },
+            "start_location": {
+              "lat": 53.5775784,
+              "lng": 9.963061699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 391
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 95
+            },
+            "end_location": {
+              "lat": 53.5747068,
+              "lng": 9.9593679
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Im Geh\u00f6lz</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "il_fI_vx{@d@b@ZVNLb@ZdAr@FHDFPJLFf@TZRFDJH^Z^`@`@n@^j@Zd@B@XZl@Zd@VXP"
+            },
+            "start_location": {
+              "lat": 53.5778071,
+              "lng": 9.9620795
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 504
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.576037,
+              "lng": 9.9520903
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Osterstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}x~eIaex{@Cj@Gr@KtB?d@CVMxAQzAGh@_@tCAFUfBM`ASzAGd@Kx@Gf@Id@E`@Mz@Gd@M|@CNIv@APABIfA?@"
+            },
+            "start_location": {
+              "lat": 53.5747068,
+              "lng": 9.9593679
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{j_fIc|x{@c@dCI|@d@b@j@d@hBnALP^RbAh@RN~@|@`AzA^f@XZl@Z~@h@K~AKtB?d@QpB{@bH_AjHkAxIWvC"
+    },
+    "summary": "B5 and Osterstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

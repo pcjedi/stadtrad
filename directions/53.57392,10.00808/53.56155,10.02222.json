@@ -1,0 +1,238 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57402099999999,
+        "lng": 10.0221042
+      },
+      "southwest": {
+        "lat": 53.5608058,
+        "lng": 10.0077892
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2171
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 500
+        },
+        "end_address": "Alsterschwimmhalle / Ifflandstra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5615573,
+          "lng": 10.0221042
+        },
+        "start_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57402099999999,
+          "lng": 10.0080497
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5739934,
+              "lng": 10.0077892
+            },
+            "html_instructions": "Head <b>west</b> on <b>Karlstra\u00dfe</b> toward <b>Sch\u00f6ne Aussicht</b>",
+            "polyline": {
+              "points": "st~eIiua|@Dr@"
+            },
+            "start_location": {
+              "lat": 53.57402099999999,
+              "lng": 10.0080497
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 859
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 154
+            },
+            "end_location": {
+              "lat": 53.5683164,
+              "lng": 10.0151911
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sch\u00f6ne Aussicht</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mt~eIusa|@~BgALGdDwAXMjAm@h@WfAc@~@c@jAe@`Bo@LILMJSHSDWHe@Nq@HYDYReA^eCXuA^aB\\mAR{@j@wBLc@j@{BJc@"
+            },
+            "start_location": {
+              "lat": 53.5739934,
+              "lng": 10.0077892
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 120
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "html_instructions": "Continue onto <b>Eduard-Rhein-Ufer</b>",
+            "polyline": {
+              "points": "_q}eI}ac|@Xu@Te@T[x@y@HMHQH_@"
+            },
+            "start_location": {
+              "lat": 53.5683164,
+              "lng": 10.0151911
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 578
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 133
+            },
+            "end_location": {
+              "lat": 53.5627041,
+              "lng": 10.0150373
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schwanenwik</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "al}eIoic|@b@GfAOb@G|@K^E\\Cr@Id@GFAt@MD?t@GXENAPAt@HL?J@J@H@H@HBJDHBB@HDFDLHHFXVHLJNJNdAbBr@hAV^LRHJDD"
+            },
+            "start_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5623528,
+              "lng": 10.0151069
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Schwanenwik</b><div style=\"font-size:0.9em\">May be closed at certain times or days</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "{m|eI_ac|@j@?F?DCDCDE"
+            },
+            "start_location": {
+              "lat": 53.5627041,
+              "lng": 10.0150373
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 307
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 116
+            },
+            "end_location": {
+              "lat": 53.5608058,
+              "lng": 10.0187663
+            },
+            "html_instructions": "Continue onto <b>Sechslingspforte</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div>",
+            "polyline": {
+              "points": "uk|eImac|@DCDGBG@E@K@I@c@?U?K?I@O?Q@K@E@ODYBKBMDODMDMHSJWN]BE@G?K`CoEdAcC"
+            },
+            "start_location": {
+              "lat": 53.5623528,
+              "lng": 10.0151069
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "37 m",
+              "value": 37
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5610982,
+              "lng": 10.0189769
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ackermannstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ab|eIixc|@MWIIICWC"
+            },
+            "start_location": {
+              "lat": 53.5608058,
+              "lng": 10.0187663
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5615573,
+              "lng": 10.0221042
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ekhofstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{c|eIsyc|@_@}EUaDGe@Gi@Q}BCa@"
+            },
+            "start_location": {
+              "lat": 53.5610982,
+              "lng": 10.0189769
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "st~eIiua|@Dr@~BgArD_BdB{@pB{@zFcCXa@Nk@h@kCr@kEx@wDjBeHv@_Dn@{AnAuAR_@H_@b@GjBWnD_@hBWpBQzALh@L^PVPb@d@pClEt@dAr@?JGTYBQBm@@{@Ds@RcA`@gARc@@S`CoEdAcCWa@a@Gu@_KOoAU_D"
+    },
+    "summary": "Sch\u00f6ne Aussicht and Schwanenwik",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

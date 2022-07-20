@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6009992,
+        "lng": 10.0506643
+      },
+      "southwest": {
+        "lat": 53.5938358,
+        "lng": 10.040986
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1189
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 293
+        },
+        "end_address": "U Habichtstra\u00dfe / Steilshooper Stra\u00dfe, 22307 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5938358,
+          "lng": 10.0506643
+        },
+        "start_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hartzloh, 22307 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6009992,
+          "lng": 10.040986
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 537
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 108
+            },
+            "end_location": {
+              "lat": 53.5964105,
+              "lng": 10.0433038
+            },
+            "html_instructions": "Head <b>south</b> on <b>Fuhlsb\u00fcttler Str.</b> toward <b>Lauensteinstra\u00dfe</b>",
+            "polyline": {
+              "points": "g}cfIech|@JA`BMnAMzASnAc@TQLKRKHGFCZQBEJILIBCXSRKVOZQ|CsBv@c@jAk@^K"
+            },
+            "start_location": {
+              "lat": 53.6009992,
+              "lng": 10.040986
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 117
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5970569,
+              "lng": 10.0446402
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Mildestieg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q`cfIsqh|@MiAAIEQEMeBwC"
+            },
+            "start_location": {
+              "lat": 53.5964105,
+              "lng": 10.0433038
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 178
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5959785,
+              "lng": 10.0466327
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Dennerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sdcfI_zh|@Xw@^{@|CyG"
+            },
+            "start_location": {
+              "lat": 53.5970569,
+              "lng": 10.0446402
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 357
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 71
+            },
+            "end_location": {
+              "lat": 53.5938358,
+              "lng": 10.0506643
+            },
+            "html_instructions": "Continue onto <b>Habichtstra\u00dfe</b>",
+            "polyline": {
+              "points": "{}bfImfi|@~@qBZq@\\y@x@gBrBsEJUFQr@gBh@uAPe@"
+            },
+            "start_location": {
+              "lat": 53.5959785,
+              "lng": 10.0466327
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g}cfIech|@lBOjDa@nAc@TQ`@Wp@c@v@k@j@[xDeCbCoA^KMiAG[kBeDx@sB|EkKfFgLpBeFPe@"
+    },
+    "summary": "Fuhlsb\u00fcttler Str. and Habichtstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

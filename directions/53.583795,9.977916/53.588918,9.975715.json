@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5888815,
+        "lng": 9.9779957
+      },
+      "southwest": {
+        "lat": 53.583875,
+        "lng": 9.972569799999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 807
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 210
+        },
+        "end_address": "Martinistra\u00dfe / Haupteingang Klinikum, 20251 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5888815,
+          "lng": 9.9757576
+        },
+        "start_address": "L\u00f6wenstra\u00dfe / Eppendorfer Weg, 20251 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.583875,
+          "lng": 9.9779957
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 554
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 143
+            },
+            "end_location": {
+              "lat": 53.5876212,
+              "lng": 9.972569799999999
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>L\u00f6wenstra\u00dfe</b> toward <b>Eppendorfer Weg</b>",
+            "polyline": {
+              "points": "gr`fIoy{{@GXYp@Q`@e@xA_@bAc@lAM^Wb@eApAqA`B]h@q@|@q@z@YZWZEHa@f@cApAkA~Ac@j@"
+            },
+            "start_location": {
+              "lat": 53.583875,
+              "lng": 9.9779957
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 253
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.5888815,
+              "lng": 9.9757576
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Martinistra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "siafIqwz{@Wo@EMWaA_@sAACYcAe@aBeAuDMa@EOIW"
+            },
+            "start_location": {
+              "lat": 53.5876212,
+              "lng": 9.972569799999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gr`fIoy{{@yAfEcApCM^Wb@wCrDoAfBiB|BuEdG]}@w@uCgC_J]iA"
+    },
+    "summary": "L\u00f6wenstra\u00dfe and Martinistra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

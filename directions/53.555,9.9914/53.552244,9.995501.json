@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55498780000001,
+        "lng": 9.9954474
+      },
+      "southwest": {
+        "lat": 53.5519836,
+        "lng": 9.9911031
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 502
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 115
+        },
+        "end_address": "S+U Jungfernstieg / Ballindamm, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5522466,
+          "lng": 9.9954474
+        },
+        "start_address": "Jungfernstieg / Neuer Jungfernstieg, 20354 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55498780000001,
+          "lng": 9.9914362
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 120
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.55405870000001,
+              "lng": 9.9915541
+            },
+            "html_instructions": "Head <b>southwest</b>",
+            "polyline": {
+              "points": "u}zeIom~{@NNZVFBLBn@NFBD?DCFEDEDK^}@"
+            },
+            "start_location": {
+              "lat": 53.55498780000001,
+              "lng": 9.9914362
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5539613,
+              "lng": 9.9914363
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Jungfernstieg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{wzeIen~{@RT"
+            },
+            "start_location": {
+              "lat": 53.55405870000001,
+              "lng": 9.9915541
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 304
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5519836,
+              "lng": 9.994589399999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Jungfernstieg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gwzeIom~{@Tg@T]P]v@wAJQx@{Ah@aAb@u@Xo@l@_ADGHIXe@@EDGBK@A@O"
+            },
+            "start_location": {
+              "lat": 53.5539613,
+              "lng": 9.9914363
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5522466,
+              "lng": 9.9954474
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Ballindamm</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "{jzeIea_|@?KAKAUAIESQg@Qi@EM"
+            },
+            "start_location": {
+              "lat": 53.5519836,
+              "lng": 9.994589399999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "u}zeIom~{@j@f@TFv@RJCLKd@iARTj@eAnCcFtCgFNQZk@HSBQEw@W{@Ww@"
+    },
+    "summary": "Jungfernstieg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

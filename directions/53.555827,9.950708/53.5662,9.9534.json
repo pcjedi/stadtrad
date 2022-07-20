@@ -1,0 +1,166 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5668851,
+        "lng": 9.953386700000001
+      },
+      "southwest": {
+        "lat": 53.5557996,
+        "lng": 9.9476415
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1457
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 276
+        },
+        "end_address": "Eimsb\u00fctteler Stra\u00dfe / Waterloostra\u00dfe, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5661845,
+          "lng": 9.953386700000001
+        },
+        "start_address": "Holstenstra\u00dfe / Thadenstra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5557996,
+          "lng": 9.950628199999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 614
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.5609631,
+              "lng": 9.9476415
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Holstenstra\u00dfe</b> toward <b>Chemnitzstra\u00dfe</b>",
+            "polyline": {
+              "points": "wb{eImnv{@ONq@TWJGBEDCFYHcA^g@L_DbAa@LKEM?SDmA\\WH_Bt@KHMRQJe@VUNYP_@Vi@`@m@f@IF?@EBI@OPQPi@n@"
+            },
+            "start_location": {
+              "lat": 53.5557996,
+              "lng": 9.950628199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 172
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5623472,
+              "lng": 9.9487987
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenpl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_c|eIw{u{@SOOMOOSUOOOOIIKKIESMUQKGWOGEUOKIUO"
+            },
+            "start_location": {
+              "lat": 53.5609631,
+              "lng": 9.9476415
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 456
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 101
+            },
+            "end_location": {
+              "lat": 53.5661137,
+              "lng": 9.951535699999999
+            },
+            "html_instructions": "Continue onto <b>Alsenstra\u00dfe</b>",
+            "polyline": {
+              "points": "uk|eI_cv{@kAw@y@m@IEMKk@_@eAo@OKECu@g@SOkAo@wAu@{AcAQQm@e@a@[]U"
+            },
+            "start_location": {
+              "lat": 53.5623472,
+              "lng": 9.9487987
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "93 m",
+              "value": 93
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5668851,
+              "lng": 9.952068299999999
+            },
+            "html_instructions": "Continue onto <b>Alsenpl.</b>",
+            "polyline": {
+              "points": "ec}eIctv{@c@Wk@]w@e@SM"
+            },
+            "start_location": {
+              "lat": 53.5661137,
+              "lng": 9.951535699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 122
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5661845,
+              "lng": 9.953386700000001
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eimsb\u00fctteler Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ah}eImwv{@`Au@NWJWH[DYBIDYTgA"
+            },
+            "start_location": {
+              "lat": 53.5668851,
+              "lng": 9.952068299999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wb{eImnv{@ONq@T_@NIL}Ah@gEpAa@LKEa@DeBf@_Bt@KHMRQJ{@f@y@h@aBrAODOP{@`Ac@]cAeAs@i@aAo@aGaEqCgB_B_AwAu@{AcA_Aw@_Aq@{CiB`Au@NWTs@d@eC"
+    },
+    "summary": "Holstenstra\u00dfe and Alsenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

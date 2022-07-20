@@ -1,0 +1,190 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57781809999999,
+        "lng": 10.1179625
+      },
+      "southwest": {
+        "lat": 53.55901919999999,
+        "lng": 10.1048519
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.7 km",
+          "value": 2653
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 569
+        },
+        "end_address": "Manshardtstra\u00dfe / Einkaufszentrum Manshardtstra\u00dfe, 22119 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55901919999999,
+          "lng": 10.1074758
+        },
+        "start_address": "Kuehnstra\u00dfe / Albert-Schweitzer-Ring, 22045 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57781809999999,
+          "lng": 10.1178705
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5777006,
+              "lng": 10.1179625
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Albert-Schweitzer-Ring</b> toward <b>Kuehnstra\u00dfe</b>",
+            "polyline": {
+              "points": "kl_fIucw|@VQ"
+            },
+            "start_location": {
+              "lat": 53.57781809999999,
+              "lng": 10.1178705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 306
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.5764874,
+              "lng": 10.1138026
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kuehnstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sk_fIgdw|@Np@@HJb@Nn@Jh@Ln@f@bCDRb@~BTjARnAH`@b@~B"
+            },
+            "start_location": {
+              "lat": 53.5777006,
+              "lng": 10.1179625
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 766
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 135
+            },
+            "end_location": {
+              "lat": 53.57214889999999,
+              "lng": 10.1048519
+            },
+            "html_instructions": "Continue onto <b>Schimmelmannstra\u00dfe</b>",
+            "polyline": {
+              "points": "ad_fIgjv|@z@dCHTJTDPbAdCP^Th@LXb@`AJTJT`A~B\\x@FN\\x@lApCPb@rAdDxArDh@nAJXd@jAFPTd@HPNXDLHT@HR~AFd@"
+            },
+            "start_location": {
+              "lat": 53.5764874,
+              "lng": 10.1138026
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 743
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 204
+            },
+            "end_location": {
+              "lat": 53.56566979999999,
+              "lng": 10.1074233
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Holstenhofweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}h~eIirt|@jAa@@A@ABGd@MXI|@[@?DAJ@L@@?r@OVEPCnBo@BA@CFK\\Id@QHCFAv@Yt@Sr@Q\\INEDAFA|@WVGf@On@Qt@SXGLENExAe@t@W~@[\\K"
+            },
+            "start_location": {
+              "lat": 53.57214889999999,
+              "lng": 10.1048519
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 748
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 121
+            },
+            "end_location": {
+              "lat": 53.5590867,
+              "lng": 10.1086078
+            },
+            "html_instructions": "Continue onto <b>Dannerallee</b>",
+            "polyline": {
+              "points": "m`}eIkbu|@d@UJC@?JC@?JCVEjCk@tA[j@QZc@DKBIBEDELKJKNEFALEHA\\@LBT?rB@fBApBAnDCtB?f@AL?hAB"
+            },
+            "start_location": {
+              "lat": 53.56566979999999,
+              "lng": 10.1074233
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "76 m",
+              "value": 76
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.55901919999999,
+              "lng": 10.1074758
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Manshardtstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "iw{eIyiu|@B^?BDN?pB@N@j@"
+            },
+            "start_location": {
+              "lat": 53.5590867,
+              "lng": 10.1086078
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kl_fIucw|@VQNp@Ll@pAlGrAnHl@`DdAzCPf@tAdDrAzCdItRtDhJv@bBNb@ThBFd@jAa@BCBGd@MvAe@FAXB~AYrBq@HOtAa@lBm@pA[zAa@dD}@pCy@tBs@bAa@ZGnDu@`Cm@`@o@Za@ZQTGf@?b@BzE?`HE|CAvABBb@DN?pBBz@"
+    },
+    "summary": "Schimmelmannstra\u00dfe, Holstenhofweg and Dannerallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

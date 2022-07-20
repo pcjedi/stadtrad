@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.583875,
+        "lng": 9.980139000000001
+      },
+      "southwest": {
+        "lat": 53.5712433,
+        "lng": 9.9759354
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1689
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 356
+        },
+        "end_address": "L\u00f6wenstra\u00dfe / Eppendorfer Weg, 20251 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.583875,
+          "lng": 9.9779957
+        },
+        "start_address": "Bogenstra\u00dfe / Grindelallee, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5712433,
+          "lng": 9.9777496
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Beim Schlump</b> toward <b>Bogenstra\u00dfe</b>",
+            "polyline": {
+              "points": "gc~eI}w{{@Sf@KZ"
+            },
+            "start_location": {
+              "lat": 53.5712433,
+              "lng": 9.9777496
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 129
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5722837,
+              "lng": 9.9786478
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Beim Schlump</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gd~eIyu{{@KOYc@IKQOOM]y@KOU]OWMY"
+            },
+            "start_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 777
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 139
+            },
+            "end_location": {
+              "lat": 53.5786743,
+              "lng": 9.9759354
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Grindelberg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wi~eIq}{{@UFIBIBOFQJc@VOHQLQJ[ROJk@ZEBIDIDUJ[J]Jc@F{@HUAM?SAQAIAE?WEOCMAOC]Iw@Um@Qk@O[M]KMCQAM@Q@SFQFIDc@\\]VSFMNMRM\\QZKTGRA@S\\U\\Q^GJOTMREF[`@CBMR"
+            },
+            "start_location": {
+              "lat": 53.5722837,
+              "lng": 9.9786478
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 384
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.58127289999999,
+              "lng": 9.9793007
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uq_fIsl{{@s@sAIOoAcCeA{A}@}AOa@IOO_@SWg@WAEc@s@Q_AS]EAE?EBq@X"
+            },
+            "start_location": {
+              "lat": 53.5786743,
+              "lng": 9.9759354
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 195
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5829408,
+              "lng": 9.980139000000001
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lehmweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}a`fIsa|{@OUEGMM_@MIE]OUIcBk@o@Ow@Q"
+            },
+            "start_location": {
+              "lat": 53.58127289999999,
+              "lng": 9.9793007
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 176
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.583875,
+              "lng": 9.9779957
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>L\u00f6wenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kl`fI{f|{@Mj@EHOb@[`AGRWn@a@fAKZQf@ITGPIV"
+            },
+            "start_location": {
+              "lat": 53.5829408,
+              "lng": 9.980139000000001
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gc~eI}w{{@_@bAe@s@[[OM]y@a@m@]q@y@VaEbCo@Zy@V_BPiAEw@K]EuA_@uBo@k@O_@?e@H[LaAt@SFMN[p@]p@ITi@z@w@tAs@`A}@cBoAcCeA{A}@}AOa@Yo@SWg@We@y@Q_AS]KAw@\\U]MM_@Mg@UyBu@gBa@St@k@dBmAfDm@fB"
+    },
+    "summary": "Grindelberg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

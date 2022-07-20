@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55679869999999,
+        "lng": 9.9257454
+      },
+      "southwest": {
+        "lat": 53.5508217,
+        "lng": 9.9185787
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 898
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 218
+        },
+        "end_address": "Hohenzollernring / Friedensallee, 22763 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55679869999999,
+          "lng": 9.9185787
+        },
+        "start_address": "Eulenstra\u00dfe / Gro\u00dfe Brunnenstra\u00dfe, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5508217,
+          "lng": 9.925579299999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 685
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 148
+            },
+            "end_location": {
+              "lat": 53.5560206,
+              "lng": 9.9215229
+            },
+            "html_instructions": "Head <b>north</b> on <b>Gro\u00dfe Brunnenstra\u00dfe</b> toward <b>Ottenser Hauptstra\u00dfe</b>",
+            "polyline": {
+              "points": "sczeI{qq{@wCa@}@j@c@`@QTYb@]n@{@fCiApCIVK\\Od@Sn@MXKVMVMNMHi@Lk@FoBh@c@JQCUDQLSJA?q@JI@SBIBs@L"
+            },
+            "start_location": {
+              "lat": 53.5508217,
+              "lng": 9.925579299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.55679869999999,
+              "lng": 9.9185787
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Friedensallee</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cd{eIoxp{@M|@G^]nBOt@w@xE_@lB"
+            },
+            "start_location": {
+              "lat": 53.5560206,
+              "lng": 9.9215229
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sczeI{qq{@wCa@}@j@u@v@w@rA{@fCiApCUt@c@tAYp@[f@MHi@Lk@FoBh@c@JQCUDQLUJ{@L]Fs@LM|@e@nCgAnG_@lB"
+    },
+    "summary": "Gro\u00dfe Brunnenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

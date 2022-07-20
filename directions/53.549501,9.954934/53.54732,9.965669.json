@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.54969149999999,
+        "lng": 9.9656982
+      },
+      "southwest": {
+        "lat": 53.5469871,
+        "lng": 9.955059
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 994
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 211
+        },
+        "end_address": "Bernhard-Nocht-Stra\u00dfe / Zirkusweg, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5471506,
+          "lng": 9.9656982
+        },
+        "start_address": "S Reeperbahn / K\u00f6nigstra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5494121,
+          "lng": 9.955059
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "80 m",
+              "value": 80
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5495278,
+              "lng": 9.955783499999999
+            },
+            "html_instructions": "Head <b>northeast</b>",
+            "polyline": {
+              "points": "yzyeIcjw{@Ka@Ga@?uBC?A@?@@d@"
+            },
+            "start_location": {
+              "lat": 53.5494121,
+              "lng": 9.955059
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.54967569999999,
+              "lng": 9.9558371
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Reeperbahn</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "q{yeIsnw{@MCOG"
+            },
+            "start_location": {
+              "lat": 53.5495278,
+              "lng": 9.955783499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 438
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5494608,
+              "lng": 9.9624265
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Reeperbahn</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o|yeI_ow{@?]AiA?U?e@?O@e@?c@Dq@LeCFs@BU@g@Bu@@o@@o@B{A?A@_A@mA?}A?_@@s@?u@Au@?g@Eu@"
+            },
+            "start_location": {
+              "lat": 53.54967569999999,
+              "lng": 9.9558371
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 278
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5469871,
+              "lng": 9.9629699
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Davidstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "c{yeIexx{@VCHALEdCWvAQTE`AIjAUz@O"
+            },
+            "start_location": {
+              "lat": 53.5494608,
+              "lng": 9.9624265
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 181
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.5471506,
+              "lng": 9.9656982
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bernhard-Nocht-Stra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ukyeIq{x{@AaAEqAMoFC{@EaB"
+            },
+            "start_location": {
+              "lat": 53.5469871,
+              "lng": 9.9629699
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "yzyeIcjw{@ScA?uBC?A@@f@]KAgB@qBDuATyDJcDFmEB_GAsCEu@VCVGtHy@fCe@GsCWmK"
+    },
+    "summary": "Reeperbahn and Davidstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

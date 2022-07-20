@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4884484,
+        "lng": 10.2199753
+      },
+      "southwest": {
+        "lat": 53.4860699,
+        "lng": 10.210609
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 820
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 129
+        },
+        "end_address": "Vierlandenstra\u00dfe / Johann-Adolf-Hasse-Platz, 21029 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4884484,
+          "lng": 10.210975
+        },
+        "start_address": "Wentorfer Stra\u00dfe / Bezirksamt Bergedorf, 21029 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4874776,
+          "lng": 10.2199753
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 320
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.48621250000001,
+              "lng": 10.2156886
+            },
+            "html_instructions": "Head <b>west</b> on <b>Wentorfer Str.</b>/<wbr/><b>B207</b> toward <b>Gr\u00e4pelweg</b><div style=\"font-size:0.9em\">Continue to follow B207</div>",
+            "polyline": {
+              "points": "wwmeI{ak}@Dd@Hz@Fd@BRHv@DTD\\?BDNHn@Jt@@JBHTfABJLd@Pt@Pn@FTFTBLFZFNHRFT\\x@HV"
+            },
+            "start_location": {
+              "lat": 53.4874776,
+              "lng": 10.2199753
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 379
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.4873876,
+              "lng": 10.210609
+            },
+            "html_instructions": "Continue onto <b>Bergedorfer Str.</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "yomeIagj}@FVF`@FX?BBP?P?l@CRAPCX@N@DEXEXIb@E\\A@?@EToAzEOp@gAlEK^Qr@Wv@"
+            },
+            "start_location": {
+              "lat": 53.48621250000001,
+              "lng": 10.2156886
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 121
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.4884484,
+              "lng": 10.210975
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Vierlandenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ewmeIigi}@o@U]Oa@SSEQCSAMAO?KA"
+            },
+            "start_location": {
+              "lat": 53.4873876,
+              "lng": 10.210609
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wwmeI{ak}@ZzCTnB\\`Cj@bCr@pCJh@Pb@d@nAPn@RpA?~@Ed@Ah@C^W|AeBdHsAlFi@jBcC_AoAI"
+    },
+    "summary": "B207 and Bergedorfer Str./B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

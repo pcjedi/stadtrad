@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5782311,
+        "lng": 9.9760633
+      },
+      "southwest": {
+        "lat": 53.5694916,
+        "lng": 9.961432799999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1490
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 363
+        },
+        "end_address": "U Christuskirche / Fruchtallee, 20259 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5694916,
+          "lng": 9.9630209
+        },
+        "start_address": "U Hoheluftbr\u00fccke / Kaiser-Friedrich-Ufer, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780879,
+          "lng": 9.975954999999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "html_instructions": "Head <b>northeast</b>",
+            "polyline": {
+              "points": "an_fIul{{@KU"
+            },
+            "start_location": {
+              "lat": 53.5780879,
+              "lng": 9.975954999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5782311,
+              "lng": 9.975965
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mn_fIkm{{@OR"
+            },
+            "start_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1302
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 277
+            },
+            "end_location": {
+              "lat": 53.5705867,
+              "lng": 9.961432799999999
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}n_fIwl{{@^x@Rb@V|@b@nAZdAj@fBVt@j@lBv@hCBJb@pAl@lBj@pBPj@j@hBp@vBNb@f@~AZdAd@|Ab@xAHTJXj@fBDJNd@v@jC^nARl@@@x@nBP\\Vh@FDb@p@DFd@v@z@nA|@pAx@r@bAt@x@t@NN|@x@f@d@HJ"
+            },
+            "start_location": {
+              "lat": 53.5782311,
+              "lng": 9.975965
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.56976909999999,
+              "lng": 9.9629476
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Weidenstieg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e_~eI}qx{@\\_@LUBGDIFKHQJa@BGDK?AXs@LYFMBC?AJ]DQ"
+            },
+            "start_location": {
+              "lat": 53.5705867,
+              "lng": 9.961432799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "31 m",
+              "value": 31
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5694916,
+              "lng": 9.9630209
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "az}eIm{x{@JANCLCLC"
+            },
+            "start_location": {
+              "lat": 53.56976909999999,
+              "lng": 9.9629476
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "an_fIul{{@KUOR^x@Rb@V|@~@tCbA|CbBvFf@|AxA~E~BpHlC|IfAbDzBnHdBxDj@v@j@~@xB`Dx@r@bAt@hAdAdB~AHJ\\_@P]LUTs@b@iAXm@Po@ZEZG"
+    },
+    "summary": "Weidenstieg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

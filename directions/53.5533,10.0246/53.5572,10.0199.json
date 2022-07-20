@@ -1,0 +1,239 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5572045,
+        "lng": 10.0246707
+      },
+      "southwest": {
+        "lat": 53.5533318,
+        "lng": 10.0199453
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 571
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 171
+        },
+        "end_address": "U Lohm\u00fchlenstra\u00dfe / Steindamm, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5571758,
+          "lng": 10.0199453
+        },
+        "start_address": "S+U Berliner Tor / Beim Strohhause, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5533318,
+          "lng": 10.0245827
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>Berlinertordamm</b>",
+            "polyline": {
+              "points": "iszeIs|d|@OQS@"
+            },
+            "start_location": {
+              "lat": 53.5533318,
+              "lng": 10.0245827
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 104
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.5542333,
+              "lng": 10.0238506
+            },
+            "html_instructions": "Take the crosswalk",
+            "polyline": {
+              "points": "mtzeIc}d|@UDUDSFIDKFGL[p@IPKl@"
+            },
+            "start_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "81 m",
+              "value": 81
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.55489559999999,
+              "lng": 10.0233829
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Berliner Tor</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "}xzeIaxd|@uB|AE@A?C?CA"
+            },
+            "start_location": {
+              "lat": 53.5542333,
+              "lng": 10.0238506
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.55493389999999,
+              "lng": 10.0231495
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kolbergstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "c}zeIcud|@ADAFAJ?R"
+            },
+            "start_location": {
+              "lat": 53.55489559999999,
+              "lng": 10.0233829
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5564228,
+              "lng": 10.021488
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Berliner Tor</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i}zeIusd|@G@SHUNYTKHm@x@]d@UZQ`@GJA@EF_@ZIJKRW^"
+            },
+            "start_location": {
+              "lat": 53.55493389999999,
+              "lng": 10.0231495
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 123
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5570609,
+              "lng": 10.0201962
+            },
+            "html_instructions": "Slight <b>left</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "sf{eIiid|@EViAxAA@KPMTMX?H@JHXQZ"
+            },
+            "start_location": {
+              "lat": 53.5564228,
+              "lng": 10.021488
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "12 m",
+              "value": 12
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5571443,
+              "lng": 10.020079
+            },
+            "html_instructions": "Slight <b>right</b> at <b>Steindamm</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "sj{eIgad|@OV"
+            },
+            "start_location": {
+              "lat": 53.5570609,
+              "lng": 10.0201962
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5571758,
+              "lng": 10.0199453
+            },
+            "html_instructions": "Slight <b>left</b> at <b>Steindamm</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "ck{eIo`d|@KPBF"
+            },
+            "start_location": {
+              "lat": 53.5571443,
+              "lng": 10.020079
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "iszeIs|d|@OQS@k@J]LKFGLe@bAKl@uB|AG@GACLA^[Jo@d@y@bAs@`Aa@v@i@f@c@r@EViAxAMR[n@@THXQZ[h@BF"
+    },
+    "summary": "Berliner Tor",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

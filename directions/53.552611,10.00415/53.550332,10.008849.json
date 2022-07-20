@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55277960000001,
+        "lng": 10.0088424
+      },
+      "southwest": {
+        "lat": 53.5500706,
+        "lng": 10.0040435
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 607
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 137
+        },
+        "end_address": "Zentralbibliothek / M\u00fcnzstra\u00dfe, 20097 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5503258,
+          "lng": 10.0088424
+        },
+        "start_address": "Kurze M\u00fchren / Spitalerstra\u00dfe, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5525459,
+          "lng": 10.0040435
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5524298,
+              "lng": 10.0042445
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Kurze M\u00fchren</b> toward <b>Spitalerstra\u00dfe</b>",
+            "polyline": {
+              "points": "mnzeIg|`|@Vg@"
+            },
+            "start_location": {
+              "lat": 53.5525459,
+              "lng": 10.0040435
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "80 m",
+              "value": 80
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.55277960000001,
+              "lng": 10.0052927
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Spitalerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "umzeIo}`|@Ow@I_@ESQs@ACQm@"
+            },
+            "start_location": {
+              "lat": 53.5524298,
+              "lng": 10.0042445
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 308
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.5500706,
+              "lng": 10.0061041
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Steintorwall</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{ozeIada|@VOr@UbA]BAr@QHAd@KbAYl@OXMf@KT?L@t@BV@"
+            },
+            "start_location": {
+              "lat": 53.55277960000001,
+              "lng": 10.0052927
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 168
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5505296,
+              "lng": 10.0085288
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Altmannbr\u00fccke</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}~yeIcia|@A[AGC[AKAQKy@CYG]AEGa@CQ?CEYCWE_@Io@CWAIACAOE_@"
+            },
+            "start_location": {
+              "lat": 53.5500706,
+              "lng": 10.0061041
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5503258,
+              "lng": 10.0088424
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>M\u00fcnzstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yazeIixa|@HEDCBEBEBEBKFU"
+            },
+            "start_location": {
+              "lat": 53.5505296,
+              "lng": 10.0085288
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "mnzeIg|`|@Vg@Ow@Os@Sw@Qm@VOvBs@v@Sn@MpBi@`AYb@@lADCc@SsBU_Bc@yDCSE_@HEHIFKJa@"
+    },
+    "summary": "Steintorwall",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

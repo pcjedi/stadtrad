@@ -1,0 +1,142 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.551128,
+        "lng": 9.945807799999999
+      },
+      "southwest": {
+        "lat": 53.54790670000001,
+        "lng": 9.934805299999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1015
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 209
+        },
+        "end_address": "Ottenser Marktplatz / Platz der Republik, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.54790670000001,
+          "lng": 9.934805299999999
+        },
+        "start_address": "Bruno-Tesch-Platz / Jessenstra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.551128,
+          "lng": 9.945807799999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 342
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.5500874,
+              "lng": 9.940973099999999
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Jessenstra\u00dfe</b> toward <b>Lawaetzweg</b>",
+            "polyline": {
+              "points": "qezeIipu{@@DBJDTVlAHf@Jn@Hl@ZxBF^Hj@PfAf@|CRrADZ@LDh@@d@@D?@?VAp@"
+            },
+            "start_location": {
+              "lat": 53.551128,
+              "lng": 9.945807799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 323
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.5503101,
+              "lng": 9.9360947
+            },
+            "html_instructions": "Continue onto <b>Ehrenbergstra\u00dfe</b>",
+            "polyline": {
+              "points": "a_zeIart{@KrFIlGCv@EfCGlDAz@Ab@"
+            },
+            "start_location": {
+              "lat": 53.5500874,
+              "lng": 9.940973099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5503394,
+              "lng": 9.9349001
+            },
+            "html_instructions": "Continue onto <b>Platz d. Republik</b>",
+            "polyline": {
+              "points": "m`zeIqss{@Av@Cv@AJ?b@?F?\\?B@b@"
+            },
+            "start_location": {
+              "lat": 53.5503101,
+              "lng": 9.9360947
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 271
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.54790670000001,
+              "lng": 9.934805299999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Museumstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "s`zeIcls{@L@j@@b@BT@dABnAIL@J?x@BD?p@@v@BV@"
+            },
+            "start_location": {
+              "lat": 53.5503394,
+              "lng": 9.9349001
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qezeIipu{@b@tBz@~FjApHXnBFv@BdA[jRYtP@lArBHdABnAIX@hDHV@"
+    },
+    "summary": "Jessenstra\u00dfe, Ehrenbergstra\u00dfe and Museumstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

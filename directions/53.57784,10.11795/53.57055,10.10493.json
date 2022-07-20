@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57781809999999,
+        "lng": 10.1179625
+      },
+      "southwest": {
+        "lat": 53.5704727,
+        "lng": 10.1048519
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1314
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 302
+        },
+        "end_address": "Rodigallee 85, 22043 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5705488,
+          "lng": 10.104921
+        },
+        "start_address": "Kuehnstra\u00dfe / Albert-Schweitzer-Ring, 22045 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57781809999999,
+          "lng": 10.1178705
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5777006,
+              "lng": 10.1179625
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Albert-Schweitzer-Ring</b> toward <b>Kuehnstra\u00dfe</b>",
+            "polyline": {
+              "points": "kl_fIucw|@VQ"
+            },
+            "start_location": {
+              "lat": 53.57781809999999,
+              "lng": 10.1178705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 306
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.5764874,
+              "lng": 10.1138026
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kuehnstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sk_fIgdw|@Np@@HJb@Nn@Jh@Ln@f@bCDRb@~BTjARnAH`@b@~B"
+            },
+            "start_location": {
+              "lat": 53.5777006,
+              "lng": 10.1179625
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 766
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 135
+            },
+            "end_location": {
+              "lat": 53.57214889999999,
+              "lng": 10.1048519
+            },
+            "html_instructions": "Continue onto <b>Schimmelmannstra\u00dfe</b>",
+            "polyline": {
+              "points": "ad_fIgjv|@z@dCHTJTDPbAdCP^Th@LXb@`AJTJT`A~B\\x@FN\\x@lApCPb@rAdDxArDh@nAJXd@jAFPTd@HPNXDLHT@HR~AFd@"
+            },
+            "start_location": {
+              "lat": 53.5764874,
+              "lng": 10.1138026
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 186
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.5705361,
+              "lng": 10.1054387
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Holstenhofweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}h~eIirt|@jAa@@A@ABGd@MXI|@[@?DAJ@L@@?r@OVE"
+            },
+            "start_location": {
+              "lat": 53.57214889999999,
+              "lng": 10.1048519
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.5704727,
+              "lng": 10.1049508
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rodigallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{~}eI_vt|@L`B"
+            },
+            "start_location": {
+              "lat": 53.5705361,
+              "lng": 10.1054387
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5705488,
+              "lng": 10.104921
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m~}eI}rt|@OD"
+            },
+            "start_location": {
+              "lat": 53.5704727,
+              "lng": 10.1049508
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kl_fIucw|@VQNp@Ll@pAlGrAnHl@`DdAzCPf@tAdDrAzCdItRtDhJv@bBNb@ThBFd@jAa@BCBGd@MvAe@FAXBt@OVEL`BOD"
+    },
+    "summary": "Schimmelmannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5694916,
+        "lng": 9.9696088
+      },
+      "southwest": {
+        "lat": 53.5681105,
+        "lng": 9.9630209
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 479
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 270
+        },
+        "end_address": "U Schlump / Gustav-Falke-Stra\u00dfe, 20357 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5681105,
+          "lng": 9.9696088
+        },
+        "start_address": "U Christuskirche / Fruchtallee, 20259 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5694916,
+          "lng": 9.9630209
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "6 m",
+              "value": 6
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.569435,
+              "lng": 9.9630403
+            },
+            "html_instructions": "Head <b>south</b> toward <b>Fruchtallee</b>",
+            "polyline": {
+              "points": "ix}eI{{x{@HC"
+            },
+            "start_location": {
+              "lat": 53.5694916,
+              "lng": 9.9630209
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.56941639999999,
+              "lng": 9.963560099999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fruchtallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_x}eI_|x{@@C?[@Q?u@"
+            },
+            "start_location": {
+              "lat": 53.569435,
+              "lng": 9.9630403
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 390
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 138
+            },
+            "end_location": {
+              "lat": 53.56812739999999,
+              "lng": 9.9688714
+            },
+            "html_instructions": "Continue onto <b>Sch\u00e4ferkampsallee</b>",
+            "polyline": {
+              "points": "{w}eIg_y{@FiB@kAHyBB_ARqCX_BJw@`@iAj@aBJ]d@qAn@oB"
+            },
+            "start_location": {
+              "lat": 53.56941639999999,
+              "lng": 9.963560099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "49 m",
+              "value": 49
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5681105,
+              "lng": 9.9696088
+            },
+            "html_instructions": "Slight <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "yo}eIm`z{@@oA@cA"
+            },
+            "start_location": {
+              "lat": 53.56812739999999,
+              "lng": 9.9688714
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ix}eI{{x{@HC@C@m@ReJVqEd@wC~B{Gn@oB@oA@cA"
+    },
+    "summary": "Sch\u00e4ferkampsallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

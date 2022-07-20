@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6074236,
+        "lng": 9.9828192
+      },
+      "southwest": {
+        "lat": 53.6053527,
+        "lng": 9.9784939
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.4 km",
+          "value": 376
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 63
+        },
+        "end_address": "Borsteler Chaussee / K\u00f6ppenstra\u00dfe, 22453 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6074236,
+          "lng": 9.9786599
+        },
+        "start_address": "Borsteler Chaussee / Alphapark, 22453 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6053527,
+          "lng": 9.9828192
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 357
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.6072864,
+              "lng": 9.9784939
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Borsteler Chaussee</b>",
+            "polyline": {
+              "points": "mxdfIsw|{@Qb@Up@_@fAc@rASn@IVGPy@|B]`AGRo@hBGPy@~B_@dA"
+            },
+            "start_location": {
+              "lat": 53.6053527,
+              "lng": 9.9828192
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.6074236,
+              "lng": 9.9786599
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>K\u00f6ppenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qdefIq|{{@MKKU"
+            },
+            "start_location": {
+              "lat": 53.6072864,
+              "lng": 9.9784939
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "mxdfIsw|{@kEhM}ApEyAdEYa@"
+    },
+    "summary": "Borsteler Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6267935,
+        "lng": 10.0853429
+      },
+      "southwest": {
+        "lat": 53.6003639,
+        "lng": 10.0687011
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.3 km",
+          "value": 3260
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 662
+        },
+        "end_address": "Werner-Otto-Stra\u00dfe / OTTO Group, 22179 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.60042259999999,
+          "lng": 10.0703664
+        },
+        "start_address": "Bramfelder Chaussee / Maisredder, 22175 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6267935,
+          "lng": 10.0853429
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "3.1 km",
+              "value": 3077
+            },
+            "duration": {
+              "text": "9 mins",
+              "value": 556
+            },
+            "end_location": {
+              "lat": 53.6013455,
+              "lng": 10.0687011
+            },
+            "html_instructions": "Head <b>south</b> on <b>Bramfelder Ch</b> toward <b>Hirsekamp</b>",
+            "polyline": {
+              "points": "m~hfIkxp|@@?nBVlARz@LpATRBRF^F`@HdAPB@l@PNFjAl@n@f@@@x@l@fAv@l@`@RFr@j@dAz@ZVzBfBt@l@b@^PLTTNNzBtB\\XJ^LPf@l@PVTVLPTZb@z@\\p@`@t@f@r@Z\\t@~@`@h@Z^Xb@V`@b@j@NNB@@@@?FALNh@j@VTFDXTd@Xh@VTJRHb@Nb@FH@v@D`@Fr@JB@VR\\PtC`BpBhA\\VNHr@f@~@t@\\V`@Ln@f@bA^f@Nh@Ht@V~@X^L\\LLFZRLJRVXVbB|ALHHHRPVNXPRH\\HjAf@`@PtBz@xAb@j@NbBf@PF`Bh@h@P~Ah@ZJ?@^LjA^DBRFDBTF`@L`@\\nAb@d@N@@\\NZL^T\\Pv@f@dAt@"
+            },
+            "start_location": {
+              "lat": 53.6267935,
+              "lng": 10.0853429
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 124
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Moosrosenweg</b>/<wbr/><b>Werner-Otto-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "m_dfIkpm|@Ja@d@[`@W`@WBATAt@i@"
+            },
+            "start_location": {
+              "lat": 53.6013455,
+              "lng": 10.0687011
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.60042259999999,
+              "lng": 10.0703664
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Restricted usage road</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gycfIgum|@KqD"
+            },
+            "start_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m~hfIkxp|@zFx@xCh@fBZp@RzAt@p@h@`CdBl@`@RFxBfBvC~B`CpBjCdC\\XJ^t@~@f@n@b@l@`AlB`@t@f@r@pA|A|@hAp@dAr@z@DBHAv@z@^Z~@n@~@b@v@Xl@HxALv@LVR\\PfGjDl@`@rB|A\\V`@Ln@f@bA^pAXrDlAh@Z`@b@tChCj@`@l@Z\\HjAf@vClAzFbBfGpBbEtA`@\\nAb@f@Px@\\|@f@|B|AJa@d@[bAo@XCt@i@KqD"
+    },
+    "summary": "Bramfelder Ch",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

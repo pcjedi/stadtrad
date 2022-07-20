@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5627355,
+        "lng": 9.9620757
+      },
+      "southwest": {
+        "lat": 53.5558984,
+        "lng": 9.9506813
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1298
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 262
+        },
+        "end_address": "Holstenstra\u00dfe / Thadenstra\u00dfe, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5558984,
+          "lng": 9.9506813
+        },
+        "start_address": "Schulterblatt / Eifflerstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5627355,
+          "lng": 9.961062799999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 127
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5617649,
+              "lng": 9.9620757
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Schulterblatt</b> toward <b>Juliusstra\u00dfe</b>",
+            "polyline": {
+              "points": "cn|eIsox{@t@u@`@c@`@e@r@s@TW"
+            },
+            "start_location": {
+              "lat": 53.5627355,
+              "lng": 9.961062799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 254
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.560116,
+              "lng": 9.9596751
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Juliusstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_h|eI_vx{@Pr@v@hC?@n@jBVt@NZHLJHJHPHNFRHNDl@TNF"
+            },
+            "start_location": {
+              "lat": 53.5617649,
+              "lng": 9.9620757
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 367
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 89
+            },
+            "end_location": {
+              "lat": 53.5569141,
+              "lng": 9.9583415
+            },
+            "html_instructions": "Continue onto <b>Bernstorffstra\u00dfe</b>",
+            "polyline": {
+              "points": "w}{eI_gx{@dEpAr@VLBn@RTHLDf@NlA`@hA\\`@LbAZ"
+            },
+            "start_location": {
+              "lat": 53.560116,
+              "lng": 9.9596751
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 550
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 89
+            },
+            "end_location": {
+              "lat": 53.5558984,
+              "lng": 9.9506813
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Thadenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ui{eIs~w{@M~AGnAEtAAj@Aj@KtFCx@CvA@XF|@?HP|AVnABHDLFNDLRb@@@DJVl@R`@Tj@Pd@@BLb@DPTlAJr@Fh@@T"
+            },
+            "start_location": {
+              "lat": 53.5569141,
+              "lng": 9.9583415
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cn|eIsox{@lDsDTWPr@v@jCfA`DXh@h@\\`Bl@vGtBxJ|CUnDG`CM`HGpCHvAPfBZxAL\\`@~@rA`Dj@fCTrB"
+    },
+    "summary": "Bernstorffstra\u00dfe and Thadenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

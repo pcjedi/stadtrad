@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5279912,
+        "lng": 10.0366758
+      },
+      "southwest": {
+        "lat": 53.5228411,
+        "lng": 10.0148085
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1878
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 363
+        },
+        "end_address": "S Veddel / Wilhelmsburger Platz, 20539 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5228411,
+          "lng": 10.0148085
+        },
+        "start_address": "Peutestra\u00dfe / Hatraco, 20539 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.52386929999999,
+          "lng": 10.0366758
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 952
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 170
+            },
+            "end_location": {
+              "lat": 53.5279912,
+              "lng": 10.0240641
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Peutestra\u00dfe</b> toward <b>Oberwerder Damm</b>",
+            "polyline": {
+              "points": "e{teIghg|@q@zC{@xDQt@o@pCS`AyBpJEZe@vBe@lBQp@Q|@Mj@IXMj@On@]|AEJCFAHMn@[hBENUfA?@ABQv@Kd@Qt@GXQp@a@fBQt@Qr@c@fBOl@Md@IR"
+            },
+            "start_location": {
+              "lat": 53.52386929999999,
+              "lng": 10.0366758
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 795
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 168
+            },
+            "end_location": {
+              "lat": 53.5235194,
+              "lng": 10.0160364
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Veddeler Br\u00fcckenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}tueIkyd|@JLDFVX^XLHRNLFZPhAd@dAZb@L@?TFVBb@FTFVFTHTPZ\\?@HJDH?@@BDJFNBF?@BHN`@VrAF^BFNh@?@@v@@LBLVtALt@p@pDj@jD?@TxA^rB\\|B\\rB"
+            },
+            "start_location": {
+              "lat": 53.5279912,
+              "lng": 10.0240641
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 114
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5228443,
+              "lng": 10.0150614
+            },
+            "html_instructions": "Continue onto <b>Wilhelmsburger Pl.</b>",
+            "polyline": {
+              "points": "_yteIggc|@Hd@F\\Jl@Jd@FRJNFFLBL@L?J?JE"
+            },
+            "start_location": {
+              "lat": 53.5235194,
+              "lng": 10.0160364
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5228411,
+              "lng": 10.0148085
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wtteIcac|@?@?n@"
+            },
+            "start_location": {
+              "lat": 53.5228443,
+              "lng": 10.0150614
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "e{teIghg|@oD|OmCrLk@rCwAhGeArEIROx@w@bE_C`KsAnFIRJL\\`@nAz@dBv@hBh@rARbAXp@n@HLLZNb@N`@VrAJf@Nj@BdAzAjInDpTVrARb@TJZ@VE?p@"
+    },
+    "summary": "Peutestra\u00dfe and Veddeler Br\u00fcckenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4653572,
+        "lng": 9.9634992
+      },
+      "southwest": {
+        "lat": 53.4590496,
+        "lng": 9.949566299999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1403
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 291
+        },
+        "end_address": "Ei\u00dfendorfer Pferdeweg / Asklepios-Klinik Harburg, 21075 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4590496,
+          "lng": 9.9514088
+        },
+        "start_address": "S Heimfeld / Alter Postweg, 21075 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.46525,
+          "lng": 9.9634992
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "53 m",
+              "value": 53
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.4653044,
+              "lng": 9.962762999999999
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Alter Postweg</b> toward <b>Petersweg</b>",
+            "polyline": {
+              "points": "ylieI{~x{@IRGTCT?RB^F^"
+            },
+            "start_location": {
+              "lat": 53.46525,
+              "lng": 9.9634992
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 920
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 195
+            },
+            "end_location": {
+              "lat": 53.4627355,
+              "lng": 9.949566299999999
+            },
+            "html_instructions": "Continue onto <b>Heimfelder Str.</b>",
+            "polyline": {
+              "points": "cmieIgzx{@Hf@H^@HDXJd@DVXhCDXf@`E@BFh@LvAn@nFDd@LdAFj@Jx@Dh@JdALz@|BzT\\xCLfABXjApK"
+            },
+            "start_location": {
+              "lat": 53.4653044,
+              "lng": 9.962762999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 430
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 88
+            },
+            "end_location": {
+              "lat": 53.4590496,
+              "lng": 9.9514088
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ei\u00dfendorfer Pferdeweg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "c}heIygv{@hDkBLGnAs@dAo@`B{@ROLC@?dAU\\Gl@Kb@Gb@Gb@GNE"
+            },
+            "start_location": {
+              "lat": 53.4627355,
+              "lng": 9.949566299999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ylieI{~x{@Qh@Ch@J~@RfAX`BhAhJjAvKf@tEX`CzCtYP`BjApKhDkB|A{@fDkBROLCfAUrCc@r@M"
+    },
+    "summary": "Heimfelder Str. and Ei\u00dfendorfer Pferdeweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

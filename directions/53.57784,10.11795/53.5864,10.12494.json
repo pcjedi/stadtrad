@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5863897,
+        "lng": 10.1247992
+      },
+      "southwest": {
+        "lat": 53.57781809999999,
+        "lng": 10.1172929
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1345
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 310
+        },
+        "end_address": "Tonndorfer Hauptstra\u00dfe / Sonnenweg, 22045 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5863897,
+          "lng": 10.1247512
+        },
+        "start_address": "Kuehnstra\u00dfe / Albert-Schweitzer-Ring, 22045 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57781809999999,
+          "lng": 10.1178705
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 431
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 76
+            },
+            "end_location": {
+              "lat": 53.5805731,
+              "lng": 10.1209565
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Albert-Schweitzer-Ring</b>",
+            "polyline": {
+              "points": "kl_fIucw|@eChBIBOBI@MAOGCAGECCIGKMOUc@qA?CwAcECEg@wAYy@Yy@a@gA?CIWEOKWCMIU"
+            },
+            "start_location": {
+              "lat": 53.57781809999999,
+              "lng": 10.1178705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 175
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.58213929999999,
+              "lng": 10.1206392
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q}_fI_ww|@mAN{C\\oAP"
+            },
+            "start_location": {
+              "lat": 53.5805731,
+              "lng": 10.1209565
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 214
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5827372,
+              "lng": 10.1237199
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kg`fI_uw|@M{@m@_FGi@s@aH"
+            },
+            "start_location": {
+              "lat": 53.58213929999999,
+              "lng": 10.1206392
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 294
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 54
+            },
+            "end_location": {
+              "lat": 53.5852106,
+              "lng": 10.1221623
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Singelmannsweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ck`fIghx|@A@c@\\m@d@g@Vq@`@{Ar@gBz@g@TQJ_@Pa@R"
+            },
+            "start_location": {
+              "lat": 53.5827372,
+              "lng": 10.1237199
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.58611810000001,
+              "lng": 10.1247992
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Tonndorfer Hauptstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qz`fIo~w|@e@sB[qAEM[oAEMQo@y@mD"
+            },
+            "start_location": {
+              "lat": 53.5852106,
+              "lng": 10.1221623
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5863897,
+              "lng": 10.1247512
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sonnenweg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g`afI_ox|@WBQBK@"
+            },
+            "start_location": {
+              "lat": 53.58611810000001,
+              "lng": 10.1247992
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kl_fIucw|@oClBYD]IKGMK[c@_C_H}BsG[cAMc@iFl@oAPM{@u@iGs@aHA@qAbAyAx@cEnB{BfAcBcHW}@y@mDWB]D"
+    },
+    "summary": "Albert-Schweitzer-Ring",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

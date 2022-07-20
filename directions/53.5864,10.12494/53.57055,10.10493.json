@@ -1,0 +1,214 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5863897,
+        "lng": 10.1265696
+      },
+      "southwest": {
+        "lat": 53.5704727,
+        "lng": 10.1048519
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.6 km",
+          "value": 2562
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 533
+        },
+        "end_address": "Rodigallee 85, 22043 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5705488,
+          "lng": 10.104921
+        },
+        "start_address": "Tonndorfer Hauptstra\u00dfe / Sonnenweg, 22045 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5863897,
+          "lng": 10.1247512
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.58611810000001,
+              "lng": 10.1247992
+            },
+            "html_instructions": "Head <b>south</b> on <b>Sonnenweg</b> toward <b>Tonndorfer Hauptstra\u00dfe</b>",
+            "polyline": {
+              "points": "}aafIunx|@JAPCVC"
+            },
+            "start_location": {
+              "lat": 53.5863897,
+              "lng": 10.1247512
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 456
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5821841,
+              "lng": 10.1265696
+            },
+            "html_instructions": "Continue onto <b>Jenfelder Allee</b>",
+            "polyline": {
+              "points": "g`afI_ox|@lBMPEB?PGPEXI~@_@HEhAg@f@[n@Yb@WHERKFE^Qd@Uj@YL@JBDA\\KRIf@Sn@Y"
+            },
+            "start_location": {
+              "lat": 53.58611810000001,
+              "lng": 10.1247992
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1082
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 196
+            },
+            "end_location": {
+              "lat": 53.5764874,
+              "lng": 10.1138026
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kuehnstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sg`fIazx|@rAfBJNRXj@r@\\b@f@t@h@h@HHDNJPp@|@^h@TLFHTXDHFFHJHJn@`AFLFJBDb@~@LXBFDLVx@Pf@Ld@Xv@?@T|@P`AFTr@vDZxAn@`D@B^zBF`@Np@@HJb@Nn@Jh@Ln@f@bCDRb@~Bh@zCH`@b@~B"
+            },
+            "start_location": {
+              "lat": 53.5821841,
+              "lng": 10.1265696
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 766
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 135
+            },
+            "end_location": {
+              "lat": 53.57214889999999,
+              "lng": 10.1048519
+            },
+            "html_instructions": "Continue onto <b>Schimmelmannstra\u00dfe</b>",
+            "polyline": {
+              "points": "ad_fIgjv|@z@dCZ|@bAdCP^Th@p@zAJTJT`A~B\\x@FN\\x@lApCPb@rAdDxArDh@nAp@dBFPTd@HPNXDLHT@HR~AFd@"
+            },
+            "start_location": {
+              "lat": 53.5764874,
+              "lng": 10.1138026
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 186
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.5705361,
+              "lng": 10.1054387
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Holstenhofweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}h~eIirt|@jAa@@A@ABGd@MXI|@[@?DAJ@L@@?r@OVE"
+            },
+            "start_location": {
+              "lat": 53.57214889999999,
+              "lng": 10.1048519
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.5704727,
+              "lng": 10.1049508
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rodigallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{~}eI_vt|@L`B"
+            },
+            "start_location": {
+              "lat": 53.5705361,
+              "lng": 10.1054387
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5705488,
+              "lng": 10.104921
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m~}eI}rt|@OD"
+            },
+            "start_location": {
+              "lat": 53.5704727,
+              "lng": 10.1049508
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}aafIunx|@bDWx@SxAi@rAm@vAu@l@]`By@j@YL@P@hCcA~CdEdAxAr@r@DNJPpAfB\\VZb@PRx@lAv@~An@hBx@fCf@~Bz@lEjAzF`@~Bd@`CpAlG|ApIb@~Bz@dCZ|@bAdCf@hA|@pBrB~EpEtK|DzJt@~AJ^ZdClAc@DI~Bs@P?N@jAUL`BOD"
+    },
+    "summary": "Kuehnstra\u00dfe and Schimmelmannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

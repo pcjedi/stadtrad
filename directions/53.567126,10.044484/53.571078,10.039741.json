@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5710752,
+        "lng": 10.0449291
+      },
+      "southwest": {
+        "lat": 53.5671046,
+        "lng": 10.0397317
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 610
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 230
+        },
+        "end_address": "Uferstra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5710752,
+          "lng": 10.0397317
+        },
+        "start_address": "U Ritterstra\u00dfe / Wandsbeker Chaussee, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5671046,
+          "lng": 10.0444917
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "29 m",
+              "value": 29
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Ritterstra\u00dfe</b>",
+            "polyline": {
+              "points": "ki}eIayh|@C_@AU?K?U"
+            },
+            "start_location": {
+              "lat": 53.5671046,
+              "lng": 10.0444917
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "76 m",
+              "value": 76
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.56778329999999,
+              "lng": 10.0445938
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ritterstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qi}eIy{h|@YNSJYJE@g@NKH"
+            },
+            "start_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 505
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 140
+            },
+            "end_location": {
+              "lat": 53.5710752,
+              "lng": 10.0397317
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Wagnerstra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "sm}eIuyh|@GFCFGLWr@cAlCSh@y@nA}AdCIPGRIVEVGj@KdAARCHCFEFGDwBbBuA|@gAz@EDGFEB"
+            },
+            "start_location": {
+              "lat": 53.56778329999999,
+              "lng": 10.0445938
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ki}eIayh|@EwAm@Z_@Ls@XKNwBxFwCtEQd@On@SpBE\\IN_ChBuA|@gAz@MLEB"
+    },
+    "summary": "Wagnerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

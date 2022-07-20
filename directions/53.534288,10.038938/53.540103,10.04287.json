@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5401063,
+        "lng": 10.0428079
+      },
+      "southwest": {
+        "lat": 53.5342819,
+        "lng": 10.038876
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 842
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 180
+        },
+        "end_address": "S Rothenburgsort / Billhorner Deich, 20539 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5401063,
+          "lng": 10.0428079
+        },
+        "start_address": "Rothenburgsorter Marktplatz / Lindleystra\u00dfe, 20539 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5342819,
+          "lng": 10.0389246
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "5 m",
+              "value": 5
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Rothenburgsorter Marktpl.</b> toward <b>Lindleystra\u00dfe</b>",
+            "polyline": {
+              "points": "g|veIgvg|@GF"
+            },
+            "start_location": {
+              "lat": 53.5342819,
+              "lng": 10.0389246
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 173
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5355917,
+              "lng": 10.0402284
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lindleystra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o|veI_vg|@UYOGw@u@USSQEEAA?A?C?C?E?C?A?E?CACAGiB{A"
+            },
+            "start_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 118
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5352382,
+              "lng": 10.0418971
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Marckmannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mdweIm~g|@BQBa@Hq@BOBODOBE@G@IDWFg@N_B"
+            },
+            "start_location": {
+              "lat": 53.5355917,
+              "lng": 10.0402284
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 546
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 96
+            },
+            "end_location": {
+              "lat": 53.5401063,
+              "lng": 10.0428079
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Billhorner Deich</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gbweI{hh|@eCYm@Ik@Gw@ISCs@IIAMAEAUCi@Ga@ESCa@EaAKa@EE?QMaAKgAKKAKHQEMCw@Iy@IGA"
+            },
+            "start_location": {
+              "lat": 53.5352382,
+              "lng": 10.0418971
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g|veIgvg|@GFUYgA}@q@m@?_@CKiB{ABQLsAF_@Lg@L_AN_BeCYyAQkAMqAOaGm@QMaAKsAMKHQEeAMaAK"
+    },
+    "summary": "Billhorner Deich",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

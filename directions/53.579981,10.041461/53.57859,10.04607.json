@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5799399,
+        "lng": 10.0460574
+      },
+      "southwest": {
+        "lat": 53.5785974,
+        "lng": 10.0409111
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 453
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 177
+        },
+        "end_address": "Von-Essen-Stra\u00dfe / Dehnhaide, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5785974,
+          "lng": 10.0459754
+        },
+        "start_address": "U Dehnhaide / Barmbeker Markt, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5799399,
+          "lng": 10.041543
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "47 m",
+              "value": 47
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5797609,
+              "lng": 10.0409111
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Barmbeker Markt</b> toward <b>Dehnhaide</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "sy_fIsfh|@HPFNFR@J?BBPBd@"
+            },
+            "start_location": {
+              "lat": 53.5799399,
+              "lng": 10.041543
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 365
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 129
+            },
+            "end_location": {
+              "lat": 53.5789666,
+              "lng": 10.0460574
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Dehnhaide</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ox_fIubh|@P_@Vs@b@wAHm@T}@DWLo@@MD[Ba@@M?W?a@CuAB]Ac@?OAc@A]?]CSDe@@c@NkD"
+            },
+            "start_location": {
+              "lat": 53.5797609,
+              "lng": 10.0409111
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5785974,
+              "lng": 10.0459754
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Von-Essen-Stra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qs_fI{bi|@hAN"
+            },
+            "start_location": {
+              "lat": 53.5789666,
+              "lng": 10.0460574
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sy_fIsfh|@P`@H^BTBd@P_@z@kCHm@T}@RgAFi@Do@?y@CuAB]As@GsBFiANkDhAN"
+    },
+    "summary": "Dehnhaide",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

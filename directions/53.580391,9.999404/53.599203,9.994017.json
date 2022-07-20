@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5992293,
+        "lng": 9.9995614
+      },
+      "southwest": {
+        "lat": 53.5804956,
+        "lng": 9.9938849
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.4 km",
+          "value": 2371
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 469
+        },
+        "end_address": "U Lattenkamp / Bebelallee, 20249 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5992293,
+          "lng": 9.9940108
+        },
+        "start_address": "Leinpfad/Fernsicht, 22301 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5804956,
+          "lng": 9.9995614
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.6 km",
+              "value": 1625
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 298
+            },
+            "end_location": {
+              "lat": 53.5932828,
+              "lng": 9.994148599999999
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Leinpfad</b> toward <b>M\u00f6venstra\u00dfe</b>",
+            "polyline": {
+              "points": "c}_fIg``|@Wn@kAnCiAlC{@dBu@nBm@rA[j@ORKJYJ[FC@WDm@F_A?w@CYA]?A?g@G_@ISGQGq@YgAc@SIWKk@WgBs@KE}B_ASI{@[SGCCa@OaA_@UGWE]CqB?gA@oC?W?i@Dg@FG?g@L_@Pa@V]V[X]`@o@x@y@fA}@tAS^Wh@aAlBUb@S`@{@`B"
+            },
+            "start_location": {
+              "lat": 53.5804956,
+              "lng": 9.9995614
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 132
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.59392159999999,
+              "lng": 9.995832900000002
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hudtwalckerstra\u00dfe</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_mbfIm~~{@YeAa@sAEK[kACG]uA"
+            },
+            "start_location": {
+              "lat": 53.5932828,
+              "lng": 9.994148599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 606
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 124
+            },
+            "end_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bebelallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_qbfI}h_|@[ZSPKJEDMHULIBMDYH_B`@g@Js@NgAXG@YDi@N[Hg@Jw@Ry@PI@q@N_Bb@sAX[Hy@Lm@BQ@"
+            },
+            "start_location": {
+              "lat": 53.59392159999999,
+              "lng": 9.995832900000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5992293,
+              "lng": 9.9940108
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Meenkwiese</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "crcfIw|~{@AY"
+            },
+            "start_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "c}_fIg``|@cB~DiAlC{@dBcBbEk@~@KJYJ_@HeALwBCw@Ai@Gs@QcAa@_DqAeGcCuBw@wAg@u@IaJ@qALo@LaAh@y@p@mAzAwB|CcCzEoAbC{@yCcAuDaA~@c@VWHyBj@{AZsCp@uDz@{@PsD|@uAV_ADAY"
+    },
+    "summary": "Leinpfad and Bebelallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

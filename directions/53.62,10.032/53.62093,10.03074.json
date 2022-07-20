@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.62105949999999,
+        "lng": 10.0326052
+      },
+      "southwest": {
+        "lat": 53.61999429999999,
+        "lng": 10.0307434
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.2 km",
+          "value": 249
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 43
+        },
+        "end_address": "S+U Ohlsdorf / Im Gr\u00fcnen Grunde, 22337 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6209376,
+          "lng": 10.0307434
+        },
+        "start_address": "S+U Ohlsdorf / Alsterdorfer Stra\u00dfe, 22337 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.61999429999999,
+          "lng": 10.0320817
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 108
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.6208756,
+              "lng": 10.0326052
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Alsterdorfer Str.</b>",
+            "polyline": {
+              "points": "}sgfIokf|@WCKCWEy@OKCACIKGM[i@"
+            },
+            "start_location": {
+              "lat": 53.61999429999999,
+              "lng": 10.0320817
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 127
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.62090629999999,
+              "lng": 10.0309416
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Im Gr\u00fcnen Grunde</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oygfIynf|@ENGdAEx@AVCb@Cz@E|@ZF@?"
+            },
+            "start_location": {
+              "lat": 53.6208756,
+              "lng": 10.0326052
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.6209376,
+              "lng": 10.0307434
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uygfIkdf|@Ef@"
+            },
+            "start_location": {
+              "lat": 53.62090629999999,
+              "lng": 10.0309416
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}sgfIokf|@uB]MGQY[i@ENM~BOtD\\FEf@"
+    },
+    "summary": "Im Gr\u00fcnen Grunde",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5439527,
+        "lng": 10.0043607
+      },
+      "southwest": {
+        "lat": 53.5395911,
+        "lng": 9.9936332
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1381
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 313
+        },
+        "end_address": "Stockmeyerstra\u00dfe / Am Lohsepark, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5439527,
+          "lng": 10.0035406
+        },
+        "start_address": "Am Strandkai / Gro\u00dfer Grasbrook, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5395911,
+          "lng": 9.9936332
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5397081,
+              "lng": 9.993677500000002
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Am Strandkai</b>",
+            "polyline": {
+              "points": "m}weIe{~{@AAACAAC?E?GA"
+            },
+            "start_location": {
+              "lat": 53.5395911,
+              "lng": 9.9936332
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5397455,
+              "lng": 9.9939953
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Am Strandkai</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "e~weIo{~{@?G?IAIAGC["
+            },
+            "start_location": {
+              "lat": 53.5397081,
+              "lng": 9.993677500000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 231
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5402683,
+              "lng": 9.9973695
+            },
+            "html_instructions": "Continue onto <b>H\u00fcbenerstra\u00dfe</b>",
+            "polyline": {
+              "points": "m~weIo}~{@K{AS_COcBSaDAWSiBM}@"
+            },
+            "start_location": {
+              "lat": 53.5397455,
+              "lng": 9.9939953
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 150
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.54152329999999,
+              "lng": 9.9965788
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>San-Francisco-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uaxeIqr_|@MH_@TmAt@]VGAA?uAp@"
+            },
+            "start_location": {
+              "lat": 53.5402683,
+              "lng": 9.9973695
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 500
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 116
+            },
+            "end_location": {
+              "lat": 53.5407458,
+              "lng": 10.0040332
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>\u00dcberseeallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oixeIsm_|@PoDJoBb@{GDk@Ba@Bi@@S^iH?CDu@Bm@J}B@g@LqD@_@"
+            },
+            "start_location": {
+              "lat": 53.54152329999999,
+              "lng": 9.9965788
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 235
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 83
+            },
+            "end_location": {
+              "lat": 53.5427006,
+              "lng": 10.0027379
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Shanghaiallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "udxeIe|`|@SC]TUPCBa@ViC|AkAt@aAl@"
+            },
+            "start_location": {
+              "lat": 53.5407458,
+              "lng": 10.0040332
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 117
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5431407,
+              "lng": 10.004339
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Steinschanze</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{pxeIct`|@a@cCGc@W_BSs@AC"
+            },
+            "start_location": {
+              "lat": 53.5427006,
+              "lng": 10.0027379
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 112
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5439527,
+              "lng": 10.0035406
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ssxeIc~`|@ACA?A?A@g@z@A?GKMRCFC@ABA@GLEDEFEDEDEDEDEBGFGDC@A@EB"
+            },
+            "start_location": {
+              "lat": 53.5431407,
+              "lng": 10.004339
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m}weIe{~{@IGMA?QSiCc@cFUyDa@gDm@^kBlAIAuAp@PoDn@kKNkCh@qK\\wJSC]TYTyHxEi@gDW_BSs@ACACE@i@z@GKQZOTWXYVSL"
+    },
+    "summary": "\u00dcberseeallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

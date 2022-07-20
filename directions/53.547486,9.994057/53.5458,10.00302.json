@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.547622,
+        "lng": 10.0047935
+      },
+      "southwest": {
+        "lat": 53.5458414,
+        "lng": 9.993612700000002
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1004
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 293
+        },
+        "end_address": "Oberbaumbr\u00fccke / Ericusspitze, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5458414,
+          "lng": 10.0029255
+        },
+        "start_address": "Domstra\u00dfe / Willy-Brandt-Stra\u00dfe, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54750199999999,
+          "lng": 9.994003000000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.547242,
+              "lng": 9.993612700000002
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Domstra\u00dfe</b> toward <b>Willy-Brandt-Stra\u00dfe</b>/<wbr/><b>B4</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "{nyeIo}~{@HFFDDFFHBFFNFT"
+            },
+            "start_location": {
+              "lat": 53.54750199999999,
+              "lng": 9.994003000000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 542
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 181
+            },
+            "end_location": {
+              "lat": 53.5473758,
+              "lng": 10.0017039
+            },
+            "html_instructions": "Sharp <b>left</b> onto <b>Willy-Brandt-Stra\u00dfe</b>/<wbr/><b>B4</b>",
+            "maneuver": "turn-sharp-left",
+            "polyline": {
+              "points": "gmyeIa{~{@GuBAc@?GEiBE}@CeAAWCiACu@Cm@?YA]CsAEuAEmAASCq@Cg@C_@?O?G?IA[A_@?c@?A?S?Y?Y@Y?UBK@W@C@OBQDSHa@D[D[@]@K@I?I@S?U?I?I?GCE"
+            },
+            "start_location": {
+              "lat": 53.547242,
+              "lng": 9.993612700000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 187
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.54742,
+              "lng": 10.0044485
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Willy-Brandt-Stra\u00dfe</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "cnyeIsm`|@La@@E?E?E?E@I?K?I?A?A@C?C?U@c@?O?CAG?I@O?]?W?M@I?IAIAOAU?I?I?IEm@CWCc@CSAWES"
+            },
+            "start_location": {
+              "lat": 53.5473758,
+              "lng": 10.0017039
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 235
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5458414,
+              "lng": 10.0029255
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Oberbaumbr\u00fccke</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "knyeIy~`|@@S@E@E@E@EBE@EBC@ABCBADAB@J@TFh@`ANVVd@Xf@f@|@Xh@HLHLZd@RV"
+            },
+            "start_location": {
+              "lat": 53.54742,
+              "lng": 10.0044485
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{nyeIo}~{@^^JVFTGuBAk@KgDM}EIyDQiFKiE?iAFsALy@N}@Fy@Ds@?q@CELa@@K@a@B_B@sBEy@EkAMgBES@SBKHWLKj@HjBfDtAbCn@|@"
+    },
+    "summary": "Willy-Brandt-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

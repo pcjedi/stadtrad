@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6267935,
+        "lng": 10.0853429
+      },
+      "southwest": {
+        "lat": 53.6014442,
+        "lng": 10.0624674
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.4 km",
+          "value": 3427
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 623
+        },
+        "end_address": "Fabriciusstra\u00dfe / Buschrosenweg, 22177 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6014442,
+          "lng": 10.0624674
+        },
+        "start_address": "Bramfelder Chaussee / Maisredder, 22175 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6267935,
+          "lng": 10.0853429
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "2.2 km",
+              "value": 2212
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 370
+            },
+            "end_location": {
+              "lat": 53.6087668,
+              "lng": 10.0724909
+            },
+            "html_instructions": "Head <b>south</b> on <b>Bramfelder Ch</b> toward <b>Hirsekamp</b>",
+            "polyline": {
+              "points": "m~hfIkxp|@@?nBVlARz@LpATRBRF^F`@HdAPB@l@PNFjAl@n@f@@@x@l@fAv@l@`@RFr@j@dAz@ZVzBfBt@l@b@^PLTTNNzBtB\\XJ^LPf@l@PVTVLPTZb@z@\\p@`@t@f@r@Z\\t@~@`@h@Z^Xb@V`@b@j@NNB@@@@?FALNh@j@VTFDXTd@Xh@VTJRHb@Nb@FH@v@D`@Fr@JB@VR\\PtC`BpBhA\\VNHr@f@~@t@\\V`@Ln@f@bA^f@Nh@Ht@V~@X^L\\LLFZRLJRVXVbB|A"
+            },
+            "start_location": {
+              "lat": 53.6267935,
+              "lng": 10.0853429
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 334
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.60858,
+              "lng": 10.0674332
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Steilshooper Allee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ymefIahn|@FhC@b@@^HjHFlC@rA@b@BzB?vA?^"
+            },
+            "start_location": {
+              "lat": 53.6087668,
+              "lng": 10.0724909
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 881
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 193
+            },
+            "end_location": {
+              "lat": 53.6014442,
+              "lng": 10.0624674
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fabriciusstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "slefImhm|@TBN?zAJd@BL?PAx@Hb@DpC`@b@H`@TRFPLLFZP\\TPNNJb@`@^b@V\\rA~APTX^X`@lB~BTXbArAhB`CTXLPJJFHNLJFLFf@LrA^"
+            },
+            "start_location": {
+              "lat": 53.60858,
+              "lng": 10.0674332
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m~hfIkxp|@zFx@xCh@fBZp@RzAt@p@h@`CdBl@`@RFxBfBvC~B`CpBjCdC\\XJ^t@~@f@n@b@l@`AlB`@t@f@r@pA|A|@hAp@dAr@z@DBHAv@z@^Z~@n@~@b@v@Xl@HxALv@LVR\\PfGjDl@`@rB|A\\V`@Ln@f@bA^pAXrDlAh@Z`@b@|BtBHlDTlPDvGfDR^A|ANtDj@t@\\xA|@`@ZbAdAvCrDzJhMVVXNzBl@"
+    },
+    "summary": "Bramfelder Ch and Fabriciusstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

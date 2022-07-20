@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5611671,
+        "lng": 10.0412907
+      },
+      "southwest": {
+        "lat": 53.5555959,
+        "lng": 10.037363
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 707
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 149
+        },
+        "end_address": "S Landwehr / Ramazan-Avci-Platz, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5611671,
+          "lng": 10.037363
+        },
+        "start_address": "U Burgstra\u00dfe, 20537 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5555969,
+          "lng": 10.0412907
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5555959,
+              "lng": 10.0406697
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hammer Landstra\u00dfe</b> toward <b>Burgstra\u00dfe</b>/<wbr/><b>Grevenweg</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "oa{eIaeh|@?B?X?L?d@?V?P"
+            },
+            "start_location": {
+              "lat": 53.5555969,
+              "lng": 10.0412907
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 666
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 142
+            },
+            "end_location": {
+              "lat": 53.5611671,
+              "lng": 10.037363
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Burgstra\u00dfe</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oa{eIeah|@E@G@KBGDIDQJABIDSNQPIHEBIHKDSNmA`@wBr@QFc@LIEAAA?OB]LYFWDWDQDUDIBiATM@UFSDKFKDSLg@TGDIDGFGDONUV_@b@k@n@SXCF{@t@}@z@"
+            },
+            "start_location": {
+              "lat": 53.5555959,
+              "lng": 10.0406697
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oa{eIaeh|@?pA?h@MBo@Zq@j@e@\\SNmA`@iCz@c@LIECAOBw@TwAVwBb@_@L_@RaAh@mApA_AhA_A|@}@z@"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

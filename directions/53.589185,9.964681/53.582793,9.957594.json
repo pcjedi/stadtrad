@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.589206,
+        "lng": 9.964917999999999
+      },
+      "southwest": {
+        "lat": 53.58273519999999,
+        "lng": 9.9555765
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1282
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 246
+        },
+        "end_address": "Troplowitzstra\u00dfe 21, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58278319999999,
+          "lng": 9.957519699999999
+        },
+        "start_address": "Grandweg / Veilchenweg, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.589206,
+          "lng": 9.9647275
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5890572,
+              "lng": 9.964917999999999
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Grandweg</b> toward <b>Veilchenweg</b>",
+            "polyline": {
+              "points": "qsafIqfy{@\\e@"
+            },
+            "start_location": {
+              "lat": 53.589206,
+              "lng": 9.9647275
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 488
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 71
+            },
+            "end_location": {
+              "lat": 53.5887256,
+              "lng": 9.9575473
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Veilchenweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "srafIwgy{@?l@HhF@N?RDxABbBH|C?t@BvB?F?vA@RBt@HjEJ|CB~@@HC\\"
+            },
+            "start_location": {
+              "lat": 53.5890572,
+              "lng": 9.964917999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 694
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 122
+            },
+            "end_location": {
+              "lat": 53.582743,
+              "lng": 9.9564297
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Stresemannallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qpafIuyw{@~@f@n@^PJbBdAb@RXLj@PnBd@hAVd@JPBl@JdBp@NFLFf@RPFH@T@PAd@I\\Mr@]x@c@XSTOb@SPIB?JCd@G"
+            },
+            "start_location": {
+              "lat": 53.5887256,
+              "lng": 9.9575473
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "72 m",
+              "value": 72
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5828475,
+              "lng": 9.957495699999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Troplowitzstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ck`fIurw{@?I?E?G?E?G?KQkCCW"
+            },
+            "start_location": {
+              "lat": 53.582743,
+              "lng": 9.9564297
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.58278319999999,
+              "lng": 9.957519699999999
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yk`fIkyw{@LC"
+            },
+            "start_location": {
+              "lat": 53.5828475,
+              "lng": 9.957495699999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qsafIqfy{@\\e@?l@JxFRnJBlGZrLDhAC\\~@f@`Aj@fCxAdA^xD|@v@Nl@JdBp@\\Nx@Z^Bv@KpAk@rAw@nAm@p@K?O?a@UcDLC"
+    },
+    "summary": "Veilchenweg and Stresemannallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

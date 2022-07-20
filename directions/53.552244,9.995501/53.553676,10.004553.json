@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5553885,
+        "lng": 10.0053979
+      },
+      "southwest": {
+        "lat": 53.5522611,
+        "lng": 9.995478
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1038
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 241
+        },
+        "end_address": "Hauptbahnhof / Glockengie\u00dferwall, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5536256,
+          "lng": 10.0044325
+        },
+        "start_address": "S+U Jungfernstieg / Ballindamm, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5522611,
+          "lng": 9.995478
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 474
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5553243,
+              "lng": 10.0004607
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Ballindamm</b> toward <b>Alstertor</b>",
+            "polyline": {
+              "points": "slzeIwf_|@IQoAeCi@cAqAaCqBuDuDkH]q@g@}@_@s@"
+            },
+            "start_location": {
+              "lat": 53.5522611,
+              "lng": 9.995478
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 446
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 107
+            },
+            "end_location": {
+              "lat": 53.55277960000001,
+              "lng": 10.0052927
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Glockengie\u00dferwall</b>/<wbr/><b>Ring 1</b><div style=\"font-size:0.9em\">Continue to follow Glockengie\u00dferwall</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w_{eI{e`|@EYC[CU@U@U@UHOJKDEJWRc@HUHOHOfAyBXo@\\o@^q@Zw@HWJWDOTg@^q@^m@\\i@Ze@RUZ_@PQ"
+            },
+            "start_location": {
+              "lat": 53.5553243,
+              "lng": 10.0004607
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 118
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5536256,
+              "lng": 10.0044325
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Spitalerstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "{ozeIada|@KUc@j@mA~AC@Yb@MN"
+            },
+            "start_location": {
+              "lat": 53.55277960000001,
+              "lng": 10.0052927
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "slzeIwf_|@yAwC{BeEmJqQ_@s@EYGq@DaAT[P]p@yA~ByE^q@Zw@To@Zw@~@_Bx@oAn@u@PQKUqBjCk@t@"
+    },
+    "summary": "Ballindamm and Glockengie\u00dferwall",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5522466,
+        "lng": 9.9968626
+      },
+      "southwest": {
+        "lat": 53.5473438,
+        "lng": 9.9938399
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 820
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 304
+        },
+        "end_address": "Domstra\u00dfe / Willy-Brandt-Stra\u00dfe, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.54750199999999,
+          "lng": 9.994003000000001
+        },
+        "start_address": "S+U Jungfernstieg / Ballindamm, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5522466,
+          "lng": 9.9954474
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.5519836,
+              "lng": 9.994589399999999
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Ballindamm</b> toward <b>Europa Passage</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "qlzeIqf_|@DLPh@Pf@DR@H@T@J?J"
+            },
+            "start_location": {
+              "lat": 53.5522466,
+              "lng": 9.9954474
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5516011,
+              "lng": 9.994592899999999
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Ballindamm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{jzeIea_|@Z?J?b@?"
+            },
+            "start_location": {
+              "lat": 53.5519836,
+              "lng": 9.994589399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 212
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.5499835,
+              "lng": 9.9960904
+            },
+            "html_instructions": "<b>Ballindamm</b> turns slightly <b>left</b> and becomes <b>Bergstra\u00dfe</b>",
+            "polyline": {
+              "points": "ohzeIea_|@j@m@@Cf@s@lAqBX_@LQDCDEFCTKT?v@G"
+            },
+            "start_location": {
+              "lat": 53.5516011,
+              "lng": 9.994592899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.54943489999999,
+              "lng": 9.9964077
+            },
+            "html_instructions": "Continue onto <b>Schmiedestra\u00dfe</b>",
+            "polyline": {
+              "points": "k~yeIqj_|@t@Y\\SXQ"
+            },
+            "start_location": {
+              "lat": 53.5499835,
+              "lng": 9.9960904
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 124
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.5483637,
+              "lng": 9.9968525
+            },
+            "html_instructions": "Continue onto <b>Alter Fischmarkt</b>",
+            "polyline": {
+              "points": "}zyeIql_|@LGLSJG@?BANEZI`@MxAS"
+            },
+            "start_location": {
+              "lat": 53.54943489999999,
+              "lng": 9.9964077
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "89 m",
+              "value": 89
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5475663,
+              "lng": 9.9968626
+            },
+            "html_instructions": "Continue onto <b>Brandstwiete</b>",
+            "polyline": {
+              "points": "gtyeIio_|@h@?z@?B?X?XA"
+            },
+            "start_location": {
+              "lat": 53.5483637,
+              "lng": 9.9968525
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5473438,
+              "lng": 9.9938399
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Willy-Brandt-Stra\u00dfe</b>/<wbr/><b>B4</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ioyeIko_|@JxCDzA@DDhAJlDBd@B`A"
+            },
+            "start_location": {
+              "lat": 53.5475663,
+              "lng": 9.9968626
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.54750199999999,
+              "lng": 9.994003000000001
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Domstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{myeIo|~{@GIEGGEIG"
+            },
+            "start_location": {
+              "lat": 53.5473438,
+              "lng": 9.9938399
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qlzeIqf_|@Vv@Vz@Dv@f@?b@?j@m@h@w@fBqCRULITKT?v@Gt@Yv@e@LGLSLGRG|@WxASh@?~@?r@AXdINrEB`AGIMMIG"
+    },
+    "summary": "Bergstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

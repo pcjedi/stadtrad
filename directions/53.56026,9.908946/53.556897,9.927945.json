@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5603096,
+        "lng": 9.9280835
+      },
+      "southwest": {
+        "lat": 53.5560206,
+        "lng": 9.9090419
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1496
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 353
+        },
+        "end_address": "V\u00f6lckersstra\u00dfe 1, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5568936,
+          "lng": 9.9280746
+        },
+        "start_address": "S Bahrenfeld / Friedensallee, 22761 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5602301,
+          "lng": 9.9090419
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5603096,
+              "lng": 9.9091123
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>Friedensallee</b>",
+            "polyline": {
+              "points": "m~{eIojn{@OM"
+            },
+            "start_location": {
+              "lat": 53.5602301,
+              "lng": 9.9090419
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 954
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 225
+            },
+            "end_location": {
+              "lat": 53.5560206,
+              "lng": 9.9215229
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedensallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}~{eI}jn{@n@yATo@DQn@iBL[@KHg@f@iBVy@HYv@aC^wAb@{AZ{@\\_Aj@cBh@yAFYHa@^mBDWZ_BHa@^kBNy@^sBLo@Hg@j@yCv@yEl@eDF_@L}@"
+            },
+            "start_location": {
+              "lat": 53.5603096,
+              "lng": 9.9091123
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "72 m",
+              "value": 72
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.5566608,
+              "lng": 9.921362199999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Daimlerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cd{eIoxp{@aAL}@P"
+            },
+            "start_location": {
+              "lat": 53.5560206,
+              "lng": 9.9215229
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 257
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5570038,
+              "lng": 9.9252109
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Planckstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ch{eIowp{@U{CKmBE{@EeAIcC?EEeCEeB"
+            },
+            "start_location": {
+              "lat": 53.5566608,
+              "lng": 9.921362199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 190
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.557013,
+              "lng": 9.9280835
+            },
+            "html_instructions": "Continue onto <b>V\u00f6lckersstra\u00dfe</b>",
+            "polyline": {
+              "points": "gj{eIqoq{@AwA?qAAcCA}B?u@?s@Bg@"
+            },
+            "start_location": {
+              "lat": 53.5570038,
+              "lng": 9.9252109
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5568936,
+              "lng": 9.9280746
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bahrenfelder Str.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ij{eIoar{@V@"
+            },
+            "start_location": {
+              "lat": 53.557013,
+              "lng": 9.9280835
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m~{eIojn{@OMn@yAZaA|@eCJs@`C_IbAsDx@{BtA}DP{@jAgG|AiIzCaQT}A_C^a@iGKaCUuJEkL?iBBg@V@"
+    },
+    "summary": "Friedensallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

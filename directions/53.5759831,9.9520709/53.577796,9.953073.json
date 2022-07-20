@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57784299999999,
+        "lng": 9.9530023
+      },
+      "southwest": {
+        "lat": 53.576037,
+        "lng": 9.9517129
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.3 km",
+          "value": 255
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 61
+        },
+        "end_address": "Heu\u00dfweg / Wiesenstra\u00dfe, 20255 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57784299999999,
+          "lng": 9.9530023
+        },
+        "start_address": "Osterstra\u00dfe 121, 20255 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.576037,
+          "lng": 9.9520903
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5760848,
+              "lng": 9.9517129
+            },
+            "html_instructions": "Head <b>west</b> on <b>Osterstra\u00dfe</b> toward <b>Heu\u00dfweg</b>",
+            "polyline": {
+              "points": "ga_fIqwv{@GjA"
+            },
+            "start_location": {
+              "lat": 53.576037,
+              "lng": 9.9520903
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 230
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.57784299999999,
+              "lng": 9.9530023
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Heu\u00dfweg</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oa_fIeuv{@YIA?EDc@GGAC?[IA?EAk@MMEAAm@K?A@??A?A?A?A?A?A?A?A?AA??AA??AA?A?A?A@?@A??@UUCCYc@EKMYGKO]EKMY"
+            },
+            "start_location": {
+              "lat": 53.5760848,
+              "lng": 9.9517129
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ga_fIqwv{@GjAYIA?EDc@GKAoAY}@S@A?A?C?CAGACIBUS]g@Se@k@oA"
+    },
+    "summary": "Heu\u00dfweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

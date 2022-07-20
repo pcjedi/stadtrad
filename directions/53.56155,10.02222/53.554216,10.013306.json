@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5628456,
+        "lng": 10.0221042
+      },
+      "southwest": {
+        "lat": 53.5541654,
+        "lng": 10.0127479
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1809
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 330
+        },
+        "end_address": "Steindamm / Stralsunder Stra\u00dfe, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5541654,
+          "lng": 10.0131997
+        },
+        "start_address": "Alsterschwimmhalle / Ifflandstra\u00dfe, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5615573,
+          "lng": 10.0221042
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5610982,
+              "lng": 10.0189769
+            },
+            "html_instructions": "Head <b>west</b> on <b>Ekhofstra\u00dfe</b> toward <b>Ackermannstra\u00dfe</b>",
+            "polyline": {
+              "points": "wf|eIcmd|@B`@P|BFh@Fd@T`D^|E"
+            },
+            "start_location": {
+              "lat": 53.5615573,
+              "lng": 10.0221042
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 205
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5628456,
+              "lng": 10.018111
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ackermannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{c|eIsyc|@UR]NkCfAaAb@cAd@G?GAGE"
+            },
+            "start_location": {
+              "lat": 53.5610982,
+              "lng": 10.0189769
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 363
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 89
+            },
+            "end_location": {
+              "lat": 53.5603677,
+              "lng": 10.0147891
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Barcastra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yn|eIetc|@F\\F^H\\JZLXFHp@`BZz@FJDHFJNTLRJNLPLPPXNLDHBBHNJLHJHHHFHFJHHDJFLDLFj@XHHLF\\P"
+            },
+            "start_location": {
+              "lat": 53.5628456,
+              "lng": 10.018111
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 416
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 75
+            },
+            "end_location": {
+              "lat": 53.5577479,
+              "lng": 10.0192845
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lohm\u00fchlenstra\u00dfe</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "i_|eIm_c|@HQJKHOTYbBoDXk@p@uAHQVk@Xk@Tg@bBmDXi@~@qBBIPa@"
+            },
+            "start_location": {
+              "lat": 53.5603677,
+              "lng": 10.0147891
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 559
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.55455689999999,
+              "lng": 10.0127479
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Brennerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}n{eIo{c|@DHBHDJ^|@L\\BFHPXp@t@jBn@tApAjDd@dA`@|@|@rB`@lAf@xAPf@nAlDXx@?@DJLd@"
+            },
+            "start_location": {
+              "lat": 53.5577479,
+              "lng": 10.0192845
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "53 m",
+              "value": 53
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5541654,
+              "lng": 10.0131997
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Stralsunder Str.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_{zeIurb|@XQb@o@NW"
+            },
+            "start_location": {
+              "lat": 53.55455689999999,
+              "lng": 10.0127479
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wf|eIcmd|@T~CNnAt@~JUR]NmEjBkAd@OGN|@Tx@Tb@zArDp@dAZb@`@f@^j@f@d@n@\\x@`@VP\\PHQT[TYbBoDjAaCpAqC`EsIPa@DHHTp@bBhCdGvBpF~ApDjD|Jl@lBXQb@o@NW"
+    },
+    "summary": "Brennerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

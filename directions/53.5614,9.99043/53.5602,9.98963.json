@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.562556,
+        "lng": 9.990385300000002
+      },
+      "southwest": {
+        "lat": 53.560118,
+        "lng": 9.9880581
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 531
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 191
+        },
+        "end_address": "Bahnhof Dammtor / Dag-Hammarskj\u00f6ld-Platz, 20354 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.560118,
+          "lng": 9.989424099999999
+        },
+        "start_address": "Bahnhof Dammtor / Theodor-Heuss-Platz, 20148 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5614356,
+          "lng": 9.990385300000002
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5613664,
+              "lng": 9.990222400000002
+            },
+            "html_instructions": "Head <b>southwest</b> toward <b>Rothenbaumchaussee</b>",
+            "polyline": {
+              "points": "_f|eI}f~{@FLDR"
+            },
+            "start_location": {
+              "lat": 53.5614356,
+              "lng": 9.990385300000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.562556,
+              "lng": 9.989856999999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rothenbaumchaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qe|eI{e~{@IJGHGDk@L[BE?W@IDoAJSD"
+            },
+            "start_location": {
+              "lat": 53.5613664,
+              "lng": 9.990222400000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 96
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5621561,
+              "lng": 9.9888053
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_m|eIsc~{@Bb@V^`@p@R\\NZQ`@"
+            },
+            "start_location": {
+              "lat": 53.562556,
+              "lng": 9.989856999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "51 m",
+              "value": 51
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 66
+            },
+            "end_location": {
+              "lat": 53.561818,
+              "lng": 9.988553
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oj|eIa}}{@NRHLFLHPPYDJ"
+            },
+            "start_location": {
+              "lat": 53.5621561,
+              "lng": 9.9888053
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "45 m",
+              "value": 45
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5615353,
+              "lng": 9.9880581
+            },
+            "html_instructions": "Take the pedestrian tunnel",
+            "polyline": {
+              "points": "kh|eIm{}{@Vd@Vf@DL@D"
+            },
+            "start_location": {
+              "lat": 53.561818,
+              "lng": 9.988553
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 190
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.560118,
+              "lng": 9.989424099999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Dag-Hammarskj\u00f6ld-Platz</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sf|eIkx}{@`@c@DGFGBA@ADAB@H@L?PEV[?@@??@@??@@?@??@@?@?@A@??A@??Al@}@R[HMLONSBEPSFS"
+            },
+            "start_location": {
+              "lat": 53.5615353,
+              "lng": 9.9880581
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_f|eI}f~{@L`@QTs@Ra@BW@IDcBPBb@V^t@nANZQ`@X`@P^PYz@fB@D`@c@LONCH@^EVY@@@@B@DAnAkBr@}@FS"
+    },
+    "summary": "Rothenbaumchaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

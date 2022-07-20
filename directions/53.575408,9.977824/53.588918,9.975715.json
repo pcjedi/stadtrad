@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5888815,
+        "lng": 9.978124600000001
+      },
+      "southwest": {
+        "lat": 53.57542549999999,
+        "lng": 9.9686839
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1944
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 386
+        },
+        "end_address": "Martinistra\u00dfe / Haupteingang Klinikum, 20251 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5888815,
+          "lng": 9.9757576
+        },
+        "start_address": "Grindelberg / Bezirksamt Eimsb\u00fcttel, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57542549999999,
+          "lng": 9.9776705
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 445
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.5788822,
+              "lng": 9.9756444
+            },
+            "html_instructions": "Head <b>north</b> on <b>Grindelberg</b> toward <b>Oberstra\u00dfe</b>",
+            "polyline": {
+              "points": "m}~eImw{{@MCw@Um@Qk@O[M]KMCQAM@Q@SFQFIDc@\\]VSFMNMRM\\QZKTGRA@S\\U\\Q^GJOTMREF[`@CBMREHc@p@"
+            },
+            "start_location": {
+              "lat": 53.57542549999999,
+              "lng": 9.9776705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 941
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 210
+            },
+            "end_location": {
+              "lat": 53.5861512,
+              "lng": 9.9686839
+            },
+            "html_instructions": "Continue onto <b>Hoheluftchaussee</b>",
+            "polyline": {
+              "points": "_s_fIwj{{@STa@j@OTKNQV[^CDW\\Y\\e@j@e@j@MLWZKHGHUVc@d@MNWVm@n@STMP[^c@d@EDY\\UXKT]h@q@x@}@dAg@p@_@`@iApAMB_@b@]\\m@l@WTUR[POHQLWNSJ]PWHYH]J{@Vm@Lu@R"
+            },
+            "start_location": {
+              "lat": 53.5788822,
+              "lng": 9.9756444
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 558
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.5888815,
+              "lng": 9.9757576
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Martinistra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m`afIg_z{@K[K[IWEMK_@EOI[a@aBG[KQAAm@yBMc@Qo@o@}BG]c@cBWo@EMWaA_@sAACYcAe@aBeAuDMa@EOIW"
+            },
+            "start_location": {
+              "lat": 53.5861512,
+              "lng": 9.9686839
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m}~eImw{{@sBk@gA]k@O_@?e@H[LaAt@SFMN[p@]p@ITcAfB_ArAmCzDiAzAsBbCyDdEaBlB_@b@UXKToAbBeBvBiBrBMB_@b@kAjAm@h@uAx@q@\\q@RyAb@cB`@g@}A}@mDG[KQo@{B_@sAw@{Cc@cBWo@]oAaB}FcB_G"
+    },
+    "summary": "Hoheluftchaussee and Martinistra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

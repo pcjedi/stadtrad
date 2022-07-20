@@ -1,0 +1,95 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55679869999999,
+        "lng": 9.930297
+      },
+      "southwest": {
+        "lat": 53.5523251,
+        "lng": 9.9185787
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 964
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 200
+        },
+        "end_address": "Hohenzollernring / Friedensallee, 22763 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55679869999999,
+          "lng": 9.9185787
+        },
+        "start_address": "Gro\u00dfe Rainstra\u00dfe/Ottenser Hauptstra\u00dfe, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5523251,
+          "lng": 9.930297
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 247
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.55412200000001,
+              "lng": 9.928153
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Bahrenfelder Str.</b> toward <b>Kleine Rainstra\u00dfe</b>",
+            "polyline": {
+              "points": "amzeIkor{@AHCFGHIFeAt@{@`A[b@q@z@a@`@Q^g@x@Q\\OV"
+            },
+            "start_location": {
+              "lat": 53.5523251,
+              "lng": 9.930297
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 717
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 155
+            },
+            "end_location": {
+              "lat": 53.55679869999999,
+              "lng": 9.9185787
+            },
+            "html_instructions": "Continue onto <b>Friedensallee</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "gxzeI}ar{@u@xAa@t@s@pAS^_@p@Yl@Yn@Kr@EVUjCCb@SrCGx@SdCQbCUxCCl@M|@G^m@dDw@xE_@lB"
+            },
+            "start_location": {
+              "lat": 53.55412200000001,
+              "lng": 9.928153
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "amzeIkor{@EPQPeAt@{@`AmA~Aa@`@Q^y@vA{CxFgBnDQjAYnDaAvMYfEU|AeClN"
+    },
+    "summary": "Bahrenfelder Str. and Friedensallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

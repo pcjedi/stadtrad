@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5808097,
+        "lng": 10.0336488
+      },
+      "southwest": {
+        "lat": 53.5757268,
+        "lng": 10.0259794
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1098
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 281
+        },
+        "end_address": "Bartholom\u00e4usstra\u00dfe / Beim Alten Sch\u00fctzenhof, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5757268,
+          "lng": 10.0295188
+        },
+        "start_address": "Weidestra\u00dfe / Johannes-Prassek-Park, 22083 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5808097,
+          "lng": 10.0259794
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5806616,
+              "lng": 10.0259827
+            },
+            "html_instructions": "Head <b>south</b> toward <b>Weidestra\u00dfe</b>",
+            "polyline": {
+              "points": "a_`fIkee|@\\?"
+            },
+            "start_location": {
+              "lat": 53.5808097,
+              "lng": 10.0259794
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "31 m",
+              "value": 31
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.58060529999999,
+              "lng": 10.026438
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Weidestra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "c~_fIkee|@H{A"
+            },
+            "start_location": {
+              "lat": 53.5806616,
+              "lng": 10.0259827
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 389
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.5798496,
+              "lng": 10.0321571
+            },
+            "html_instructions": "Keep <b>left</b> to stay on <b>Weidestra\u00dfe</b>",
+            "maneuver": "keep-left",
+            "polyline": {
+              "points": "y}_fIghe|@?EAe@HeAHaADWHUPaD^eGF[NiA@m@Bu@HeAJ}ADk@@SF_A"
+            },
+            "start_location": {
+              "lat": 53.58060529999999,
+              "lng": 10.026438
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 371
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.57664399999999,
+              "lng": 10.0336488
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Adolph-Sch\u00f6nfelder-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ay_fI_lf|@JAJA\\E`@Id@Gn@Mp@OTEj@Un@Wb@Ux@c@pEaC"
+            },
+            "start_location": {
+              "lat": 53.5798496,
+              "lng": 10.0321571
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 291
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5757268,
+              "lng": 10.0295188
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Beim Alten Sch\u00fctzenhof</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_e_fIiuf|@v@~Fh@xDRhB@FLfAn@dE"
+            },
+            "start_location": {
+              "lat": 53.57664399999999,
+              "lng": 10.0336488
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "a_`fIkee|@\\?H{AAk@RgCNm@p@gLVeBDcBTcDF_AF_AJAh@GfAQ`B]`A[rAm@jGeD`BxLTpB|@lG"
+    },
+    "summary": "Weidestra\u00dfe, Adolph-Sch\u00f6nfelder-Stra\u00dfe and Beim Alten Sch\u00fctzenhof",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

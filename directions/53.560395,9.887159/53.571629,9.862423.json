@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5719015,
+        "lng": 9.8887902
+      },
+      "southwest": {
+        "lat": 53.5603942,
+        "lng": 9.862404
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.7 km",
+          "value": 2694
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 566
+        },
+        "end_address": "Osdorfer Landstra\u00dfe / Elbe-Einkaufszentrum, 22549 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5716894,
+          "lng": 9.862404
+        },
+        "start_address": "S Othmarschen / Beselerplatz, 22607 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5603942,
+          "lng": 9.8871165
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 221
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.56235460000001,
+              "lng": 9.886978
+            },
+            "html_instructions": "Head <b>north</b> on <b>Beselerpl.</b>/<wbr/><b>D\u00fcrerstra\u00dfe</b><div style=\"font-size:0.9em\">Continue to follow D\u00fcrerstra\u00dfe</div>",
+            "polyline": {
+              "points": "m_|eIoaj{@Y@WF_AFmAFo@DI@MBg@F[DK@IAKAGCAC?AAAMI"
+            },
+            "start_location": {
+              "lat": 53.5603942,
+              "lng": 9.8871165
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 631
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 134
+            },
+            "end_location": {
+              "lat": 53.5678954,
+              "lng": 9.8887902
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Ebertallee</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "uk|eIs`j{@KIm@SA?QEg@GYEQ?MGK?cB?K?IAcAGOAWEQCwBc@a@KQGMEk@U]M}@c@YMYM[K}@WQGICgAYKCGAu@WKCWK"
+            },
+            "start_location": {
+              "lat": 53.56235460000001,
+              "lng": 9.886978
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.8 km",
+              "value": 1809
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 343
+            },
+            "end_location": {
+              "lat": 53.5719015,
+              "lng": 9.862663999999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Osdorfer Weg</b>/<wbr/><b>B431</b><div style=\"font-size:0.9em\">Continue to follow B431</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kn}eI}kj{@CVCRWdCAHGr@G`AMnBGbAG|@Cr@I|AALQvDAZStE]vHE`ACZANC^CZEXALAJMdA?BOfAEZGXERCLGTABCLGPGRCJITKXA@KXa@hA]jAIXQj@W~@Qn@]nACHI\\y@~CI\\Md@EVKj@If@CTCNCRCZAPAHEj@AXAVAj@A^?NEfDA~@E~CCfCG~BErAAh@ANCn@EfAGxAGjAEn@EhAAPAHCv@Er@Cd@QlDCd@Cp@ARI|AATG~AQbE"
+            },
+            "start_location": {
+              "lat": 53.5678954,
+              "lng": 9.8887902
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.5716894,
+              "lng": 9.862404
+            },
+            "html_instructions": "Turn <b>left</b> at <b>Flurkamp</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kg~eIshe{@VDJJBJ@T"
+            },
+            "start_location": {
+              "lat": 53.5719015,
+              "lng": 9.862663999999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m_|eIoaj{@Y@WFmCNoBRg@FUCIGACYSo@Sy@Mk@EYGoB?uBQiCg@s@Sy@[{Aq@s@[yAc@oBi@aBi@a@zDe@hHW|EeA`VOlCMnAc@lDYpAUv@[|@uAhEkDpMS|@UrAOtAK`BErBQnOQlGi@rLs@hOItBQbEVDJJBJ@T"
+    },
+    "summary": "B431",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

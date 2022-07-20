@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5542033,
+        "lng": 10.0956058
+      },
+      "southwest": {
+        "lat": 53.54664870000001,
+        "lng": 10.0848933
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1270
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 241
+        },
+        "end_address": "U Horner Rennbahn / Meurerweg, 22111 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5542033,
+          "lng": 10.0853464
+        },
+        "start_address": "U Legienstra\u00dfe / Riedweg, 22111 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5476916,
+          "lng": 10.0956058
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5478342,
+              "lng": 10.0953175
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Riedweg</b> toward <b>Vierbergen</b>",
+            "polyline": {
+              "points": "apyeIqxr|@CDENQb@"
+            },
+            "start_location": {
+              "lat": 53.5476916,
+              "lng": 10.0956058
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 209
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.54664870000001,
+              "lng": 10.092911
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Vierbergen</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}pyeIwvr|@LRHLHNT\\Zj@Rb@DJVh@Rd@Rl@Tv@Rv@RfA"
+            },
+            "start_location": {
+              "lat": 53.5478342,
+              "lng": 10.0953175
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 926
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 182
+            },
+            "end_location": {
+              "lat": 53.5534202,
+              "lng": 10.0848933
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Washingtonallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qiyeIugr|@wBbBe@\\q@j@IFoAfA_@Zc@b@]ZWTcA~@w@z@i@j@ST]d@ONg@l@wAhByAlB]`@m@|@i@x@i@z@GHu@nAS\\S\\c@v@]l@Wd@c@|@KPEL[l@[n@IPKR"
+            },
+            "start_location": {
+              "lat": 53.54664870000001,
+              "lng": 10.092911
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.55364369999999,
+              "lng": 10.0854069
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{szeIqup|@KOCCCCOICAACAC?E?u@"
+            },
+            "start_location": {
+              "lat": 53.5534202,
+              "lng": 10.0848933
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "62 m",
+              "value": 62
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5542033,
+              "lng": 10.0853464
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "guzeIyxp|@A?mBJ"
+            },
+            "start_location": {
+              "lat": 53.55364369999999,
+              "lng": 10.0854069
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "apyeIqxr|@ITQb@LRR\\p@hAdA~Bh@dBf@~ByEtDqDbD{AtAaBfBiBxBqDvEkA~AqCnEiB`DmAbCmAbCOSSMEEAIAu@mBJ"
+    },
+    "summary": "Washingtonallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

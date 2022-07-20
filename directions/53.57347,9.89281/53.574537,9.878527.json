@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5745435,
+        "lng": 9.8929955
+      },
+      "southwest": {
+        "lat": 53.5721167,
+        "lng": 9.8785251
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1238
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 286
+        },
+        "end_address": "Flottbeker Drift 56, 22607 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5745236,
+          "lng": 9.8785251
+        },
+        "start_address": "Luruper Chauseee / Ebertallee, 22761 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.573559,
+          "lng": 9.8929955
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.57378989999999,
+              "lng": 9.892650699999999
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Luruper Ch</b> toward <b>Ebertallee</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "wq~eIgfk{@CFUZOTCJ"
+            },
+            "start_location": {
+              "lat": 53.573559,
+              "lng": 9.8929955
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "71 m",
+              "value": 71
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5734443,
+              "lng": 9.8917592
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ebertallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "es~eIadk{@P`@@@?@FNH`@HVBT@HDP?@?@@?DF@B"
+            },
+            "start_location": {
+              "lat": 53.57378989999999,
+              "lng": 9.892650699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 772
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 144
+            },
+            "end_location": {
+              "lat": 53.5721167,
+              "lng": 9.8805848
+            },
+            "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>Notkestra\u00dfe</b>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "_q~eIo~j{@C?A?A?A?A@A?A@A@A@A@?@A@A@?@A@?@?@A@?@?@?BA@?@?B?@?B?@?B?@?@@@?@?@?@@??@?@\\rCPrA`@bDTxBFl@HbAFj@B\\VpCf@jFDZLlALtADZNfBHr@DdABvAHlGDnC@`C"
+            },
+            "start_location": {
+              "lat": 53.5734443,
+              "lng": 9.8917592
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 269
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5744368,
+              "lng": 9.879813
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Notkestra\u00dfe</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wh~eIsxh{@w@Sq@I[@G@A?SBa@F]L}@f@qBjA{@d@"
+            },
+            "start_location": {
+              "lat": 53.5721167,
+              "lng": 9.8805848
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "26 m",
+              "value": 26
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5745435,
+              "lng": 9.879508699999999
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gw~eIysh{@BNWj@"
+            },
+            "start_location": {
+              "lat": 53.5744368,
+              "lng": 9.879813
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "66 m",
+              "value": 66
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5745236,
+              "lng": 9.8785251
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{w~eI}qh{@Fz@?\\CxA?N"
+            },
+            "start_location": {
+              "lat": 53.5745435,
+              "lng": 9.879508699999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wq~eIgfk{@Yb@S`@Rb@ZjAJr@FHABC?E@EDGNCR@PrArKxBnUp@fHNxBLdJFpGiB]y@F_AToDrB{@d@BNWj@Fz@CvB?N"
+    },
+    "summary": "Notkestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

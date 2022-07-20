@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6120975,
+        "lng": 10.040986
+      },
+      "southwest": {
+        "lat": 53.6009992,
+        "lng": 10.0230505
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.4 km",
+          "value": 2395
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 514
+        },
+        "end_address": "Alsterdorfer Markt / Evangelische Stiftung, 22297 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6120975,
+          "lng": 10.0239366
+        },
+        "start_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hartzloh, 22307 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6009992,
+          "lng": 10.040986
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 834
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 148
+            },
+            "end_location": {
+              "lat": 53.6083446,
+              "lng": 10.038608
+            },
+            "html_instructions": "Head <b>north</b> on <b>Fuhlsb\u00fcttler Str.</b> toward <b>Hartzloh</b>",
+            "polyline": {
+              "points": "g}cfIech|@C@]DmAFmAHmAJOBm@DUDQDWDSDg@JI@SDKBw@NyBf@sA^gA\\[NA@k@VA?IDA?CBWL{@b@s@Zq@VWHWHWFa@HoAZSDaC^G@O@"
+            },
+            "start_location": {
+              "lat": 53.6009992,
+              "lng": 10.040986
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 793
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 214
+            },
+            "end_location": {
+              "lat": 53.6061932,
+              "lng": 10.0272517
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hebebrandstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ckefIitg|@ChA?b@@b@DzABl@LnBBL@LLt@@BJfALtAP`BZrDBXPvAVjBDh@Ff@BXH|@LfA@LH`ATnBNhAVnB?@h@vCBJNf@@HvAfH"
+            },
+            "start_location": {
+              "lat": 53.6083446,
+              "lng": 10.038608
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 641
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 125
+            },
+            "end_location": {
+              "lat": 53.6113696,
+              "lng": 10.0230505
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sengelmannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "u}dfIime|@a@VCBw@j@c@V]RKDULk@Xk@^sAx@cAt@OJ}@l@IFi@^{A~@UNYRg@`@CDC?CBYX]^y@z@u@x@k@j@KLEBCBm@p@"
+            },
+            "start_location": {
+              "lat": 53.6061932,
+              "lng": 10.0272517
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "69 m",
+              "value": 69
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.6117034,
+              "lng": 10.0239273
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alsterdorfer Markt</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a~efIasd|@k@_CEQEMCICCAA"
+            },
+            "start_location": {
+              "lat": 53.6113696,
+              "lng": 10.0230505
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.6117466,
+              "lng": 10.024148
+            },
+            "html_instructions": "Slight <b>right</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "c`ffIqxd|@EWAMAE"
+            },
+            "start_location": {
+              "lat": 53.6117034,
+              "lng": 10.0239273
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.6120975,
+              "lng": 10.0239366
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "m`ffI}yd|@m@f@GDC@A?C?A?ACAA"
+            },
+            "start_location": {
+              "lat": 53.6117466,
+              "lng": 10.024148
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g}cfIech|@}DXaDZgEx@yBf@sA^gA\\[Nm@XKDyAt@eBr@o@R}Cr@iC`@O@ChA@fAHhCP|BNbAl@bG^lEh@bEZhDn@fGf@xDh@xCRr@xApHaC~AkB`A_CxAsA`AgAt@eC~A{AjA_A|@gDnDIFm@p@k@_CK_@GMGYCS{@n@IE"
+    },
+    "summary": "Fuhlsb\u00fcttler Str., Hebebrandstra\u00dfe and Sengelmannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

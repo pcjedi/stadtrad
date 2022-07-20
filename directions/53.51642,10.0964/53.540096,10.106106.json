@@ -1,0 +1,359 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5400784,
+        "lng": 10.1144713
+      },
+      "southwest": {
+        "lat": 53.5163008,
+        "lng": 10.0963195
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.7 km",
+          "value": 3671
+        },
+        "duration": {
+          "text": "14 mins",
+          "value": 839
+        },
+        "end_address": "Billstedter Platz / \u00d6jendorfer Weg, 22111 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5400784,
+          "lng": 10.1060908
+        },
+        "start_address": "Alter Landweg 40, 22113 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5163603,
+          "lng": 10.0963195
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5163318,
+              "lng": 10.0967296
+            },
+            "html_instructions": "Head <b>southeast</b> toward <b>Alter Landweg</b>",
+            "polyline": {
+              "points": "glseI_}r|@FM@G@E?A?G?KE_@"
+            },
+            "start_location": {
+              "lat": 53.5163603,
+              "lng": 10.0963195
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 373
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.5189852,
+              "lng": 10.0998312
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alter Landweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "alseIq_s|@A@G?GEMOeAcBACkGuJg@q@QUMSc@k@IGGAI?C@GFKL"
+            },
+            "start_location": {
+              "lat": 53.5163318,
+              "lng": 10.0967296
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1007
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 231
+            },
+            "end_location": {
+              "lat": 53.5257818,
+              "lng": 10.1098439
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Unterer Landweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "u|seI}rs|@Ka@M_@Yu@Ue@KQMQMSg@{@A?u@mA[g@CE{A}BaBgCU]}@uAYg@GIYi@m@eAAA_@m@SYyCqEwBkDACAACEc@o@KSOUQi@K[MYIOYe@Wc@OUGI[g@EIQWw@kAy@qAMSIOCGMK"
+            },
+            "start_location": {
+              "lat": 53.5189852,
+              "lng": 10.0998312
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 508
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 91
+            },
+            "end_location": {
+              "lat": 53.5300391,
+              "lng": 10.1079476
+            },
+            "html_instructions": "Continue onto <b>Liebigstra\u00dfe</b>",
+            "polyline": {
+              "points": "cgueIoqu|@OOKAe@CY@_@?[?s@@_CJYBcAP[Fg@N[Lk@Zm@ZKHq@l@u@p@e@j@KPY`@OR_@l@"
+            },
+            "start_location": {
+              "lat": 53.5257818,
+              "lng": 10.1098439
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 528
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 119
+            },
+            "end_location": {
+              "lat": 53.5326404,
+              "lng": 10.1144713
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rote Br\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "waveIueu|@a@eAGYGSAGEUE]CWC_@Ge@G[CSGc@Ge@AE[yAYaA?AGU_@iAQm@Qs@YeAGUIQAIQu@AEOm@Ka@GQGSK[Q_@Sc@OWOWYg@EACCEEEIGIEGY_@"
+            },
+            "start_location": {
+              "lat": 53.5300391,
+              "lng": 10.1079476
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 156
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5335361,
+              "lng": 10.1126516
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Niederschleems</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_rveImnv|@i@lA]|@kB~E"
+            },
+            "start_location": {
+              "lat": 53.5326404,
+              "lng": 10.1144713
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5342358,
+              "lng": 10.1134309
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Schleemer Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "swveIacv|@KGIGKGIIIKKOCCAAAAGGAAACMS[e@KM"
+            },
+            "start_location": {
+              "lat": 53.5335361,
+              "lng": 10.1126516
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 141
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.535215,
+              "lng": 10.1124349
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schleemer Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_|veI}gv|@[n@i@z@g@p@]b@W\\IBE@EA?ACCEU"
+            },
+            "start_location": {
+              "lat": 53.5342358,
+              "lng": 10.1134309
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 501
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 168
+            },
+            "end_location": {
+              "lat": 53.5380024,
+              "lng": 10.1065842
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Billstedter Hauptstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cbweIuav|@]z@]p@Sh@Uj@a@fAe@rAa@dAi@~ACFUn@Yx@Qb@IPUj@OBq@rAGNWv@w@hCIV?VQj@Up@"
+            },
+            "start_location": {
+              "lat": 53.535215,
+              "lng": 10.1124349
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 130
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5390723,
+              "lng": 10.1073581
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hertelstieg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "osweIc}t|@a@]c@[YWQMKMUOaA]"
+            },
+            "start_location": {
+              "lat": 53.5380024,
+              "lng": 10.1065842
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 97
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5393214,
+              "lng": 10.1059447
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>M\u00f6llner Landstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ezweI_bu|@q@zG"
+            },
+            "start_location": {
+              "lat": 53.5390723,
+              "lng": 10.1073581
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5399681,
+              "lng": 10.1064511
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w{weIcyt|@iA}@w@g@"
+            },
+            "start_location": {
+              "lat": 53.5393214,
+              "lng": 10.1059447
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5400784,
+              "lng": 10.1060908
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "y_xeIi|t|@UfA"
+            },
+            "start_location": {
+              "lat": 53.5399681,
+              "lng": 10.1064511
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "glseI_}r|@J]?SG]OEsAsBmGyJy@gAq@_AQIM@STYaAo@{AoAsBiJuNiBaDa@o@mDkF_CwDo@cAa@_AYu@c@u@kAkBiC_EWc@QSOOKA_AAoB@yCNcAPcAVgAh@y@d@gB~A{ArB_@l@a@eAOm@QsAWuBm@iDaAcDeA}DkAmE]{@c@{@i@_AIEYa@Y_@i@lAiC|GUOUQ[a@MOi@y@KM[n@qAlBu@`AODECIY{@lBqBpFqDxJOBq@rA_@fAaA`D?VQj@Up@a@]}@s@][UOaA]q@zGiA}@w@g@UfA"
+    },
+    "summary": "Unterer Landweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

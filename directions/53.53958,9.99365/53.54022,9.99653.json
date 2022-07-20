@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5402017,
+        "lng": 9.9965313
+      },
+      "southwest": {
+        "lat": 53.5395911,
+        "lng": 9.9936332
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.2 km",
+          "value": 220
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 38
+        },
+        "end_address": "U \u00dcberseequartier / Grasbrookpark, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5402017,
+          "lng": 9.9964579
+        },
+        "start_address": "Am Strandkai / Gro\u00dfer Grasbrook, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5395911,
+          "lng": 9.9936332
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5397081,
+              "lng": 9.993677500000002
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Am Strandkai</b>",
+            "polyline": {
+              "points": "m}weIe{~{@AAACAAC?E?GA"
+            },
+            "start_location": {
+              "lat": 53.5395911,
+              "lng": 9.9936332
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5397455,
+              "lng": 9.9939953
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Am Strandkai</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "e~weIo{~{@?G?IAIAGC["
+            },
+            "start_location": {
+              "lat": 53.5397081,
+              "lng": 9.993677500000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 172
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5400997,
+              "lng": 9.9965313
+            },
+            "html_instructions": "Continue onto <b>H\u00fcbenerstra\u00dfe</b>",
+            "polyline": {
+              "points": "m~weIo}~{@K{AS_COcBSaDAW"
+            },
+            "start_location": {
+              "lat": 53.5397455,
+              "lng": 9.9939953
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "12 m",
+              "value": 12
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5402017,
+              "lng": 9.9964579
+            },
+            "html_instructions": "Turn <b>left</b> at <b>Chicagostra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "s`xeIim_|@SL"
+            },
+            "start_location": {
+              "lat": 53.5400997,
+              "lng": 9.9965313
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m}weIe{~{@IGMA?QSiCc@cFUyDSL"
+    },
+    "summary": "H\u00fcbenerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

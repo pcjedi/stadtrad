@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5761452,
+        "lng": 10.036296
+      },
+      "southwest": {
+        "lat": 53.5670015,
+        "lng": 10.0295188
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1432
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 334
+        },
+        "end_address": "Bartholom\u00e4usstra\u00dfe / Beim Alten Sch\u00fctzenhof, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5757268,
+          "lng": 10.0295188
+        },
+        "start_address": "Lerchenfeld / Uferstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5670015,
+          "lng": 10.031798
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 400
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 66
+            },
+            "end_location": {
+              "lat": 53.5693671,
+              "lng": 10.036296
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Uferstra\u00dfe</b> toward <b>Finkenau</b>",
+            "polyline": {
+              "points": "wh}eIwif|@Wq@y@wBUm@EKgAmCEGECEAC?Mg@Og@Wg@eAkBGOw@iB]{@Qc@a@eA"
+            },
+            "start_location": {
+              "lat": 53.5670015,
+              "lng": 10.031798
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 466
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.5729053,
+              "lng": 10.0325059
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Leo-Leistikow-Allee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qw}eI{eg|@oA|AaBfBwC`Ds@v@GF}AbBUTUZo@l@IHqAvAg@f@"
+            },
+            "start_location": {
+              "lat": 53.5693671,
+              "lng": 10.036296
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 117
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.5736996,
+              "lng": 10.0336571
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Oberaltenallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "um~eIenf|@AE_@m@GKQWCEiAmBQSAE"
+            },
+            "start_location": {
+              "lat": 53.5729053,
+              "lng": 10.0325059
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 314
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 111
+            },
+            "end_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Heitmannstra\u00dfe</b>/<wbr/><b>Richardstra\u00dfe</b><div style=\"font-size:0.9em\">Continue to follow Heitmannstra\u00dfe</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sr~eIkuf|@QZ[h@oAvBU`@q@^}@h@i@V}A|@}Az@"
+            },
+            "start_location": {
+              "lat": 53.5736996,
+              "lng": 10.0336571
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 135
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5757268,
+              "lng": 10.0295188
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Beim Alten Sch\u00fctzenhof</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}a_fIogf|@RhB@FLfAn@dE"
+            },
+            "start_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh}eIwif|@mBcFmAuCKEC?Mg@g@oAmA{BuAeDs@iBqDdEqHdIeBhByB~Ba@s@gBwCSYm@dAeBxCoBhAgCtA}Az@RhBNnAn@dE"
+    },
+    "summary": "Uferstra\u00dfe and Leo-Leistikow-Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

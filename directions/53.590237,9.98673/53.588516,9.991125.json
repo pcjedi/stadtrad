@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5903244,
+        "lng": 9.9915874
+      },
+      "southwest": {
+        "lat": 53.5884449,
+        "lng": 9.9867416
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 455
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 128
+        },
+        "end_address": "U Kellinghusenstra\u00dfe / Loogeplatz, 20249 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5884449,
+          "lng": 9.9914127
+        },
+        "start_address": "K\u00fcmmellstra\u00dfe / Robert-Koch-Stra\u00dfe, 20249 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5903244,
+          "lng": 9.9867416
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5902299,
+              "lng": 9.987267899999999
+            },
+            "html_instructions": "Head <b>east</b> on <b>K\u00fcmmellstra\u00dfe</b> toward <b>Eppendorfer Landstra\u00dfe</b>",
+            "polyline": {
+              "points": "ozafIcp}{@?A@U@O@MJs@"
+            },
+            "start_location": {
+              "lat": 53.5903244,
+              "lng": 9.9867416
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 316
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.5893595,
+              "lng": 9.9915874
+            },
+            "html_instructions": "Continue onto <b>Goernestra\u00dfe</b>",
+            "polyline": {
+              "points": "}yafIms}{@L}@Nc@x@sB|@iCPu@BS?q@?e@?CA{AAwC?ID{A"
+            },
+            "start_location": {
+              "lat": 53.5902299,
+              "lng": 9.987267899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "85 m",
+              "value": 85
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5885958,
+              "lng": 9.9915153
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kellinghusenstra\u00dfe</b>/<wbr/><b>Loogepl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "otafImn~{@FBH@D?D?B?D?d@BD?D@D?^@@@HAJ?"
+            },
+            "start_location": {
+              "lat": 53.5893595,
+              "lng": 9.9915874
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5884449,
+              "lng": 9.9914127
+            },
+            "html_instructions": "Keep <b>right</b> to continue on <b>Loogepl.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "keep-right",
+            "polyline": {
+              "points": "woafI_n~{@VNFD"
+            },
+            "start_location": {
+              "lat": 53.5885958,
+              "lng": 9.9915153
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ozafIcp}{@Du@XqBhAwC|@iCPu@BeAC}GDeBPDT?nBF^T"
+    },
+    "summary": "Goernestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5417116,
+        "lng": 9.9938625
+      },
+      "southwest": {
+        "lat": 53.5395675,
+        "lng": 9.9928786
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.3 km",
+          "value": 330
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 61
+        },
+        "end_address": "Am Strandkai / Gro\u00dfer Grasbrook, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5395911,
+          "lng": 9.9936332
+        },
+        "start_address": "Am Kaiserkai 2, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5416811,
+          "lng": 9.9928786
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5417116,
+              "lng": 9.993478999999999
+            },
+            "html_instructions": "Head <b>east</b> on <b>Am Kaiserkai</b> toward <b>Gro\u00dfer Grasbrook</b>",
+            "polyline": {
+              "points": "ojxeIov~{@EwB"
+            },
+            "start_location": {
+              "lat": 53.5416811,
+              "lng": 9.9928786
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 222
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5397256,
+              "lng": 9.9938625
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00dfer Grasbrook</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ujxeIgz~{@x@Iv@IfAMhBU\\EHA~@K"
+            },
+            "start_location": {
+              "lat": 53.5417116,
+              "lng": 9.993478999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5397152,
+              "lng": 9.993315299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Am Strandkai</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i~weIs|~{@@F@H?H?FAfA"
+            },
+            "start_location": {
+              "lat": 53.5397256,
+              "lng": 9.9938625
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5395911,
+              "lng": 9.9936332
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g~weIgy~{@B@DA@?BA@ABC@EBE@E?E?G?GAE?EAA"
+            },
+            "start_location": {
+              "lat": 53.5397152,
+              "lng": 9.993315299999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ojxeIov~{@EwBx@I~BWpEi@Bb@AfAB@FAJMDYCU"
+    },
+    "summary": "Gro\u00dfer Grasbrook",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

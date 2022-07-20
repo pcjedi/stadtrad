@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5992293,
+        "lng": 9.995889
+      },
+      "southwest": {
+        "lat": 53.5943171,
+        "lng": 9.9938849
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 576
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 150
+        },
+        "end_address": "U Hudtwalckerstra\u00dfe / Bebelallee, 22299 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5943171,
+          "lng": 9.995889
+        },
+        "start_address": "U Lattenkamp / Bebelallee, 20249 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5992293,
+          "lng": 9.9940108
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "html_instructions": "Head <b>west</b> on <b>Meenkwiese</b> toward <b>Bebelallee</b>",
+            "polyline": {
+              "points": "ercfIq}~{@@X"
+            },
+            "start_location": {
+              "lat": 53.5992293,
+              "lng": 9.9940108
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.59913419999999,
+              "lng": 9.9938915
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bebelallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "crcfIw|~{@PA"
+            },
+            "start_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 559
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.5943171,
+              "lng": 9.995889
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qqcfIy|~{@DSDKHQLSJQHINGdAS|A]lBg@hAUf@Md@MpAY~A_@vA]n@OXGt@Op@SPE"
+            },
+            "start_location": {
+              "lat": 53.59913419999999,
+              "lng": 9.9938915
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ercfIq}~{@@XPAJ_@Ve@T[NGdASjEeAhFkAzJ_C"
+    },
+    "summary": "Bebelallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

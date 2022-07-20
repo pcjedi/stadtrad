@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5762157,
+        "lng": 10.0685945
+      },
+      "southwest": {
+        "lat": 53.5712819,
+        "lng": 10.0582669
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1127
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 353
+        },
+        "end_address": "Schlo\u00dfstra\u00dfe 40, 22041 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5716167,
+          "lng": 10.0685945
+        },
+        "start_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "html_instructions": "Head <b>south</b> on <b>Krausestra\u00dfe</b> toward <b>Eilbektal</b>",
+            "polyline": {
+              "points": "kb_fIwok|@NFTH"
+            },
+            "start_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 151
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5747442,
+              "lng": 10.0589344
+            },
+            "html_instructions": "Continue onto <b>M\u00fchlenstra\u00dfe</b>",
+            "polyline": {
+              "points": "ea_fIeok|@~@MJOXQh@S`Ag@PG\\O"
+            },
+            "start_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 236
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 83
+            },
+            "end_location": {
+              "lat": 53.5751905,
+              "lng": 10.0624083
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cy~eIisk|@?a@@uAI_@E_ACWk@uGSeCGg@?C"
+            },
+            "start_location": {
+              "lat": 53.5747442,
+              "lng": 10.0589344
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 454
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 114
+            },
+            "end_location": {
+              "lat": 53.5713512,
+              "lng": 10.0647251
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wandsbeker K\u00f6nigstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}{~eIail|@j@UpAu@j@WbAg@dCiAVSVMbAi@b@UXKj@[dAi@j@Wb@UHEDEFK"
+            },
+            "start_location": {
+              "lat": 53.5751905,
+              "lng": 10.0624083
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 265
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.5716167,
+              "lng": 10.0685945
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schlo\u00dfstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}c~eIqwl|@@K@G?G@IASKo@?IAM?OBSDQ@IF_@?C@K@K?OAYCe@Cc@?AKYE}@EeAEc@MwBMuA"
+            },
+            "start_location": {
+              "lat": 53.5713512,
+              "lng": 10.0647251
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kb_fIwok|@d@P~@MJOXQh@SrAo@\\O?a@@uAI_@IwA_A{KGk@j@U|BmAhEqBn@a@fB_AvDiBl@[LQDe@O{ABc@F[J{@Ai@GiA?AKYE}@KiB[mE"
+    },
+    "summary": "Wandsbeker K\u00f6nigstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

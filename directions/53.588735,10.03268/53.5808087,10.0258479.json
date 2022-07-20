@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5887523,
+        "lng": 10.0335978
+      },
+      "southwest": {
+        "lat": 53.5808097,
+        "lng": 10.025883
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1291
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 238
+        },
+        "end_address": "Weidestra\u00dfe / Johannes-Prassek-Park, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5808097,
+          "lng": 10.0259794
+        },
+        "start_address": "U Saarlandstra\u00dfe / Wiesendamm, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5887523,
+          "lng": 10.0330194
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 476
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5844903,
+              "lng": 10.0335701
+            },
+            "html_instructions": "Head <b>south</b> on <b>Saarlandstra\u00dfe</b> toward <b>Wiesendamm</b>",
+            "polyline": {
+              "points": "upafIkqf|@TCdAIn@Gd@?XE\\EFAz@IbBGnAKHAxCWf@Cf@ITETCHAB@R@F?F?B@D?T@"
+            },
+            "start_location": {
+              "lat": 53.5887523,
+              "lng": 10.0330194
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 218
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5839683,
+              "lng": 10.0304509
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Osterbekstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "av`fIytf|@DfA?T@BDj@Bd@Dd@NlCDdAFn@Dh@F\\FRHXJPDH"
+            },
+            "start_location": {
+              "lat": 53.5844903,
+              "lng": 10.0335701
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 280
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.5835364,
+              "lng": 10.0263589
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Osterbekstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yr`fIiaf|@?pCAtE?JDxAFfAFj@Fj@Jl@Jj@@DPv@Lj@"
+            },
+            "start_location": {
+              "lat": 53.5839683,
+              "lng": 10.0304509
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 173
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5821003,
+              "lng": 10.025883
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cp`fIwge|@RFHDJJHDJDHBJ@HALELCHCPALAL?Z?D?B?J?J@PLHLJXDN"
+            },
+            "start_location": {
+              "lat": 53.5835364,
+              "lng": 10.0263589
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 144
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5808097,
+              "lng": 10.0259794
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cg`fIwde|@LGNCRARAL?\\?nCC"
+            },
+            "start_location": {
+              "lat": 53.5821003,
+              "lng": 10.025883
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "upafIkqf|@zAMtAGzBWrDSbDYnAMj@Ih@@f@BLlC^~GLxANp@Tj@DH?pCA`FL`DNvAVxAR|@Lj@RFTPTJTDVGv@Kr@?V@PLHLPh@\\KrACnCC"
+    },
+    "summary": "Saarlandstra\u00dfe and Osterbekstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

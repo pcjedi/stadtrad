@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5598849,
+        "lng": 10.0322074
+      },
+      "southwest": {
+        "lat": 53.5432784,
+        "lng": 10.025795
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2130
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 501
+        },
+        "end_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "start_address": "Heidenkampsweg / R+V Versicherung, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54389880000001,
+          "lng": 10.0314839
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "76 m",
+              "value": 76
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5432784,
+              "lng": 10.0319619
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Heidenkampsweg</b>/<wbr/><b>B75</b> toward <b>Gr\u00fcner Deich</b>",
+            "polyline": {
+              "points": "kxxeIwgf|@ZWDCHGnA{@"
+            },
+            "start_location": {
+              "lat": 53.54389880000001,
+              "lng": 10.0314839
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.9 km",
+              "value": 1860
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 442
+            },
+            "end_location": {
+              "lat": 53.5588188,
+              "lng": 10.0259899
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Gr\u00fcner Deich</b><div style=\"font-size:0.9em\">Continue to follow B75</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "otxeIwjf|@GYEW[T}@n@[REDyCvBA@kBrAQLa@ZqBzAIFi@\\cEjC]VOLu@l@YReChB_Ap@s@d@k@`@CBYTk@\\_@TWLMHMFMFOFG@KBUDC@[FE@I@c@LWD]Fc@Lc@XABSRMRKNONIHA@IFSHA@SDm@Bi@COCA?[EYCOCKAIC_@Go@Si@OuA]_@K]KOGQEQE[IMCKCMEKEKEMIECKGMIQMOKKIA?KGKGIEKCICQFGDGFGLINm@dAGJQFOBMBi@Fa@F]Dg@HOBc@Fi@Ha@F}@NWDI@QB"
+            },
+            "start_location": {
+              "lat": 53.5432784,
+              "lng": 10.0319619
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 194
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "su{eImee|@CSGWGQEUUk@Oa@GKGCGCSi@CGQi@[{@Ws@]eA"
+            },
+            "start_location": {
+              "lat": 53.5588188,
+              "lng": 10.0259899
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kxxeIwgf|@zB_BMq@yAdA}DrCqGxEuGhEeFxDcD|BeAr@w@b@i@Xy@RiCh@c@Lc@XUVs@|@a@TSDm@By@GgAMeBa@mGcBs@Sk@[{@m@c@UUGYLgAjBGJQF]FqC^qFx@YsAe@mAOOGCSi@Uq@qAuD"
+    },
+    "summary": "B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

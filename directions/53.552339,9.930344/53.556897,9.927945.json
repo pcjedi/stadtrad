@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5568936,
+        "lng": 9.930297
+      },
+      "southwest": {
+        "lat": 53.5523251,
+        "lng": 9.9280732
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 573
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 124
+        },
+        "end_address": "V\u00f6lckersstra\u00dfe 1, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5568936,
+          "lng": 9.9280746
+        },
+        "start_address": "Gro\u00dfe Rainstra\u00dfe/Ottenser Hauptstra\u00dfe, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5523251,
+          "lng": 9.930297
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 247
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.55412200000001,
+              "lng": 9.928153
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Bahrenfelder Str.</b> toward <b>Kleine Rainstra\u00dfe</b>",
+            "polyline": {
+              "points": "amzeIkor{@AHCFGHIFeAt@{@`A[b@q@z@a@`@Q^g@x@Q\\OV"
+            },
+            "start_location": {
+              "lat": 53.5523251,
+              "lng": 9.930297
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 326
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 79
+            },
+            "end_location": {
+              "lat": 53.5568936,
+              "lng": 9.9280746
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Bahrenfelder Str.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gxzeI}ar{@Qg@Kc@CEACECG?W@g@DiCHiALyANk@Xu@Tc@HC?"
+            },
+            "start_location": {
+              "lat": 53.55412200000001,
+              "lng": 9.928153
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "amzeIkor{@EPQPeAt@{@`AmA~Aa@`@Q^y@vAOVQg@Oi@GGG?_AFiCHiALyANk@XyA^C?"
+    },
+    "summary": "Bahrenfelder Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5143135,
+        "lng": 9.9873035
+      },
+      "southwest": {
+        "lat": 53.5038345,
+        "lng": 9.9852887
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1192
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 209
+        },
+        "end_address": "Gro\u00df-Sand / Wilhelmsburger Krankenhaus, 21107 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5038345,
+          "lng": 9.9853958
+        },
+        "start_address": "Veringstra\u00dfe / Mannesallee, 21107 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.51430860000001,
+          "lng": 9.9873035
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5143135,
+              "lng": 9.9871955
+            },
+            "html_instructions": "Head <b>west</b> on <b>Mannesallee</b> toward <b>Veringstra\u00dfe</b>",
+            "polyline": {
+              "points": "m_seIss}{@?R"
+            },
+            "start_location": {
+              "lat": 53.51430860000001,
+              "lng": 9.9873035
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1064
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 187
+            },
+            "end_location": {
+              "lat": 53.50477679999999,
+              "lng": 9.986022799999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Veringstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "m_seI_s}{@nBLjCPvAHbBLL@|DXxBRvJp@`@B`@BN@ZBnCND?N@rCPL@hAFvALhBPP@H?PGHC"
+            },
+            "start_location": {
+              "lat": 53.5143135,
+              "lng": 9.9871955
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 121
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5038345,
+              "lng": 9.9853958
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00df-Sand</b>/<wbr/><b>Veringstra\u00dfe</b><div style=\"font-size:0.9em\">Partial restricted usage road</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{cqeIsk}{@P\\FJh@l@BDNPFFBBNNJDD?F?RGZM"
+            },
+            "start_location": {
+              "lat": 53.50477679999999,
+              "lng": 9.986022799999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m_seIss}{@?RnBLbFZhL|@lSpA`DR`DTzBRZGHCP\\p@x@^b@ZTL?n@U"
+    },
+    "summary": "Veringstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

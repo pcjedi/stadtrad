@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5778431,
+        "lng": 9.962462700000001
+      },
+      "southwest": {
+        "lat": 53.57242650000001,
+        "lng": 9.9517129
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1278
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 334
+        },
+        "end_address": "Heu\u00dfweg / Wiesenstra\u00dfe, 20255 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5778431,
+          "lng": 9.9530023
+        },
+        "start_address": "Osterstra\u00dfe / Bismarckstra\u00dfe, 20259 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5731535,
+          "lng": 9.962462700000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5729999,
+              "lng": 9.9623144
+            },
+            "html_instructions": "Head <b>southwest</b> toward <b>Bismarckstra\u00dfe</b>",
+            "polyline": {
+              "points": "eo~eIkxx{@DFDFDDBDB?B@"
+            },
+            "start_location": {
+              "lat": 53.5731535,
+              "lng": 9.962462700000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "74 m",
+              "value": 74
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.57242650000001,
+              "lng": 9.961741499999999
+            },
+            "html_instructions": "Continue onto <b>Bismarckstra\u00dfe</b>",
+            "polyline": {
+              "points": "gn~eImwx{@f@j@PPFFb@^JJ"
+            },
+            "start_location": {
+              "lat": 53.5729999,
+              "lng": 9.9623144
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 126
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.57286070000001,
+              "lng": 9.9599908
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Tegetthoffstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uj~eI{sx{@Kv@]|B[|BAFCDIZ"
+            },
+            "start_location": {
+              "lat": 53.57242650000001,
+              "lng": 9.961741499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5739221,
+              "lng": 9.9612585
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eppendorfer Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "km~eI}hx{@k@q@yAoBmA{A"
+            },
+            "start_location": {
+              "lat": 53.57286070000001,
+              "lng": 9.9599908
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 683
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 212
+            },
+            "end_location": {
+              "lat": 53.5760848,
+              "lng": 9.9517129
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Osterstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_t~eI{px{@a@jA[bAQn@ABK\\EBABQf@EHUv@Id@Cj@Gr@KtB?d@CVMxAQzAGh@_@tCWnBM`A[`CS`BId@S|AUbBMfAAPABIfAGlA"
+            },
+            "start_location": {
+              "lat": 53.5739221,
+              "lng": 9.9612585
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 230
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.5778431,
+              "lng": 9.9530023
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Heu\u00dfweg</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oa_fIeuv{@YIA?EDc@GGAC?[IA?EAk@MMEAAm@K?A@??A?A?A?A?A?A?A?A?AA??AA??AA?A?A?A@?@A??@Y_@GEQWEKMYGKO]Se@"
+            },
+            "start_location": {
+              "lat": 53.5760848,
+              "lng": 9.9517129
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "eo~eIkxx{@TZF@x@|@j@f@JJKv@y@zFELIZk@q@yAoBmA{A}@nCSr@Q`@Sj@[`AMpAShDC|@_@tDg@~DuAtKaAnHUjD[IEDkASaAUo@O@A?C?GEGE@A@a@c@Wc@Ue@c@cA"
+    },
+    "summary": "Osterstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

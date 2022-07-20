@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5637307,
+        "lng": 9.961044300000001
+      },
+      "southwest": {
+        "lat": 53.561271,
+        "lng": 9.9482448
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1078
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 254
+        },
+        "end_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "start_address": "Schulterblatt / Eifflerstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5627534,
+          "lng": 9.961044300000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 126
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Schulterblatt</b> toward <b>Eifflerstra\u00dfe</b>",
+            "polyline": {
+              "points": "en|eIoox{@[\\WRa@h@UP[T{@x@"
+            },
+            "start_location": {
+              "lat": 53.5627534,
+              "lng": 9.961044300000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 432
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 112
+            },
+            "end_location": {
+              "lat": 53.561271,
+              "lng": 9.9550362
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Max-Brauer-Allee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "it|eIqix{@T~@X`ABHFPP`@`A`Cf@nAN`@Rj@r@dBJTp@|Af@nA^~@DLJVDHPb@j@rA"
+            },
+            "start_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 442
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Stresemannstra\u00dfe</b>/<wbr/><b>B4</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}d|eI_jw{@SvAIj@Mr@In@KXCLEVI^E\\EVCXEVARCTCd@QfCEh@C`@IjAK~AShDIx@Eh@C^CXCVE^"
+            },
+            "start_location": {
+              "lat": 53.561271,
+              "lng": 9.9550362
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>D\u00fcppelstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "{k|eI_bv{@INKJCBGF}@X_@L"
+            },
+            "start_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "en|eIoox{@s@p@a@h@UPwAnAn@`C~A~D~BbGnDvIj@rASvAW~AIn@KXId@YnBOfBuAlSQpBa@f@}Af@"
+    },
+    "summary": "Max-Brauer-Allee and Stresemannstra\u00dfe/B4",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

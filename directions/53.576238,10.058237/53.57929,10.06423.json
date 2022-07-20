@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5795257,
+        "lng": 10.0640715
+      },
+      "southwest": {
+        "lat": 53.5762157,
+        "lng": 10.0583551
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 621
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 151
+        },
+        "end_address": "Els\u00e4sser Stra\u00dfe / Stormarner Stra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5791775,
+          "lng": 10.0640715
+        },
+        "start_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.5766244,
+              "lng": 10.0585159
+            },
+            "html_instructions": "Head <b>north</b> on <b>Krausestra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "kb_fIwok|@GCQIIEUOOBE?"
+            },
+            "start_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.57661719999999,
+              "lng": 10.0589691
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Dithmarscher Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{d_fIwpk|@?yA"
+            },
+            "start_location": {
+              "lat": 53.5766244,
+              "lng": 10.0585159
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 363
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.5795257,
+              "lng": 10.0614421
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Dithmarscher Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{d_fIqsk|@A?CAsFqEAAoBaBIOyAiAuAiAQKME"
+            },
+            "start_location": {
+              "lat": 53.57661719999999,
+              "lng": 10.0589691
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 159
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5793015,
+              "lng": 10.0638219
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Probsteier Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aw_fI_cl|@VwFDaANaD"
+            },
+            "start_location": {
+              "lat": 53.5795257,
+              "lng": 10.0614421
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5791775,
+              "lng": 10.0640715
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Els\u00e4sser Str.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "su_fI{ql|@Vq@"
+            },
+            "start_location": {
+              "lat": 53.5793015,
+              "lng": 10.0638219
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kb_fIwok|@y@c@UB?yAEAuFsEoBaBIOoDsC_@Q\\yHNaDVq@"
+    },
+    "summary": "Dithmarscher Str. and Probsteier Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55988989999999,
+        "lng": 10.0621748
+      },
+      "southwest": {
+        "lat": 53.5558493,
+        "lng": 10.0552857
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 950
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 211
+        },
+        "end_address": "U Hammer Kirche / Hammer Park, 20535 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5568052,
+          "lng": 10.0552857
+        },
+        "start_address": "Caspar-Voght-Stra\u00dfe / Sievekingsallee, 20535 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55988989999999,
+          "lng": 10.0616215
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "54 m",
+              "value": 54
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.55940649999999,
+              "lng": 10.0616981
+            },
+            "html_instructions": "Head <b>south</b> on <b>Caspar-Voght-Stra\u00dfe</b> toward <b>Fahrenkamp</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "i|{eIcdl|@`@CVAd@I"
+            },
+            "start_location": {
+              "lat": 53.55988989999999,
+              "lng": 10.0616215
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5594001,
+              "lng": 10.0615276
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Fahrenkamp</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "iy{eIsdl|@@`@"
+            },
+            "start_location": {
+              "lat": 53.55940649999999,
+              "lng": 10.0616981
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 397
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.5558493,
+              "lng": 10.0621748
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Caspar-Voght-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gy{eIqcl|@p@MLArC[TCjBQZCZGB?JCpAMZEjCOl@I"
+            },
+            "start_location": {
+              "lat": 53.5594001,
+              "lng": 10.0615276
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 397
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.5561975,
+              "lng": 10.0561977
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Horner Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ac{eIqgl|@AlAIxCIdDKtECpAAZAj@?XC`AG|A?NElAC`A?RE|@"
+            },
+            "start_location": {
+              "lat": 53.5558493,
+              "lng": 10.0621748
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "91 m",
+              "value": 91
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5568052,
+              "lng": 10.0552857
+            },
+            "html_instructions": "Continue onto <b>b. d. Hammer Kirche</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "ge{eIgbk|@ERCLi@x@MPk@v@KN"
+            },
+            "start_location": {
+              "lat": 53.5561975,
+              "lng": 10.0561977
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i|{eIcdl|@x@Ed@I@`@~@OhD_@fD]|AQfDUl@IAlAS~HSnJ[jLI`@w@jAw@fA"
+    },
+    "summary": "Caspar-Voght-Stra\u00dfe and Horner Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5401063,
+        "lng": 10.0428079
+      },
+      "southwest": {
+        "lat": 53.5342819,
+        "lng": 10.038876
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 842
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 167
+        },
+        "end_address": "Rothenburgsorter Marktplatz / Lindleystra\u00dfe, 20539 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5342819,
+          "lng": 10.0389246
+        },
+        "start_address": "S Rothenburgsort / Billhorner Deich, 20539 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5401063,
+          "lng": 10.0428079
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 546
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 95
+            },
+            "end_location": {
+              "lat": 53.5352382,
+              "lng": 10.0418971
+            },
+            "html_instructions": "Head <b>south</b> on <b>Billhorner Deich</b> toward <b>Ausschl\u00e4ger Billdeich</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div>",
+            "polyline": {
+              "points": "u`xeIqnh|@F@x@Hv@HLBPDJHH@jBN\\DRCD?`@D`AJ`@DRB`@Dh@FTBD@L@H@r@HRBv@Hj@Fl@HdCX"
+            },
+            "start_location": {
+              "lat": 53.5401063,
+              "lng": 10.0428079
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 118
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5355917,
+              "lng": 10.0402284
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Marckmannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gbweI{hh|@O~AGf@EVAHAFCDENCNCNIp@C`@CP"
+            },
+            "start_location": {
+              "lat": 53.5352382,
+              "lng": 10.0418971
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 173
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lindleystra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mdweIm~g|@hBzA@F@B?B?D?@?B?D?B?B?@@@DDRPTRv@t@NFTX"
+            },
+            "start_location": {
+              "lat": 53.5355917,
+              "lng": 10.0402284
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "5 m",
+              "value": 5
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5342819,
+              "lng": 10.0389246
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Rothenburgsorter Marktpl.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o|veI_vg|@FG"
+            },
+            "start_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "u`xeIqnh|@fCXPDJHtBP\\DRCf@DxCZ|Eh@xAPdCXO~AM~@CPQt@MrACPhBzABJ?H?NFLh@d@fA|@TXFG"
+    },
+    "summary": "Billhorner Deich",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5399525,
+        "lng": 10.0235541
+      },
+      "southwest": {
+        "lat": 53.53578839999999,
+        "lng": 10.0134686
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1065
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 205
+        },
+        "end_address": "Versmannstra\u00dfe / Gerda-Gmelin Platz, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5399525,
+          "lng": 10.0134686
+        },
+        "start_address": "Amerigo-Vespucci-Platz / Baakenwerder Stra\u00dfe, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5365043,
+          "lng": 10.0223617
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "66 m",
+              "value": 66
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5359455,
+              "lng": 10.0221953
+            },
+            "html_instructions": "Head <b>south</b> on <b>Baakenwerder Str.</b> toward <b>Amerigo-Vespucci-Platz</b>",
+            "polyline": {
+              "points": "cjweIwnd|@z@b@TLJCFCFI"
+            },
+            "start_location": {
+              "lat": 53.5365043,
+              "lng": 10.0223617
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.53578839999999,
+              "lng": 10.0219667
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Baakenwerder Str.</b>/<wbr/><b>Kirchenpauerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ufweIwmd|@^l@"
+            },
+            "start_location": {
+              "lat": 53.5359455,
+              "lng": 10.0221953
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5359977,
+              "lng": 10.0223155
+            },
+            "html_instructions": "Make a <b>U-turn</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "ueweIild|@_@m@IW"
+            },
+            "start_location": {
+              "lat": 53.53578839999999,
+              "lng": 10.0219667
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 234
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5379522,
+              "lng": 10.0235541
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Baakenwerder Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_gweIond|@SBKAIEICIEWQECgAu@AAsBgAKI}@e@a@a@"
+            },
+            "start_location": {
+              "lat": 53.5359977,
+              "lng": 10.0223155
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 709
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 126
+            },
+            "end_location": {
+              "lat": 53.5399525,
+              "lng": 10.0134686
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Versmannstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "esweIevd|@KTMVYp@MXWnAI\\G^Mp@CXWbCm@bGStBCZCZGv@q@bHy@zIs@jJAHEf@"
+            },
+            "start_location": {
+              "lat": 53.5379522,
+              "lng": 10.0235541
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cjweIwnd|@pAp@RGFI^l@_@m@IWSBKASIoBqA_EyBa@a@KTg@hAMXWnAQ|@QjAeAfKc@dFkB~Ru@tJEf@"
+    },
+    "summary": "Baakenwerder Str. and Versmannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

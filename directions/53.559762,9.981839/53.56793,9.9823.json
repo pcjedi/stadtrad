@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5679565,
+        "lng": 9.9821987
+      },
+      "southwest": {
+        "lat": 53.5597124,
+        "lng": 9.976084499999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1259
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 352
+        },
+        "end_address": "Allende-Platz / Grindelhof, 20146 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5679565,
+          "lng": 9.9821987
+        },
+        "start_address": "St. Petersburger Stra\u00dfe / Bei den Kirchh\u00f6fen, 20355 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5597124,
+          "lng": 9.9818793
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5597632,
+              "lng": 9.9820563
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>b. den Kirchh\u00f6fen</b> toward <b>St.Petersburger Str.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "e{{eIwq|{@Ic@"
+            },
+            "start_location": {
+              "lat": 53.5597124,
+              "lng": 9.9818793
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 499
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 117
+            },
+            "end_location": {
+              "lat": 53.5624962,
+              "lng": 9.976084499999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>St.Petersburger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o{{eI{r|{@U\\?@Yl@IRQd@aAxCuA`Em@jBOb@Qh@IViAdDGLe@xAa@bAUl@MPOd@W|@"
+            },
+            "start_location": {
+              "lat": 53.5597632,
+              "lng": 9.9820563
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 645
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 209
+            },
+            "end_location": {
+              "lat": 53.5673165,
+              "lng": 9.9812086
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rentzelstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sl|eIom{{@]QKEGE}@c@y@c@UMUOSKc@YOc@YYGESMWQ_@SCAq@]WOYSa@_@MOMQa@o@Ua@GOMUKWe@cAKUEOIIKMYi@U[OYS[Yk@Ue@i@s@IOIKUWQQ"
+            },
+            "start_location": {
+              "lat": 53.5624962,
+              "lng": 9.976084499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 102
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5679565,
+              "lng": 9.9821987
+            },
+            "html_instructions": "Continue onto <b>Grindelhof</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "wj}eIqm|{@OUAAi@m@c@k@EEACACACACCI@K?I?GCGAECCEC"
+            },
+            "start_location": {
+              "lat": 53.5673165,
+              "lng": 9.9812086
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "e{{eIwq|{@Ic@U\\Yn@sDtKyApEqArDgA|Cc@~@g@bBoBaAyBmAc@YOc@a@_@k@_@c@UiAm@{@s@[a@w@qAgAaCQe@UWsA{Bo@qAs@cAaAkAuAaBGOCI@K?QEMIG"
+    },
+    "summary": "St.Petersburger Str. and Rentzelstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

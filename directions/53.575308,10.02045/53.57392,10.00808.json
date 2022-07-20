@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5750772,
+        "lng": 10.0204471
+      },
+      "southwest": {
+        "lat": 53.5733015,
+        "lng": 10.0080497
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1014
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 227
+        },
+        "end_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57402099999999,
+          "lng": 10.0080497
+        },
+        "start_address": "Winterhuder Weg / Zimmerstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5750772,
+          "lng": 10.0204471
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 368
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "html_instructions": "Head <b>west</b> on <b>Zimmerstra\u00dfe</b> toward <b>Stormsweg</b>",
+            "polyline": {
+              "points": "g{~eIybd|@@XB^?B@RFhAP`FJdBPvGPxDBb@HrB"
+            },
+            "start_location": {
+              "lat": 53.5750772,
+              "lng": 10.0204471
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 103
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5736814,
+              "lng": 10.0151435
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hofweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gx~eIk`c|@JANCd@GFAZEXEv@K"
+            },
+            "start_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 155
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5733409,
+              "lng": 10.0128775
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gustav-Freytag-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "or~eIsac|@Bx@DVJzABVFf@NlBFv@BVDV"
+            },
+            "start_location": {
+              "lat": 53.5736814,
+              "lng": 10.0151435
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 188
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.5742826,
+              "lng": 10.011045
+            },
+            "html_instructions": "Continue onto <b>Am Feenteich</b>",
+            "polyline": {
+              "points": "kp~eIosb|@F~@?NCNe@~BGVS`AIPIHy@Lo@J"
+            },
+            "start_location": {
+              "lat": 53.5733409,
+              "lng": 10.0128775
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 200
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.57402099999999,
+              "lng": 10.0080497
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Karlstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gv~eI_hb|@X|HTlFBh@"
+            },
+            "start_location": {
+              "lat": 53.5742826,
+              "lng": 10.011045
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g{~eIybd|@FpAXjHJdBPvGT|EHrBJAt@Kb@GpAQHpAf@hGXfDC^e@~B[xASZiBXn@jPBh@"
+    },
+    "summary": "Zimmerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

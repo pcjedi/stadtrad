@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.609431,
+        "lng": 10.040986
+      },
+      "southwest": {
+        "lat": 53.6009992,
+        "lng": 10.022705
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2168
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 525
+        },
+        "end_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hartzloh, 22307 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6009992,
+          "lng": 10.040986
+        },
+        "start_address": "U Sengelmannstra\u00dfe / Djakartaweg, 22297 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6091351,
+          "lng": 10.022705
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.609431,
+              "lng": 10.0247739
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Djakartaweg</b> toward <b>Sengelmannstra\u00dfe</b>",
+            "polyline": {
+              "points": "cpefI}pd|@G]?AIa@EUMu@Mo@AIAQBe@FgA?OAGGg@CS"
+            },
+            "start_location": {
+              "lat": 53.6091351,
+              "lng": 10.022705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 396
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 101
+            },
+            "end_location": {
+              "lat": 53.6061567,
+              "lng": 10.0271343
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sengelmannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}qefIy}d|@pAy@JGt@g@BCZUh@]zCsB^Wn@_@VKHE`@Wb@[z@k@^W"
+            },
+            "start_location": {
+              "lat": 53.609431,
+              "lng": 10.0247739
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 802
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 259
+            },
+            "end_location": {
+              "lat": 53.60826369999999,
+              "lng": 10.0386228
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Hebebrandstra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "o}dfIqle|@FU?S?KIa@Kg@EUAKAI?UMc@Oo@Mq@ScAOs@Ig@O}@AGACc@mCCKKy@I{@W_DIy@CYCUAMK}@AEC]KkAIw@E]K}@QcBGc@SsBI_@CQCOMeAKkAKiA?AE{@AGC{@CaAC_C"
+            },
+            "start_location": {
+              "lat": 53.6061567,
+              "lng": 10.0271343
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 825
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 143
+            },
+            "end_location": {
+              "lat": 53.6009992,
+              "lng": 10.040986
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Fuhlsb\u00fcttler Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sjefIktg|@FA`C_@REnA[`@IVGVIVIp@Wr@[z@c@VMBC@?HE@?j@W@AZOzC}@xBg@v@OJCREHAf@KREVEPETEl@ENClAKlAIlAG\\EBA"
+            },
+            "start_location": {
+              "lat": 53.60826369999999,
+              "lng": 10.0386228
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cpefI}pd|@WwA[eBC[JmBAWK{@|AaA~B_BzDkCfAk@j@]~AgA^WFU?_@]kBA_@]sA{@qEw@wEOeAa@{ESwB]mDm@wF[wCMq@i@kFKaCGaEhCa@|Cs@n@SdBs@xAu@x@_@ZOzC}@pDw@pAWrAWxE_@nBO"
+    },
+    "summary": "Hebebrandstra\u00dfe and Fuhlsb\u00fcttler Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

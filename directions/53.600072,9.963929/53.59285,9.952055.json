@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6000295,
+        "lng": 9.963953499999999
+      },
+      "southwest": {
+        "lat": 53.5927915,
+        "lng": 9.9518446
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1312
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 356
+        },
+        "end_address": "Emil-Andresen-Stra\u00dfe / Lohkoppelweg, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5927915,
+          "lng": 9.9520061
+        },
+        "start_address": "Siemersplatz / Kollaustra\u00dfe, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6000295,
+          "lng": 9.963823099999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5998826,
+              "lng": 9.963953499999999
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Kollaustra\u00dfe</b>/<wbr/><b>B447</b> toward <b>Osterfeldstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ewcfI{`y{@BCXU"
+            },
+            "start_location": {
+              "lat": 53.6000295,
+              "lng": 9.963823099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 367
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 116
+            },
+            "end_location": {
+              "lat": 53.59921139999999,
+              "lng": 9.9585556
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Vogt-Wells-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gvcfIuay{@CTAXDn@@JBZ@HBT@HBHDR@J@PJpADf@DZBVHt@Db@Bd@D^B`@@JFl@Dp@Fn@Fn@AP@p@Dz@FlB@\\"
+            },
+            "start_location": {
+              "lat": 53.5998826,
+              "lng": 9.963953499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 286
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 109
+            },
+            "end_location": {
+              "lat": 53.5966586,
+              "lng": 9.9587121
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Grandweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "arcfI_`x{@L?l@JPDLDHANBR@V?J?^A`@GXCp@ELAr@I`AMf@GTC"
+            },
+            "start_location": {
+              "lat": 53.59921139999999,
+              "lng": 9.9585556
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 629
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 111
+            },
+            "end_location": {
+              "lat": 53.5928391,
+              "lng": 9.9518446
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Emil-Andresen-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cbcfI}`x{@j@~BLf@DPDNFXp@fCXlAf@~ABHTx@N\\DHf@v@Vb@j@z@JPZh@RZz@pAl@|@BDh@x@\\h@`@l@d@r@`@n@`AzA"
+            },
+            "start_location": {
+              "lat": 53.5966586,
+              "lng": 9.9587121
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "12 m",
+              "value": 12
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5927915,
+              "lng": 9.9520061
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lohkoppelweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gjbfI_vv{@Ha@"
+            },
+            "start_location": {
+              "lat": 53.5928391,
+              "lng": 9.9518446
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ewcfI{`y{@\\YEn@L`BN|@TvCh@`G\\~D?bALhD@\\L?~@PVBb@DbAAz@K~@GrDc@dAhEx@`D`AlDXbATf@vBhDxCtElBvCfAbB`AzAHa@"
+    },
+    "summary": "Vogt-Wells-Stra\u00dfe and Emil-Andresen-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

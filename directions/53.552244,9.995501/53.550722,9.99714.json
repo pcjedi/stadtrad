@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5539018,
+        "lng": 9.9996802
+      },
+      "southwest": {
+        "lat": 53.5506733,
+        "lng": 9.995478
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 763
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 148
+        },
+        "end_address": "U Rathaus / M\u00f6nckebergstra\u00dfe, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5506733,
+          "lng": 9.9971443
+        },
+        "start_address": "S+U Jungfernstieg / Ballindamm, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5522611,
+          "lng": 9.995478
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 254
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5539018,
+              "lng": 9.9981417
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Ballindamm</b> toward <b>Alstertor</b>",
+            "polyline": {
+              "points": "slzeIwf_|@IQoAeCi@cAqAaCqBuD"
+            },
+            "start_location": {
+              "lat": 53.5522611,
+              "lng": 9.995478
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 142
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.55301619999999,
+              "lng": 9.9996802
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gertrudenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{vzeIkw_|@FMpAmCVk@p@uAJU"
+            },
+            "start_location": {
+              "lat": 53.5539018,
+              "lng": 9.9981417
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 155
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5520917,
+              "lng": 9.9979177
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Raboisen</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kqzeI_a`|@z@pBR`@N\\h@rAn@xA"
+            },
+            "start_location": {
+              "lat": 53.55301619999999,
+              "lng": 9.9996802
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "54 m",
+              "value": 54
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5517423,
+              "lng": 9.9984939
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alstertor</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qkzeI_v_|@p@uAHOHK"
+            },
+            "start_location": {
+              "lat": 53.5520917,
+              "lng": 9.9979177
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 150
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.55067709999999,
+              "lng": 9.9972657
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kleine Rosenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kizeIqy_|@r@tAj@hABFLRLPZd@`@?T?"
+            },
+            "start_location": {
+              "lat": 53.5517423,
+              "lng": 9.9984939
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5506733,
+              "lng": 9.9971443
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>M\u00f6nckebergstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wbzeI}q_|@@X"
+            },
+            "start_location": {
+              "lat": 53.55067709999999,
+              "lng": 9.9972657
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "slzeIwf_|@yAwC{BeEqBuDFMhByD|@kBnArCx@pBn@xAp@uAR[~A~Cz@rAv@?@X"
+    },
+    "summary": "Ballindamm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

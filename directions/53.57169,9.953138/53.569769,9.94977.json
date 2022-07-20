@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5716838,
+        "lng": 9.9537774
+      },
+      "southwest": {
+        "lat": 53.5696701,
+        "lng": 9.949702199999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 469
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 120
+        },
+        "end_address": "Sandweg / Sophienallee, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5696998,
+          "lng": 9.949702199999999
+        },
+        "start_address": "U Emilienstra\u00dfe / Fruchtallee, 20259 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5716654,
+          "lng": 9.953128399999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5716855,
+              "lng": 9.9529823
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Emilienstra\u00dfe</b>",
+            "polyline": {
+              "points": "}e~eIa~v{@C\\"
+            },
+            "start_location": {
+              "lat": 53.5716654,
+              "lng": 9.953128399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5713187,
+              "lng": 9.952859199999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Emilienstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "af~eIc}v{@@?J@j@JNH"
+            },
+            "start_location": {
+              "lat": 53.5716855,
+              "lng": 9.9529823
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "37 m",
+              "value": 37
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5711376,
+              "lng": 9.9533338
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fruchtallee</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wc~eIk|v{@b@}A"
+            },
+            "start_location": {
+              "lat": 53.5713187,
+              "lng": 9.952859199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 100
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5702924,
+              "lng": 9.9537774
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Sophienallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sb~eIi_w{@^ENCLAF?FAzAkA"
+            },
+            "start_location": {
+              "lat": 53.5711376,
+              "lng": 9.9533338
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 273
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5696701,
+              "lng": 9.9497883
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sophienallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i}}eIcbw{@V~ATpCHnAFnAJ|@PlCBZR`CD`@"
+            },
+            "start_location": {
+              "lat": 53.5702924,
+              "lng": 9.9537774
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5696998,
+              "lng": 9.949702199999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Pinneberger Weg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "my}eIeiv{@EP"
+            },
+            "start_location": {
+              "lat": 53.5696701,
+              "lng": 9.9497883
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}e~eIa~v{@A\\v@LNHb@}An@ITAbBmAV~ATpCP~C\\jEV|CD`@EP"
+    },
+    "summary": "Sophienallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

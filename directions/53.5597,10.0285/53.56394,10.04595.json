@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5640279,
+        "lng": 10.045931
+      },
+      "southwest": {
+        "lat": 53.5598849,
+        "lng": 10.0282665
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1381
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 272
+        },
+        "end_address": "Hasselbrookstra\u00dfe / Ritterstra\u00dfe, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5640279,
+          "lng": 10.045931
+        },
+        "start_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 297
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.5615104,
+              "lng": 10.0318129
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b> toward <b>Alfredstra\u00dfe</b>",
+            "polyline": {
+              "points": "g|{eIuse|@O]_@gAMY[}@k@cBEe@AAISQi@IUKWIUQg@CIM]EMYs@EMISQa@KSIM"
+            },
+            "start_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 161
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5604574,
+              "lng": 10.0334833
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Elisenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mf|eIyif|@r@kAJUJQLUf@_ADKz@gBDCFK"
+            },
+            "start_location": {
+              "lat": 53.5615104,
+              "lng": 10.0318129
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 267
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Angerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{_|eIgtf|@o@eC{@yCk@wBc@cBWuAAQ?GEy@C]"
+            },
+            "start_location": {
+              "lat": 53.5604574,
+              "lng": 10.0334833
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 656
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 165
+            },
+            "end_location": {
+              "lat": 53.5640279,
+              "lng": 10.045931
+            },
+            "html_instructions": "Continue onto <b>Hasselbrookstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "{f|eIkjg|@AKIYW}@Su@s@cCUcAWaA[oAgAgEEQSs@YeAo@eCQ_AKq@YqBIy@GWEe@Gs@Ei@CUGu@AQG{@Ei@ASA_@EoACe@"
+            },
+            "start_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g|{eIuse|@yA}Dk@cBEe@KUq@mBi@}A{@wBUa@~@aBfAsB`AkBFKo@eCgBqGc@cBWuAAYIwAKe@k@sBiAgEs@qC{BsIo@eCQ_Ae@cDQqAMyASgCQyCIuB"
+    },
+    "summary": "Hasselbrookstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5637307,
+        "lng": 9.961044300000001
+      },
+      "southwest": {
+        "lat": 53.5585362,
+        "lng": 9.9487911
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1073
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 308
+        },
+        "end_address": "Max-Brauer-Allee 147, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5585362,
+          "lng": 9.9487911
+        },
+        "start_address": "Schulterblatt / Eifflerstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5627534,
+          "lng": 9.961044300000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 126
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Schulterblatt</b> toward <b>Eifflerstra\u00dfe</b>",
+            "polyline": {
+              "points": "en|eIoox{@[\\WRa@h@UP[T{@x@"
+            },
+            "start_location": {
+              "lat": 53.5627534,
+              "lng": 9.961044300000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 947
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 288
+            },
+            "end_location": {
+              "lat": 53.5585362,
+              "lng": 9.9487911
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Max-Brauer-Allee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "it|eIqix{@T~@X`ABHFPP`@`AbCf@nAN^Rj@r@dBJTp@~AXt@LX\\~@FLb@bAj@rA`@bATn@BDVl@Vl@Rd@lAzCn@zAZx@Rj@Rd@LZBDd@tAFLBFBFRh@FR@FJXFR@L@JF^f@xBLh@DZT|@F^"
+            },
+            "start_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "en|eIoox{@s@p@a@h@UPwAnAn@`C~A`E~B`GzEjLrAfDhDjIpAfDt@pB`@lARl@BXbA~E\\|A"
+    },
+    "summary": "Max-Brauer-Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

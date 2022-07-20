@@ -1,0 +1,431 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.60446760000001,
+        "lng": 10.1546952
+      },
+      "southwest": {
+        "lat": 53.5709043,
+        "lng": 10.1345703
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.8 km",
+          "value": 4763
+        },
+        "duration": {
+          "text": "17 mins",
+          "value": 1007
+        },
+        "end_address": "Bahnhof Rahlstedt / Helmut-Steidl-Platz, 22143 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.604295,
+          "lng": 10.1545618
+        },
+        "start_address": "Barsb\u00fctteler Stra\u00dfe / \u00d6jendorfer Damm, 22043 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5709043,
+          "lng": 10.1360955
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5709179,
+              "lng": 10.1359375
+            },
+            "html_instructions": "Head <b>west</b> on <b>Barsb\u00fctteler Str.</b> toward <b>\u00d6jendorfer Damm</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ca~eIsuz|@C^"
+            },
+            "start_location": {
+              "lat": 53.5709043,
+              "lng": 10.1360955
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 481
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 141
+            },
+            "end_location": {
+              "lat": 53.57499749999999,
+              "lng": 10.1345965
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>\u00d6jendorfer Damm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ga~eIstz|@UMmAi@S@ECSIECOEUEA?QCQ?O@M@G@A@E?]LWHQLGDo@f@SLaCzAONe@VOBQDKFQFG@i@\\GBYTMF[RSD"
+            },
+            "start_location": {
+              "lat": 53.5709179,
+              "lng": 10.1359375
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.7 km",
+              "value": 1698
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 312
+            },
+            "end_location": {
+              "lat": 53.5890976,
+              "lng": 10.1410193
+            },
+            "html_instructions": "Continue onto <b>Charlottenburger Str.</b>",
+            "polyline": {
+              "points": "wz~eIglz|@]Dc@GWEqAKc@IOEKEMMKISSGKKM?AMWCEIOWg@Q]i@k@WOYQSI_@Qg@S]O{@]y@]aAc@w@[]MoBw@?AmB}@k@Qe@Uk@_@c@a@IKEE[a@i@_AOY]q@o@sAe@cAe@{@i@u@w@{@m@m@q@_@IG_@MMEi@GK?_AC[?cA?c@@k@@I?gAAa@?iD@oBDwAKo@@]Da@DWFMBc@Jg@PYLi@R"
+            },
+            "start_location": {
+              "lat": 53.57499749999999,
+              "lng": 10.1345965
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5892873,
+              "lng": 10.1418065
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Feldlerchenweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{rafIkt{|@[cCCOEI"
+            },
+            "start_location": {
+              "lat": 53.5890976,
+              "lng": 10.1410193
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 166
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.59077139999999,
+              "lng": 10.1416438
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lohwisch</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "atafIiy{|@EAI?q@DuAJwALi@BM?"
+            },
+            "start_location": {
+              "lat": 53.5892873,
+              "lng": 10.1418065
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 610
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 105
+            },
+            "end_location": {
+              "lat": 53.5941734,
+              "lng": 10.1462371
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ellerneck</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i}afIgx{|@Im@E[ACGg@u@cGWuCiAuIEMu@kBIKQEs@PcAZw@Po@XeA`@SA]Ga@Kc@K"
+            },
+            "start_location": {
+              "lat": 53.59077139999999,
+              "lng": 10.1416438
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "26 m",
+              "value": 26
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5943609,
+              "lng": 10.1459941
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Ellerneck</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qrbfI_u||@YZKT"
+            },
+            "start_location": {
+              "lat": 53.5941734,
+              "lng": 10.1462371
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 798
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 179
+            },
+            "end_location": {
+              "lat": 53.5987064,
+              "lng": 10.1544455
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rahlstedter Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wsbfIms||@QK{@kAIMQWOYUi@GYOs@Ia@Ko@Ek@E_@AYCUAcACi@IoBCiBQgBUuAQ{@]iAK_@]cAWg@U_@[a@g@_@a@UYIKGYOUKIESIg@[_@Ya@]_AaAm@i@M[QS"
+            },
+            "start_location": {
+              "lat": 53.5943609,
+              "lng": 10.1459941
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 227
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 87
+            },
+            "end_location": {
+              "lat": 53.6001372,
+              "lng": 10.1520111
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Rahlstedter Bahnhofstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}ncfIih~|@GX]|@CHQ`@Sd@g@`AUb@KPKTGJINcAfBa@j@"
+            },
+            "start_location": {
+              "lat": 53.5987064,
+              "lng": 10.1544455
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 394
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.60318419999999,
+              "lng": 10.1546431
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Rahlstedter Bahnhofstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{wcfIay}|@WYMQIOOSGEi@gAo@qAk@mA_@m@QW[KeA]MEiA]e@MSGYIICOGe@QQ@"
+            },
+            "start_location": {
+              "lat": 53.6001372,
+              "lng": 10.1520111
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 115
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.6036766,
+              "lng": 10.1531437
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Amtsstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{jdfIoi~|@[tAKj@I`@CZE^Un@QZ"
+            },
+            "start_location": {
+              "lat": 53.60318419999999,
+              "lng": 10.1546431
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 105
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.6041122,
+              "lng": 10.154262
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Helmut Steidl Pl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_ndfIc`~|@E?GGKSa@s@We@OYAKAKAC@IBM@IJQ"
+            },
+            "start_location": {
+              "lat": 53.6036766,
+              "lng": 10.1531437
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.60424459999999,
+              "lng": 10.1542696
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Helmut Steidl Pl.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "updfIcg~|@IEE@C?A@C?"
+            },
+            "start_location": {
+              "lat": 53.6041122,
+              "lng": 10.154262
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.60446760000001,
+              "lng": 10.1545612
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Helmut Steidl Pl.</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "oqdfIeg~|@E?AAEEIOOYEG"
+            },
+            "start_location": {
+              "lat": 53.60424459999999,
+              "lng": 10.1542696
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.60431329999999,
+              "lng": 10.1546876
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}rdfI_i~|@JQBEBABAF@"
+            },
+            "start_location": {
+              "lat": 53.60446760000001,
+              "lng": 10.1545612
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.604295,
+              "lng": 10.1545618
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}qdfIyi~|@?F@H?F"
+            },
+            "start_location": {
+              "lat": 53.60431329999999,
+              "lng": 10.1546876
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ca~eIsuz|@C^UMmAi@S@YMUIWEc@Cg@Fc@LWHQLw@l@uChBu@f@a@H]Nq@^a@Xi@Zq@J{@MuBU[KYWg@o@s@uAQ]i@k@q@a@yB_AoF{BmCeAmB_AqAg@k@_@c@a@OQeAaBm@kAuAwCe@{@i@u@eBiB{@g@m@Su@G{AC}CBiBAyGFwAKo@@_AJe@JkA\\cA`@_@sCEIEA{@DmDXw@BYuBu@cGWuCiAuIEM_AwBQEs@P{Bl@uBz@q@IeAWe@p@QK{@kA[e@e@cAWmAUqAQ{BSgIQgBUuAQ{@]iAi@cBm@gA[a@g@_@a@UYIe@W_@Q{@e@aAw@mBkBM[QSe@vAUj@{@fBa@t@aBxCa@j@WYWa@WYyAyCkA{BQW[KsAc@oBk@gA]e@QQ@g@`CS|AUn@QZMGuAgCCW?MDWJQIEI@E@GAOUUa@NWFCF@?F@P"
+    },
+    "summary": "Charlottenburger Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

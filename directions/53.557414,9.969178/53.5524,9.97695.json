@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55735749999999,
+        "lng": 9.978919699999999
+      },
+      "southwest": {
+        "lat": 53.5525447,
+        "lng": 9.9691685
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1118
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 342
+        },
+        "end_address": "Enckeplatz / H\u00fctten, 20355 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5525447,
+          "lng": 9.9770735
+        },
+        "start_address": "U Feld Street, Feldstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55735749999999,
+          "lng": 9.9691685
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 427
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 122
+            },
+            "end_location": {
+              "lat": 53.5563784,
+              "lng": 9.9753385
+            },
+            "html_instructions": "Head <b>east</b> on <b>Feldstra\u00dfe</b> toward <b>Turnerstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ol{eIibz{@@M@a@?c@D[@W?S@]@e@Be@Bi@@QB{@J_BDs@Ba@BWBa@BQ@M@SFi@Hs@Hq@Hs@Ne@DS@EDQDSDSFWDOFY?CF[DSDU@M?ABS?W?i@"
+            },
+            "start_location": {
+              "lat": 53.55735749999999,
+              "lng": 9.9691685
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 82
+            },
+            "end_location": {
+              "lat": 53.55571579999999,
+              "lng": 9.9782494
+            },
+            "html_instructions": "Continue onto <b>Sievekingpl.</b>",
+            "polyline": {
+              "points": "kf{eI{h{{@AKAGCQ?Y@S@]?QBS@UBSDWBUDSH_@FWFWJWLe@J[H[DQHYDUH]@O@K"
+            },
+            "start_location": {
+              "lat": 53.5563784,
+              "lng": 9.9753385
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5555921,
+              "lng": 9.9787491
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Sievekingpl.</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "gb{eIa{{{@He@N}@"
+            },
+            "start_location": {
+              "lat": 53.55571579999999,
+              "lng": 9.9782494
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 369
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 91
+            },
+            "end_location": {
+              "lat": 53.5528267,
+              "lng": 9.976076299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenwall</b>/<wbr/><b>Ring 1</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ma{eIe~{{@JKJIHCHEJAPPRNPLND^d@t@~@hAzAnA`BtBjCBJ|@dA"
+            },
+            "start_location": {
+              "lat": 53.5555921,
+              "lng": 9.9787491
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "73 m",
+              "value": 73
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5525447,
+              "lng": 9.9770735
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "epzeIom{{@D[r@iD"
+            },
+            "start_location": {
+              "lat": 53.5528267,
+              "lng": 9.976076299999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ol{eIibz{@Bo@D_ADoBL}CXmEJuAd@cETy@FWXoATmAJy@?aACSCk@Bq@HoAXaBh@mBd@cBRoAXcBVURIJAPPd@\\ND^d@~BzCdElFBJ|@dAx@eE"
+    },
+    "summary": "Feldstra\u00dfe and Holstenwall/Ring 1",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

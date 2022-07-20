@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.583875,
+        "lng": 9.980139000000001
+      },
+      "southwest": {
+        "lat": 53.57542549999999,
+        "lng": 9.9759406
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1170
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 244
+        },
+        "end_address": "L\u00f6wenstra\u00dfe / Eppendorfer Weg, 20251 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.583875,
+          "lng": 9.9779957
+        },
+        "start_address": "Grindelberg / Bezirksamt Eimsb\u00fcttel, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57542549999999,
+          "lng": 9.9776705
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 415
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.5786764,
+              "lng": 9.9759406
+            },
+            "html_instructions": "Head <b>north</b> on <b>Grindelberg</b> toward <b>Oberstra\u00dfe</b>",
+            "polyline": {
+              "points": "m}~eImw{{@MCw@Um@Qk@O[M]KMCQAM@Q@SFQFIDc@X_@TQLMNMR_@x@Sh@A@S\\U\\Q^GJOTMREF[`@CBOR"
+            },
+            "start_location": {
+              "lat": 53.57542549999999,
+              "lng": 9.9776705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 384
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.58127289999999,
+              "lng": 9.9793007
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wq_fIsl{{@q@uAIMoAcCeA{A}@}AQa@GQQ]QWg@YACc@u@Q}@S]EAE?EBq@X"
+            },
+            "start_location": {
+              "lat": 53.5786764,
+              "lng": 9.9759406
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 195
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5829408,
+              "lng": 9.980139000000001
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lehmweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}a`fIsa|{@OUEGMM_@MIE]OUIcBk@o@Ow@Q"
+            },
+            "start_location": {
+              "lat": 53.58127289999999,
+              "lng": 9.9793007
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 176
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.583875,
+              "lng": 9.9779957
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>L\u00f6wenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kl`fI{f|{@Mj@EHOb@[`AGRWn@a@fAKZQf@ITGPIV"
+            },
+            "start_location": {
+              "lat": 53.5829408,
+              "lng": 9.980139000000001
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m}~eImw{{@_D{@y@Y_@E_@Be@N_BbA[b@s@bB}@|Ak@|@_@d@ORq@uAyAqCeA{A}@}AYs@Q]QWi@]c@u@Q}@Y_@KBq@XOUSU}Am@cBk@o@Ow@QMj@Ul@c@tAwAzD[~@"
+    },
+    "summary": "Grindelberg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

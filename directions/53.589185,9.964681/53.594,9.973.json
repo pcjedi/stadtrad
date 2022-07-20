@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5940743,
+        "lng": 9.972965
+      },
+      "southwest": {
+        "lat": 53.589206,
+        "lng": 9.9637859
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1197
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 232
+        },
+        "end_address": "S\u00fcderfeldstra\u00dfe / Universit\u00e4tsklinikum Eppendorf, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5940743,
+          "lng": 9.972965
+        },
+        "start_address": "Grandweg / Veilchenweg, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.589206,
+          "lng": 9.9647275
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 102
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.58993299999999,
+              "lng": 9.9637859
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Grandweg</b> toward <b>Hubert-Fichte-Weg</b>",
+            "polyline": {
+              "points": "qsafIqfy{@a@j@{@lAq@`A"
+            },
+            "start_location": {
+              "lat": 53.589206,
+              "lng": 9.9647275
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "88 m",
+              "value": 88
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5901258,
+              "lng": 9.9650733
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hubert-Fichte-Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "axafIu`y{@CO_@gEAMAG?G?E?C"
+            },
+            "start_location": {
+              "lat": 53.58993299999999,
+              "lng": 9.9637859
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 222
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.5909237,
+              "lng": 9.9673091
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "iyafIuhy{@EEG?ODMDODYDMBG?AIGo@GgAA?AEAMAUCQAYA[Co@Ey@Ek@AK?CCO?K?G?G@EBI"
+            },
+            "start_location": {
+              "lat": 53.5901258,
+              "lng": 9.9650733
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 574
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 121
+            },
+            "end_location": {
+              "lat": 53.5938229,
+              "lng": 9.9698123
+            },
+            "html_instructions": "Continue onto <b>Butenfeld</b>",
+            "polyline": {
+              "points": "g~afIuvy{@@K?C?SIeBQeFYmGKaBMi@S_@OOMGKEEAC?I?MDGBQJi@^e@VEB[T]RMJOLq@n@ONcAdAgAx@"
+            },
+            "start_location": {
+              "lat": 53.5909237,
+              "lng": 9.9673091
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 211
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5940743,
+              "lng": 9.972965
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>S\u00fcderfeldstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kpbfIifz{@CcAEcEC]EiBCo@AQCe@S}B"
+            },
+            "start_location": {
+              "lat": 53.5938229,
+              "lng": 9.9698123
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qsafIqfy{@}AxBq@`ACOa@uEAO?IEEWD]Jg@HG?AIOwBCEIoAQqDEk@D_@@OIyBk@sNKaBMi@S_@OOYMIAWDYNi@^e@Va@Xk@^uCrCgAx@CcAIaFOqES}B"
+    },
+    "summary": "Butenfeld",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

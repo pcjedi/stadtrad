@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.540454,
+        "lng": 9.9964579
+      },
+      "southwest": {
+        "lat": 53.5395705,
+        "lng": 9.993315299999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.3 km",
+          "value": 330
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 60
+        },
+        "end_address": "Am Strandkai / Gro\u00dfer Grasbrook, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5395911,
+          "lng": 9.9936332
+        },
+        "start_address": "U \u00dcberseequartier / Grasbrookpark, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5402017,
+          "lng": 9.9964579
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "29 m",
+              "value": 29
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.540454,
+              "lng": 9.9963824
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Am Grasbrookpark</b>",
+            "polyline": {
+              "points": "gaxeI{l_|@MHS@OB"
+            },
+            "start_location": {
+              "lat": 53.5402017,
+              "lng": 9.9964579
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 175
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5402484,
+              "lng": 9.993764599999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Am Grasbrookpark</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ybxeIkl_|@BtAB`AFvBFR@HDpADnB@Z"
+            },
+            "start_location": {
+              "lat": 53.540454,
+              "lng": 9.9963824
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "58 m",
+              "value": 58
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5397256,
+              "lng": 9.9938625
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Gro\u00dfer Grasbrook</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qaxeI_|~{@\\EHA~@K"
+            },
+            "start_location": {
+              "lat": 53.5402484,
+              "lng": 9.993764599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5397152,
+              "lng": 9.993315299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Am Strandkai</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i~weIs|~{@@F@H?H?FAfA"
+            },
+            "start_location": {
+              "lat": 53.5397256,
+              "lng": 9.9938625
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5395911,
+              "lng": 9.9936332
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g~weIgy~{@B@DA@?BA@ABC@EBE@E?E?G?GAE?EAA"
+            },
+            "start_location": {
+              "lat": 53.5397152,
+              "lng": 9.993315299999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gaxeI{l_|@MHS@OBBtAB`AFvBFRFzAFjCf@G~@K@F@RAnANAJQ@[CM"
+    },
+    "summary": "Am Grasbrookpark",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

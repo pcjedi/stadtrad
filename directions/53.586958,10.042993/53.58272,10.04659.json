@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.587185,
+        "lng": 10.0467149
+      },
+      "southwest": {
+        "lat": 53.5827975,
+        "lng": 10.0414033
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 797
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 209
+        },
+        "end_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "start_address": "S+U Barmbek / Wiesendamm, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5870079,
+          "lng": 10.0430101
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "83 m",
+              "value": 83
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5871777,
+              "lng": 10.0417939
+            },
+            "html_instructions": "Head <b>west</b> on <b>Wiesendamm</b> toward <b>Roggenkamp</b>",
+            "polyline": {
+              "points": "yeafIyoh|@APM|BEZCRAHEh@"
+            },
+            "start_location": {
+              "lat": 53.5870079,
+              "lng": 10.0430101
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "26 m",
+              "value": 26
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.587185,
+              "lng": 10.0414033
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Wiesendamm</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "{fafIehh|@?R?x@"
+            },
+            "start_location": {
+              "lat": 53.5871777,
+              "lng": 10.0417939
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 301
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hufnerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{fafIweh|@b@C\\?XAVCTGVGXKd@Wd@a@d@a@l@g@d@SJHDDf@`@FDt@`@"
+            },
+            "start_location": {
+              "lat": 53.587185,
+              "lng": 10.0414033
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 369
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 81
+            },
+            "end_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Flachsland</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "aw`fI{hh|@@]BYJk@BMH[x@yDr@_DNu@Li@l@iC@CHYHWBMFQFQ@CXg@^STUDK"
+            },
+            "start_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "html_instructions": "Continue onto <b>Pfenningsbusch</b>",
+            "polyline": {
+              "points": "el`fIwei|@Te@"
+            },
+            "start_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "yeafIyoh|@OnCIn@Gr@?lArBIl@O~@c@jAcAl@g@d@SPNn@f@t@`@@]NeAzBcKlAmF^qAHUXg@^SZa@Te@"
+    },
+    "summary": "Hufnerstra\u00dfe and Flachsland",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6061883,
+        "lng": 10.1418218
+      },
+      "southwest": {
+        "lat": 53.5709043,
+        "lng": 10.1201609
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.8 km",
+          "value": 4806
+        },
+        "duration": {
+          "text": "17 mins",
+          "value": 1041
+        },
+        "end_address": "U Farmsen / Rahlstedter Weg, 22159 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6061883,
+          "lng": 10.1201609
+        },
+        "start_address": "Barsb\u00fctteler Stra\u00dfe / \u00d6jendorfer Damm, 22043 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5709043,
+          "lng": 10.1360955
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5709179,
+              "lng": 10.1359375
+            },
+            "html_instructions": "Head <b>west</b> on <b>Barsb\u00fctteler Str.</b> toward <b>\u00d6jendorfer Damm</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ca~eIsuz|@C^"
+            },
+            "start_location": {
+              "lat": 53.5709043,
+              "lng": 10.1360955
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 481
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 141
+            },
+            "end_location": {
+              "lat": 53.57499749999999,
+              "lng": 10.1345965
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>\u00d6jendorfer Damm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ga~eIstz|@UMmAi@S@ECSIECOEUEA?QCQ?O@M@G@A@E?]LWHQLGDo@f@SLaCzAONe@VOBQDKFQFG@i@\\GBYTMF[RSD"
+            },
+            "start_location": {
+              "lat": 53.5709179,
+              "lng": 10.1359375
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.7 km",
+              "value": 1698
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 312
+            },
+            "end_location": {
+              "lat": 53.5890976,
+              "lng": 10.1410193
+            },
+            "html_instructions": "Continue onto <b>Charlottenburger Str.</b>",
+            "polyline": {
+              "points": "wz~eIglz|@]Dc@GWEqAKc@IOEKEMMKISSGKKM?AMWCEIOWg@Q]i@k@WOYQSI_@Qg@S]O{@]y@]aAc@w@[]MoBw@?AmB}@k@Qe@Uk@_@c@a@IKEE[a@i@_AOY]q@o@sAe@cAe@{@i@u@w@{@m@m@q@_@IG_@MMEi@GK?_AC[?cA?c@@k@@I?gAAa@?iD@oBDwAKo@@]Da@DWFMBc@Jg@PYLi@R"
+            },
+            "start_location": {
+              "lat": 53.57499749999999,
+              "lng": 10.1345965
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5892873,
+              "lng": 10.1418065
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Feldlerchenweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{rafIkt{|@[cCCOEI"
+            },
+            "start_location": {
+              "lat": 53.5890976,
+              "lng": 10.1410193
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 166
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.59077139999999,
+              "lng": 10.1416438
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lohwisch</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "atafIiy{|@EAI?q@DuAJwALi@BM?"
+            },
+            "start_location": {
+              "lat": 53.5892873,
+              "lng": 10.1418065
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 100
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.59047140000001,
+              "lng": 10.1402234
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ellerneck</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "i}afIgx{|@Hr@p@fF"
+            },
+            "start_location": {
+              "lat": 53.59077139999999,
+              "lng": 10.1416438
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 321
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5927915,
+              "lng": 10.137339
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Auerhahnweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m{afIko{|@IJSVy@fAwAlBu@bAA@sBnCGHUXuAjB"
+            },
+            "start_location": {
+              "lat": 53.59047140000001,
+              "lng": 10.1402234
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.592651,
+              "lng": 10.1371225
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Tonndorfer Hauptstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}ibfIk}z|@Zj@"
+            },
+            "start_location": {
+              "lat": 53.5927915,
+              "lng": 10.137339
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 609
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 138
+            },
+            "end_location": {
+              "lat": 53.5971705,
+              "lng": 10.1321298
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Am Pulverhof</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aibfI_|z|@{A~Ac@d@EFED_@`@]`@e@d@EF]\\UT_@ZURQVYt@Uj@Uj@g@fAc@bAo@r@MNONMPe@f@q@p@a@\\_@Pm@b@_Bt@"
+            },
+            "start_location": {
+              "lat": 53.592651,
+              "lng": 10.1371225
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1343
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 253
+            },
+            "end_location": {
+              "lat": 53.6061883,
+              "lng": 10.1201609
+            },
+            "html_instructions": "Continue onto <b>Rahlstedter Weg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "iecfIy|y|@kBr@eAd@y@^]P[R[VYXKJOPEFMF[b@_@j@A@o@bAc@t@o@x@?@g@j@w@r@OL_BhAOLsA~@YLOFIDC@A@IREDA?IDKDMDKDu@LSBWHWLy@d@a@XGFKFA@]n@S^KXCLGVI`@Kr@CRANGh@O`BEVM|@?BKf@W`AIVM`@?BAP[~@s@pB}@rC{@xBIPO\\Wh@KVMVO`@IR?BIPELADGRCHAFAB"
+            },
+            "start_location": {
+              "lat": 53.5971705,
+              "lng": 10.1321298
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ca~eIsuz|@C^UMmAi@S@YMUIWEc@Cg@Fc@LWHQLw@l@uChBu@f@a@H]Nq@^a@Xi@Zq@J{@MuBU[KYWg@o@s@uAQ]i@k@q@a@yB_AoF{BmCeAmB_AqAg@k@_@c@a@OQeAaBm@kAuAwCe@{@i@u@eBiB{@g@m@Su@G{AC}CBiBAyGFwAKo@@_AJe@JkA\\cA`@_@sCEIEA{@DmDXw@Bz@zG]b@iEzFgF~GZj@{A~Ai@l@iBnByAvAURQVo@`B}@rBc@bAo@r@]^s@x@sAnAmAt@_Bt@kBr@_CdAy@d@u@p@[\\SNmBtCc@t@o@x@g@l@gA`AoBvAsA~@YLYLEBOXA?o@ViAPo@Vy@d@a@XSN_@p@_@x@Kd@UtA]nD_@`Co@~BAP[~@qBdGmBrEs@dBQh@Oh@"
+    },
+    "summary": "Charlottenburger Str. and Rahlstedter Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

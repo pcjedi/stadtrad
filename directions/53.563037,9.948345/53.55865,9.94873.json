@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5630237,
+        "lng": 9.948917
+      },
+      "southwest": {
+        "lat": 53.5586801,
+        "lng": 9.9472439
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 558
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 204
+        },
+        "end_address": "Max-Brauer-Allee 147, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5586801,
+          "lng": 9.9488947
+        },
+        "start_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "html_instructions": "Head <b>south</b> on <b>D\u00fcppelstra\u00dfe</b> toward <b>Alsenstra\u00dfe</b>",
+            "polyline": {
+              "points": "{o|eIo_v{@^M|@YFGBCJKHO"
+            },
+            "start_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 121
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5614538,
+              "lng": 9.947736299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenpl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{k|eI_bv{@TLJFRJBBd@VLJB@FHHJJJNVFJBBDNFL"
+            },
+            "start_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "50 m",
+              "value": 50
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5611127,
+              "lng": 9.9472439
+            },
+            "html_instructions": "Keep <b>left</b> to stay on <b>Holstenpl.</b>",
+            "maneuver": "keep-left",
+            "polyline": {
+              "points": "af|eIk|u{@`@p@TZJT"
+            },
+            "start_location": {
+              "lat": 53.5614538,
+              "lng": 9.947736299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 222
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.5594167,
+              "lng": 9.948917
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Holstenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}c|eIgyu{@p@gALSR[\\_@@MDC?AHGl@g@h@a@^WXQTOd@W"
+            },
+            "start_location": {
+              "lat": 53.5611127,
+              "lng": 9.9472439
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "87 m",
+              "value": 87
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5586801,
+              "lng": 9.9488947
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ky{eIwcv{@l@f@B@B?B@B?B?B?DABAbAa@"
+            },
+            "start_location": {
+              "lat": 53.5594167,
+              "lng": 9.948917
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{o|eIo_v{@|Ag@JKT[`@TjAr@`@b@`@v@jApB~@{Ap@{@@MDCHIvAiAx@i@z@g@p@h@N@pAe@"
+    },
+    "summary": "Holstenpl. and Holstenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

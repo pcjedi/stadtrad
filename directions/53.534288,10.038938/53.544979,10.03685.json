@@ -1,0 +1,240 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5448336,
+        "lng": 10.0390522
+      },
+      "southwest": {
+        "lat": 53.5342819,
+        "lng": 10.0322074
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1598
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 307
+        },
+        "end_address": "Bullerdeich / Stadtreinigung Hamburg, 20537 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5448336,
+          "lng": 10.036939
+        },
+        "start_address": "Rothenburgsorter Marktplatz / Lindleystra\u00dfe, 20539 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5342819,
+          "lng": 10.0389246
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "5 m",
+              "value": 5
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Rothenburgsorter Marktpl.</b> toward <b>Lindleystra\u00dfe</b>",
+            "polyline": {
+              "points": "g|veIgvg|@GF"
+            },
+            "start_location": {
+              "lat": 53.5342819,
+              "lng": 10.0389246
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5345056,
+              "lng": 10.0390522
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lindleystra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o|veI_vg|@UYOG"
+            },
+            "start_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 442
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 110
+            },
+            "end_location": {
+              "lat": 53.537062,
+              "lng": 10.033966
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Billhorner R\u00f6hrendamm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "u}veIawg|@Ot@?BSx@Ul@ELM\\ERSh@Q`@KTCFs@bBUj@A@KVk@vAO^[t@CHYn@cAbC?@KJUb@Yb@]n@GN"
+            },
+            "start_location": {
+              "lat": 53.5345056,
+              "lng": 10.0390522
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 266
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.5392385,
+              "lng": 10.0324121
+            },
+            "html_instructions": "Take the ramp to <b>Flensburg</b>/<wbr/><b>A7</b>/<wbr/><b>Centrum</b>",
+            "maneuver": "ramp-right",
+            "polyline": {
+              "points": "smweIiwf|@eAbAA?gBx@m@Xs@^GBYNABG?GBGFEFCBGLMTMPSPOBCBE?E?C?"
+            },
+            "start_location": {
+              "lat": 53.537062,
+              "lng": 10.033966
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 492
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 81
+            },
+            "end_location": {
+              "lat": 53.5433549,
+              "lng": 10.0322074
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Billhorner Br\u00fcckenstra\u00dfe</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Continue to follow B75</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g{weIqmf|@CCIGSSYQMIWMc@Sq@a@m@WGCa@UWMCAOK]MMEIA[C_@GK@M@KBMBG@QHOJa@^SPcAr@o@d@mA|@CBm@d@"
+            },
+            "start_location": {
+              "lat": 53.5392385,
+              "lng": 10.0324121
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 322
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5446062,
+              "lng": 10.0366016
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bullerdeich</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}txeIilf|@Ou@Ou@Kc@Mu@UqAOw@Mq@?CGWUsAIg@ESEOGYCKIa@{@oEGW"
+            },
+            "start_location": {
+              "lat": 53.5433549,
+              "lng": 10.0322074
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.54473369999999,
+              "lng": 10.0364975
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Bullerdeich</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "y|xeIwgg|@WR"
+            },
+            "start_location": {
+              "lat": 53.5446062,
+              "lng": 10.0366016
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "31 m",
+              "value": 31
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5448336,
+              "lng": 10.036939
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "q}xeIcgg|@Ic@Is@"
+            },
+            "start_location": {
+              "lat": 53.54473369999999,
+              "lng": 10.0364975
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g|veIgvg|@GFUYOGOt@S|@[z@Sp@e@jAyAlDgEdK{@tAe@~@gAbAqEvB[ROBY`@[f@SPOBIBI?{@q@{BmAu@[y@c@SMk@Se@Ek@Eo@Ja@Tu@p@eEzCm@d@Ou@Ou@_AcFk@aDoB{JWRIc@Is@"
+    },
+    "summary": "Billhorner R\u00f6hrendamm and B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

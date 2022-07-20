@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.56788,
+        "lng": 9.987862
+      },
+      "southwest": {
+        "lat": 53.5638016,
+        "lng": 9.9821998
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 610
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 98
+        },
+        "end_address": "Universit\u00e4t / Moorweidenstra\u00dfe, 20146 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5638016,
+          "lng": 9.987521
+        },
+        "start_address": "Allende-Platz / Grindelhof, 20146 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.56788,
+          "lng": 9.9821998
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 106
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5671671,
+              "lng": 9.9832653
+            },
+            "html_instructions": "Head <b>southeast</b> toward <b>Von-Melle-Park</b>",
+            "polyline": {
+              "points": "gn}eIws|{@pB_DLQBIBKDM"
+            },
+            "start_location": {
+              "lat": 53.56788,
+              "lng": 9.9821998
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 348
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5648674,
+              "lng": 9.9866954
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Von-Melle-Park</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "yi}eImz|{@l@UXODCDGLYL]j@}AHW@?NYdAkADElA_CfAsBp@mB"
+            },
+            "start_location": {
+              "lat": 53.5671671,
+              "lng": 9.9832653
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 123
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5640151,
+              "lng": 9.987862
+            },
+            "html_instructions": "Continue onto <b>Schl\u00fcterstra\u00dfe</b>",
+            "polyline": {
+              "points": "m{|eI{o}{@NIHGFGJMNS@ANUP]z@aBJS"
+            },
+            "start_location": {
+              "lat": 53.5648674,
+              "lng": 9.9866954
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.56386209999999,
+              "lng": 9.987578899999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Moorweidenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cv|eIcw}{@NTBHHR@B"
+            },
+            "start_location": {
+              "lat": 53.5640151,
+              "lng": 9.987862
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5638016,
+              "lng": 9.987521
+            },
+            "html_instructions": "Slight <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "cu|eIku}{@JJ"
+            },
+            "start_location": {
+              "lat": 53.56386209999999,
+              "lng": 9.987578899999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gn}eIws|{@~BqDFUDMl@U^SRa@x@{BJWNYdAkArAeCfAsBp@mBXQRUr@iAfAuBR^JVJJ"
+    },
+    "summary": "Von-Melle-Park",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

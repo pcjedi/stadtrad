@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55988989999999,
+        "lng": 10.0617471
+      },
+      "southwest": {
+        "lat": 53.5568052,
+        "lng": 10.0550844
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 645
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 123
+        },
+        "end_address": "Caspar-Voght-Stra\u00dfe / Sievekingsallee, 20535 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55988989999999,
+          "lng": 10.0616215
+        },
+        "start_address": "U Hammer Kirche / Hammer Park, 20535 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5568052,
+          "lng": 10.0552857
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5569461,
+              "lng": 10.0550844
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>b. d. Hammer Kirche</b> toward <b>Hammer Hof</b>",
+            "polyline": {
+              "points": "ai{eIq|j|@[h@"
+            },
+            "start_location": {
+              "lat": 53.5568052,
+              "lng": 10.0552857
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "71 m",
+              "value": 71
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.55710939999999,
+              "lng": 10.0561135
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hammer Hof</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}i{eIg{j|@Kk@CSIiAEcA"
+            },
+            "start_location": {
+              "lat": 53.5569461,
+              "lng": 10.0550844
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 221
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.55862029999999,
+              "lng": 10.0580799
+            },
+            "html_instructions": "Slight <b>left</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "}j{eIuak|@?AQc@Y{Ac@cA[i@c@g@AAW]_@UWOKGUOQIWI"
+            },
+            "start_location": {
+              "lat": 53.55710939999999,
+              "lng": 10.0561135
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 250
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5591579,
+              "lng": 10.0617471
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kt{eI_nk|@WqCAOEa@I_AE_@CYOuBEq@_@yEA]"
+            },
+            "start_location": {
+              "lat": 53.55862029999999,
+              "lng": 10.0580799
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "82 m",
+              "value": 82
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.55988989999999,
+              "lng": 10.0616215
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Caspar-Voght-Stra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ww{eI}dl|@q@He@HW@a@B"
+            },
+            "start_location": {
+              "lat": 53.5591579,
+              "lng": 10.0617471
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ai{eIq|j|@[h@Kk@M}AEeAQc@Y{Ac@cA[i@e@i@W]_@Uc@Wg@YWIWqCGq@O_By@{KA]q@H}@Ja@B"
+    },
+    "summary": "Caspar-Voght-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

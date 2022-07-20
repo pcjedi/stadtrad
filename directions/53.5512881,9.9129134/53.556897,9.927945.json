@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5568936,
+        "lng": 9.9283585
+      },
+      "southwest": {
+        "lat": 53.5510279,
+        "lng": 9.9127108
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1507
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 303
+        },
+        "end_address": "V\u00f6lckersstra\u00dfe 1, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5568936,
+          "lng": 9.9280746
+        },
+        "start_address": "Bleickenallee / Kinderkrankenhaus Altona, 22763 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5511636,
+          "lng": 9.9129357
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5511501,
+              "lng": 9.912721699999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Bleickenallee</b> toward <b>Am Rathenaupark</b>",
+            "polyline": {
+              "points": "wezeI{bo{@@j@"
+            },
+            "start_location": {
+              "lat": 53.5511636,
+              "lng": 9.9129357
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 357
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5510901,
+              "lng": 9.9178958
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Am Rathenaupark</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "uezeIoao{@V@GaBIoCAuAAgA?sBAe@@gCBsA?m@?Q@gA@kA@s@"
+            },
+            "start_location": {
+              "lat": 53.5511501,
+              "lng": 9.912721699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 318
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5539077,
+              "lng": 9.9182819
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hohenzollernring</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "iezeI{ap{@WCuFUWGUECA[MWQIEOKG?GAOAQ?M?O@Q@OBE?m@J"
+            },
+            "start_location": {
+              "lat": 53.5510901,
+              "lng": 9.9178958
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 567
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.55520660000001,
+              "lng": 9.926383699999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Behringstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}vzeIgdp{@AgD?eAAs@Cm@?MAQA[C_@c@qIMkBGeAC]UqEEe@OiAQ{@[gAM]a@iAISa@cA"
+            },
+            "start_location": {
+              "lat": 53.5539077,
+              "lng": 9.9182819
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 171
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.5561958,
+              "lng": 9.9283585
+            },
+            "html_instructions": "Continue onto <b>Barnerstra\u00dfe</b>",
+            "polyline": {
+              "points": "a_{eI{vq{@o@{As@eBISISu@mBWs@"
+            },
+            "start_location": {
+              "lat": 53.55520660000001,
+              "lng": 9.926383699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "80 m",
+              "value": 80
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5568936,
+              "lng": 9.9280746
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bahrenfelder Str.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ge{eIgcr{@k@Xu@Tc@HC?"
+            },
+            "start_location": {
+              "lat": 53.5561958,
+              "lng": 9.9283585
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wezeI{bo{@@j@V@QqFEwHD{GBsC@s@WCuFUWGUE_@Oa@WWKGAa@A]@uAPGoIG{Aq@}LKcB[wFa@eCuAcEoCyG_AaCWs@k@XyA^C?"
+    },
+    "summary": "Behringstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

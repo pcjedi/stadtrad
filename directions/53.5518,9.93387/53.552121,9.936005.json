@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5520832,
+        "lng": 9.936314399999999
+      },
+      "southwest": {
+        "lat": 53.5514881,
+        "lng": 9.9338676
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.2 km",
+          "value": 233
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 148
+        },
+        "end_address": "Bahnhof Altona Ost/Max-Brauer-Allee, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5520832,
+          "lng": 9.9361967
+        },
+        "start_address": "Bahnhof Altona / Busbahnhof, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.551766,
+          "lng": 9.9338676
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 109
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.5515674,
+              "lng": 9.9353822
+            },
+            "html_instructions": "Head <b>east</b> on <b>Paul-Nevermann-Platz</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "qizeIues{@@c@?Q@}@?u@?{@?E@QDIHMPW"
+            },
+            "start_location": {
+              "lat": 53.551766,
+              "lng": 9.9338676
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "50 m",
+              "value": 50
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.5514881,
+              "lng": 9.9361038
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Paul-Nevermann-Platz</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "ihzeIcos{@DKBG?A@K@K@M?S?_A"
+            },
+            "start_location": {
+              "lat": 53.5515674,
+              "lng": 9.9353822
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5517797,
+              "lng": 9.936314399999999
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ygzeIsss{@MKUOUM"
+            },
+            "start_location": {
+              "lat": 53.5514881,
+              "lng": 9.9361038
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5520832,
+              "lng": 9.9361967
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sizeI}ts{@[b@_@M"
+            },
+            "start_location": {
+              "lat": 53.5517797,
+              "lng": 9.936314399999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qizeIues{@D}Ff@{@Fa@@a@?_AMKk@][b@_@M"
+    },
+    "summary": "Paul-Nevermann-Platz",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

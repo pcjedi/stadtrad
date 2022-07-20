@@ -1,0 +1,238 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5637328,
+        "lng": 9.989424099999999
+      },
+      "southwest": {
+        "lat": 53.5584243,
+        "lng": 9.975441499999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1647
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 330
+        },
+        "end_address": "Bahnhof Dammtor / Dag-Hammarskj\u00f6ld-Platz, 20354 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.560118,
+          "lng": 9.989424099999999
+        },
+        "start_address": "U Messehallen / Marktstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5584243,
+          "lng": 9.975441499999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5585117,
+              "lng": 9.9756846
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Marktstra\u00dfe</b> toward <b>Karolinenstra\u00dfe</b>",
+            "polyline": {
+              "points": "cs{eIoi{{@Qo@"
+            },
+            "start_location": {
+              "lat": 53.5584243,
+              "lng": 9.975441499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 449
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 153
+            },
+            "end_location": {
+              "lat": 53.5624962,
+              "lng": 9.976084499999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Karolinenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "us{eI_k{{@KHKHQHA@G@IBI?eA?i@?cB@[IcAC[EcBSu@My@OWBi@Kc@Ks@OWM"
+            },
+            "start_location": {
+              "lat": 53.5585117,
+              "lng": 9.9756846
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 139
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.56366999999999,
+              "lng": 9.9767972
+            },
+            "html_instructions": "Continue onto <b>Rentzelstra\u00dfe</b>",
+            "polyline": {
+              "points": "sl|eIom{{@]QKEGE}@c@y@c@UMUOSK"
+            },
+            "start_location": {
+              "lat": 53.5624962,
+              "lng": 9.976084499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 543
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 76
+            },
+            "end_location": {
+              "lat": 53.5633319,
+              "lng": 9.984887299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Tiergartenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}s|eI_r{{@C{@?SAkA?W?}@AY?a@AwB?_@?{C?sB?{@A{@?U?oCAkB?]@{@?IDqAB[JiAHg@L{@`@qB"
+            },
+            "start_location": {
+              "lat": 53.56366999999999,
+              "lng": 9.9767972
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 126
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5625229,
+              "lng": 9.9861123
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Tiergartenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yq|eIqd}{@TCJCNINUJYNe@BGPg@FQd@iA"
+            },
+            "start_location": {
+              "lat": 53.5633319,
+              "lng": 9.984887299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5626066,
+              "lng": 9.986295199999999
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wl|eIel}{@Qe@"
+            },
+            "start_location": {
+              "lat": 53.5625229,
+              "lng": 9.9861123
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 306
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5604661,
+              "lng": 9.9889432
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Tiergartenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "im|eIkm}{@`@{@Vg@lA{BlA_C`@c@DGFGBA@ADAB@H@L?PEV[?@@??@@??@@?@??@@?@?@A@??A@??Al@}@R["
+            },
+            "start_location": {
+              "lat": 53.5626066,
+              "lng": 9.986295199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "50 m",
+              "value": 50
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.560118,
+              "lng": 9.989424099999999
+            },
+            "html_instructions": "Continue onto <b>Dag-Hammarskj\u00f6ld-Platz</b>",
+            "polyline": {
+              "points": "}_|eI{}}{@HMLONSBEPSFS"
+            },
+            "start_location": {
+              "lat": 53.5604661,
+              "lng": 9.9889432
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cs{eIoi{{@Qo@KH]R]FoB?cB@[I_BIyCa@y@OWBmAWs@OWMi@WuC{Ai@[CoAC{DAuIAaG?uID{ANeBVcB`@qBTCZMZo@l@gBd@iAQe@x@cBzC{Ff@k@JIFCZBPEV[?@@?@BD@DCbA{Aj@w@PSFS"
+    },
+    "summary": "Karolinenstra\u00dfe and Tiergartenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

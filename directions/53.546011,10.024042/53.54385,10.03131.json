@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5460564,
+        "lng": 10.0314839
+      },
+      "southwest": {
+        "lat": 53.54389880000001,
+        "lng": 10.0242074
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 745
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 177
+        },
+        "end_address": "Heidenkampsweg / R+V Versicherung, 20097 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.54389880000001,
+          "lng": 10.0314839
+        },
+        "start_address": "S Hammerbrook / Sachsenfeld, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5460564,
+          "lng": 10.0242074
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 262
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5440165,
+              "lng": 10.0261075
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Hammerbrookstra\u00dfe</b> toward <b>Sachsenfeld</b>",
+            "polyline": {
+              "points": "{eyeIizd|@d@[TQVSfAu@@ADMJIzBeBNKh@c@LOHKJULa@"
+            },
+            "start_location": {
+              "lat": 53.5460564,
+              "lng": 10.0242074
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 321
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 89
+            },
+            "end_location": {
+              "lat": 53.5452224,
+              "lng": 10.0304471
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>S\u00fcderstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cyxeIefe|@EUa@qBG_@CCIKOw@AC_A{ESmAKk@I]Ga@ACG]UqABU?A?C?CQeA"
+            },
+            "start_location": {
+              "lat": 53.5440165,
+              "lng": 10.0261075
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 162
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.54389880000001,
+              "lng": 10.0314839
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Heidenkampsweg</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "s`yeIiaf|@jBqAb@[FGnBwA"
+            },
+            "start_location": {
+              "lat": 53.5452224,
+              "lng": 10.0304471
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{eyeIizd|@zCwB@ADMJIjCqBv@s@Ta@La@EUi@qCMOeBeJ_@oB]oBBW?GQeAjBqAj@c@nBwA"
+    },
+    "summary": "Hammerbrookstra\u00dfe and S\u00fcderstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

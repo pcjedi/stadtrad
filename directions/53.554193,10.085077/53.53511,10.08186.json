@@ -1,0 +1,214 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5547175,
+        "lng": 10.0858248
+      },
+      "southwest": {
+        "lat": 53.5350169,
+        "lng": 10.0804861
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.6 km",
+          "value": 2631
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 525
+        },
+        "end_address": "Liebigstra\u00dfe / W\u00f6hlerstra\u00dfe, 22113 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5350169,
+          "lng": 10.081813
+        },
+        "start_address": "U Horner Rennbahn / Meurerweg, 22111 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5542035,
+          "lng": 10.0848046
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 129
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.5546411,
+              "lng": 10.0833785
+            },
+            "html_instructions": "Head <b>west</b>",
+            "polyline": {
+              "points": "wxzeI_up|@?B?D?v@?B?TG^?@Il@HbAi@VULOD"
+            },
+            "start_location": {
+              "lat": 53.5542035,
+              "lng": 10.0848046
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.55463289999999,
+              "lng": 10.0836154
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Rennbahnstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o{zeIclp|@OOP_@"
+            },
+            "start_location": {
+              "lat": 53.5546411,
+              "lng": 10.0833785
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 455
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5507685,
+              "lng": 10.0845276
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rennbahnstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m{zeIsmp|@n@UXMZc@Vw@FQJMHEHCHCJ?L?J@LDPD\\Rb@TVD\\@NA~CQx@Kz@ERCXGPEn@O"
+            },
+            "start_location": {
+              "lat": 53.55463289999999,
+              "lng": 10.0836154
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1398
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 257
+            },
+            "end_location": {
+              "lat": 53.5388794,
+              "lng": 10.0837015
+            },
+            "html_instructions": "Continue onto <b>Horner Rampe</b>",
+            "polyline": {
+              "points": "iczeIisp|@LIZWlAcAHI@ADQb@YVQj@a@r@[t@Sh@?H?TBLBRB`@NZRZRNJNNRRh@p@Xd@@?Xd@FHFHFVBFZh@PTLRh@l@HHNNBB@@RLLJNHFBZNl@NVBL@TBL@V@P@D?F?B?D?R@TAXGZAP?r@Gb@Er@EJCb@EDAv@Gr@Ef@ExAMLAP?f@?rAID?j@EH?p@El@GDA@AJKXAr@Cb@?~@?z@?J?NFN@T?bA?"
+            },
+            "start_location": {
+              "lat": 53.5507685,
+              "lng": 10.0845276
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 386
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.53549049999999,
+              "lng": 10.0826719
+            },
+            "html_instructions": "Continue onto <b>W\u00f6hlerstra\u00dfe</b>",
+            "polyline": {
+              "points": "_yweIcnp|@lAAz@?r@AN@F@\\B\\F^JHDVHl@Vl@PVHlDxAn@V"
+            },
+            "start_location": {
+              "lat": 53.5388794,
+              "lng": 10.0837015
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 147
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.53527520000001,
+              "lng": 10.0804861
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Poggendorffstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ycweIugp|@@JN`B@RHrADtADfC"
+            },
+            "start_location": {
+              "lat": 53.53549049999999,
+              "lng": 10.0826719
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "92 m",
+              "value": 92
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5350169,
+              "lng": 10.081813
+            },
+            "html_instructions": "Sharp <b>left</b> onto <b>Liebigstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-sharp-left",
+            "polyline": {
+              "points": "obweIazo|@b@oDNwA"
+            },
+            "start_location": {
+              "lat": 53.53527520000001,
+              "lng": 10.0804861
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wxzeI_up|@?dAGt@In@HbAi@Ve@ROOP_@n@UXMZc@^iATSRGX?XFn@Xb@TVDl@?xE]nAIj@Mn@OLIhB{AJKDQb@YbAs@r@[t@Sr@?b@Ft@Rv@f@^Z|@dA|@tAN`@^p@^h@r@v@h@b@`Ah@dARb@D|@Dd@@n@Il@AvCWtCU`DUf@?rAIp@EnBOLMlAEjD?NFN@xA?lEAd@D|@R|Bx@dEbBn@V@JPtBNhDDfCb@oDNwA"
+    },
+    "summary": "Horner Rampe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

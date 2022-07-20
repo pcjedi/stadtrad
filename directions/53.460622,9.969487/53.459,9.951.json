@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4614504,
+        "lng": 9.9694133
+      },
+      "southwest": {
+        "lat": 53.45855100000001,
+        "lng": 9.9514401
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1320
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 287
+        },
+        "end_address": "Ei\u00dfendorfer Pferdeweg / Asklepios-Klinik Harburg, 21075 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4589581,
+          "lng": 9.9514401
+        },
+        "start_address": "Denickestra\u00dfe / TUHH, 21073 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4606036,
+          "lng": 9.9694133
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 199
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.4611452,
+              "lng": 9.9665683
+            },
+            "html_instructions": "Head <b>west</b> on <b>Denickestra\u00dfe</b> toward <b>Gazertstra\u00dfe</b>",
+            "polyline": {
+              "points": "woheIycz{@CTE`@In@Oz@SzAIr@]lEAN@HMZ"
+            },
+            "start_location": {
+              "lat": 53.4606036,
+              "lng": 9.9694133
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1072
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 243
+            },
+            "end_location": {
+              "lat": 53.45855100000001,
+              "lng": 9.951722799999999
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Denickestra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "esheIary{@@B@@?D?DYbDGbAGz@CXAPEn@E~@Af@AZ?r@?|@?J@r@DnABp@@NF|@N`BNvADVBZF\\Lh@Tv@Rp@HZ^bAJXRb@R`@p@jAXl@^x@LTJXJV?@L`@BNLv@Lv@Hb@NtABTJ~@B\\JnALjABh@BVx@dKZnD"
+            },
+            "start_location": {
+              "lat": 53.4611452,
+              "lng": 9.9665683
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "49 m",
+              "value": 49
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.4589581,
+              "lng": 9.9514401
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ei\u00dfendorfer Pferdeweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}bheIguv{@q@\\SJKL"
+            },
+            "start_location": {
+              "lat": 53.45855100000001,
+              "lng": 9.951722799999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "woheIycz{@Iv@YjB]nC_@|E@HMZBD?Ja@fFSvCGfBAnA?hAFbCD`AV~C`@hD`AnDj@|Af@dAxBhEd@tAh@bDb@hE`@|EtAtPeAh@KL"
+    },
+    "summary": "Denickestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

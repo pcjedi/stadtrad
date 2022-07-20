@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55735749999999,
+        "lng": 9.9719895
+      },
+      "southwest": {
+        "lat": 53.5509432,
+        "lng": 9.9681032
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1001
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 265
+        },
+        "end_address": "St. Pauli, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5509432,
+          "lng": 9.9702662
+        },
+        "start_address": "U Feld Street, Feldstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55735749999999,
+          "lng": 9.9691685
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 189
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 79
+            },
+            "end_location": {
+              "lat": 53.5570955,
+              "lng": 9.9719895
+            },
+            "html_instructions": "Head <b>east</b> on <b>Feldstra\u00dfe</b> toward <b>Turnerstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ol{eIibz{@@M@a@?c@D[@W?S@]@e@Be@Bi@@QB{@J_BDs@Ba@"
+            },
+            "start_location": {
+              "lat": 53.55735749999999,
+              "lng": 9.9691685
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 578
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 98
+            },
+            "end_location": {
+              "lat": 53.55244769999999,
+              "lng": 9.9681032
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Heiligengeistfeld</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{j{eI}sz{@jA~@pEzDxDdDdDtClAbAb@ZbAr@lB|@"
+            },
+            "start_location": {
+              "lat": 53.5570955,
+              "lng": 9.9719895
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 218
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5510299,
+              "lng": 9.9700686
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ymzeIs{y{@b@i@Xe@Ra@Tm@b@wAl@c@RIBCBABE@CTgADI?A@?@?@@HH@@@@B??AJM"
+            },
+            "start_location": {
+              "lat": 53.55244769999999,
+              "lng": 9.9681032
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5509432,
+              "lng": 9.9702662
+            },
+            "html_instructions": "Slight <b>left</b> at <b>Glacischaussee</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "}dzeI}gz{@FSDIBI"
+            },
+            "start_location": {
+              "lat": 53.5510299,
+              "lng": 9.9700686
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ol{eIibz{@Bo@D_ADoBL}CPsCBa@jA~@jK`JrFxEfBnAlB|@b@i@l@gAx@eCl@c@RIFE`@{AD?PLJOL]BI"
+    },
+    "summary": "Heiligengeistfeld",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

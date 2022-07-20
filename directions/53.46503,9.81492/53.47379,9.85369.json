@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4738816,
+        "lng": 9.853695
+      },
+      "southwest": {
+        "lat": 53.46515369999999,
+        "lng": 9.8132779
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.4 km",
+          "value": 3358
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 653
+        },
+        "end_address": "ZZZ / ZZZ, 21149 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4738816,
+          "lng": 9.853695
+        },
+        "start_address": "Fischbeker Heidbrook / Quartiersmitte, 21149 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.46515369999999,
+          "lng": 9.8147973
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 481
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.4686179,
+              "lng": 9.8132779
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Im Fischbeker Heidbrook</b> toward <b>Kratteichenweg</b>",
+            "polyline": {
+              "points": "elieIo}{z@Qo@Qs@K_@EQMi@CIKa@GIAAEEGAGDGD]\\ON{A~Ai@f@_Az@_@ZeB~AEDGD]\\SRuAnAi@f@"
+            },
+            "start_location": {
+              "lat": 53.46515369999999,
+              "lng": 9.8147973
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.5 km",
+              "value": 2496
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 452
+            },
+            "end_location": {
+              "lat": 53.47262569999999,
+              "lng": 9.8500277
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Cuxhavener Str.</b>/<wbr/><b>B73</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{ajeI_t{z@YmBM{@Km@EQEO]qCY}BOuAc@eDs@{FCg@Io@SmBE]YmCMkACQAIIS[sCWcCOuBAIOkCUuDSoD?m@ASAWCaAE}AEqAGeBIuAM{@I_BMiBS}DOkDK{B@[?]Co@Cq@Cs@EcAG{@Eq@Em@Gq@M{@WqFQuDEeAQaDI{BGwADc@A]?e@IyBCg@G}@Cc@C_@Ec@Oy@WuECi@Co@ImBASASG_ACw@?y@AwACoBGeCC}A?[?U?g@@]D}DFeEFa@JyC"
+            },
+            "start_location": {
+              "lat": 53.4686179,
+              "lng": 9.8132779
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 332
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 82
+            },
+            "end_location": {
+              "lat": 53.4735358,
+              "lng": 9.8534508
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Am Neugrabener bhf</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}zjeIuyb{@WF]BO@G@I?g@FQ?M?GCCEEKES@]?}@@a@@eC?QEi@?ICc@?{@?EDiF"
+            },
+            "start_location": {
+              "lat": 53.47262569999999,
+              "lng": 9.8500277
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "49 m",
+              "value": 49
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.4738816,
+              "lng": 9.853695
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Take the stairs</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "s`keIaoc{@OIO?E?M@CAC?ACAAAAAA?A?A?C?U"
+            },
+            "start_location": {
+              "lat": 53.4735358,
+              "lng": 9.8534508
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "elieIo}{z@u@uCQs@Sk@GGGAGDe@b@kBnBoF~E_A|@_CvBg@iDQ_AEO]qCi@sEwAaLg@cFm@uFIS[sCg@yF{@{NAaAEyAKoDQ{DM{@I_Ba@gH[gH@y@QyE[mEM{@WqFW{F[}GGwADc@AcAMaDUeDOy@WuEGyAUuEIyHKuGNiMFa@JyCu@JiAJ_@?KIK_@@{ABgDE{@CoBDiFOIU?Q?ECEG?["
+    },
+    "summary": "Cuxhavener Str./B73",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

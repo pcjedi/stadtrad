@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.59166430000001,
+        "lng": 10.0499911
+      },
+      "southwest": {
+        "lat": 53.5827975,
+        "lng": 10.0445087
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1412
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 393
+        },
+        "end_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hellbrookstra\u00dfe, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5914673,
+          "lng": 10.0445087
+        },
+        "start_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Pfenningsbusch</b> toward <b>Bramfelder Str.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ok`fI}fi|@Ud@"
+            },
+            "start_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 247
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5847689,
+              "lng": 10.0484927
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bramfelder Br\u00fccke</b>/<wbr/><b>Bramfelder Str.</b><div style=\"font-size:0.9em\">Continue to follow Bramfelder Str.</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "el`fIwei|@OW]_@OOOIg@_@YQ_@Uq@g@UQY]MS[g@S[[o@GO"
+            },
+            "start_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 793
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 221
+            },
+            "end_location": {
+              "lat": 53.59166430000001,
+              "lng": 10.0498551
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Steilshooper Str.</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "yw`fIari|@MGGACAA?G@A?A@A?A@CDm@h@IDG@G@G@IAUK_@OcAg@c@Sa@Q}BgAyBcA_@OQG_@QCAWMi@OUISEGAo@K]AO?g@?m@Dk@DcBXOBcANKBSBW@g@Ay@UOESK"
+            },
+            "start_location": {
+              "lat": 53.5847689,
+              "lng": 10.0484927
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 354
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.5914673,
+              "lng": 10.0445087
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hellbrookstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{bbfIszi|@?lABhABzADfBHvCDrB@l@D~A@l@?D@hA@r@EdC"
+            },
+            "start_location": {
+              "lat": 53.59166430000001,
+              "lng": 10.0498551
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ok`fI}fi|@Ud@OW]_@_@YaAq@qA}@o@o@i@{@o@kAGOMGKCK@IHw@n@OBQ?u@[gGuCkEmB{Ai@[Go@K]Aw@?yAJcEp@k@Dg@Ay@Uc@QBvCXnMH`EB|BEdC"
+    },
+    "summary": "Steilshooper Str. and Hellbrookstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6000295,
+        "lng": 9.9647275
+      },
+      "southwest": {
+        "lat": 53.589206,
+        "lng": 9.958423999999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1607
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 294
+        },
+        "end_address": "Siemersplatz / Kollaustra\u00dfe, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6000295,
+          "lng": 9.963823099999999
+        },
+        "start_address": "Grandweg / Veilchenweg, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.589206,
+          "lng": 9.9647275
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1212
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 187
+            },
+            "end_location": {
+              "lat": 53.5991375,
+              "lng": 9.9587086
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Grandweg</b> toward <b>Hubert-Fichte-Weg</b>",
+            "polyline": {
+              "points": "qsafIqfy{@a@j@{@lAq@`AQZY^IF}@jASVIJSVYXg@f@EFA@y@t@m@l@CBs@p@MNcAhAc@h@[XUTGF{@r@g@^WPC@ID?@o@^g@V]Nu@\\aAb@c@Rq@Xs@Z{@Xw@PMBMBg@DgAJUBg@FaALs@HM@q@DYBa@F_@@K?W?SAOCIGMIOIo@W"
+            },
+            "start_location": {
+              "lat": 53.589206,
+              "lng": 9.9647275
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 362
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 91
+            },
+            "end_location": {
+              "lat": 53.59976589999999,
+              "lng": 9.9640433
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Vogt-Wells-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sqcfI}`x{@Ca@Aa@Cs@G_AE_@EUGo@Go@Eq@Gm@AKCa@E_@Ce@Ec@Gy@ESE[Eg@KqAAQAKBW@C?CACEi@?C?Y?s@A[@e@"
+            },
+            "start_location": {
+              "lat": 53.5991375,
+              "lng": 9.9587086
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.6000295,
+              "lng": 9.963823099999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kollaustra\u00dfe</b>/<wbr/><b>B447</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qucfIgby{@UPYTCB"
+            },
+            "start_location": {
+              "lat": 53.59976589999999,
+              "lng": 9.9640433
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qsafIqfy{@aDvEuBjC_BdBoBlBiCnC_AbA]\\cBrA[RaB~@yDdBeBt@{@Xw@P[FoBPsDb@_AF{@JcA@c@EWQ_Aa@EcAKsBKu@]_EOsBM}AKo@UwCBc@Em@?mA?aAo@f@CB"
+    },
+    "summary": "Grandweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5143135,
+        "lng": 9.9873035
+      },
+      "southwest": {
+        "lat": 53.5038345,
+        "lng": 9.9852887
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1192
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 209
+        },
+        "end_address": "Veringstra\u00dfe / Mannesallee, 21107 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.51430860000001,
+          "lng": 9.9873035
+        },
+        "start_address": "Gro\u00df-Sand / Wilhelmsburger Krankenhaus, 21107 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5038345,
+          "lng": 9.9853958
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 121
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.50477679999999,
+              "lng": 9.986022799999999
+            },
+            "html_instructions": "Head <b>north</b> on <b>Gro\u00df-Sand</b>/<wbr/><b>Veringstra\u00dfe</b> toward <b>Bonifatiusstra\u00dfe</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "polyline": {
+              "points": "}}peIwg}{@[LSFG?E?KEOOCCGGOQCEi@m@GKQ]"
+            },
+            "start_location": {
+              "lat": 53.5038345,
+              "lng": 9.9853958
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1064
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 187
+            },
+            "end_location": {
+              "lat": 53.5143135,
+              "lng": 9.9871955
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Veringstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{cqeIsk}{@IBQFI?QAiBQwAMiAGMAsCQOAE?oCO[COAa@Ca@CwJq@yBS}DYMAcBMwAIkCQoBM"
+            },
+            "start_location": {
+              "lat": 53.50477679999999,
+              "lng": 9.986022799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.51430860000001,
+              "lng": 9.9873035
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Mannesallee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m_seI_s}{@?S"
+            },
+            "start_location": {
+              "lat": 53.5143135,
+              "lng": 9.9871955
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}}peIwg}{@o@TM?[UKKeAqAQ]IB[F{BSaDUwDU}EYyKu@wHm@uIk@oBM?S"
+    },
+    "summary": "Veringstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

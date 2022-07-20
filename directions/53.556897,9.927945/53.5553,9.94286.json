@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55730149999999,
+        "lng": 9.942872699999999
+      },
+      "southwest": {
+        "lat": 53.5552289,
+        "lng": 9.9280746
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1210
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 267
+        },
+        "end_address": "Chemnitzstra\u00dfe / Max-Brauer-Allee, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5552461,
+          "lng": 9.942872699999999
+        },
+        "start_address": "V\u00f6lckersstra\u00dfe 1, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5568936,
+          "lng": 9.9280746
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "80 m",
+              "value": 80
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5561958,
+              "lng": 9.9283585
+            },
+            "html_instructions": "Head <b>south</b> on <b>Bahrenfelder Str.</b> toward <b>Barnerstra\u00dfe</b>",
+            "polyline": {
+              "points": "qi{eImar{@B?b@It@Uj@Y"
+            },
+            "start_location": {
+              "lat": 53.5568936,
+              "lng": 9.9280746
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 549
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.5555495,
+              "lng": 9.9341728
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Barnerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ge{eIgcr{@WwAIc@WmBOy@o@uDe@mCEUAGG]Ia@QgAO_AAe@@e@BYBIHSBGBCFGDChA]jA]fAWTMNGRQNQLQ"
+            },
+            "start_location": {
+              "lat": 53.5561958,
+              "lng": 9.9283585
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 526
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 123
+            },
+            "end_location": {
+              "lat": 53.5552752,
+              "lng": 9.9420548
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Julius-Leber-Stra\u00dfe</b>/<wbr/><b>Lessingtunnel</b><div style=\"font-size:0.9em\">Continue to follow Julius-Leber-Stra\u00dfe</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ea{eIqgs{@ASAKAKGy@G{@C[?CCs@Ac@ASCq@?C?OF}@B]@U?E?K@o@D_B?IBo@@a@Dq@HmA?OHiCJ}DNgE?QHqC"
+            },
+            "start_location": {
+              "lat": 53.5555495,
+              "lng": 9.9341728
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5552461,
+              "lng": 9.942872699999999
+            },
+            "html_instructions": "Continue straight onto <b>Chemnitzstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "straight",
+            "polyline": {
+              "points": "o_{eIyxt{@Ds@@I@G?u@Cg@"
+            },
+            "start_location": {
+              "lat": 53.5552752,
+              "lng": 9.9420548
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qi{eImar{@f@It@Uj@Ya@{Bg@gD}AaJQ_Aa@gC?kAFc@P_@LKtC{@fAWTMb@Y\\c@C_@QaCIwBEyALwBFeDTqEd@_PPaF@}@Cg@"
+    },
+    "summary": "Barnerstra\u00dfe and Julius-Leber-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

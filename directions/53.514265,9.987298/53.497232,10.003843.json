@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5143135,
+        "lng": 10.0042579
+      },
+      "southwest": {
+        "lat": 53.4972223,
+        "lng": 9.9861753
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2486
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 495
+        },
+        "end_address": "Neuenfelder Stra\u00dfe / Kurt-Emmerich-Platz, 21109 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4972223,
+          "lng": 10.0038501
+        },
+        "start_address": "Veringstra\u00dfe / Mannesallee, 21107 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.51430860000001,
+          "lng": 9.9873035
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5143135,
+              "lng": 9.9871955
+            },
+            "html_instructions": "Head <b>west</b> on <b>Mannesallee</b> toward <b>Veringstra\u00dfe</b>",
+            "polyline": {
+              "points": "m_seIss}{@?R"
+            },
+            "start_location": {
+              "lat": 53.51430860000001,
+              "lng": 9.9873035
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 875
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 154
+            },
+            "end_location": {
+              "lat": 53.50646769999999,
+              "lng": 9.9861753
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Veringstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "m_seI_s}{@nBLjCPvAHbBLL@|DXxBRvJp@`@B`@BN@ZBnCND?N@rCP"
+            },
+            "start_location": {
+              "lat": 53.5143135,
+              "lng": 9.9871955
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 155
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.50549849999999,
+              "lng": 9.987859
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Gert - Schw\u00e4mmle - Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mnqeIsl}{@JSJWTi@Xm@BGv@_BZq@`@q@"
+            },
+            "start_location": {
+              "lat": 53.50646769999999,
+              "lng": 9.9861753
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1415
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 285
+            },
+            "end_location": {
+              "lat": 53.4973965,
+              "lng": 10.0042579
+            },
+            "html_instructions": "Continue onto <b>Bauwiesenstra\u00dfe</b>",
+            "polyline": {
+              "points": "khqeIcw}{@T_@d@q@b@_ADIjA_Cp@wAFKHSVa@DUDUFORa@Xm@`@y@FOjA{B|@yBdAmB`AcBv@aBf@qAjBoFd@sA@AJc@FWHYNe@n@mBh@}ARg@Ro@Tq@Le@To@j@_BTo@To@Z_Aj@aBX}@Vq@j@_BPg@?A|@oCNa@FU\\cAd@uAd@sAXgA"
+            },
+            "start_location": {
+              "lat": 53.50549849999999,
+              "lng": 9.987859
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.4972223,
+              "lng": 10.0038501
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kurt-Emmerich-Platz</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wuoeIs}`|@LZLVF\\"
+            },
+            "start_location": {
+              "lat": 53.4973965,
+              "lng": 10.0042579
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m_seIss}{@?RnBLbFZhL|@lSpArCPJS`@aApBgEv@qAhAqBjCmF`@u@Jk@vAyCrAkC|@yBdAmB`AcBv@aBrCaIf@uAR{@rBkGjAoDlBoFtFkPzAqEd@sAXgAZr@F\\"
+    },
+    "summary": "Veringstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.62105949999999,
+        "lng": 10.040986
+      },
+      "southwest": {
+        "lat": 53.6009992,
+        "lng": 10.0307434
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2464
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 503
+        },
+        "end_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hartzloh, 22307 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6009992,
+          "lng": 10.040986
+        },
+        "start_address": "S+U Ohlsdorf / Im Gr\u00fcnen Grunde, 22337 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6209376,
+          "lng": 10.0307434
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.62090629999999,
+              "lng": 10.0309416
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Im Gr\u00fcnen Grunde</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "polyline": {
+              "points": "{ygfIccf|@Dg@"
+            },
+            "start_location": {
+              "lat": 53.6209376,
+              "lng": 10.0307434
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.62105949999999,
+              "lng": 10.030985
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Im Gr\u00fcnen Grunde</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uygfIkdf|@A?[G"
+            },
+            "start_location": {
+              "lat": 53.62090629999999,
+              "lng": 10.0309416
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 162
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.620831,
+              "lng": 10.0333981
+            },
+            "html_instructions": "Take the pedestrian overpass",
+            "polyline": {
+              "points": "szgfIsdf|@D}@B{@Bc@@WDy@FeADOB{@B{@@e@"
+            },
+            "start_location": {
+              "lat": 53.62105949999999,
+              "lng": 10.030985
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.3 km",
+              "value": 2271
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 468
+            },
+            "end_location": {
+              "lat": 53.6009992,
+              "lng": 10.040986
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Fuhlsb\u00fcttler Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "eygfIwsf|@b@Kb@CbAY@?VIR_@vA]TIbAUREHARGXIDCTEl@KnB[hAOf@Iz@Qf@I`Ey@xA]l@Sl@UTIRI\\O^SzAq@t@e@VMVMHEZMZMh@QfAYz@S^INEb@KtA[^KREPGTENELCXK\\S`DmBd@YXOfAi@j@WPEb@KNAFA`C_@REnA[`@IVGVIVIp@Wr@[z@c@VMBC@?HE@?j@W@AZOfA]rA_@xBg@v@OJCREHAf@KREVEPETEl@ENClAKlAIlAG\\EBA"
+            },
+            "start_location": {
+              "lat": 53.620831,
+              "lng": 10.0333981
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{ygfIccf|@Bg@[GD}@F_BFqAFeADOFwB@e@b@Kb@CbAYXIR_@vA]xA_@\\GhA[|Cg@pBYbB[zGwAdC}@|@c@zAq@t@e@n@[d@SdA_@bCm@hDw@zA_@\\Iv@_@fEgC`By@|@]r@MhCa@bBa@x@Qn@SdBs@rAq@PIl@YZOfA]rA_@xBg@bASxAYh@KbAKxFa@`@G"
+    },
+    "summary": "Fuhlsb\u00fcttler Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

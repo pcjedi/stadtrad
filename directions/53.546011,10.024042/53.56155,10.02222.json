@@ -1,0 +1,239 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5615383,
+        "lng": 10.0287215
+      },
+      "southwest": {
+        "lat": 53.5456357,
+        "lng": 10.02211
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2338
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 524
+        },
+        "end_address": "Alsterschwimmhalle / Ifflandstra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5615383,
+          "lng": 10.02211
+        },
+        "start_address": "S Hammerbrook / Sachsenfeld, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5460564,
+          "lng": 10.0242074
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "52 m",
+              "value": 52
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5456357,
+              "lng": 10.0245358
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Hammerbrookstra\u00dfe</b> toward <b>Sachsenfeld</b>",
+            "polyline": {
+              "points": "{eyeIizd|@d@[TQVS"
+            },
+            "start_location": {
+              "lat": 53.5460564,
+              "lng": 10.0242074
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 230
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5465311,
+              "lng": 10.0276517
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sachsenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gcyeIk|d|@EUUsAG[]oBm@kDG[Ia@Ms@QaAAIACAAACCAAAA?"
+            },
+            "start_location": {
+              "lat": 53.5456357,
+              "lng": 10.0245358
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 104
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5473753,
+              "lng": 10.0270077
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Sachsenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yhyeIyoe|@A?C?C?A?EBk@d@kBtA"
+            },
+            "start_location": {
+              "lat": 53.5465311,
+              "lng": 10.0276517
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 125
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5478611,
+              "lng": 10.0287215
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wendenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cnyeIyke|@[gBOw@Ms@YuAKk@"
+            },
+            "start_location": {
+              "lat": 53.5473753,
+              "lng": 10.0270077
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1290
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 313
+            },
+            "end_location": {
+              "lat": 53.5588188,
+              "lng": 10.0259899
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Heidenkampsweg</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Continue to follow B75</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cqyeIove|@YReChB_Ap@s@d@k@`@CBYTk@\\_@TWLMHMFMFOFG@KBUDC@[FE@I@c@LWD]Fc@Lc@XABSRMRKNONIHA@IFSHA@SDm@Bi@COCA?[EYCOCKAIC_@Go@Si@OuA]_@K]KOGQEQE[IMCKCMEKEKEMIECKGMIQMOKKIA?KGKGIEKCICQFGDGFGLINm@dAGJQFOBMBi@Fa@F]Dg@HOBc@Fi@H]FC?}@NWDI@QB"
+            },
+            "start_location": {
+              "lat": 53.5478611,
+              "lng": 10.0287215
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 277
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5612679,
+              "lng": 10.0252739
+            },
+            "html_instructions": "Continue onto <b>M\u00fchlendamm</b>",
+            "polyline": {
+              "points": "su{eImee|@M?O?[FYFYHa@JWHWP]FoARi@JcAPw@LUD"
+            },
+            "start_location": {
+              "lat": 53.5588188,
+              "lng": 10.0259899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5610169,
+              "lng": 10.0222675
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hohenfelder Terrasse</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}d|eI}`e|@DhABd@LfDBh@RlF@f@"
+            },
+            "start_location": {
+              "lat": 53.5612679,
+              "lng": 10.0252739
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5615383,
+              "lng": 10.02211
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ifflandstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kc|eIend|@SDsAX"
+            },
+            "start_location": {
+              "lat": 53.5610169,
+              "lng": 10.0222675
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{eyeIizd|@z@m@VSEU]oBkA{Gq@sDGSGCK?q@h@kBtA[gB]kBe@aCsGtEuBxAsAt@e@PuBd@u@Lc@Lc@XUVYb@e@b@UJSDm@By@G]E_AMoEiA_Be@gAWs@[{AaAk@UYLOTw@tAGJQF]FkANyBZiC`@a@F_@BO?[Fs@Py@TWP]FyB^{B^UDDhAPlEVvG@f@SDsAX"
+    },
+    "summary": "B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5837969,
+        "lng": 10.0718035
+      },
+      "southwest": {
+        "lat": 53.5817957,
+        "lng": 10.0673291
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 472
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 171
+        },
+        "end_address": "Eulenkamp / Stra\u00dfburger Stieg, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5834823,
+          "lng": 10.0718035
+        },
+        "start_address": "U Stra\u00dfburger Stra\u00dfe / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5817957,
+          "lng": 10.0679991
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 141
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5829979,
+              "lng": 10.0673291
+            },
+            "html_instructions": "Head <b>north</b> on <b>Nordschleswiger Str.</b> toward <b>Stra\u00dfburger Str.</b>",
+            "polyline": {
+              "points": "ge`fI_lm|@UNUF{@TUJiAv@g@R"
+            },
+            "start_location": {
+              "lat": 53.5817957,
+              "lng": 10.0679991
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 275
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5837969,
+              "lng": 10.0712706
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Oberschlesische Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wl`fIygm|@k@}Ek@uE]}CUaBS_B"
+            },
+            "start_location": {
+              "lat": 53.5829979,
+              "lng": 10.0673291
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.5834823,
+              "lng": 10.0718035
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Stra\u00dfburger Stieg</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wq`fIm`n|@^WNMDEBGBI@I@M?IAI"
+            },
+            "start_location": {
+              "lat": 53.5837969,
+              "lng": 10.0712706
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ge`fI_lm|@k@V{@TUJiAv@g@RwAsLs@_GS_B^WTSFQBWAS"
+    },
+    "summary": "Nordschleswiger Str. and Oberschlesische Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

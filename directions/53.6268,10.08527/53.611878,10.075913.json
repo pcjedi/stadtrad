@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6267935,
+        "lng": 10.0853429
+      },
+      "southwest": {
+        "lat": 53.61183219999999,
+        "lng": 10.0744742
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1925
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 375
+        },
+        "end_address": "Herthastra\u00dfe / Bramfelder Chaussee, 22179 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.61183219999999,
+          "lng": 10.0759136
+        },
+        "start_address": "Bramfelder Chaussee / Maisredder, 22175 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6267935,
+          "lng": 10.0853429
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.8 km",
+              "value": 1827
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 302
+            },
+            "end_location": {
+              "lat": 53.6119902,
+              "lng": 10.0744742
+            },
+            "html_instructions": "Head <b>south</b> on <b>Bramfelder Ch</b> toward <b>Hirsekamp</b>",
+            "polyline": {
+              "points": "m~hfIkxp|@@?nBVlARz@LpATRBRF^F`@HdAPB@l@PNFjAl@n@f@@@x@l@fAv@l@`@RFr@j@dAz@ZVzBfBt@l@b@^PLTTNNzBtB\\XJ^LPf@l@PVTVLPTZb@z@\\p@`@t@f@r@Z\\t@~@`@h@Z^Xb@V`@b@j@NNB@@@@?FALNh@j@VTFDXTd@Xh@VTJRHb@Nb@FH@v@D`@Fr@JB@VR\\PtC`BpBhA\\VNHr@f@~@t@"
+            },
+            "start_location": {
+              "lat": 53.6267935,
+              "lng": 10.0853429
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 98
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.61183219999999,
+              "lng": 10.0759136
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Herthastra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}affImtn|@F[He@?AD_ADm@?i@?E@q@?K"
+            },
+            "start_location": {
+              "lat": 53.6119902,
+              "lng": 10.0744742
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m~hfIkxp|@zFx@xCh@fBZp@RzAt@p@h@`CdBl@`@RFxBfBvC~B`CpBjCdC\\XJ^t@~@f@n@b@l@`AlB`@t@f@r@pA|A|@hAp@dAr@z@DBHAv@z@^Z~@n@~@b@v@Xl@HxALv@LVR\\PfGjDl@`@rB|APaADaADwA@cA"
+    },
+    "summary": "Bramfelder Ch",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

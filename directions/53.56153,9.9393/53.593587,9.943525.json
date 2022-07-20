@@ -1,0 +1,310 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.593673,
+        "lng": 9.9443047
+      },
+      "southwest": {
+        "lat": 53.5613834,
+        "lng": 9.9320437
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.6 km",
+          "value": 4633
+        },
+        "duration": {
+          "text": "16 mins",
+          "value": 989
+        },
+        "end_address": "U Hagenbecks Tierpark / Koppelstra\u00dfe, 22527 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.593673,
+          "lng": 9.943502299999999
+        },
+        "start_address": "Mariannenruhplatz / Eva-R\u00fchmkorf-Stra\u00dfe, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.561498,
+          "lng": 9.939385399999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "6 m",
+              "value": 6
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.56145069999999,
+              "lng": 9.9393351
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Mariannenruh-Platz</b> toward <b>Eva-R\u00fchmkorf-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "kf|eIeht{@HH"
+            },
+            "start_location": {
+              "lat": 53.561498,
+              "lng": 9.939385399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "81 m",
+              "value": 81
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5613834,
+              "lng": 9.9405509
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eva-R\u00fchmkorf-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "af|eI{gt{@FeCDkB"
+            },
+            "start_location": {
+              "lat": 53.56145069999999,
+              "lng": 9.9393351
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 264
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 71
+            },
+            "end_location": {
+              "lat": 53.5636575,
+              "lng": 9.9416031
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Harkortstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "se|eImot{@q@]_@SIEWMOKsBeAUKWQKAKCWAKAM?QAE?a@O]?"
+            },
+            "start_location": {
+              "lat": 53.5613834,
+              "lng": 9.9405509
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 198
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 71
+            },
+            "end_location": {
+              "lat": 53.5654092,
+              "lng": 9.941785399999999
+            },
+            "html_instructions": "Continue onto <b>Kaltenkirchener Str.</b>",
+            "polyline": {
+              "points": "{s|eI_vt{@m@?O?q@@{@EKBe@AaAA_@EKCIGCGCG"
+            },
+            "start_location": {
+              "lat": 53.5636575,
+              "lng": 9.9416031
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 398
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.5689249,
+              "lng": 9.942796399999999
+            },
+            "html_instructions": "Continue onto <b>Memellandallee</b>",
+            "polyline": {
+              "points": "y~|eIewt{@]SMMKGMESEoAUmAW{C_@c@GmCa@YE}AU"
+            },
+            "start_location": {
+              "lat": 53.5654092,
+              "lng": 9.941785399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "93 m",
+              "value": 93
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5688706,
+              "lng": 9.9441995
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Waidmannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wt}eIo}t{@H_G?W"
+            },
+            "start_location": {
+              "lat": 53.5689249,
+              "lng": 9.942796399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.3 km",
+              "value": 2275
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 469
+            },
+            "end_location": {
+              "lat": 53.5872616,
+              "lng": 9.9320437
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kieler Str.</b>/<wbr/><b>B4</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mt}eIgfu{@i@Ae@AMAk@CuBC_BCG?[AC?m@CKBG?_@DGBq@ZKFm@b@WRm@z@]j@O^MXITCJGRKb@Gv@Ef@E^CHAHAJCHAHCHCHCJCJEHCHA@CHEHEHGHUXWVq@l@SPQNSNOJs@f@kFvEoAhAOLyBfBw@f@w@l@IFURa@Zw@p@EFWTOLm@f@KJcAt@y@l@c@\\SNSTSRQNaBxAQNi@\\]Tg@Vi@TSFkAZiATiCh@GBSBiB^A?cAPa@Bk@Fk@L_@HKBKDURE@IBC@C@MDE@o@Ni@Pe@Pe@PgBr@UJqBv@QHq@Xe@ROHMJ"
+            },
+            "start_location": {
+              "lat": 53.5688706,
+              "lng": 9.9441995
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 612
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.59253150000001,
+              "lng": 9.933798099999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Basselweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kgafIgzr{@CWCKCGEIQKWOy@[KGe@OECQKUI_A[e@Oo@SwBs@SEuAWkB_@]G{@O]GqA[SAE?SBC@MBSFC@WHi@P"
+            },
+            "start_location": {
+              "lat": 53.5872616,
+              "lng": 9.9320437
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 638
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 133
+            },
+            "end_location": {
+              "lat": 53.59326670000001,
+              "lng": 9.9432678
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Koppelstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ihbfIges{@E{@?KKwBCs@?Q?E@O?Y@Y@W@M@M@OJq@AYBW@M@O@S?W?WAUC[KoAWeCKaAIeAGm@E]Ca@Es@Cu@QkDQ{C?OCg@Ci@QyEC_@"
+            },
+            "start_location": {
+              "lat": 53.59253150000001,
+              "lng": 9.933798099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5936238,
+              "lng": 9.9430941
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lokstedter Grenzstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}lbfIm`u{@YHk@X"
+            },
+            "start_location": {
+              "lat": 53.59326670000001,
+              "lng": 9.9432678
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.593673,
+              "lng": 9.943502299999999
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cobfIi_u{@IkA?E"
+            },
+            "start_location": {
+              "lat": 53.5936238,
+              "lng": 9.9430941
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kf|eIeht{@HHFeCDkBq@]i@Yg@YiCqAc@S}@GQAg@OkA?aA@{@EKBgBCk@IMO{@q@_Ey@gJoA}AUH_G?Wi@As@CaDGgCEy@?g@Dy@^y@j@WRm@z@m@jAWn@K^Kb@Gv@KfAKh@]jAWf@m@p@eA~@e@^cAr@{H`HiCtBoBtA_@ZwBjBmCvB}AjAg@d@yClCgAr@qAl@_Bb@sE~@gCf@eBTwATk@La@XWHmBh@iEbB{EnB]TGc@IQi@[qBw@g@UeBk@gDgAsFeAyAWqA[SAYBQDyAd@UsF@aAFmALaA@q@DiAAm@OkBu@{HI_AIiBg@_KUcGC_@YHk@XIkA?E"
+    },
+    "summary": "Kieler Str./B4",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

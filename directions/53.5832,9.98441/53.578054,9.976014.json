@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5831808,
+        "lng": 9.9844574
+      },
+      "southwest": {
+        "lat": 53.5780626,
+        "lng": 9.975954999999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 831
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 230
+        },
+        "end_address": "U Hoheluftbr\u00fccke / Kaiser-Friedrich-Ufer, 20253 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5780879,
+          "lng": 9.975954999999999
+        },
+        "start_address": "U Eppendorfer Baum / Isestra\u00dfe, 20149 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5831808,
+          "lng": 9.9844574
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 762
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 128
+            },
+            "end_location": {
+              "lat": 53.5781259,
+              "lng": 9.9766982
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Isestra\u00dfe</b> toward <b>Jungfrauenthal</b>",
+            "polyline": {
+              "points": "{m`fI{a}{@`@f@f@v@`AjBHPjBpDTf@nAxBl@hAdAhBpAzB^t@PZxA`CfCdElB~Cn@bAHL@B@D@D@D?J"
+            },
+            "start_location": {
+              "lat": 53.5831808,
+              "lng": 9.9844574
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.57822179999999,
+              "lng": 9.9765377
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Grindelberg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "in_fIkq{{@Q^"
+            },
+            "start_location": {
+              "lat": 53.5781259,
+              "lng": 9.9766982
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "44 m",
+              "value": 44
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 68
+            },
+            "end_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{n_fIkp{{@FPBBDND@B??@@??@?@@@?@?@?BA@Od@"
+            },
+            "start_location": {
+              "lat": 53.57822179999999,
+              "lng": 9.9765377
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5780879,
+              "lng": 9.975954999999999
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mn_fIkm{{@JT"
+            },
+            "start_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{m`fI{a}{@`@f@f@v@jA|B`CxE|BbEvCdFp@pA~JjPN\\@PQ^FPHRH@@D@DQj@JT"
+    },
+    "summary": "Isestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

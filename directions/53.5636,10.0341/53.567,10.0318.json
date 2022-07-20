@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5670015,
+        "lng": 10.036957
+      },
+      "southwest": {
+        "lat": 53.5616627,
+        "lng": 10.0313309
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1104
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 278
+        },
+        "end_address": "Lerchenfeld / Uferstra\u00dfe, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5670015,
+          "lng": 10.031798
+        },
+        "start_address": "U Wartenau / L\u00fcbecker Stra\u00dfe, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5636566,
+          "lng": 10.0339528
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "64 m",
+              "value": 64
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.56412419999999,
+              "lng": 10.0345047
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b> toward <b>Landwehr</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "{s|eIewf|@IK]a@SYGGIKMQ"
+            },
+            "start_location": {
+              "lat": 53.5636566,
+              "lng": 10.0339528
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 319
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.5616627,
+              "lng": 10.036957
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Landwehr</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wv|eIszf|@bAoA\\e@f@k@RWl@k@x@q@fAaA\\]dAcAx@o@"
+            },
+            "start_location": {
+              "lat": 53.56412419999999,
+              "lng": 10.0345047
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 685
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 197
+            },
+            "end_location": {
+              "lat": 53.5668266,
+              "lng": 10.0313309
+            },
+            "html_instructions": "Make a <b>U-turn</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "kg|eI_jg|@y@n@eAbA]\\gA`Ay@p@m@j@SVg@j@]d@cAnAQNQRa@f@STuAbB_ArAiAzAi@h@MLsAdBQTq@v@SV"
+            },
+            "start_location": {
+              "lat": 53.5616627,
+              "lng": 10.036957
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5670015,
+              "lng": 10.031798
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Uferstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ug}eIyff|@I_@Ss@CI"
+            },
+            "start_location": {
+              "lat": 53.5668266,
+              "lng": 10.0313309
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{s|eIewf|@cAoAW]`BuBz@cAfB}AdB_BdAcAx@o@y@n@eAbAeB~AgB|A{@bAeCxCu@|@uAbB_ArAiAzAi@h@aBrBcAlASVI_@W}@"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

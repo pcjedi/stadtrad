@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57512759999999,
+        "lng": 10.037533
+      },
+      "southwest": {
+        "lat": 53.5670015,
+        "lng": 10.031798
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1348
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 320
+        },
+        "end_address": "Lerchenfeld / Uferstra\u00dfe, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5670015,
+          "lng": 10.031798
+        },
+        "start_address": "U Hamburger Stra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5745222,
+          "lng": 10.0366016
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5744808,
+              "lng": 10.0365244
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Holsteinischer Kamp</b> toward <b>Wagnerstra\u00dfe</b>",
+            "polyline": {
+              "points": "ww~eIwgg|@FN"
+            },
+            "start_location": {
+              "lat": 53.5745222,
+              "lng": 10.0366016
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 102
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.57512759999999,
+              "lng": 10.0354389
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wagnerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ow~eIggg|@ITUj@A@STILO^GJQZWf@"
+            },
+            "start_location": {
+              "lat": 53.5744808,
+              "lng": 10.0365244
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 212
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.5738151,
+              "lng": 10.0331166
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hamburger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q{~eIo`g|@Pb@Tf@N\\FLj@hAXj@@@l@nA`@~@Vh@Td@"
+            },
+            "start_location": {
+              "lat": 53.57512759999999,
+              "lng": 10.0354389
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 521
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 145
+            },
+            "end_location": {
+              "lat": 53.5699747,
+              "lng": 10.037533
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Heitmannstra\u00dfe</b>/<wbr/><b>Richardstra\u00dfe</b><div style=\"font-size:0.9em\">Continue to follow Richardstra\u00dfe</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ks~eI_rf|@HO`@aAJYZ{@^i@`@c@xAaBZa@|@gA|@iAXWFG|@aArAkA^[d@a@f@a@vAwA"
+            },
+            "start_location": {
+              "lat": 53.5738151,
+              "lng": 10.0331166
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 506
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5670015,
+              "lng": 10.031798
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Uferstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i{}eIqmg|@vBtF`@dAPb@\\z@v@hBFNdAjBVf@Nf@Lf@B?D@DBDFfAlCDJTl@x@vBVp@"
+            },
+            "start_location": {
+              "lat": 53.5699747,
+              "lng": 10.037533
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ww~eIwgg|@FNITWl@]b@Wj@i@bAf@jA|A`DhBzDTd@HOl@{AZ{@^i@zBeCxAiBvAaBdAiArBgBlAcAvAwAvBtFr@hBtAdDlAzBf@nALf@B?JDhBnEpAhD"
+    },
+    "summary": "Richardstra\u00dfe and Uferstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

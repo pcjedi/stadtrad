@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5173748,
+        "lng": 10.1799997
+      },
+      "southwest": {
+        "lat": 53.5077934,
+        "lng": 10.1685083
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1754
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 437
+        },
+        "end_address": "Lohbr\u00fcgger Landstra\u00dfe / BG Klinikum, 21031 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5077934,
+          "lng": 10.1799997
+        },
+        "start_address": "Heidhorst / Bockhorster Weg, 21031 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5173748,
+          "lng": 10.1686003
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5171992,
+              "lng": 10.1685083
+            },
+            "html_instructions": "Head <b>south</b> toward <b>Bockhorster Weg</b>",
+            "polyline": {
+              "points": "qrseIw`a}@@AHABAF?@DBDBJ"
+            },
+            "start_location": {
+              "lat": 53.5173748,
+              "lng": 10.1686003
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 143
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.5167292,
+              "lng": 10.1705224
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bockhorster Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oqseIe`a}@BQLkALaA\\{BP_ALu@"
+            },
+            "start_location": {
+              "lat": 53.5171992,
+              "lng": 10.1685083
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 301
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5142758,
+              "lng": 10.1692266
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qnseIwla}@dCt@B?D?LERE`@MVAT?LBLFLHPPHHJFJDTJLFPNBBJNR\\Rd@J`@NH"
+            },
+            "start_location": {
+              "lat": 53.5167292,
+              "lng": 10.1705224
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 655
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 229
+            },
+            "end_location": {
+              "lat": 53.5124308,
+              "lng": 10.1785063
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Reinbeker Redder</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g_seIuda}@BW@QBIF]J[L_@Tm@FS@C?E@KJ]Pe@Pm@Pa@Ji@Fg@Js@Hw@?EFw@D]B]Do@D}@HeALiABQHmAFw@H_A@GHiAB_@JsAB_@D_@LcBDk@Fo@@QPcCJ{A"
+            },
+            "start_location": {
+              "lat": 53.5142758,
+              "lng": 10.1692266
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 413
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5088064,
+              "lng": 10.1771868
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rudorffweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "usreIu~b}@nBf@zAb@nA^jA\\fA^h@Nh@DVFf@L`@Lj@RTJPBH?N?"
+            },
+            "start_location": {
+              "lat": 53.5124308,
+              "lng": 10.1785063
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 218
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5077934,
+              "lng": 10.1799997
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lohbr\u00fcgger Landstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "a}qeImvb}@LSFOL_@T_A`@eBf@sBt@wCP{@"
+            },
+            "start_location": {
+              "lat": 53.5088064,
+              "lng": 10.1771868
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qrseIw`a}@VEDJBJBQZmCn@{DLu@dCt@H?`@Kx@Ob@BZPZZVLb@RTR^l@^fANHBWD[Ry@b@mAJi@\\cAb@oARqATkBPyBJmBVoC^wEZeEdAqNjEjAzC|@pBn@`ALhAZ`A^ZBN?LSTo@v@eDnBgI"
+    },
+    "summary": "Reinbeker Redder",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

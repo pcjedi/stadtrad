@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5344345,
+        "lng": 10.0652219
+      },
+      "southwest": {
+        "lat": 53.5305172,
+        "lng": 10.038876
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1824
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 379
+        },
+        "end_address": "S Tiefstack / Ausschl\u00e4ger Allee, 20539 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.530609,
+          "lng": 10.0652219
+        },
+        "start_address": "Rothenburgsorter Marktplatz / Lindleystra\u00dfe, 20539 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5342819,
+          "lng": 10.0389246
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "5 m",
+              "value": 5
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Rothenburgsorter Marktpl.</b> toward <b>Lindleystra\u00dfe</b>",
+            "polyline": {
+              "points": "g|veIgvg|@GF"
+            },
+            "start_location": {
+              "lat": 53.5342819,
+              "lng": 10.0389246
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5344345,
+              "lng": 10.0390067
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lindleystra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o|veI_vg|@UY"
+            },
+            "start_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 615
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 135
+            },
+            "end_location": {
+              "lat": 53.53322319999999,
+              "lng": 10.048013
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Vierl\u00e4nder Damm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "e}veIyvg|@@M?[B]@WBu@BeABy@D_AL}D`@aOTwBRqAFc@^qCPmAd@kD\\wB"
+            },
+            "start_location": {
+              "lat": 53.5344345,
+              "lng": 10.0390067
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1178
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 218
+            },
+            "end_location": {
+              "lat": 53.5305172,
+              "lng": 10.0651815
+            },
+            "html_instructions": "Continue onto <b>Ausschl\u00e4ger Allee</b>",
+            "polyline": {
+              "points": "suveIaoi|@ZsCj@gEDa@PoAp@qELeAb@oDDa@L_ABO?G`@}CDSPyADYD_@Hi@Fs@RyBFm@Fu@@KJoAHiARaCBORmC@M@MBg@JwBBa@DoAB_@Dy@Bu@JgBHgBFaBDm@?EFaADaADw@Bq@Dy@@OJ_CBe@?O"
+            },
+            "start_location": {
+              "lat": 53.53322319999999,
+              "lng": 10.048013
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.530609,
+              "lng": 10.0652219
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wdveIkzl|@QG"
+            },
+            "start_location": {
+              "lat": 53.5305172,
+              "lng": 10.0651815
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g|veIgvg|@GFUY@i@Du@F{BVwH`@aOTwBZuBtBcO~AmM~@wGh@qEr@uFb@gDP}AZgD^{El@mHh@oLv@aPV{FBu@QG"
+    },
+    "summary": "Vierl\u00e4nder Damm and Ausschl\u00e4ger Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

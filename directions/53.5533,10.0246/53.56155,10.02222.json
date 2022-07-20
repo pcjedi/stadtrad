@@ -1,0 +1,239 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5615383,
+        "lng": 10.0271886
+      },
+      "southwest": {
+        "lat": 53.55273649999999,
+        "lng": 10.02211
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1520
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 367
+        },
+        "end_address": "Alsterschwimmhalle / Ifflandstra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5615383,
+          "lng": 10.02211
+        },
+        "start_address": "S+U Berliner Tor / Beim Strohhause, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5533318,
+          "lng": 10.0245827
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>Berlinertordamm</b>",
+            "polyline": {
+              "points": "iszeIs|d|@OQS@"
+            },
+            "start_location": {
+              "lat": 53.5533318,
+              "lng": 10.0245827
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 106
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5536756,
+              "lng": 10.0262349
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Berlinertordamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mtzeIc}d|@Ce@GmAE{@?OG}@Ew@AC"
+            },
+            "start_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5536967,
+              "lng": 10.0265618
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Borgfelder Str.</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ouzeI}fe|@CaA"
+            },
+            "start_location": {
+              "lat": 53.5536756,
+              "lng": 10.0262349
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 127
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.55273649999999,
+              "lng": 10.0258148
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>B\u00fcrgerweide</b>/<wbr/><b>B75</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "suzeI_ie|@JAJA@AFAJ?H@J?HBNHHLNXLPHHJJRPHJ@@@B?D@R"
+            },
+            "start_location": {
+              "lat": 53.5536967,
+              "lng": 10.0265618
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 707
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 173
+            },
+            "end_location": {
+              "lat": 53.5588188,
+              "lng": 10.0259899
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>B\u00fcrgerweide</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Continue to follow B75</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sozeIide|@OCA?[EYCOCKAIC_@Go@Si@OuA]_@K]KOGQEQE[IMCKCMEKEKEMIECKGMIQMOKKIA?KGKGIEKCICQFGDGFGLINm@dAGJQFOBMBi@Fa@F]Dg@HOBc@Fi@H]FC?}@NWDI@QB"
+            },
+            "start_location": {
+              "lat": 53.55273649999999,
+              "lng": 10.0258148
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 277
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5612679,
+              "lng": 10.0252739
+            },
+            "html_instructions": "Continue onto <b>M\u00fchlendamm</b>",
+            "polyline": {
+              "points": "su{eImee|@M?O?[FYFYHa@JWHWP]FoARi@JcAPw@LUD"
+            },
+            "start_location": {
+              "lat": 53.5588188,
+              "lng": 10.0259899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5610169,
+              "lng": 10.0222675
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hohenfelder Terrasse</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}d|eI}`e|@DhABd@LfDBh@RlF@f@"
+            },
+            "start_location": {
+              "lat": 53.5612679,
+              "lng": 10.0252739
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5615383,
+              "lng": 10.02211
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ifflandstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kc|eIend|@SDsAX"
+            },
+            "start_location": {
+              "lat": 53.5610169,
+              "lng": 10.0222675
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "iszeIs|d|@OQS@KsBSaEEeAVC^ATBNHHL\\j@TT`@b@@XQCqAOcCo@qFwAq@Um@_@o@c@m@YICQFOLgAnBa@Jw@JwBZaFt@]?u@N{@TWHWPmBZmB\\mARHnBf@fNgB^"
+    },
+    "summary": "B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

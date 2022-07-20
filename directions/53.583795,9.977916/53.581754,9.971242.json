@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58391779999999,
+        "lng": 9.9779957
+      },
+      "southwest": {
+        "lat": 53.58171979999999,
+        "lng": 9.971383999999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 503
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 202
+        },
+        "end_address": "Eppendorfer Weg / Hoheluftchaussee, 20253 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58171979999999,
+          "lng": 9.971383999999999
+        },
+        "start_address": "L\u00f6wenstra\u00dfe / Eppendorfer Weg, 20251 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.583875,
+          "lng": 9.9779957
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.58391779999999,
+              "lng": 9.9778737
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>L\u00f6wenstra\u00dfe</b> toward <b>Eppendorfer Weg</b>",
+            "polyline": {
+              "points": "gr`fIoy{{@GX"
+            },
+            "start_location": {
+              "lat": 53.583875,
+              "lng": 9.9779957
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 494
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 200
+            },
+            "end_location": {
+              "lat": 53.58171979999999,
+              "lng": 9.971383999999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eppendorfer Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "or`fIux{{@Jh@\\`B`AbEx@pDZnARx@DNd@jBx@vDl@fCVdAFXFPd@vA"
+            },
+            "start_location": {
+              "lat": 53.58391779999999,
+              "lng": 9.9778737
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gr`fIoy{{@GXJh@~AdHnBjIdDpNNj@d@vA"
+    },
+    "summary": "Eppendorfer Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

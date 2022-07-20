@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5944885,
+        "lng": 10.0100449
+      },
+      "southwest": {
+        "lat": 53.58384280000001,
+        "lng": 9.995889
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1770
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 398
+        },
+        "end_address": "Goldbekplatz / Semperstra\u00dfe, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58384280000001,
+          "lng": 10.0097747
+        },
+        "start_address": "U Hudtwalckerstra\u00dfe / Bebelallee, 22299 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5943171,
+          "lng": 9.995889
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.593998,
+              "lng": 9.9959911
+            },
+            "html_instructions": "Head <b>south</b> toward <b>Hudtwalckerstra\u00dfe</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "osbfIii_|@TGh@K"
+            },
+            "start_location": {
+              "lat": 53.5943171,
+              "lng": 9.995889
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 537
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 125
+            },
+            "end_location": {
+              "lat": 53.5925965,
+              "lng": 10.0021175
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hudtwalckerstra\u00dfe</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oqbfI}i_|@[eACOCKIYKe@AKAIASASCW?GIyBDW?CC{@Ei@E{@EiA?[?AAM?CBa@DUF_@DGJMHIJIHKXEh@K`AYd@Wh@g@P[BGNq@VkA`@{B"
+            },
+            "start_location": {
+              "lat": 53.593998,
+              "lng": 9.9959911
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 799
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 163
+            },
+            "end_location": {
+              "lat": 53.5859773,
+              "lng": 10.0060878
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Dorotheenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "whbfIgp`|@NBb@F^HB@j@JZ@`@AdAWv@U^MTKTSXSFGPSRUT]FGb@m@v@}@ZYb@WnAm@DA^S`Aa@~@i@^Up@c@`Am@BALI@Al@_@dBiALMNKPOb@_@FIBCHO"
+            },
+            "start_location": {
+              "lat": 53.5925965,
+              "lng": 10.0021175
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 185
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.5854592,
+              "lng": 10.0087242
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Po\u00dfmoorweg</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "k_afIaia|@Js@LcANgARyCFkA@U@KBMBKBIPa@"
+            },
+            "start_location": {
+              "lat": 53.5859773,
+              "lng": 10.0060878
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5844314,
+              "lng": 10.0100542
+            },
+            "html_instructions": "Continue onto <b>Moorfuhrtweg</b>",
+            "polyline": {
+              "points": "c|`fIoya|@~@oAx@sAFIXg@Ze@FGFCDA"
+            },
+            "start_location": {
+              "lat": 53.5854592,
+              "lng": 10.0087242
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "68 m",
+              "value": 68
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.58384280000001,
+              "lng": 10.0097747
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Goldbekpl.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "uu`fIyab|@\\F`Ab@TJ"
+            },
+            "start_location": {
+              "lat": 53.5844314,
+              "lng": 10.0100542
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "osbfIii_|@~@S_@uA[wAIiAIaCD[UkFAo@Hw@Lg@j@m@bAQ`AYd@Wh@g@P[Ry@x@gEr@Jb@Jj@JZ@`@AdAWvAc@j@_@`@[bAoAzAkB~@q@vDeBrEqC`Am@rBwA`@[j@i@LSXwBNgARyCHaBDYFUPa@~@oA`A}At@mANKb@DvAn@"
+    },
+    "summary": "B5 and Dorotheenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5870893,
+        "lng": 10.0430101
+      },
+      "southwest": {
+        "lat": 53.5845287,
+        "lng": 10.0336783
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 933
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 285
+        },
+        "end_address": "S+U Barmbek / Wiesendamm, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5870079,
+          "lng": 10.0430101
+        },
+        "start_address": "Schleidenstra\u00dfe / Osterbekstra\u00dfe, 22083 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5845753,
+          "lng": 10.0336783
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "6 m",
+              "value": 6
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Osterbekstra\u00dfe</b> toward <b>Saarlandstra\u00dfe</b>/<wbr/><b>Schleidenbr\u00fccke</b>",
+            "polyline": {
+              "points": "sv`fIouf|@HM"
+            },
+            "start_location": {
+              "lat": 53.5845753,
+              "lng": 10.0336783
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 540
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 116
+            },
+            "end_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Osterbekstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "iv`fI}uf|@?sASoFAUC}@A}BAs@CyC?MAuD?UC_C?cC?aBBmCD{A@_@?GBg@"
+            },
+            "start_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 280
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 139
+            },
+            "end_location": {
+              "lat": 53.58699559999999,
+              "lng": 10.0414193
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hufnerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "aw`fI{hh|@u@a@GEg@a@EEKIe@Rm@f@e@`@e@`@e@VYJWFUFWBY@]?"
+            },
+            "start_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 107
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5870079,
+              "lng": 10.0430101
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wiesendamm</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "weafI{eh|@GuACg@Eo@L}B@Q"
+            },
+            "start_location": {
+              "lat": 53.58699559999999,
+              "lng": 10.0414193
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sv`fIouf|@HM?sAUeGKiKEyI?eFHiF@g@Bg@u@a@o@g@QOe@Rm@f@kAbA_Ab@m@Nq@D]?GuAIwANoC"
+    },
+    "summary": "Osterbekstra\u00dfe and Hufnerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

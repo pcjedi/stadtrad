@@ -1,0 +1,142 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5838426,
+        "lng": 10.0204471
+      },
+      "southwest": {
+        "lat": 53.5745979,
+        "lng": 10.0096934
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1469
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 310
+        },
+        "end_address": "Goldbekplatz / Semperstra\u00dfe, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5838426,
+          "lng": 10.0097731
+        },
+        "start_address": "Winterhuder Weg / Zimmerstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5750772,
+          "lng": 10.0204471
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 368
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "html_instructions": "Head <b>west</b> on <b>Zimmerstra\u00dfe</b> toward <b>Stormsweg</b>",
+            "polyline": {
+              "points": "g{~eIybd|@@XB^?B@RFhAP`F@RFtABp@@XJjD@ZBj@LlCBb@HrB"
+            },
+            "start_location": {
+              "lat": 53.5750772,
+              "lng": 10.0204471
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 537
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 134
+            },
+            "end_location": {
+              "lat": 53.57929420000001,
+              "lng": 10.0133613
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hofweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gx~eIk`c|@MDI@GBYBeALiC\\sBViBTcALa@FI@q@HUDWBI@KBKBOHKDQJMHGDKFUNKH]VQLm@f@"
+            },
+            "start_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 529
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 107
+            },
+            "end_location": {
+              "lat": 53.58354060000001,
+              "lng": 10.0097503
+            },
+            "html_instructions": "Continue onto <b>M\u00fchlenkamp</b>/<wbr/><b>M\u00fchlenkampbr\u00fccke</b><div style=\"font-size:0.9em\">Continue to follow M\u00fchlenkamp</div>",
+            "polyline": {
+              "points": "qu_fIovb|@}@t@uB|AUPUNe@^g@\\SN[Zy@p@SPGFqAfAkA|@s@j@kErD"
+            },
+            "start_location": {
+              "lat": 53.57929420000001,
+              "lng": 10.0133613
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5838426,
+              "lng": 10.0097731
+            },
+            "html_instructions": "Continue onto <b>Goldbekpl.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "cp`fI}_b|@IFEBI?EAEAUK"
+            },
+            "start_location": {
+              "lat": 53.58354060000001,
+              "lng": 10.0097503
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g{~eIybd|@j@fNr@dRy@NmLxAeFp@[L]Pw@f@iBvAsDrCk@`@}BhBgDrC_ChBuEzDOBKCUK"
+    },
+    "summary": "Zimmerstra\u00dfe, Hofweg and M\u00fchlenkamp",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

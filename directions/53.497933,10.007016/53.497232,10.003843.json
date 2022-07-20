@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.497924,
+        "lng": 10.0081211
+      },
+      "southwest": {
+        "lat": 53.4972189,
+        "lng": 10.0038526
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.4 km",
+          "value": 399
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 108
+        },
+        "end_address": "Neuenfelder Stra\u00dfe / Kurt-Emmerich-Platz, 21109 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4972189,
+          "lng": 10.0038526
+        },
+        "start_address": "S Wilhelmsburg / Wilhelm-Strau\u00df-Weg, 21109 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.497924,
+          "lng": 10.0071144
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.4977355,
+              "lng": 10.0070657
+            },
+            "html_instructions": "Head <b>south</b> on <b>Wilhelm-Strau\u00df-Weg</b>",
+            "polyline": {
+              "points": "_yoeImoa|@b@F"
+            },
+            "start_location": {
+              "lat": 53.497924,
+              "lng": 10.0071144
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.49755709999999,
+              "lng": 10.0076048
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Wilhelm-Strau\u00df-Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{woeIeoa|@Jk@Ps@DI"
+            },
+            "start_location": {
+              "lat": 53.4977355,
+              "lng": 10.0070657
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.49772669999999,
+              "lng": 10.0081211
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bahnhofspassage</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wvoeIora|@Gi@G_@EKKQ"
+            },
+            "start_location": {
+              "lat": 53.49755709999999,
+              "lng": 10.0076048
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 287
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.497256,
+              "lng": 10.0039959
+            },
+            "html_instructions": "Sharp <b>left</b> to stay on <b>Bahnhofspassage</b>",
+            "maneuver": "turn-sharp-left",
+            "polyline": {
+              "points": "ywoeIwua|@?TCz@?PAj@A^?j@@N?\\?F?H?D?B?h@@F@@Nt@?B@H?l@?z@?D?HHh@Ff@BNFf@Jx@Ff@LZLV"
+            },
+            "start_location": {
+              "lat": 53.49772669999999,
+              "lng": 10.0081211
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.4972189,
+              "lng": 10.0038526
+            },
+            "html_instructions": "Continue onto <b>Kurt-Emmerich-Platz</b>",
+            "polyline": {
+              "points": "{toeI_|`|@F\\"
+            },
+            "start_location": {
+              "lat": 53.497256,
+              "lng": 10.0039959
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_yoeImoa|@b@FJk@V}@Gi@Mk@KQ?TClAAfCBlBNx@@v@?`AHr@^xCFf@LZLVF\\"
+    },
+    "summary": "Bahnhofspassage",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

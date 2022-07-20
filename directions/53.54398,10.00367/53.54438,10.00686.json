@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.54456219999999,
+        "lng": 10.0068846
+      },
+      "southwest": {
+        "lat": 53.5440598,
+        "lng": 10.0035998
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.2 km",
+          "value": 227
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 36
+        },
+        "end_address": "Oberhafenquartier Nord / Oberhafenbr\u00fccke, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.54448009999999,
+          "lng": 10.0068846
+        },
+        "start_address": "Stockmeyerstra\u00dfe / Am Lohsepark, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5440598,
+          "lng": 10.0035998
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 191
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.54456219999999,
+              "lng": 10.0063589
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Stockmeyerstra\u00dfe</b> toward <b>Am Hannoverschen bhf</b>",
+            "polyline": {
+              "points": "kyxeIoy`|@I]_@_CAGAIGe@Eo@OuBGy@G{@Gu@"
+            },
+            "start_location": {
+              "lat": 53.5440598,
+              "lng": 10.0035998
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.54448009999999,
+              "lng": 10.0068846
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Stockmeyerstra\u00dfe</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "o|xeIwja|@@ODi@Fm@"
+            },
+            "start_location": {
+              "lat": 53.54456219999999,
+              "lng": 10.0063589
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kyxeIoy`|@m@oDe@eGOqBFy@Fm@"
+    },
+    "summary": "Stockmeyerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

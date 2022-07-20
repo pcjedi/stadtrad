@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6060788,
+        "lng": 9.9828192
+      },
+      "southwest": {
+        "lat": 53.6032498,
+        "lng": 9.9727859
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1022
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 220
+        },
+        "end_address": "Borsteler Chaussee / Alphapark, 22453 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6053527,
+          "lng": 9.9828192
+        },
+        "start_address": "Gert-Marcus-Stra\u00dfe / Anni-Glissmann-Weg, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.60337579999999,
+          "lng": 9.9727859
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 111
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.6032498,
+              "lng": 9.9744511
+            },
+            "html_instructions": "Head <b>east</b> on <b>Gert-Marcus-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "cldfI}xz{@Ag@Fs@?I@M@[N{D"
+            },
+            "start_location": {
+              "lat": 53.60337579999999,
+              "lng": 9.9727859
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 382
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.60533359999999,
+              "lng": 9.9761046
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Anni-Glissmann-Weg</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "ikdfIic{{@M[Sm@_@mAQm@c@{AQm@?E?YBk@A?A??A?A@w@?E@I?SAAA?A??@?FAHCz@AL]EA@EBm@TA?MDw@VIBy@RYFQ@"
+            },
+            "start_location": {
+              "lat": 53.6032498,
+              "lng": 9.9744511
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 105
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.6059131,
+              "lng": 9.9772518
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Br\u00f6dermannsweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ixdfIsm{{@Es@Ii@GWM[OW}@{@"
+            },
+            "start_location": {
+              "lat": 53.60533359999999,
+              "lng": 9.9761046
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 288
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.6060788,
+              "lng": 9.9811604
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}{dfIyt{{@Jk@BGTg@BGNc@DUBQB[?_@AOCc@GuAKwAOuDAICi@EQIMKOGIU["
+            },
+            "start_location": {
+              "lat": 53.6059131,
+              "lng": 9.9772518
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.6053527,
+              "lng": 9.9828192
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Borsteler Chaussee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_}dfIgm|{@FQHWRo@b@sA^gATq@Pc@"
+            },
+            "start_location": {
+              "lat": 53.6060788,
+              "lng": 9.9811604
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cldfI}xz{@Ag@Fs@@WPwEa@iAgBeGBkACA@_A?_@C?ARCz@AL]EGDo@TiCt@k@HO}AUs@OW}@{@Ns@Xo@Ty@Fm@Ao@KyBa@aIO_@SYU[FQ\\gAjBqF"
+    },
+    "summary": "Anni-Glissmann-Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

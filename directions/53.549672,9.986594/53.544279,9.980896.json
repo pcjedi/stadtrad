@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5496573,
+        "lng": 9.986620799999999
+      },
+      "southwest": {
+        "lat": 53.5443308,
+        "lng": 9.980907600000002
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 842
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 209
+        },
+        "end_address": "U Baumwall / Elbphilharmonie, 20459 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.54434149999999,
+          "lng": 9.980907600000002
+        },
+        "start_address": "S Stadthausbr\u00fccke, Neuer Wall, 20354 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5496573,
+          "lng": 9.9865613
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5496107,
+              "lng": 9.986620799999999
+            },
+            "html_instructions": "Head <b>southeast</b> toward <b>Am Alsterfleet</b>",
+            "polyline": {
+              "points": "k|yeI_o}{@HK"
+            },
+            "start_location": {
+              "lat": 53.5496573,
+              "lng": 9.9865613
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 549
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 110
+            },
+            "end_location": {
+              "lat": 53.5453914,
+              "lng": 9.982951
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Am Alsterfleet</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a|yeIko}{@DJRn@L\\BD?@@?@?BA@?DNJ^@@@DBBVPHFTPVRFF^ZJJPPHH@B@BAB?D?D?BB@@@@@^V@@\\R\\PBBRLDDBDFPDNBDFDBBZT^X^X`At@`Ah@@?HB@?NBPDb@FD@\\DNBLD`@JF@BFDHHP"
+            },
+            "start_location": {
+              "lat": 53.5496107,
+              "lng": 9.986620799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5456227,
+              "lng": 9.9826809
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Steinh\u00f6ft</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uayeImx|{@Q@IDA@A?ADCDAFEV"
+            },
+            "start_location": {
+              "lat": 53.5453914,
+              "lng": 9.982951
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 115
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5445984,
+              "lng": 9.9828817
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Steinh\u00f6ft</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ccyeIwv|{@jEg@"
+            },
+            "start_location": {
+              "lat": 53.5456227,
+              "lng": 9.9826809
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.54434149999999,
+              "lng": 9.980907600000002
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Baumwall</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w|xeI_x|{@Rt@BNH\\@VBZBX@V@N@r@@F?D?H@H?H?R?R?H?BAF?P"
+            },
+            "start_location": {
+              "lat": 53.5445984,
+              "lng": 9.9828817
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "k|yeI_o}{@HKDJ`@lADFFATv@z@n@jAbAZZBFARf@\\`Aj@XRJVHTJH|C~BnAl@jARl@Hn@PJHNZ[FC@EJG^jEg@Rt@Ll@JdBFbCAz@"
+    },
+    "summary": "Am Alsterfleet",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58406549999999,
+        "lng": 10.0213947
+      },
+      "southwest": {
+        "lat": 53.5750903,
+        "lng": 10.0190632
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1196
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 269
+        },
+        "end_address": "Jarrestra\u00dfe / Rambatzweg, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58406549999999,
+          "lng": 10.0210632
+        },
+        "start_address": "Winterhuder Weg / Zimmerstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5750903,
+          "lng": 10.0205632
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5751903,
+              "lng": 10.0213947
+            },
+            "html_instructions": "Head <b>east</b> on <b>Zimmerstra\u00dfe</b> toward <b>Winterhuder Weg</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "i{~eIocd|@M}BEg@"
+            },
+            "start_location": {
+              "lat": 53.5750903,
+              "lng": 10.0205632
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1009
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 238
+            },
+            "end_location": {
+              "lat": 53.5836805,
+              "lng": 10.0191839
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Winterhuder Weg</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}{~eIuhd|@gC|CeArAGHm@r@m@l@eAhAYJKBMBMBOHoCBcEBa@?oA?I?_@A_@?OAQAOAMCUOMKKGQK[]{@cAKMCAEAEAC?E?E?E?E?E@G@GBGBIDKHQHIDMD}@ZQDOBUBg@Fg@HI@OBUFw@Ni@L"
+            },
+            "start_location": {
+              "lat": 53.5751903,
+              "lng": 10.0213947
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 131
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.58406549999999,
+              "lng": 10.0210632
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Jarrestra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_q`fI{zc|@MoAE[E[Ko@EUUsBKu@"
+            },
+            "start_location": {
+              "lat": 53.5836805,
+              "lng": 10.0191839
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i{~eIocd|@SeDmEpFu@|@sBvBe@N[FOHoCBeFByCA_AIaAo@gBqBUCW@a@Nu@^oA`@e@FiBVmAVi@LMoAKw@QeAa@iD"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

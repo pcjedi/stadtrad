@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5713968,
+        "lng": 9.987521
+      },
+      "southwest": {
+        "lat": 53.56320030000001,
+        "lng": 9.9740874
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1543
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 381
+        },
+        "end_address": "Bogenstra\u00dfe / Grindelallee, 20144 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5712433,
+          "lng": 9.9777496
+        },
+        "start_address": "Universit\u00e4t / Moorweidenstra\u00dfe, 20146 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5638016,
+          "lng": 9.987521
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "90 m",
+              "value": 90
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.56320030000001,
+              "lng": 9.9866256
+            },
+            "html_instructions": "Head <b>southwest</b> toward <b>Edmund-Siemers-Allee</b>",
+            "polyline": {
+              "points": "wt|eI_u}{@NNfB`D"
+            },
+            "start_location": {
+              "lat": 53.5638016,
+              "lng": 9.987521
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 126
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5638975,
+              "lng": 9.9851294
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Edmund-Siemers-Allee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_q|eImo}{@u@bBQ^Sj@Y|@IZK`@"
+            },
+            "start_location": {
+              "lat": 53.56320030000001,
+              "lng": 9.9866256
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 180
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.56416489999999,
+              "lng": 9.982460399999999
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Bundesstra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "ku|eIaf}{@If@E\\AB?DGh@G|@A\\@`@C\\ANI~B?ZAv@?Z"
+            },
+            "start_location": {
+              "lat": 53.5638975,
+              "lng": 9.9851294
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 791
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 156
+            },
+            "end_location": {
+              "lat": 53.5692259,
+              "lng": 9.9740874
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Bundesstra\u00dfe</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "_w|eIku|{@EJCJAFEHCJAFAFAHGHIPKTk@lAcApBo@|AMR_@p@S^S\\u@zAIRq@lAS\\MVEF_@p@EHKPcAhBWb@GHGNu@tAeAnBILg@|@KRo@nAMRCDINCDEJGHCDEHEJMTMRiApB"
+            },
+            "start_location": {
+              "lat": 53.56416489999999,
+              "lng": 9.982460399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 328
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Beim Schlump</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uv}eIaa{{@q@iBEMEMGOAECEGSISKUEMKQEIEGY_@CGKUMOw@gAkAcBuAkBW_@"
+            },
+            "start_location": {
+              "lat": 53.5692259,
+              "lng": 9.9740874
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5712433,
+              "lng": 9.9777496
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Beim Schlump</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gd~eIyu{{@J[Rg@"
+            },
+            "start_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wt|eI_u}{@NNfB`Du@bBe@jAc@xA]jBGn@IzAA~@KnCArAEf@Oh@CNIReCfF}@pBs@pAsAlCyAjCsEjIoEhI}@`BiApBq@iBK[Uo@g@iAi@y@Ye@cCkDmBkC^cA"
+    },
+    "summary": "Bundesstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

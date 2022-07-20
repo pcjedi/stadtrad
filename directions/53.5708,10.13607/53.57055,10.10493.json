@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5711459,
+        "lng": 10.1360955
+      },
+      "southwest": {
+        "lat": 53.5704727,
+        "lng": 10.104921
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2095
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 433
+        },
+        "end_address": "Rodigallee 85, 22043 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5705488,
+          "lng": 10.104921
+        },
+        "start_address": "Barsb\u00fctteler Stra\u00dfe / \u00d6jendorfer Damm, 22043 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5709043,
+          "lng": 10.1360955
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5709179,
+              "lng": 10.1359375
+            },
+            "html_instructions": "Head <b>west</b> on <b>Barsb\u00fctteler Str.</b> toward <b>\u00d6jendorfer Damm</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ca~eIsuz|@C^"
+            },
+            "start_location": {
+              "lat": 53.5709043,
+              "lng": 10.1360955
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5710343,
+              "lng": 10.1360104
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>\u00d6jendorfer Damm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ga~eIstz|@UM"
+            },
+            "start_location": {
+              "lat": 53.5709179,
+              "lng": 10.1359375
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.1 km",
+              "value": 2061
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 405
+            },
+            "end_location": {
+              "lat": 53.5704727,
+              "lng": 10.1049508
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Rodigallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}a~eIauz|@A`@KjCAb@C~@CdB?X?x@@dC@RDj@?l@?\\?nA?jA?X@nC@bA@`A@|A@hA@|@@\\?n@@|@BdD@v@?r@?`CEN?B?D?D?F?b@?F@`@@r@A|B?XChC?F?@@@?@?@FHAfA?D?\\AfDCpJAvE?j@?zU?~C@xD?bB?H?bA@`@?h@B`B@tBJdF@`@DdB@VBt@@^BtAFdBB^DjAL|BBn@ER?@?BJvAHnBB`@L`B"
+            },
+            "start_location": {
+              "lat": 53.5710343,
+              "lng": 10.1360104
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5705488,
+              "lng": 10.104921
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m~}eI}rt|@OD"
+            },
+            "start_location": {
+              "lat": 53.5704727,
+              "lng": 10.1049508
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ca~eIsuz|@C^UMMlDIbF@~DF~@?fFDnHFbGFjI?tDER?v@@zEClDHNCrGEhQ?fW@fMDpFLzIFfCJbE^nIBn@ER?DTfEPbCOD"
+    },
+    "summary": "Rodigallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

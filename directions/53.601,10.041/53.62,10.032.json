@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6200044,
+        "lng": 10.040986
+      },
+      "southwest": {
+        "lat": 53.6009992,
+        "lng": 10.0320479
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2327
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 443
+        },
+        "end_address": "S+U Ohlsdorf / Alsterdorfer Stra\u00dfe, 22337 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.61999429999999,
+          "lng": 10.0320817
+        },
+        "start_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hartzloh, 22307 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6009992,
+          "lng": 10.040986
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "2.2 km",
+              "value": 2178
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 403
+            },
+            "end_location": {
+              "lat": 53.6200044,
+              "lng": 10.0336604
+            },
+            "html_instructions": "Head <b>north</b> on <b>Fuhlsb\u00fcttler Str.</b> toward <b>Hartzloh</b>",
+            "polyline": {
+              "points": "g}cfIech|@C@]DmAFmAHmAJOBm@DUDQDWDSDg@JI@SDKBw@NyBf@sA^gA\\[NA@k@VA?IDA?CBWL{@b@s@Zq@VWHWHWFa@HoAZSDaC^G@O@c@JQDm@PeAn@YNe@XSJg@Zc@XaAj@_@TQHQHGB]DK@G@SD_@JuAZc@JOD_@H{@RYHm@Ni@P[L[LIDWLWLu@d@{Ap@_@R]NSHE@OFm@Tm@RyA\\aEx@g@H{@Pg@HiANoBZm@Ju@RSFI@SDcATUHwA\\S^"
+            },
+            "start_location": {
+              "lat": 53.6009992,
+              "lng": 10.040986
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 106
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.6196293,
+              "lng": 10.0321806
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alsterdorfer Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_tgfIkuf|@Hp@`@dCRfAHf@"
+            },
+            "start_location": {
+              "lat": 53.6200044,
+              "lng": 10.0336604
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.61999429999999,
+              "lng": 10.0320817
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uqgfIclf|@SRSD_@E"
+            },
+            "start_location": {
+              "lat": 53.6196293,
+              "lng": 10.0321806
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g}cfIech|@}DXaDZgEx@yBf@sA^gA\\[Nm@XKDyAt@eBr@o@R}Cr@}Dn@_AV_B~@eCzAeCtAy@LsHfBwA`@[L}@`@mAr@{BdAgAb@{Ah@{GvAcBZqBX}Cf@iAZwBf@wA\\S^j@vD\\nBSRSD_@E"
+    },
+    "summary": "Fuhlsb\u00fcttler Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4994931,
+        "lng": 10.004122
+      },
+      "southwest": {
+        "lat": 53.4972189,
+        "lng": 9.996277500000001
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 595
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 149
+        },
+        "end_address": "Ursula-Falke-Terrassen, Rathaus, 21107 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4994931,
+          "lng": 9.996277500000001
+        },
+        "start_address": "Neuenfelder Stra\u00dfe / Kurt-Emmerich-Platz, 21109 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4972189,
+          "lng": 10.0038526
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.4973318,
+              "lng": 10.004122
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Kurt-Emmerich-Platz</b> toward <b>Neuenfelder Str.</b>",
+            "polyline": {
+              "points": "stoeIa{`|@G]MW"
+            },
+            "start_location": {
+              "lat": 53.4972189,
+              "lng": 10.0038526
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 372
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 87
+            },
+            "end_location": {
+              "lat": 53.49874459999999,
+              "lng": 9.9990338
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Neuenfelder Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "iuoeIw|`|@g@lDOx@Mp@Q~@SdAEVWvAGRKf@Qz@GVUnAU~@U`AMp@Kt@E^"
+            },
+            "start_location": {
+              "lat": 53.4973318,
+              "lng": 10.004122
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.4994931,
+              "lng": 9.996277500000001
+            },
+            "html_instructions": "Continue onto <b>Mengestra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "c~oeI}|_|@QnAIj@Mz@Q~@AFAFMl@Qr@Ol@WtAMv@"
+            },
+            "start_location": {
+              "lat": 53.49874459999999,
+              "lng": 9.9990338
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "stoeIa{`|@G]MWw@fFy@nE}@nEiAhFq@vEk@nDq@vCe@lC"
+    },
+    "summary": "Neuenfelder Str. and Mengestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

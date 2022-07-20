@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5847281,
+        "lng": 10.0467149
+      },
+      "southwest": {
+        "lat": 53.5827975,
+        "lng": 10.0336783
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 941
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 288
+        },
+        "end_address": "Schleidenstra\u00dfe / Osterbekstra\u00dfe, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5845753,
+          "lng": 10.0336783
+        },
+        "start_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "38 m",
+              "value": 38
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5830531,
+              "lng": 10.0463452
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Pfenningsbusch</b> toward <b>Bramfelder Str.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ok`fI}fi|@Ud@EJUT"
+            },
+            "start_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.58312189999999,
+              "lng": 10.0464437
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bramfelder Str.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "am`fIudi|@MQ"
+            },
+            "start_location": {
+              "lat": 53.5830531,
+              "lng": 10.0463452
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 347
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 87
+            },
+            "end_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Flachsland</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "om`fIgei|@Qd@Yf@ABGPGPCLIVIXABm@hCMh@Ot@s@~Cy@xDIZCLKj@CXA\\"
+            },
+            "start_location": {
+              "lat": 53.58312189999999,
+              "lng": 10.0464437
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 540
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 137
+            },
+            "end_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "html_instructions": "Continue onto <b>Osterbekstra\u00dfe</b>",
+            "polyline": {
+              "points": "aw`fI{hh|@Cf@?FA^EzAClC?`B?bCB~B?T@tD?LBxC@r@@|BB|@@TRnF?rA"
+            },
+            "start_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "6 m",
+              "value": 6
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5845753,
+              "lng": 10.0336783
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Osterbekstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "iv`fI}uf|@IL"
+            },
+            "start_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ok`fI}fi|@[p@UTMQk@lAIT_@pAmAlF{BbKOdAEdAKpG?dFBtC@bEDlEDzDTdG?rAIL"
+    },
+    "summary": "Flachsland and Osterbekstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

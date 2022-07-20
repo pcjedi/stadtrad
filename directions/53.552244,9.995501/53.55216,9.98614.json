@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5538488,
+        "lng": 9.9954474
+      },
+      "southwest": {
+        "lat": 53.5519836,
+        "lng": 9.9861683
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 774
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 213
+        },
+        "end_address": "Axel-Springer-Platz/Wexstra\u00dfe, 20354 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5520315,
+          "lng": 9.9861683
+        },
+        "start_address": "S+U Jungfernstieg / Ballindamm, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5522466,
+          "lng": 9.9954474
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.5519836,
+              "lng": 9.994589399999999
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Ballindamm</b> toward <b>Europa Passage</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "qlzeIqf_|@DLPh@Pf@DR@H@T@J?J"
+            },
+            "start_location": {
+              "lat": 53.5522466,
+              "lng": 9.9954474
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5520649,
+              "lng": 9.9946015
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Ballindamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{jzeIea_|@OA"
+            },
+            "start_location": {
+              "lat": 53.5519836,
+              "lng": 9.994589399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 280
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.5538488,
+              "lng": 9.991638
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Jungfernstieg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kkzeIga_|@CJ?@GLQj@ETEFm@~@Yn@c@t@i@`Ay@zAKPw@vAQ\\U\\"
+            },
+            "start_location": {
+              "lat": 53.5520649,
+              "lng": 9.9946015
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 420
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.5520315,
+              "lng": 9.9861683
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Gro\u00dfe Bleichen</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qvzeIwn~{@`@lAv@dCZdAHZBHBLr@~BVx@Tt@FRj@fB^nABV@PB^Ff@Hx@?JD`@Dd@Dz@"
+            },
+            "start_location": {
+              "lat": 53.5538488,
+              "lng": 9.991638
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qlzeIqf_|@Vv@Vz@Dv@OACJ?@Yx@ETEFgAnBmAvBoCbFU\\`@lArAjEdArD`BjF^nABVDp@VnCJ`B"
+    },
+    "summary": "Jungfernstieg and Gro\u00dfe Bleichen",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

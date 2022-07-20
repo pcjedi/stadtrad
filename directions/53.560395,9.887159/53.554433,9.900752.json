@@ -1,0 +1,287 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5603661,
+        "lng": 9.9010223
+      },
+      "southwest": {
+        "lat": 53.5533696,
+        "lng": 9.887012
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1763
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 381
+        },
+        "end_address": "Paul-Ehrlich-Stra\u00dfe / Asklepios-Klinik Altona, 22763 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5544005,
+          "lng": 9.9007626
+        },
+        "start_address": "S Othmarschen / Beselerplatz, 22607 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5603661,
+          "lng": 9.887118
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5603641,
+              "lng": 9.887012
+            },
+            "html_instructions": "Head <b>west</b> on <b>Beselerstra\u00dfe</b> toward <b>Beselerpl.</b>",
+            "polyline": {
+              "points": "i_|eIoaj{@@T"
+            },
+            "start_location": {
+              "lat": 53.5603661,
+              "lng": 9.887118
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "66 m",
+              "value": 66
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5597758,
+              "lng": 9.8870772
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Beselerpl.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g_|eIy`j{@TCj@Cp@E"
+            },
+            "start_location": {
+              "lat": 53.5603641,
+              "lng": 9.887012
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 421
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.5565886,
+              "lng": 9.8900732
+            },
+            "html_instructions": "Continue onto <b>Reventlowstra\u00dfe</b>",
+            "polyline": {
+              "points": "s{{eIgaj{@TAv@AXC@?^CPCFCHEJINMLOHMJUbCiE~@_Bf@_ANWNQNODGJIXUb@Qb@Q"
+            },
+            "start_location": {
+              "lat": 53.5597758,
+              "lng": 9.8870772
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 331
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.5573196,
+              "lng": 9.8949278
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Walderseestra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ug{eI}sj{@C_@Ek@[eC[qCSyBOeBK{A?AUsD?KIiB"
+            },
+            "start_location": {
+              "lat": 53.5565886,
+              "lng": 9.8900732
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 466
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 110
+            },
+            "end_location": {
+              "lat": 53.55359809999999,
+              "lng": 9.8968974
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gl{eIirk{@TSPIRA`@@HA`AI^YVe@Pw@BI\\gBXo@VO^Ax@Cx@@dAETAZCRCf@Mr@IHABARC@A"
+            },
+            "start_location": {
+              "lat": 53.5573196,
+              "lng": 9.8949278
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 108
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5534422,
+              "lng": 9.898421299999999
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Paul-Ehrlich-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_uzeIs~k{@Jc@DW@GBQFWDQFQEwA?KAOAI?OCK?C"
+            },
+            "start_location": {
+              "lat": 53.55359809999999,
+              "lng": 9.8968974
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 147
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5547551,
+              "lng": 9.898242399999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Paul-Ehrlich-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_tzeIchl{@aAP}@NC?WBa@?c@Ae@?"
+            },
+            "start_location": {
+              "lat": 53.5534422,
+              "lng": 9.898421299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "90 m",
+              "value": 90
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5548549,
+              "lng": 9.8995949
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Paul-Ehrlich-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g|zeI_gl{@?_@AWCe@Gu@?AC[A[?S?I?_@@A"
+            },
+            "start_location": {
+              "lat": 53.5547551,
+              "lng": 9.898242399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 102
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5545197,
+              "lng": 9.9010223
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Paul-Ehrlich-Stra\u00dfe</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "y|zeImol{@@UB]BYBUBMHe@H]Ja@DQDS@O@M?A"
+            },
+            "start_location": {
+              "lat": 53.5548549,
+              "lng": 9.8995949
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5544005,
+              "lng": 9.9007626
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wzzeIkxl{@LD@@@B@@?BB`@"
+            },
+            "start_location": {
+              "lat": 53.5545197,
+              "lng": 9.9010223
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i_|eIoaj{@@TTC|AIhBGp@GPIZWV]vF_K^i@TWd@_@fAc@IkAw@wGo@}HU_EIiBTSd@Kj@?`AI^YVe@Pw@`@qBXo@VOxAE~BCp@Ez@QtAQLe@F_@XmAI}BC[?CaAPaANy@BiAAAw@OyBAyAJoAZgBXwA@ONFFj@"
+    },
+    "summary": "Reventlowstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

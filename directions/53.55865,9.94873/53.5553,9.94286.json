@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5585362,
+        "lng": 9.9487911
+      },
+      "southwest": {
+        "lat": 53.5552348,
+        "lng": 9.9420548
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 631
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 134
+        },
+        "end_address": "Chemnitzstra\u00dfe / Max-Brauer-Allee, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5552461,
+          "lng": 9.942872699999999
+        },
+        "start_address": "Max-Brauer-Allee 147, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5585362,
+          "lng": 9.9487911
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 576
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5552752,
+              "lng": 9.9420548
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Max-Brauer-Allee</b> toward <b>Eggerstedtstra\u00dfe</b>",
+            "polyline": {
+              "points": "{s{eI}bv{@Rz@Jb@HTFRR`@HNHPJXHTJZNj@HVFZLb@DRFNHRFNBFNXx@nBP`@~CvHb@z@`AbC`@`AXt@FLTj@"
+            },
+            "start_location": {
+              "lat": 53.5585362,
+              "lng": 9.9487911
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5552461,
+              "lng": 9.942872699999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Chemnitzstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o_{eIyxt{@Ds@@I@G?u@Cg@"
+            },
+            "start_location": {
+              "lat": 53.5552752,
+              "lng": 9.9420548
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{s{eI}bv{@^~APh@r@|An@tBb@bBd@dAnGdOdChGTj@Ds@BQC}A"
+    },
+    "summary": "Max-Brauer-Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

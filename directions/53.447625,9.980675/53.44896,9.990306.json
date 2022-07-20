@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4502616,
+        "lng": 9.9902347
+      },
+      "southwest": {
+        "lat": 53.4476295,
+        "lng": 9.9806936
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 824
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 249
+        },
+        "end_address": "Reeseberg / Anzengruberstra\u00dfe, 21079 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4489195,
+          "lng": 9.9902347
+        },
+        "start_address": "Gotthelfweg / Au\u00dfenm\u00fchlenteich, 21077 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4476295,
+          "lng": 9.9807115
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.44782799999999,
+              "lng": 9.9808605
+            },
+            "html_instructions": "Head <b>north</b>",
+            "polyline": {
+              "points": "u~eeImj|{@A?KBC?CAGGCGEO"
+            },
+            "start_location": {
+              "lat": 53.4476295,
+              "lng": 9.9807115
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 166
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.44845480000001,
+              "lng": 9.9830487
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Vinzenzweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}_feIkk|{@AEc@aBo@qCi@oBCUFu@"
+            },
+            "start_location": {
+              "lat": 53.44782799999999,
+              "lng": 9.9808605
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 338
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.4498231,
+              "lng": 9.987413199999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Vinzenzweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ycfeIay|{@MKcBoDaAcCSo@EWUyCCc@AUg@kG"
+            },
+            "start_location": {
+              "lat": 53.44845480000001,
+              "lng": 9.9830487
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "49 m",
+              "value": 49
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.4502616,
+              "lng": 9.9874523
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Winsener Str.</b>/<wbr/><b>B4</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "klfeIit}{@o@Cg@C"
+            },
+            "start_location": {
+              "lat": 53.4498231,
+              "lng": 9.987413199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 244
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 88
+            },
+            "end_location": {
+              "lat": 53.4489195,
+              "lng": 9.9902347
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>N\u00f6ldekestra\u00dfe</b>/<wbr/><b>Reeseberg</b><div style=\"font-size:0.9em\">Continue to follow Reeseberg</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cofeIqt}{@@u@@m@j@kADIp@uAXk@Vi@BEp@wAr@{AFK"
+            },
+            "start_location": {
+              "lat": 53.4502616,
+              "lng": 9.9874523
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "u~eeImj|{@MBGAKOGUaCyJFu@MKcBoDaAcCYgAY}Di@aHwAGBcBp@uAfBqDlB_E"
+    },
+    "summary": "Vinzenzweg and Reeseberg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

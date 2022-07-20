@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5516721,
+        "lng": 10.0168759
+      },
+      "southwest": {
+        "lat": 53.5493079,
+        "lng": 10.0088424
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 756
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 156
+        },
+        "end_address": "Zentralbibliothek / M\u00fcnzstra\u00dfe, 20097 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5503258,
+          "lng": 10.0088424
+        },
+        "start_address": "Kurt-Schumacher-Allee / Nagelsweg, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5516721,
+          "lng": 10.0159264
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 151
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5504356,
+              "lng": 10.0168759
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Nagelsweg</b> toward <b>Norderstra\u00dfe</b>",
+            "polyline": {
+              "points": "}hzeIqfc|@^WFGVQh@a@VQLI^[RMBCPMHEBALI"
+            },
+            "start_location": {
+              "lat": 53.5516721,
+              "lng": 10.0159264
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 265
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.5498522,
+              "lng": 10.0130282
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Norderstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gazeIolc|@FXh@dDF^DV?BRnBD\\JvADfAHpC?dA"
+            },
+            "start_location": {
+              "lat": 53.5504356,
+              "lng": 10.0168759
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "68 m",
+              "value": 68
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5493079,
+              "lng": 10.0125557
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Repsoldstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q}yeImtb|@JHPNLJ?@TPHHJHRN"
+            },
+            "start_location": {
+              "lat": 53.5498522,
+              "lng": 10.0130282
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5493515,
+              "lng": 10.0122594
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>M\u00fcnzpl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ezyeIoqb|@AJALC`@"
+            },
+            "start_location": {
+              "lat": 53.5493079,
+              "lng": 10.0125557
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 252
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 81
+            },
+            "end_location": {
+              "lat": 53.5503258,
+              "lng": 10.0088424
+            },
+            "html_instructions": "Continue onto <b>M\u00fcnzstra\u00dfe</b>",
+            "polyline": {
+              "points": "mzyeIsob|@E`@O~AALKz@Gb@E\\ELEXETADOr@GRYvAWv@Sj@_@tA"
+            },
+            "start_location": {
+              "lat": 53.5493515,
+              "lng": 10.0122594
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}hzeIqfc|@bEyCb@YLIFXp@dE^hDP~CHvEj@f@~@t@M|Ae@lEWzAs@dDkAxD"
+    },
+    "summary": "Norderstra\u00dfe and M\u00fcnzstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

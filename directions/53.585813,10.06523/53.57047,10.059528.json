@@ -1,0 +1,142 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58585129999999,
+        "lng": 10.0702697
+      },
+      "southwest": {
+        "lat": 53.5703016,
+        "lng": 10.0596787
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2258
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 521
+        },
+        "end_address": "S+U Wandsbeker Chaussee / B\u00f6rnestra\u00dfe, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5703016,
+          "lng": 10.0596787
+        },
+        "start_address": "U Alter Teichweg / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58585129999999,
+          "lng": 10.0653471
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 769
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 162
+            },
+            "end_location": {
+              "lat": 53.5794766,
+              "lng": 10.0695987
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Nordschleswiger Str.</b> toward <b>Dulsberg-Nord</b>",
+            "polyline": {
+              "points": "q~`fIm{l|@~@y@hA}@`BiAVQn@a@^Sb@Un@]|@a@z@_@VKf@SlAUVMt@u@TGl@]vAo@XGh@MHCNI|@yARW\\W@Ah@Y`@S`@S`@O"
+            },
+            "start_location": {
+              "lat": 53.58585129999999,
+              "lng": 10.0653471
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 719
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 165
+            },
+            "end_location": {
+              "lat": 53.57314359999999,
+              "lng": 10.0702299
+            },
+            "html_instructions": "Continue onto <b>Wandsbeker Allee</b>",
+            "polyline": {
+              "points": "wv_fI_vm|@PCZEd@IPMj@GXEn@I?A\\EVC^GvAOjBYVCZGRAZAVBZBPFVH`@NVJ`@LLBHDJBH@F?DFB@B@B@t@BV@NAP?`@Gb@G@A@?@C?A@GJA\\GB?p@OVMJHB@B?d@MPETK"
+            },
+            "start_location": {
+              "lat": 53.5794766,
+              "lng": 10.0695987
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 693
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 144
+            },
+            "end_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wandsbeker Marktstra\u00dfe</b> (signs for <b>A7</b>/<wbr/><b>B75</b>/<wbr/><b>Elbbr\u00fccken</b>/<wbr/><b>Centrum</b>)",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "co~eI}ym|@\\fB@@FVDRPp@Jf@@B@BHDVhABLt@hDXjAFRBLBJ?@DNz@~DNp@Nj@\\dBH`@BV@@PvAFb@Jv@ZhCHn@NtAHj@V|BBR\\tC"
+            },
+            "start_location": {
+              "lat": 53.57314359999999,
+              "lng": 10.0702299
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "77 m",
+              "value": 77
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.5703016,
+              "lng": 10.0596787
+            },
+            "html_instructions": "Continue onto <b>Wandsbeker Chaussee</b>/<wbr/><b>Wandsbeker Chausseebr\u00fccke</b>",
+            "polyline": {
+              "points": "}~}eIy~k|@b@|CLz@"
+            },
+            "start_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "q~`fIm{l|@hCwBxB{AnAu@rAs@xDaBlAUVMt@u@TGdCmAbAUXMpAqB^YjAm@bAc@l@Id@IPMdAMdBUzFu@n@Ir@@l@Jx@XpAb@TDLFFBx@Df@?r@Gh@M?A@GJA`@Gp@OVMNJh@Mf@Q^hBj@dCBFHDVhAx@vD`@~ALj@xBbK`@rCnBhPnAnJ"
+    },
+    "summary": "Nordschleswiger Str., Wandsbeker Allee and Wandsbeker Marktstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

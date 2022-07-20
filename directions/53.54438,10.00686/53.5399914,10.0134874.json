@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5445489,
+        "lng": 10.0134686
+      },
+      "southwest": {
+        "lat": 53.5399525,
+        "lng": 10.0063383
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 808
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 294
+        },
+        "end_address": "Versmannstra\u00dfe / Gerda-Gmelin Platz, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5399525,
+          "lng": 10.0134686
+        },
+        "start_address": "Oberhafenquartier Nord / Oberhafenbr\u00fccke, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54448009999999,
+          "lng": 10.0068846
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5445489,
+              "lng": 10.0064439
+            },
+            "html_instructions": "Head <b>west</b> on <b>Stockmeyerstra\u00dfe</b>",
+            "polyline": {
+              "points": "_|xeI_na|@Gl@Eh@"
+            },
+            "start_location": {
+              "lat": 53.54448009999999,
+              "lng": 10.0068846
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 589
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 126
+            },
+            "end_location": {
+              "lat": 53.5403366,
+              "lng": 10.0106832
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "m|xeIgka|@z@LVDb@?n@EV?`@It@Ul@YXQLIh@e@FG^]BC^c@d@s@JMXe@n@cA`@u@DIRa@JURm@J]Ny@R_ALw@Ns@?ADOJSDGHG\\G"
+            },
+            "start_location": {
+              "lat": 53.5445489,
+              "lng": 10.0064439
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 189
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 163
+            },
+            "end_location": {
+              "lat": 53.5399525,
+              "lng": 10.0134686
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Versmannstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cbxeIweb|@LaBFy@Be@Fk@HiAJoAB[Bo@Do@Fi@"
+            },
+            "start_location": {
+              "lat": 53.5403366,
+              "lng": 10.0106832
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_|xeI_na|@MvArARrAEx@It@Ul@Yf@[tAoA^c@d@s@d@s@pAyBXk@^cAZwAp@mDPc@NO\\GLaBJ_B`@aFPiC"
+    },
+    "summary": "Versmannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

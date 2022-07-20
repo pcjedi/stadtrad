@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5745435,
+        "lng": 9.880732
+      },
+      "southwest": {
+        "lat": 53.5706255,
+        "lng": 9.862404
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1621
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 344
+        },
+        "end_address": "Flottbeker Drift 56, 22607 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5745236,
+          "lng": 9.8785251
+        },
+        "start_address": "Osdorfer Landstra\u00dfe / Elbe-Einkaufszentrum, 22549 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5716894,
+          "lng": 9.862404
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5717842,
+              "lng": 9.8626297
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Osdorfer Landstra\u00dfe</b>/<wbr/><b>B431</b>",
+            "polyline": {
+              "points": "af~eI_ge{@AUCKKK"
+            },
+            "start_location": {
+              "lat": 53.5716894,
+              "lng": 9.862404
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 843
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 158
+            },
+            "end_location": {
+              "lat": 53.5706255,
+              "lng": 9.8751768
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Osdorfer Landstra\u00dfe</b>/<wbr/><b>B431</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sf~eImhe{@TkFD{@Bu@FqADw@Bc@VqFFsAFwALmCFmB?ADaB?m@DmBBeBBkB@k@BqC@}@DiC@s@@g@Ba@Be@D_@?EDa@@OBQFa@Ha@He@R_ADW"
+            },
+            "start_location": {
+              "lat": 53.5717842,
+              "lng": 9.8626297
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 397
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 114
+            },
+            "end_location": {
+              "lat": 53.5721167,
+              "lng": 9.8805848
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Notkestra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "m_~eI{vg{@Ii@Ka@Qs@IO?CCMMu@AIm@iC]iBg@wBe@sB?AMm@WoASkAAWAKGm@?WC_A"
+            },
+            "start_location": {
+              "lat": 53.5706255,
+              "lng": 9.8751768
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 269
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5744368,
+              "lng": 9.879813
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Notkestra\u00dfe</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wh~eIsxh{@w@Sq@I[@G@A?SBa@F]L}@f@qBjA{@d@"
+            },
+            "start_location": {
+              "lat": 53.5721167,
+              "lng": 9.8805848
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "26 m",
+              "value": 26
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5745435,
+              "lng": 9.879508699999999
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gw~eIysh{@BNWj@"
+            },
+            "start_location": {
+              "lat": 53.5744368,
+              "lng": 9.879813
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "66 m",
+              "value": 66
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5745236,
+              "lng": 9.8785251
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{w~eI}qh{@Fz@?\\CxA?N"
+            },
+            "start_location": {
+              "lat": 53.5745435,
+              "lng": 9.879508699999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "af~eI_ge{@Ea@KKTkFHqBLiCj@aMZ_JZsVJcDLwA^{BXwAUkA[cACQO_AkAsF{A{Gk@{CCc@GeAC_Aw@Sq@I[@I@u@J]L}@f@mDpBBNWj@FxAChB"
+    },
+    "summary": "Osdorfer Landstra\u00dfe/B431 and Notkestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

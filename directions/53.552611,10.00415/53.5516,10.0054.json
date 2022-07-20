@@ -1,0 +1,142 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5525459,
+        "lng": 10.0053786
+      },
+      "southwest": {
+        "lat": 53.5516022,
+        "lng": 10.0040435
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.2 km",
+          "value": 164
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 95
+        },
+        "end_address": "M\u00f6nckebergstra\u00dfe / Steintorwall, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5516022,
+          "lng": 10.0053661
+        },
+        "start_address": "Kurze M\u00fchren / Spitalerstra\u00dfe, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5525459,
+          "lng": 10.0040435
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5524298,
+              "lng": 10.0042445
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Kurze M\u00fchren</b> toward <b>Spitalerstra\u00dfe</b>",
+            "polyline": {
+              "points": "mnzeIg|`|@Vg@"
+            },
+            "start_location": {
+              "lat": 53.5525459,
+              "lng": 10.0040435
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "91 m",
+              "value": 91
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.55165419999999,
+              "lng": 10.0046975
+            },
+            "html_instructions": "Continue onto <b>Lange M\u00fchren</b>",
+            "polyline": {
+              "points": "umzeIo}`|@\\W@ALGLEFCJGTIDCn@Y"
+            },
+            "start_location": {
+              "lat": 53.5524298,
+              "lng": 10.0042445
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5516849,
+              "lng": 10.0049703
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>M\u00f6nckebergstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yhzeIk`a|@Eu@"
+            },
+            "start_location": {
+              "lat": 53.55165419999999,
+              "lng": 10.0046975
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.5516022,
+              "lng": 10.0053661
+            },
+            "html_instructions": "Take the pedestrian tunnel stairs<div style=\"font-size:0.9em\">Take the stairs</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "_izeIaba|@DU?E@C?CEm@L@"
+            },
+            "start_location": {
+              "lat": 53.5516849,
+              "lng": 10.0049703
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "mnzeIg|`|@Vg@\\WNIv@[t@]Eu@DU@IEq@L@"
+    },
+    "summary": "Lange M\u00fchren",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

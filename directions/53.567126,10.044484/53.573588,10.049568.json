@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5736657,
+        "lng": 10.0495178
+      },
+      "southwest": {
+        "lat": 53.5671046,
+        "lng": 10.04428
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1016
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 317
+        },
+        "end_address": "Lortzingstra\u00dfe / Friedrichsberger Stra\u00dfe, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5736657,
+          "lng": 10.0495178
+        },
+        "start_address": "U Ritterstra\u00dfe / Wandsbeker Chaussee, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5671046,
+          "lng": 10.0444917
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "29 m",
+              "value": 29
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Ritterstra\u00dfe</b>",
+            "polyline": {
+              "points": "ki}eIayh|@C_@AU?K?U"
+            },
+            "start_location": {
+              "lat": 53.5671046,
+              "lng": 10.0444917
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 205
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 104
+            },
+            "end_location": {
+              "lat": 53.5689233,
+              "lng": 10.04428
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ritterstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qi}eIy{h|@YNSJYJE@g@NKHc@Gy@ReAVQDm@R"
+            },
+            "start_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 338
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5708133,
+              "lng": 10.0482783
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eilbeker Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wt}eIwwh|@cBoE_CsFkBeFi@uB"
+            },
+            "start_location": {
+              "lat": 53.5689233,
+              "lng": 10.04428
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 260
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 90
+            },
+            "end_location": {
+              "lat": 53.57301349999999,
+              "lng": 10.0469677
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Maxstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q`~eIwpi|@k@X{Av@gClAkAr@KFWLa@RUF"
+            },
+            "start_location": {
+              "lat": 53.5708133,
+              "lng": 10.0482783
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 184
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5736657,
+              "lng": 10.0495178
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lortzingstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "in~eIqhi|@O{AWsA}@yEW}AEU"
+            },
+            "start_location": {
+              "lat": 53.57301349999999,
+              "lng": 10.0469677
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ki}eIayh|@EwAm@Z_@Ls@Xc@Gy@RwA\\m@RcBoE_CsFkBeFi@uBk@XcFdCwAz@y@`@UFO{AuAmH]sB"
+    },
+    "summary": "Eilbeker Weg and Maxstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

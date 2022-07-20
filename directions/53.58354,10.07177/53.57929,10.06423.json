@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5835523,
+        "lng": 10.0719805
+      },
+      "southwest": {
+        "lat": 53.5791506,
+        "lng": 10.0644805
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 742
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 267
+        },
+        "end_address": "Els\u00e4sser Stra\u00dfe / Stormarner Stra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5793487,
+          "lng": 10.0644805
+        },
+        "start_address": "Eulenkamp / Stra\u00dfburger Stieg, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5834823,
+          "lng": 10.0718035
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5835523,
+              "lng": 10.0719805
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Stra\u00dfburger Stieg</b> toward <b>Eulenkamp</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "wo`fIwcn|@AEEOEM"
+            },
+            "start_location": {
+              "lat": 53.5834823,
+              "lng": 10.0718035
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 695
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 248
+            },
+            "end_location": {
+              "lat": 53.5791506,
+              "lng": 10.0648478
+            },
+            "html_instructions": "Sharp <b>right</b> onto <b>Eulenkamp</b>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "ep`fI{dn|@bAbA\\h@|@rA\\h@|AjBbAjARRxBbCFJBNDHBHBJLn@DZTxAFXFL@LLn@F^Hb@Pt@Nd@BFn@lA`@t@|@~AtA`C"
+            },
+            "start_location": {
+              "lat": 53.5835523,
+              "lng": 10.0719805
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5793487,
+              "lng": 10.0644805
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Els\u00e4sser Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ut_fIixl|@g@hA"
+            },
+            "start_location": {
+              "lat": 53.5791506,
+              "lng": 10.0648478
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wo`fIwcn|@GUEMbAbAzA|B\\h@|AjBvA~A`CnCPn@p@~DHZTnAZxARl@pAbCrC`Fg@hA"
+    },
+    "summary": "Eulenkamp",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

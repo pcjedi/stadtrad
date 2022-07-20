@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5588828,
+        "lng": 9.9637698
+      },
+      "southwest": {
+        "lat": 53.5558973,
+        "lng": 9.950681099999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1167
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 237
+        },
+        "end_address": "Neuer Pferdemarkt / Beim Gr\u00fcnen J\u00e4ger, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5588828,
+          "lng": 9.9637698
+        },
+        "start_address": "Holstenstra\u00dfe / Thadenstra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5558973,
+          "lng": 9.950681099999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 858
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 133
+            },
+            "end_location": {
+              "lat": 53.5562955,
+              "lng": 9.962884299999999
+            },
+            "html_instructions": "Head <b>east</b> on <b>Thadenstra\u00dfe</b> toward <b>G\u00e4hlerstra\u00dfe</b>",
+            "polyline": {
+              "points": "kc{eIwnv{@AUGi@Ks@UmAEQMc@ACQe@Uk@Sa@Wm@EKAASc@EMGOEMCIWoAQ}A?IG}@AYBwABy@JuF@k@@k@DuAFoAL_BNsCLaBViDJmAAQ`@iEVaE"
+            },
+            "start_location": {
+              "lat": 53.5558973,
+              "lng": 9.950681099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 167
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5577818,
+              "lng": 9.9632262
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Beim Gr\u00fcnen J\u00e4ger</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{e{eI_{x{@QA_@Ec@GQAe@Ky@Mu@K[GME"
+            },
+            "start_location": {
+              "lat": 53.5562955,
+              "lng": 9.962884299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.5582891,
+              "lng": 9.963706499999999
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Beim Gr\u00fcnen J\u00e4ger</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "co{eIe}x{@AG?CACACAACCACAAA?AAA?A?A?A?A??@A@A??@A@ECGCAAACAAAAMMGGKOIM"
+            },
+            "start_location": {
+              "lat": 53.5577818,
+              "lng": 9.9632262
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "72 m",
+              "value": 72
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5588828,
+              "lng": 9.9637698
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ir{eIe`y{@IPGFC@G@G?g@Kg@]"
+            },
+            "start_location": {
+              "lat": 53.5582891,
+              "lng": 9.963706499999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kc{eIwnv{@I_Aa@aCg@_BkBkEIWWoAQ}AGgA@qBRgKLeD\\sFd@kGH_B`@iEVaEq@Gu@I_BYqASMEAGAGCEIIGAEBA@GAMKc@g@IMIPKHO@g@Kg@]"
+    },
+    "summary": "Thadenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

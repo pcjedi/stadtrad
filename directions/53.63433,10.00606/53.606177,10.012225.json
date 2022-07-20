@@ -1,0 +1,215 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6343302,
+        "lng": 10.0122895
+      },
+      "southwest": {
+        "lat": 53.60618299999999,
+        "lng": 10.0060364
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.6 km",
+          "value": 3619
+        },
+        "duration": {
+          "text": "13 mins",
+          "value": 759
+        },
+        "end_address": "U Alsterdorf / Hindenburgstra\u00dfe, 22297 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.60618299999999,
+          "lng": 10.0122895
+        },
+        "start_address": "Flughafenstr., 22335 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6343302,
+          "lng": 10.0060586
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 628
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 105
+            },
+            "end_location": {
+              "lat": 53.6301985,
+              "lng": 10.0092828
+            },
+            "html_instructions": "Head <b>south</b> on <b>Flughafenstr.</b>",
+            "polyline": {
+              "points": "qmjfI{ha|@B@P@XAl@GNCNK^IbBIpCMdBOB?N?XCbCOx@CJAJIFKLWDKJYDMLmAPmADOF]Fm@?o@C[CQEQIWBO?EAEAEGMCECI"
+            },
+            "start_location": {
+              "lat": 53.6343302,
+              "lng": 10.0060586
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 299
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.6275316,
+              "lng": 10.0093067
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wsifI_}a|@HEPBHBNDb@NXD^@\\?F?l@?|@Cp@?n@CRCTEb@KF?F?H@LCLAHC"
+            },
+            "start_location": {
+              "lat": 53.6301985,
+              "lng": 10.0092828
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "77 m",
+              "value": 77
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.6275404,
+              "lng": 10.0082123
+            },
+            "html_instructions": "Turn <b>right</b> onto the ramp to <b>Flughafenstr.</b>",
+            "maneuver": "ramp-right",
+            "polyline": {
+              "points": "acifIe}a|@@R?J@\\C@C@CDBP?F?F?r@@f@?T"
+            },
+            "start_location": {
+              "lat": 53.6275316,
+              "lng": 10.0093067
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 449
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.6238621,
+              "lng": 10.010539
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Flughafenstr.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ccifIiva|@`@@p@C~@Ib@IZGr@QPGb@QPITKTMDCVOv@g@DGR_@HGJIj@_@f@]VSp@q@R]NWZs@"
+            },
+            "start_location": {
+              "lat": 53.6275404,
+              "lng": 10.0082123
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "71 m",
+              "value": 71
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.6233562,
+              "lng": 10.0111907
+            },
+            "html_instructions": "Continue onto <b>B433</b>",
+            "polyline": {
+              "points": "clhfI{db|@Zm@fAsA"
+            },
+            "start_location": {
+              "lat": 53.6238621,
+              "lng": 10.010539
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 766
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 132
+            },
+            "end_location": {
+              "lat": 53.617378,
+              "lng": 10.0062109
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alsterkrugchaussee</b>/<wbr/><b>Zeppelinstra\u00dfe</b>/<wbr/><b>B433</b><div style=\"font-size:0.9em\">Continue to follow Alsterkrugchaussee/<wbr/>B433</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_ihfI}hb|@n@TB@pAb@VFNFl@LF@VDRD@@^?@@r@PJDLDRFXJj@PJDNDf@PD@PHNDTHLFZLf@V^T@@XRZXZXX\\LLn@~@`@p@d@x@^r@DJh@~@zAlCFTFRHRTl@JX"
+            },
+            "start_location": {
+              "lat": 53.6233562,
+              "lng": 10.0111907
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1329
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 336
+            },
+            "end_location": {
+              "lat": 53.60618299999999,
+              "lng": 10.0122895
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hindenburgstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "scgfIyia|@P]`@m@DKRg@L[TWZU^Sp@URGNGTG\\MBAZIrA_@zAi@HEr@]JGn@Up@WPIb@Uz@i@n@a@z@g@VOZ]j@o@NKh@]PMd@CZANAFCRE^Mt@_@xA{@v@i@j@g@PWDGNIPMFAr@SBA`@K\\AP?z@GlBSpAQ`AKVEFCRMr@e@FCRGRCRCJC|@O"
+            },
+            "start_location": {
+              "lat": 53.617378,
+              "lng": 10.0062109
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qmjfI{ha|@TBfAINCNK^IbBIvF]R?|CSdAERURc@Pg@^{CLm@Fm@?o@Gm@Oi@BUCKKSCIHEZFr@TXD^@d@?lEGh@Ib@KF?P@ZEHC@R@h@GBCDBP?N@zA?T`@@pBM~@QdAY`Bu@zAcAR_@HGv@i@~@q@p@q@R]j@kAZm@fAsAr@VhBj@|A\\TF`@@`Bd@`Bh@nAb@fBv@`@Vt@l@t@v@|@lAlBjDdClENh@^`AJXP]f@y@`@cATWZU^Sp@Ub@Or@U^KnDiAxBaAbAa@~A_AjBiAVOZ]z@{@z@k@pAGZI^Mt@_@pCeBj@g@PWTQXOv@U`@K\\AlAG~De@xAQZQz@i@f@K|AW"
+    },
+    "summary": "Flughafenstr. and Hindenburgstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

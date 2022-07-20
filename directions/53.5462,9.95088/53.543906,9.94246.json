@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5461659,
+        "lng": 9.9524103
+      },
+      "southwest": {
+        "lat": 53.54393959999999,
+        "lng": 9.942412899999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 876
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 149
+        },
+        "end_address": "Van-der-Smissen-Stra\u00dfe / Gro\u00dfe Elbstra\u00dfe, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.54393959999999,
+          "lng": 9.942412899999999
+        },
+        "start_address": "Fischmarkt / Breite Stra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5461659,
+          "lng": 9.9509475
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 143
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5452491,
+              "lng": 9.9524103
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Fischmarkt</b> toward <b>Buttstra\u00dfe</b>",
+            "polyline": {
+              "points": "qfyeImpv{@BGHUFQNa@HUDQJ[b@s@n@{@NOBCBCHE"
+            },
+            "start_location": {
+              "lat": 53.5461659,
+              "lng": 9.9509475
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 669
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 119
+            },
+            "end_location": {
+              "lat": 53.5444912,
+              "lng": 9.942569299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00dfe Elbstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "y`yeIqyv{@b@xDXdCXrBn@dED\\DXB\\Bb@Dd@Bh@NnCBp@@H@H?X?`@Al@@`ACxA?NEzB?XGdDAhAIrDELAv@"
+            },
+            "start_location": {
+              "lat": 53.5452491,
+              "lng": 9.9524103
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "64 m",
+              "value": 64
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.54393959999999,
+              "lng": 9.942412899999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Van-der-Smissen-Stra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "a|xeIa|t{@P@|@DF@F@DDDF@D"
+            },
+            "start_location": {
+              "lat": 53.5444912,
+              "lng": 9.942569299999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qfyeImpv{@`AuCrAoBRSLI|@~HtApJPpCVtE?jDI~FInFIrDELAv@P@dAFLFFL"
+    },
+    "summary": "Gro\u00dfe Elbstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

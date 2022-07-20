@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5408613,
+        "lng": 10.0134686
+      },
+      "southwest": {
+        "lat": 53.5399525,
+        "lng": 10.0038725
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 826
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 223
+        },
+        "end_address": "Versmannstra\u00dfe / Gerda-Gmelin Platz, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5399525,
+          "lng": 10.0134686
+        },
+        "start_address": "U HafenCity Universit\u00e4t / Versmannstra\u00dfe, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5407684,
+          "lng": 10.0061656
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5407605,
+              "lng": 10.006295
+            },
+            "html_instructions": "Head <b>east</b> toward <b>\u00dcberseeallee</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ydxeIqia|@@Y"
+            },
+            "start_location": {
+              "lat": 53.5407684,
+              "lng": 10.0061656
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 161
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5408613,
+              "lng": 10.0038725
+            },
+            "html_instructions": "Sharp <b>right</b> onto <b>\u00dcberseeallee</b>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "wdxeIkja|@DbA?j@?^Ah@Cb@Ah@KtCCb@Ab@"
+            },
+            "start_location": {
+              "lat": 53.5407605,
+              "lng": 10.006295
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 222
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.54056240000001,
+              "lng": 10.0070389
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Shanghaiallee</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "kexeIe{`|@R?@_@BWFeBBy@Bs@DaC@u@HuD"
+            },
+            "start_location": {
+              "lat": 53.5408613,
+              "lng": 10.0038725
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 434
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 113
+            },
+            "end_location": {
+              "lat": 53.5399525,
+              "lng": 10.0134686
+            },
+            "html_instructions": "Continue onto <b>Versmannstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "ocxeI_oa|@@YD}AD{@@Y@YJ_C@Y?CB]@_@FeAD{@D{@Do@F{@?[CWIWFy@Be@Fk@HiAJoAB[Bo@Do@Fi@"
+            },
+            "start_location": {
+              "lat": 53.54056240000001,
+              "lng": 10.0070389
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ydxeIqia|@@YDbA?jASlGEfAR?@_@J}BFmBRgKNmEf@yKLkB?[Mo@J_B`@aFPiC"
+    },
+    "summary": "\u00dcberseeallee and Versmannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

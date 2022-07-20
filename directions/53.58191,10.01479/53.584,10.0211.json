@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58406549999999,
+        "lng": 10.0210632
+      },
+      "southwest": {
+        "lat": 53.58195869999999,
+        "lng": 10.0147472
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 519
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 139
+        },
+        "end_address": "Jarrestra\u00dfe / Rambatzweg, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58406549999999,
+          "lng": 10.0210632
+        },
+        "start_address": "Gertigstra\u00dfe / For\u00dfmannstra\u00dfe, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58195869999999,
+          "lng": 10.0147472
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 333
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.58319400000001,
+              "lng": 10.0193328
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Gertigstra\u00dfe</b> toward <b>Forsmannstra\u00dfe</b>",
+            "polyline": {
+              "points": "gf`fIe_c|@k@oCqAsH{@eFUyAKk@O{@Ig@"
+            },
+            "start_location": {
+              "lat": 53.58195869999999,
+              "lng": 10.0147472
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5836805,
+              "lng": 10.0191839
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Barmbeker Str.</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}m`fIy{c|@w@Ni@L"
+            },
+            "start_location": {
+              "lat": 53.58319400000001,
+              "lng": 10.0193328
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 131
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.58406549999999,
+              "lng": 10.0210632
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Jarrestra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_q`fI{zc|@MoAE[E[Ko@EUUsBKu@"
+            },
+            "start_location": {
+              "lat": 53.5836805,
+              "lng": 10.0191839
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gf`fIe_c|@k@oCqAsHqA_I[gBIg@w@Ni@LMoAKw@s@oF"
+    },
+    "summary": "Gertigstra\u00dfe and Jarrestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5782257,
+        "lng": 9.978124600000001
+      },
+      "southwest": {
+        "lat": 53.5680906,
+        "lng": 9.9696088
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 1973
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 469
+        },
+        "end_address": "U Schlump / Gustav-Falke-Stra\u00dfe, 20357 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5681105,
+          "lng": 9.9696088
+        },
+        "start_address": "Grindelberg / Bezirksamt Eimsb\u00fcttel, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57542549999999,
+          "lng": 9.9776705
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 351
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.57822179999999,
+              "lng": 9.9765377
+            },
+            "html_instructions": "Head <b>north</b> on <b>Grindelberg</b> toward <b>Oberstra\u00dfe</b>",
+            "polyline": {
+              "points": "m}~eImw{{@MCw@Um@Qk@O[M]KMCQAM@Q@SFQFIDc@\\]VSFMNMR_@x@Sh@A@S\\U\\Q^"
+            },
+            "start_location": {
+              "lat": 53.57542549999999,
+              "lng": 9.9776705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "54 m",
+              "value": 54
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.5782311,
+              "lng": 9.975965
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{n_fIkp{{@FPBBDND@B??@@??@?@@@?@?@?BA@Od@OR"
+            },
+            "start_location": {
+              "lat": 53.57822179999999,
+              "lng": 9.9765377
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 436
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.5759529,
+              "lng": 9.970594499999999
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}n_fIwl{{@^x@Rb@V|@b@nAZdAj@fBVt@j@lBv@hCBJb@pAl@lBj@pBPj@"
+            },
+            "start_location": {
+              "lat": 53.5782311,
+              "lng": 9.975965
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 377
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.5734771,
+              "lng": 9.9744931
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bogenstra\u00dfe</b>/<wbr/><b>Mansteinbr\u00fccke</b><div style=\"font-size:0.9em\">Continue to follow Bogenstra\u00dfe</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "u`_fIekz{@NYh@{@Xg@x@wARe@^q@R_@BCHOHMFO@?R_@`@q@`@q@\\o@^u@BGXm@DIZq@^o@"
+            },
+            "start_location": {
+              "lat": 53.5759529,
+              "lng": 9.970594499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 698
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 160
+            },
+            "end_location": {
+              "lat": 53.5680906,
+              "lng": 9.9704783
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gustav-Falke-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gq~eIqc{{@LVRZp@jA@BLT`BpCxAnBPXDDB@HDL@F@B@DBBD\\h@b@r@PZ?L@H@FBFDH^l@f@r@DFFFFDDDHF|@`@RDT@j@?h@@`@?rAEdBAZAx@ADADA"
+            },
+            "start_location": {
+              "lat": 53.5734771,
+              "lng": 9.9744931
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "57 m",
+              "value": 57
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5681105,
+              "lng": 9.9696088
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qo}eIojz{@?FApBAr@"
+            },
+            "start_location": {
+              "lat": 53.5680906,
+              "lng": 9.9704783
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m}~eImw{{@sBk@gA]k@O_@?e@H[LaAt@SFMNm@lAUj@i@z@Q^FPHRJB?NOd@ORr@|Az@lCjCpIlCtI|@|Cx@uArA_Cr@wAj@aA~@aBbB_D^w@z@aBtAbCnBfDjBhCHFVFJBHH`A|APZ?LBPHPtApBLJfAh@h@FtA@vFIdAEClD"
+    },
+    "summary": "Gustav-Falke-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

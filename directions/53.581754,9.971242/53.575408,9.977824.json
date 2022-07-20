@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58191470000001,
+        "lng": 9.9788363
+      },
+      "southwest": {
+        "lat": 53.5745435,
+        "lng": 9.971383999999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1248
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 247
+        },
+        "end_address": "Grindelberg / Bezirksamt Eimsb\u00fcttel, 20144 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5754933,
+          "lng": 9.9779035
+        },
+        "start_address": "Eppendorfer Weg / Hoheluftchaussee, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58171979999999,
+          "lng": 9.971383999999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.58191470000001,
+              "lng": 9.9718161
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Eppendorfer Weg</b> toward <b>Hoheluftchaussee</b>",
+            "polyline": {
+              "points": "wd`fIcpz{@e@wA"
+            },
+            "start_location": {
+              "lat": 53.58171979999999,
+              "lng": 9.971383999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 419
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 90
+            },
+            "end_location": {
+              "lat": 53.57880979999999,
+              "lng": 9.9753987
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hoheluftchaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}e`fI{rz{@b@m@LQp@w@l@u@~@mATUNSv@}@bBuBb@k@\\c@LSHG\\_@j@m@^a@RU"
+            },
+            "start_location": {
+              "lat": 53.58191470000001,
+              "lng": 9.9718161
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 537
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 101
+            },
+            "end_location": {
+              "lat": 53.5745687,
+              "lng": 9.977266799999999
+            },
+            "html_instructions": "Continue onto <b>Grindelberg</b>",
+            "polyline": {
+              "points": "qr_fIgi{{@pAqBt@kA^w@Xi@FKBIFKFILORSVa@DIR_@PSNKRMVOVGPATDVBt@ZvAb@bBh@dCX"
+            },
+            "start_location": {
+              "lat": 53.57880979999999,
+              "lng": 9.9753987
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 100
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.57460159999999,
+              "lng": 9.9787687
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Grindelberg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ax~eI}t{{@@[@U@]AQASAY?k@AK?E?O?m@?I?KCI"
+            },
+            "start_location": {
+              "lat": 53.5745687,
+              "lng": 9.977266799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 156
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5754933,
+              "lng": 9.9779035
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Grindelberg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gx~eIi~{{@CCCCICKAO?O@Q?K?SA[@Q?GDE@?@ABAH?L?F?D?D?b@Ax@?X?F"
+            },
+            "start_location": {
+              "lat": 53.57460159999999,
+              "lng": 9.9787687
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wd`fIcpz{@e@wAb@m@~@iArCmD|EcG`BiBr@w@fC}DdAwBNU`@c@\\k@d@s@b@YVOVGf@BVBt@ZzDlAdCX@[Bs@Ce@CwA?sAKQUE_@@mA?YDEBCL?TAhB?`@"
+    },
+    "summary": "Hoheluftchaussee and Grindelberg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

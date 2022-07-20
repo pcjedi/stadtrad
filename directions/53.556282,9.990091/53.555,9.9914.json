@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5564531,
+        "lng": 9.9914362
+      },
+      "southwest": {
+        "lat": 53.5546622,
+        "lng": 9.9901146
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.3 km",
+          "value": 281
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 48
+        },
+        "end_address": "Jungfernstieg / Neuer Jungfernstieg, 20354 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55498780000001,
+          "lng": 9.9914362
+        },
+        "start_address": "Gustav-Mahler-Platz / B\u00fcschstra\u00dfe, 20354 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5562729,
+          "lng": 9.9901146
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5564531,
+              "lng": 9.9903105
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>B\u00fcschstra\u00dfe</b> toward <b>Colonnaden</b>",
+            "polyline": {
+              "points": "ue{eIee~{@SUOQ"
+            },
+            "start_location": {
+              "lat": 53.5562729,
+              "lng": 9.9901146
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 217
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5546622,
+              "lng": 9.991195099999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Colonnaden</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yf{eImf~{@TIb@K\\Ip@M`@IrAYjA[HGFKDW@W"
+            },
+            "start_location": {
+              "lat": 53.5564531,
+              "lng": 9.9903105
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.55498780000001,
+              "lng": 9.9914362
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "s{zeI_l~{@MCGC[WOO"
+            },
+            "start_location": {
+              "lat": 53.5546622,
+              "lng": 9.991195099999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ue{eIee~{@c@g@x@UdE{@jA[HGFKDW@WMCc@[OO"
+    },
+    "summary": "Colonnaden",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5803039,
+        "lng": 10.041543
+      },
+      "southwest": {
+        "lat": 53.5739306,
+        "lng": 10.0295188
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1392
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 301
+        },
+        "end_address": "Bartholom\u00e4usstra\u00dfe / Beim Alten Sch\u00fctzenhof, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5757268,
+          "lng": 10.0295188
+        },
+        "start_address": "U Dehnhaide / Barmbeker Markt, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5799399,
+          "lng": 10.041543
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Barmbeker Markt</b> toward <b>Dehnhaide</b>",
+            "polyline": {
+              "points": "sy_fIsfh|@HPFNFR"
+            },
+            "start_location": {
+              "lat": 53.5799399,
+              "lng": 10.041543
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "92 m",
+              "value": 92
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5803039,
+              "lng": 10.0402218
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Weidestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yx_fI}dh|@QVA@MPKPMVGHGNGJGNAZCh@"
+            },
+            "start_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 863
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 200
+            },
+            "end_location": {
+              "lat": 53.5739306,
+              "lng": 10.0333138
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hamburger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{{_fIk~g|@T@VHVJTJLL\\Vb@XFDB@FAbDlBnAx@zCdBZVpA~@ZXx@|@HJ\\l@bAhBRX?@JVNZZx@Rd@b@n@DNPb@Tf@N\\FLj@hAXj@@@l@nA`@~@Vh@"
+            },
+            "start_location": {
+              "lat": 53.5803039,
+              "lng": 10.0402218
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 279
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Heitmannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "at~eIesf|@oAvBU`@q@^}@h@i@V}A|@}Az@"
+            },
+            "start_location": {
+              "lat": 53.5739306,
+              "lng": 10.0333138
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 135
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5757268,
+              "lng": 10.0295188
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Beim Alten Sch\u00fctzenhof</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}a_fIogf|@RhB@FLfAn@dE"
+            },
+            "start_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sy_fIsfh|@P`@FRQVORYh@_@t@EdAl@Jl@Vj@d@j@^J?bDlBnAx@zCdBZVpA~@ZXbAhAtBrDjArCh@~@f@jA|A`DhBzDeBxCoBhAgCtA}Az@RhBNnAn@dE"
+    },
+    "summary": "Hamburger Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

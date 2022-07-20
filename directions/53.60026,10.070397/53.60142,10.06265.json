@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6015488,
+        "lng": 10.0703664
+      },
+      "southwest": {
+        "lat": 53.6003639,
+        "lng": 10.0626604
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 588
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 155
+        },
+        "end_address": "Fabriciusstra\u00dfe / Buschrosenweg, 22177 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.60130220000001,
+          "lng": 10.0626604
+        },
+        "start_address": "Werner-Otto-Stra\u00dfe / OTTO Group, 22179 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.60042259999999,
+          "lng": 10.0703664
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Werner-Otto-Stra\u00dfe</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "polyline": {
+              "points": "sycfIyzm|@JpD"
+            },
+            "start_location": {
+              "lat": 53.60042259999999,
+              "lng": 10.0703664
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 112
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.6012943,
+              "lng": 10.0688704
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Werner-Otto-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gycfIgum|@u@h@U@C@a@Va@Ve@Z"
+            },
+            "start_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 128
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.6015045,
+              "lng": 10.0670164
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Moosrosenweg</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "a_dfImqm|@K`@Ej@SbAETCTATA`@HzB"
+            },
+            "start_location": {
+              "lat": 53.6012943,
+              "lng": 10.0688704
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 289
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.60130220000001,
+              "lng": 10.0626604
+            },
+            "html_instructions": "Continue onto <b>Buschrosenweg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "k`dfI{em|@AF?H?D?F@N?X?F?N@J\\~OFxE"
+            },
+            "start_location": {
+              "lat": 53.6015045,
+              "lng": 10.0670164
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sycfIyzm|@JpDu@h@YBcAn@e@ZK`@Ej@SbAIj@Cv@FbC@f@@|@\\~OFxE"
+    },
+    "summary": "Buschrosenweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

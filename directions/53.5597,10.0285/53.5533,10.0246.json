@@ -1,0 +1,214 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5598849,
+        "lng": 10.0282665
+      },
+      "southwest": {
+        "lat": 53.5533318,
+        "lng": 10.0241687
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 900
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 226
+        },
+        "end_address": "S+U Berliner Tor / Beim Strohhause, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5533318,
+          "lng": 10.0245827
+        },
+        "start_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 197
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5589033,
+              "lng": 10.0258066
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b> toward <b>M\u00fchlendamm</b>",
+            "polyline": {
+              "points": "g|{eIuse|@\\dAVr@Zz@Ph@BFRh@Dj@@JX~@V|@BHHX"
+            },
+            "start_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 268
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.5565878,
+              "lng": 10.0262864
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Steinhauerdamm</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Continue to follow B75</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cv{eIide|@HAH?rBc@BATGFALCTE`@GNAZEH?J@VJB?D?D@D@DDFDFDDBF@F?JAFCHEHINUHQ"
+            },
+            "start_location": {
+              "lat": 53.5589033,
+              "lng": 10.0258066
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5562739,
+              "lng": 10.0259806
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Westphalensweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ug{eIige|@HPHJFLPN?@@?@@@?@@@?@ADA"
+            },
+            "start_location": {
+              "lat": 53.5565878,
+              "lng": 10.0262864
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 251
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5542352,
+              "lng": 10.024753
+            },
+            "html_instructions": "Continue onto <b>b. d. Hauptfeuerwache</b>",
+            "polyline": {
+              "points": "ue{eIkee|@?A@A@??A@?B?@?@?LJTP\\V^T^PJFTHTH`AVf@LTHTFHDFBDBDBBBD@BBDB@@@@@B?B@B?@?B?B?BAJ"
+            },
+            "start_location": {
+              "lat": 53.5562739,
+              "lng": 10.0259806
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5541189,
+              "lng": 10.0241687
+            },
+            "html_instructions": "Slight <b>right</b> at <b>Westphalensweg</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "_yzeIu}d|@@R?F?F?F@F?F@DFV@F?B@@@B@B@B"
+            },
+            "start_location": {
+              "lat": 53.5542352,
+              "lng": 10.024753
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "66 m",
+              "value": 66
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5536165,
+              "lng": 10.0246281
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gxzeIazd|@Zq@FMJGHERGTE"
+            },
+            "start_location": {
+              "lat": 53.5541189,
+              "lng": 10.0241687
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5533318,
+              "lng": 10.0245827
+            },
+            "html_instructions": "Take the crosswalk",
+            "polyline": {
+              "points": "cuzeI}|d|@TERANP"
+            },
+            "start_location": {
+              "lat": 53.5536165,
+              "lng": 10.0246281
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g|{eIuse|@bB~EVp@Fv@~@`DjCg@`ASp@Id@Eb@LH?XNLHN@REROXg@R\\Z^H@HGF?d@\\|@l@j@Xj@RhBd@|@ZTLLJBL?bAP~@BFb@_ATMh@Mh@GNP"
+    },
+    "summary": "B75 and b. d. Hauptfeuerwache",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

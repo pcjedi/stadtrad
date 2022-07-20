@@ -1,0 +1,214 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5884449,
+        "lng": 9.9914127
+      },
+      "southwest": {
+        "lat": 53.5831808,
+        "lng": 9.983136199999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 965
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 203
+        },
+        "end_address": "U Eppendorfer Baum / Isestra\u00dfe, 20149 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5831808,
+          "lng": 9.9844574
+        },
+        "start_address": "U Kellinghusenstra\u00dfe / Loogeplatz, 20249 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5884449,
+          "lng": 9.9914127
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "85 m",
+              "value": 85
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5877913,
+              "lng": 9.9907585
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Loogepl.</b>",
+            "polyline": {
+              "points": "wnafIim~{@@@p@d@HJ^d@DDPTJJ"
+            },
+            "start_location": {
+              "lat": 53.5884449,
+              "lng": 9.9914127
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 238
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.58604039999999,
+              "lng": 9.9886807
+            },
+            "html_instructions": "Continue onto <b>Loogestra\u00dfe</b>",
+            "polyline": {
+              "points": "ujafIgi~{@rAfBLNf@n@LNHJnA~Ax@~@p@z@"
+            },
+            "start_location": {
+              "lat": 53.5877913,
+              "lng": 9.9907585
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 95
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5863981,
+              "lng": 9.987402099999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Loogestieg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w_afIg|}{@G\\CH?FAD?R?BATAFAFADADKXENGNEJOx@"
+            },
+            "start_location": {
+              "lat": 53.58604039999999,
+              "lng": 9.9886807
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 121
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5854598,
+              "lng": 9.986489299999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Loehrsweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_bafIgt}{@|@v@~AzA\\`@"
+            },
+            "start_location": {
+              "lat": 53.5863981,
+              "lng": 9.987402099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 271
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.58408859999999,
+              "lng": 9.983136199999999
+            },
+            "html_instructions": "Continue onto <b>Hegestra\u00dfe</b>",
+            "polyline": {
+              "points": "c|`fIqn}{@Rp@BHBRb@vBH^Nj@Nt@FRJZRn@JXl@~ADJHPJVHP@BNVLT"
+            },
+            "start_location": {
+              "lat": 53.5854598,
+              "lng": 9.986489299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 128
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 54
+            },
+            "end_location": {
+              "lat": 53.5833853,
+              "lng": 9.9846744
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eppendorfer Baum</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qs`fIsy|{@t@sBN_@DO`@kARk@HU"
+            },
+            "start_location": {
+              "lat": 53.58408859999999,
+              "lng": 9.983136199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5831808,
+              "lng": 9.9844574
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Isestra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "eo`fIec}{@PLVZ"
+            },
+            "start_location": {
+              "lat": 53.5833853,
+              "lng": 9.9846744
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wnafIim~{@r@f@h@p@vBnClAzAhC~Cp@z@G\\CPAXEh@Ut@MZOx@|@v@|B|BVz@`AvEVhA^jAhAvCf@dALTt@sBTo@t@wBHUPLVZ"
+    },
+    "summary": "Hegestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

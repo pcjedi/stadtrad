@@ -1,0 +1,263 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.585416,
+        "lng": 10.0762986
+      },
+      "southwest": {
+        "lat": 53.5716261,
+        "lng": 10.0686596
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.7 km",
+          "value": 2715
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 618
+        },
+        "end_address": "Eulenkamp / Stra\u00dfburger Stieg, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5834823,
+          "lng": 10.0718035
+        },
+        "start_address": "Schlo\u00dfstra\u00dfe 40, 22041 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5716261,
+          "lng": 10.0686596
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 522
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 121
+            },
+            "end_location": {
+              "lat": 53.5722593,
+              "lng": 10.0762986
+            },
+            "html_instructions": "Head <b>east</b> on <b>Schlo\u00dfstra\u00dfe</b> toward <b>Am Alten Posthaus</b>",
+            "polyline": {
+              "points": "ue~eIcpm|@Es@Gg@B_@Es@AWASA]G_AEi@E_@CWM{AEe@CWCWGg@Gi@AEGc@ACKQC_@Ca@AMOiCGuA@g@Ba@B_@FyAFgAFeADg@?U?OAACYKk@"
+            },
+            "start_location": {
+              "lat": 53.5716261,
+              "lng": 10.0686596
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 289
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5746778,
+              "lng": 10.07482
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sch\u00e4dlerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "si~eI{_o|@]VUJeA`@c@PQFG@YJq@V}@ZKDWLKFGBGBi@\\g@b@O^"
+            },
+            "start_location": {
+              "lat": 53.5722593,
+              "lng": 10.0762986
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 118
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5741682,
+              "lng": 10.0732602
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R\u00fcterstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wx~eIsvn|@J\\VlAf@zBXnA"
+            },
+            "start_location": {
+              "lat": 53.5746778,
+              "lng": 10.07482
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 245
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.574789,
+              "lng": 10.069934
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kattunbleiche</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qu~eI{ln|@[l@a@r@GHEJABADAFAD?DAD?DAv@ErB?FCbCAf@CpA?VAJ?BADAFABABABA@E@"
+            },
+            "start_location": {
+              "lat": 53.5741682,
+              "lng": 10.0732602
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 530
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 122
+            },
+            "end_location": {
+              "lat": 53.579491,
+              "lng": 10.0697838
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Wandsbeker Allee</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "my~eIaxm|@W@q@@E?A?A@E@EDG?IAKCIEMCa@MWKa@OWIQG[CWC[@S@[FWBkBXwAN_@FWB]D?@o@HYDk@FSG[E_@BWF"
+            },
+            "start_location": {
+              "lat": 53.574789,
+              "lng": 10.069934
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 166
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.58081929999999,
+              "lng": 10.0686696
+            },
+            "html_instructions": "Continue onto <b>Nordschleswiger Str.</b>",
+            "polyline": {
+              "points": "yv_fIcwm|@UH[PEBYPYN[TIFA@[XWV[Ze@l@"
+            },
+            "start_location": {
+              "lat": 53.579491,
+              "lng": 10.0697838
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 604
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 161
+            },
+            "end_location": {
+              "lat": 53.585416,
+              "lng": 10.0733625
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eulenkamp</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "c_`fIepm|@Ke@EKEKEGECGCGKyBcCSScAkA}AkB]i@}@sA]i@cAcAMKKKAAYWQSWQa@Ys@c@g@YIEw@c@}@k@WM"
+            },
+            "start_location": {
+              "lat": 53.58081929999999,
+              "lng": 10.0686696
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 227
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5835523,
+              "lng": 10.0719805
+            },
+            "html_instructions": "Make a <b>U-turn</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "{{`fIomn|@VL|@j@v@b@HDf@Xr@b@`@XVPPRXV@@JJLJ"
+            },
+            "start_location": {
+              "lat": 53.585416,
+              "lng": 10.0733625
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5834823,
+              "lng": 10.0718035
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Stra\u00dfburger Stieg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ep`fI{dn|@DLDN@D"
+            },
+            "start_location": {
+              "lat": 53.5835523,
+              "lng": 10.0719805
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ue~eIcpm|@M{AB_@Es@Ck@I}A]}DU}BSwAKQC_@Eo@W_FDiAZgGD}@AQOeAs@b@cC|@uCdAs@\\qA`AO^J\\~@hEXnA[l@i@|@GNEXIvDIdGCl@GRGBiABOBEDG?UEqAc@y@Ym@Ks@Ao@H{Ft@eBTeALo@Mw@Jq@ZuAz@_Az@aAhAQq@KSMGyEoF}AkB]i@{A}B_B}Ak@k@y@k@}CgBuAy@tAx@|CfBx@j@j@j@LLLJDLFT"
+    },
+    "summary": "Eulenkamp",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

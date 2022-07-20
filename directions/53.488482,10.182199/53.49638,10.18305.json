@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.49663529999999,
+        "lng": 10.1846233
+      },
+      "southwest": {
+        "lat": 53.4884494,
+        "lng": 10.1799432
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1320
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 379
+        },
+        "end_address": "Billwerder Billdeich / TSG Sportforum, 21033 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4963851,
+          "lng": 10.1830106
+        },
+        "start_address": "S Nettelnburg / Friedrich-Frank-Bogen, 21033 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.48851579999999,
+          "lng": 10.1821982
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 199
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.48935239999999,
+              "lng": 10.1839898
+            },
+            "html_instructions": "Head <b>east</b> on <b>Friedrich-Frank-Bogen</b>",
+            "polyline": {
+              "points": "g~meIwuc}@?}@@QDi@@_ABa@@_@AI?EAGGQIQA?MAG@OGsA[c@I"
+            },
+            "start_location": {
+              "lat": 53.48851579999999,
+              "lng": 10.1821982
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.4896849,
+              "lng": 10.1846233
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Friedrich-Frank-Bogen</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mcneI}`d}@Me@CGCEGQSc@OS"
+            },
+            "start_location": {
+              "lat": 53.48935239999999,
+              "lng": 10.1839898
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 798
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 213
+            },
+            "end_location": {
+              "lat": 53.4961832,
+              "lng": 10.1799432
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ladenbeker Furtweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oeneI{dd}@KLABOJKLGDCBQJWPYVQNOLQNETKH_@`@e@f@m@h@YZm@n@QRSXMJIFc@ZSBQ@S@]DMFMHMH[Tc@`@KJq@n@k@f@g@`@m@^i@Xs@d@kD`BYHO@A?eAPw@F"
+            },
+            "start_location": {
+              "lat": 53.4896849,
+              "lng": 10.1846233
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 187
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.4962662,
+              "lng": 10.1827172
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Billwerder Billdeich</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cnoeIsgc}@OeBGk@G{@Cq@Au@?i@@_@?MBk@De@Ba@?G@W@I"
+            },
+            "start_location": {
+              "lat": 53.4961832,
+              "lng": 10.1799432
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "58 m",
+              "value": 58
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.4965778,
+              "lng": 10.1830787
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "unoeI_yc}@AACECCICk@OAACAAC?CAC?E?A?C@C@ABCBA"
+            },
+            "start_location": {
+              "lat": 53.4962662,
+              "lng": 10.1827172
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.4963851,
+              "lng": 10.1830106
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "spoeIg{c}@B?`@L"
+            },
+            "start_location": {
+              "lat": 53.4965778,
+              "lng": 10.1830787
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g~meIwuc}@@oAFiBBqAIYKQU?cBc@c@IMe@GM[u@OSKLQNSRUNq@h@a@\\QNETk@j@sApAgAjAe@l@WRc@ZSBe@Bk@L[R_Av@}@z@sAhAwAx@s@d@kD`BYHO@gAPw@FOeBOgBEgB@iALaC@k@GIu@SGKAOJKd@L"
+    },
+    "summary": "Ladenbeker Furtweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

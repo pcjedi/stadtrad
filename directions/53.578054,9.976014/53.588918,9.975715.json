@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5888815,
+        "lng": 9.9760633
+      },
+      "southwest": {
+        "lat": 53.5780879,
+        "lng": 9.9686839
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1631
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 388
+        },
+        "end_address": "Martinistra\u00dfe / Haupteingang Klinikum, 20251 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5888815,
+          "lng": 9.9757576
+        },
+        "start_address": "U Hoheluftbr\u00fccke / Kaiser-Friedrich-Ufer, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780879,
+          "lng": 9.975954999999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "html_instructions": "Head <b>northeast</b>",
+            "polyline": {
+              "points": "an_fIul{{@KU"
+            },
+            "start_location": {
+              "lat": 53.5780879,
+              "lng": 9.975954999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "90 m",
+              "value": 90
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.57877200000001,
+              "lng": 9.975190099999999
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Bismarckstra\u00dfe</b>/<wbr/><b>Lehmweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mn_fIkm{{@ORy@hAAB[n@IPIH"
+            },
+            "start_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.5788822,
+              "lng": 9.9756444
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bismarckstra\u00dfe</b>/<wbr/><b>Lehmweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ir_fI}g{{@Gi@ESACEW"
+            },
+            "start_location": {
+              "lat": 53.57877200000001,
+              "lng": 9.975190099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 940
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 212
+            },
+            "end_location": {
+              "lat": 53.5861512,
+              "lng": 9.9686839
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hoheluftchaussee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_s_fIwj{{@STa@j@OTKNQV[^CDW\\Y\\e@j@e@j@q@t@GFUXc@d@MLWVaAbAk@n@o@v@QVa@l@]h@q@|@}@bAg@n@_@`@]`@s@p@ED_@`@]\\m@j@WTUR[POHQLWNSJ]PWHYH]J{@Vm@Lu@R"
+            },
+            "start_location": {
+              "lat": 53.5788822,
+              "lng": 9.9756444
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 558
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.5888815,
+              "lng": 9.9757576
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Martinistra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m`afIg_z{@I[K[KWOm@EOK[a@aBG[KQAAm@yBMc@Qo@o@}BG]c@cBOYEO_@uA_@sAAC_AeDeAuDMa@EOIW"
+            },
+            "start_location": {
+              "lat": 53.5861512,
+              "lng": 9.9686839
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "an_fIul{{@KUOR{@lAe@`AIHUyAqAfBiAzAwCjDoAtAyAzA{AfBcClDeBrB}@bAwBvBeA`Aq@d@mAr@u@Zw@TiBd@u@RI[Ws@U}@m@}BG[KQo@{B_@sAw@{Cc@cBOYe@eBa@wAyCmKIW"
+    },
+    "summary": "Hoheluftchaussee and Martinistra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

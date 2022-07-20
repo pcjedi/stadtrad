@@ -1,0 +1,95 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5750772,
+        "lng": 10.0204471
+      },
+      "southwest": {
+        "lat": 53.57401979999999,
+        "lng": 10.0080515
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 827
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 198
+        },
+        "end_address": "Winterhuder Weg / Zimmerstra\u00dfe, 22085 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5750772,
+          "lng": 10.0204471
+        },
+        "start_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57401979999999,
+          "lng": 10.0080515
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 459
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "html_instructions": "Head <b>east</b> on <b>Karlstra\u00dfe</b> toward <b>Am Feenteich</b>",
+            "polyline": {
+              "points": "st~eIiua|@Ck@SmFYaIEm@QgDQoGIgBCu@Ci@Aq@Ce@"
+            },
+            "start_location": {
+              "lat": 53.57401979999999,
+              "lng": 10.0080515
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 368
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.5750772,
+              "lng": 10.0204471
+            },
+            "html_instructions": "Continue onto <b>Zimmerstra\u00dfe</b>",
+            "polyline": {
+              "points": "gx~eIk`c|@IsBCc@QyDQwGKeBQaFGiAAS?CC_@AY"
+            },
+            "start_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "st~eIiua|@w@iSQgDQoGM}CSuFU}EQwGKeBYkHAWEy@"
+    },
+    "summary": "Karlstra\u00dfe and Zimmerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

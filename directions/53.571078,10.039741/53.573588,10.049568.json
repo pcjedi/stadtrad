@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5736657,
+        "lng": 10.0495178
+      },
+      "southwest": {
+        "lat": 53.571053,
+        "lng": 10.0397317
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 748
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 146
+        },
+        "end_address": "Lortzingstra\u00dfe / Friedrichsberger Stra\u00dfe, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5736657,
+          "lng": 10.0495178
+        },
+        "start_address": "Uferstra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5710752,
+          "lng": 10.0397317
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "3 m",
+              "value": 3
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 0
+            },
+            "end_location": {
+              "lat": 53.571053,
+              "lng": 10.0397503
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Wagnerstra\u00dfe</b> toward <b>Uferstra\u00dfe</b>",
+            "polyline": {
+              "points": "gb~eIi{g|@DC"
+            },
+            "start_location": {
+              "lat": 53.5710752,
+              "lng": 10.0397317
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 316
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.5722591,
+              "lng": 10.044082
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Uferstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ab~eIm{g|@Mc@Ou@i@cC[aBQiAKi@E]]qB]mBMw@Mu@QaA"
+            },
+            "start_location": {
+              "lat": 53.571053,
+              "lng": 10.0397503
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5727622,
+              "lng": 10.0441355
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Von-Essen-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "si~eIovh|@cBK"
+            },
+            "start_location": {
+              "lat": 53.5722591,
+              "lng": 10.044082
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 373
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 66
+            },
+            "end_location": {
+              "lat": 53.5736657,
+              "lng": 10.0495178
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lortzingstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wl~eI{vh|@WaICc@OoC?KEs@O{AWsA}@yEW}AEU"
+            },
+            "start_location": {
+              "lat": 53.5727622,
+              "lng": 10.0441355
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gb~eIi{g|@DCMc@y@yD_AsFwAmIQaAcBK[eJO{CUoCsBaL"
+    },
+    "summary": "Uferstra\u00dfe and Lortzingstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

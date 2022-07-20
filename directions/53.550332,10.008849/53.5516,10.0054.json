@@ -1,0 +1,310 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5526163,
+        "lng": 10.0090382
+      },
+      "southwest": {
+        "lat": 53.5503258,
+        "lng": 10.0053317
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 619
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 241
+        },
+        "end_address": "M\u00f6nckebergstra\u00dfe / Steintorwall, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5516022,
+          "lng": 10.0053661
+        },
+        "start_address": "Zentralbibliothek / M\u00fcnzstra\u00dfe, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5503258,
+          "lng": 10.0088424
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5505296,
+              "lng": 10.0085288
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>M\u00fcnzstra\u00dfe</b> toward <b>Altmannbr\u00fccke</b>",
+            "polyline": {
+              "points": "q`zeIgza|@GTCJCDCDCDEBID"
+            },
+            "start_location": {
+              "lat": 53.5503258,
+              "lng": 10.0088424
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.55062419999999,
+              "lng": 10.0090382
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Altmannbr\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yazeIixa|@QeB"
+            },
+            "start_location": {
+              "lat": 53.5505296,
+              "lng": 10.0085288
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5507114,
+              "lng": 10.0089888
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Julius-Kobler-Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kbzeIo{a|@QH"
+            },
+            "start_location": {
+              "lat": 53.55062419999999,
+              "lng": 10.0090382
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 149
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 90
+            },
+            "end_location": {
+              "lat": 53.5520034,
+              "lng": 10.0084043
+            },
+            "html_instructions": "Take the pedestrian overpass",
+            "polyline": {
+              "points": "}bzeIe{a|@YJ[Jq@TQFs@Ta@NUJ[L"
+            },
+            "start_location": {
+              "lat": 53.5507114,
+              "lng": 10.0089888
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5520649,
+              "lng": 10.0089194
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Steintorbr\u00fccke</b>/<wbr/><b>Steintordamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_kzeIowa|@IkAA["
+            },
+            "start_location": {
+              "lat": 53.5520034,
+              "lng": 10.0084043
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5521618,
+              "lng": 10.0089729
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kirchenallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kkzeIwza|@SI"
+            },
+            "start_location": {
+              "lat": 53.5520649,
+              "lng": 10.0089194
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "54 m",
+              "value": 54
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5526163,
+              "lng": 10.0087358
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Kirchenallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_lzeIa{a|@KP_@HYJUD"
+            },
+            "start_location": {
+              "lat": 53.5521618,
+              "lng": 10.0089729
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.55227319999999,
+              "lng": 10.0085154
+            },
+            "html_instructions": "Make a <b>U-turn</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "{nzeIsya|@@V?@VGLAHDFF@BHH"
+            },
+            "start_location": {
+              "lat": 53.5526163,
+              "lng": 10.0087358
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5523317,
+              "lng": 10.0083971
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>S\u00fcdsteg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ulzeIgxa|@EJEJ"
+            },
+            "start_location": {
+              "lat": 53.55227319999999,
+              "lng": 10.0085154
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5517934,
+              "lng": 10.0053317
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>S\u00fcdsteg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "amzeIowa|@Dp@Dx@@RFt@Ft@Bd@Fz@@BFz@Fv@?@BHJd@FTF^Nv@"
+            },
+            "start_location": {
+              "lat": 53.5523317,
+              "lng": 10.0083971
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5516022,
+              "lng": 10.0053661
+            },
+            "html_instructions": "Take the pedestrian tunnel<div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "uizeIida|@VIL@"
+            },
+            "start_location": {
+              "lat": 53.5517934,
+              "lng": 10.0053317
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "q`zeIgza|@Sl@IHIDQeBk@TmA`@}Bx@[LIkAA[SIKP_@Ho@P@VVELAHDHJHHEJEJDp@FlANjBT`DFx@Nn@Nt@Nv@VIL@"
+    },
+    "summary": "Julius-Kobler-Weg and S\u00fcdsteg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

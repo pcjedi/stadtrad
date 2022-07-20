@@ -1,0 +1,190 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5676611,
+        "lng": 10.0282665
+      },
+      "southwest": {
+        "lat": 53.5582782,
+        "lng": 10.0150373
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1744
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 489
+        },
+        "end_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "start_address": "Eduard-Rhein-Ufer / Schwanenwik, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5676611,
+          "lng": 10.0161122
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Eduard-Rhein-Ufer</b> toward <b>Schwanenwik</b>",
+            "polyline": {
+              "points": "{l}eIugc|@DGHQH_@"
+            },
+            "start_location": {
+              "lat": 53.5676611,
+              "lng": 10.0161122
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 578
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 133
+            },
+            "end_location": {
+              "lat": 53.5627041,
+              "lng": 10.0150373
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schwanenwik</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "al}eIoic|@b@GfAOb@G|@K^E\\Cr@Id@GFAt@MD?t@GXENAPAt@HL?J@J@H@H@HBJDHBB@HDFDLHHFXVHLJNJNdAbBr@hAV^LRHJDD"
+            },
+            "start_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5623528,
+              "lng": 10.0151069
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Schwanenwik</b><div style=\"font-size:0.9em\">May be closed at certain times or days</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "{m|eI_ac|@j@?F?DCDCDE"
+            },
+            "start_location": {
+              "lat": 53.5627041,
+              "lng": 10.0150373
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 717
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 211
+            },
+            "end_location": {
+              "lat": 53.5582782,
+              "lng": 10.0232448
+            },
+            "html_instructions": "Continue onto <b>Sechslingspforte</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div>",
+            "polyline": {
+              "points": "uk|eImac|@DCDGBG@E@K@I@c@?U?K?I@O?Q@K@E@ODYBKBMDODMDMHSJWN]BE@G?K`CoEdAcCj@sATi@PQ^s@j@yAf@iAN_@l@wAZs@LUVi@Zi@x@yA\\k@JQPWDIBILc@FW"
+            },
+            "start_location": {
+              "lat": 53.5623528,
+              "lng": 10.0151069
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.558373,
+              "lng": 10.023576
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>L\u00fcbeckertordamm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gr{eIgtd|@Mq@CQ"
+            },
+            "start_location": {
+              "lat": 53.5582782,
+              "lng": 10.0232448
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 361
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "html_instructions": "Continue onto <b>L\u00fcbecker Str.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "yr{eIkvd|@Ic@a@aD_@wDIaAAWAICSGWGQEUUk@Oa@GKGCGCSi@CGQi@[{@Ws@]eA"
+            },
+            "start_location": {
+              "lat": 53.558373,
+              "lng": 10.023576
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{l}eIugc|@NYH_@b@GjBW|AQ~BWjC[`@CbAHj@Fb@Nh@\\b@d@V^~C`FNPr@?VQHOBQBoABw@L{@Ty@h@oA@S`CoEdAcC`A}BPQ^s@rAcD|@wBh@iAr@sAtBoD^oAQcAk@eEm@{GYsAe@mAOOGCSi@Uq@qAuD"
+    },
+    "summary": "Schwanenwik and Sechslingspforte",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

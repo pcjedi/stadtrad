@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.590284,
+        "lng": 9.9323815
+      },
+      "southwest": {
+        "lat": 53.5787911,
+        "lng": 9.919434599999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1765
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 313
+        },
+        "end_address": "S Stellingen / Randstra\u00dfe, 22525 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.590284,
+          "lng": 9.919434599999999
+        },
+        "start_address": "S Langenfelde / F\u00f6rsterweg, 22525 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5796193,
+          "lng": 9.9323815
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 118
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5794613,
+              "lng": 9.9306255
+            },
+            "html_instructions": "Head <b>west</b>",
+            "polyline": {
+              "points": "sw_fIk|r{@?F?H@z@?PBh@FvAB^?@@F?D@D@H?FDV?@?B@B?H?F"
+            },
+            "start_location": {
+              "lat": 53.5796193,
+              "lng": 9.9323815
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5795429,
+              "lng": 9.930584
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>F\u00f6rsterweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sv_fImqr{@?@EDA@A?E?"
+            },
+            "start_location": {
+              "lat": 53.5794613,
+              "lng": 9.9306255
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5794386,
+              "lng": 9.930021499999999
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>F\u00f6rsterweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cw_fIcqr{@Ht@Hx@"
+            },
+            "start_location": {
+              "lat": 53.5795429,
+              "lng": 9.930584
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "80 m",
+              "value": 80
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5787911,
+              "lng": 9.9300765
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>F\u00f6rsterweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ov_fIsmr{@XSFCHGJEJENIDAB?@?@@@@BBDFFHJP"
+            },
+            "start_location": {
+              "lat": 53.5794386,
+              "lng": 9.930021499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1425
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 248
+            },
+            "end_location": {
+              "lat": 53.5896834,
+              "lng": 9.920417200000001
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>F\u00f6rsterweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mr_fI_nr{@Uz@WnASdAs@xCCLM`@Sf@a@`A[b@CB[h@GJaBxAMFm@^KFg@TQJy@^GBOJQL]ROLEDGFc@^KJ_@^i@n@a@`@UTOLKHi@b@]Ty@l@WRa@ZKF_@ZEBk@d@A@m@b@o@h@m@^A?m@NSLQLWPIFu@~@ABUVON_@\\y@r@y@l@[Rq@\\c@LSDWBi@FA@eAJ{@PWFGBIFEBQNaA~@GDI@E?G?GCGEGESW"
+            },
+            "start_location": {
+              "lat": 53.5787911,
+              "lng": 9.9300765
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "93 m",
+              "value": 93
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.590284,
+              "lng": 9.919434599999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Randstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ovafIsqp{@gBnDOT"
+            },
+            "start_location": {
+              "lat": 53.5896834,
+              "lng": 9.920417200000001
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sw_fIk|r{@@~ANbDJ~@@XIHE?Ht@Hx@XSPKVKZKLNRZm@jCgA~EQn@u@hB_@f@c@t@oB`BsBhAcB|@{@n@o@j@iAnAsAnAyCzBsAbAm@f@}AlAo@^m@NSLi@^_AfAgAhAsB`BmAp@w@RaAJgALsAXi@^iAdAO@OCOKSWgBnDOT"
+    },
+    "summary": "F\u00f6rsterweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

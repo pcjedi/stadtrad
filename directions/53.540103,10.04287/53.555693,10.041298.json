@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55560149999999,
+        "lng": 10.0437421
+      },
+      "southwest": {
+        "lat": 53.5401063,
+        "lng": 10.0384769
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2243
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 448
+        },
+        "end_address": "U Burgstra\u00dfe, 20537 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5555969,
+          "lng": 10.0412907
+        },
+        "start_address": "S Rothenburgsort / Billhorner Deich, 20539 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5401063,
+          "lng": 10.0428079
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 264
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.5423956,
+              "lng": 10.0435915
+            },
+            "html_instructions": "Head <b>north</b> on <b>Billhorner Deich</b> toward <b>Billstra\u00dfe</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div>",
+            "polyline": {
+              "points": "u`xeIqnh|@[CuBUWEc@Ey@Mu@G[CIASMKEOIKKUYEEMO"
+            },
+            "start_location": {
+              "lat": 53.5401063,
+              "lng": 10.0428079
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 558
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 98
+            },
+            "end_location": {
+              "lat": 53.5463803,
+              "lng": 10.0398957
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Billhorner Deich</b>/<wbr/><b>Billwerder Steindamm</b><div style=\"font-size:0.9em\">Continue to follow Billwerder Steindamm</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_oxeImsh|@GRi@|AQ^ADAD?D?JSd@_AvBWv@ENa@pAELKVIXUl@GHQXCDOPYNYJYA_@AIAm@CeACGAYAk@Cu@DMDIGA?G?GDUJSP[`@"
+            },
+            "start_location": {
+              "lat": 53.5423956,
+              "lng": 10.0435915
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 157
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5474729,
+              "lng": 10.0384769
+            },
+            "html_instructions": "Continue onto <b>Ausschl\u00e4ger Weg</b>",
+            "polyline": {
+              "points": "{gyeIk|g|@IRITIPM\\KPGPQ\\GLOT]^_@R[RUR"
+            },
+            "start_location": {
+              "lat": 53.5463803,
+              "lng": 10.0398957
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 365
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 76
+            },
+            "end_location": {
+              "lat": 53.5482899,
+              "lng": 10.0437421
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>S\u00fcderstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "unyeIosg|@_@sBWyAMSIa@KiAIs@?CQgB?ESwB?AC]AYCg@Cc@AUAO?]ACBSAaAEeC?E"
+            },
+            "start_location": {
+              "lat": 53.5474729,
+              "lng": 10.0384769
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 858
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 189
+            },
+            "end_location": {
+              "lat": 53.5555959,
+              "lng": 10.0406697
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Grevenweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ysyeIkth|@QJo@d@q@b@URoA~@OLiA`Am@`@eAr@iBpAYPIFa@Tu@d@QLi@\\YNOHKDGAA?C?K?]AY?W@uAJ?@A@EL}ABsBDOIM?_BAQ@Y@S@U?S?O?Q?Q@"
+            },
+            "start_location": {
+              "lat": 53.5482899,
+              "lng": 10.0437421
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5555969,
+              "lng": 10.0412907
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hammer Landstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oa{eIeah|@?Q?W?e@?M?Y?C"
+            },
+            "start_location": {
+              "lat": 53.5555959,
+              "lng": 10.0406697
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "u`xeIqnh|@cJaA_@S[U[_@MOGR{@|BCJ?PsA|CeAfDUp@]v@U^OPYNYJYAi@CuCKk@Cu@DMDIGA?ODi@\\[`@IRSf@Yn@Yn@Wb@]^_@Rq@f@w@mEMSIa@U}BQkBW}CK{BAm@@WGgE?EQJaBhAeBrAyAnAsBtAoD`CkC`B[NIAgAAoBPEL}ABsBDOImBAk@BmA@c@@?i@?qA"
+    },
+    "summary": "Grevenweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

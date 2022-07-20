@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57029319999999,
+        "lng": 10.0596417
+      },
+      "southwest": {
+        "lat": 53.5671046,
+        "lng": 10.0444917
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1086
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 248
+        },
+        "end_address": "S+U Wandsbeker Chaussee / B\u00f6rnestra\u00dfe, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57029319999999,
+          "lng": 10.0596417
+        },
+        "start_address": "U Ritterstra\u00dfe / Wandsbeker Chaussee, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5671046,
+          "lng": 10.0444917
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "29 m",
+              "value": 29
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Ritterstra\u00dfe</b>",
+            "polyline": {
+              "points": "ki}eIayh|@C_@AU?K?U"
+            },
+            "start_location": {
+              "lat": 53.5671046,
+              "lng": 10.0444917
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5672605,
+              "lng": 10.0448455
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ritterstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qi}eIy{h|@YN"
+            },
+            "start_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1042
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 208
+            },
+            "end_location": {
+              "lat": 53.57029319999999,
+              "lng": 10.0596417
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wandsbeker Chaussee</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kj}eIi{h|@Ok@KyAMuA?CKu@Ea@[yBo@mES{AAe@[kCUgCE}BCk@SiDIuAEsACk@?AEg@Gq@G_@Gg@MgAG[GWIc@Ic@QcASUCQG]c@uCKo@CSS}@e@mCEUCOYiBSuAKk@SiAE[M}@"
+            },
+            "start_location": {
+              "lat": 53.5672605,
+              "lng": 10.0448455
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ki}eIayh|@EwAYNOk@YoDm@uEcAiHAe@[kCUgCE}BWuESwEMyAOgAUcBQ{@[gBSUCQk@sDOcAcAqFmAuHSyA"
+    },
+    "summary": "Wandsbeker Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

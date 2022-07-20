@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5552485,
+        "lng": 9.942872699999999
+      },
+      "southwest": {
+        "lat": 53.5517231,
+        "lng": 9.9361292
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 647
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 138
+        },
+        "end_address": "Chemnitzstra\u00dfe / Max-Brauer-Allee, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5552461,
+          "lng": 9.942872699999999
+        },
+        "start_address": "Bahnhof Altona Ost/Max-Brauer-Allee, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5520832,
+          "lng": 9.9361967
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5517797,
+              "lng": 9.936314399999999
+            },
+            "html_instructions": "Head <b>south</b>",
+            "polyline": {
+              "points": "okzeIgts{@^LZc@"
+            },
+            "start_location": {
+              "lat": 53.5520832,
+              "lng": 9.9361967
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5517231,
+              "lng": 9.9366711
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Neue Gro\u00dfe Bergstra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "sizeI}ts{@Fa@Be@"
+            },
+            "start_location": {
+              "lat": 53.5517797,
+              "lng": 9.936314399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 546
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 118
+            },
+            "end_location": {
+              "lat": 53.5552485,
+              "lng": 9.9423108
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Max-Brauer-Allee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gizeIews{@OIQKECg@_@WWSQMOKQUWACYa@U_@OWKQOWOWO[Wo@a@_Ai@uAISmBoEYq@_AsBGMyAoD"
+            },
+            "start_location": {
+              "lat": 53.5517231,
+              "lng": 9.9366711
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "37 m",
+              "value": 37
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5552461,
+              "lng": 9.942872699999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Chemnitzstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i_{eImzt{@@I@G?u@Cg@"
+            },
+            "start_location": {
+              "lat": 53.5552485,
+              "lng": 9.9423108
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "okzeIgts{@^LZc@JgAoAy@k@i@Ya@gA}A{@yAsBaFqEiKaB}DBQC}A"
+    },
+    "summary": "Max-Brauer-Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

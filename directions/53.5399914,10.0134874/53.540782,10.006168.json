@@ -1,0 +1,95 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5407684,
+        "lng": 10.0134686
+      },
+      "southwest": {
+        "lat": 53.5399525,
+        "lng": 10.0061656
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 492
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 119
+        },
+        "end_address": "U HafenCity Universit\u00e4t / Versmannstra\u00dfe, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5407684,
+          "lng": 10.0061656
+        },
+        "start_address": "Versmannstra\u00dfe / Gerda-Gmelin Platz, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5399525,
+          "lng": 10.0134686
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 438
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.5407202,
+              "lng": 10.0069745
+            },
+            "html_instructions": "Head <b>west</b> on <b>Versmannstra\u00dfe</b>",
+            "polyline": {
+              "points": "u_xeIewb|@Gh@En@Cn@CZKnAIhAGj@Cd@Gx@M`BG~@Cd@ANEj@ANCh@ANC^?FCz@Ev@[bHEx@"
+            },
+            "start_location": {
+              "lat": 53.5399525,
+              "lng": 10.0134686
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "54 m",
+              "value": 54
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5407684,
+              "lng": 10.0061656
+            },
+            "html_instructions": "Continue onto <b>\u00dcberseeallee</b>",
+            "polyline": {
+              "points": "odxeIqna|@Cb@C`BAX"
+            },
+            "start_location": {
+              "lat": 53.5407202,
+              "lng": 10.0069745
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "u_xeIewb|@UdDa@jFo@vJu@lPEzB"
+    },
+    "summary": "Versmannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

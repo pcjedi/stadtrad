@@ -1,0 +1,214 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5847339,
+        "lng": 10.0496572
+      },
+      "southwest": {
+        "lat": 53.5785974,
+        "lng": 10.0336783
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1721
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 428
+        },
+        "end_address": "Schleidenstra\u00dfe / Osterbekstra\u00dfe, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5845753,
+          "lng": 10.0336783
+        },
+        "start_address": "Von-Essen-Stra\u00dfe / Dehnhaide, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5785974,
+          "lng": 10.0459754
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5789666,
+              "lng": 10.0460574
+            },
+            "html_instructions": "Head <b>north</b> on <b>Von-Essen-Stra\u00dfe</b> toward <b>Dehnhaide</b>",
+            "polyline": {
+              "points": "gq_fIkbi|@iAO"
+            },
+            "start_location": {
+              "lat": 53.5785974,
+              "lng": 10.0459754
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 217
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.5786752,
+              "lng": 10.0493055
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Dehnhaide</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qs_fI{bi|@FiAD}@Di@HeAFmAHoADsAD{A?UAm@"
+            },
+            "start_location": {
+              "lat": 53.5789666,
+              "lng": 10.0460574
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5793642,
+              "lng": 10.0494771
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Friedrichsberger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wq_fIewi|@QAMEUESA_@I]G"
+            },
+            "start_location": {
+              "lat": 53.5786752,
+              "lng": 10.0493055
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 492
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 76
+            },
+            "end_location": {
+              "lat": 53.58312189999999,
+              "lng": 10.0464437
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Pfenningsbusch</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_v_fIgxi|@AKAGACCCIGWBU?]D_@B[D]Hc@J]Jc@Ra@R[P[RWRSPk@l@STq@~@o@|@]h@Ub@GJELCDCJSb@INe@`AGNQV"
+            },
+            "start_location": {
+              "lat": 53.5793642,
+              "lng": 10.0494771
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 347
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 98
+            },
+            "end_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "html_instructions": "Continue onto <b>Flachsland</b>",
+            "polyline": {
+              "points": "om`fIgei|@Qd@Yf@ABGPGPCLIVIXABm@hCMh@Ot@s@~Cy@xDIZCLKj@CXA\\"
+            },
+            "start_location": {
+              "lat": 53.58312189999999,
+              "lng": 10.0464437
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 540
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 137
+            },
+            "end_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "html_instructions": "Continue onto <b>Osterbekstra\u00dfe</b>",
+            "polyline": {
+              "points": "aw`fI{hh|@Cf@?FA^EzAClC?`B?bCB~B?T@tD?LBxC@r@@|BB|@@TRnF?rA"
+            },
+            "start_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "6 m",
+              "value": 6
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5845753,
+              "lng": 10.0336783
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Osterbekstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "iv`fI}uf|@IL"
+            },
+            "start_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gq_fIkbi|@iAOFiAJgB`@wHDqBAm@QAc@Ks@K]GAKCKMKm@B}@Hy@NaAVeAf@w@d@k@d@_AbAaB|Bs@lAMXe@dAm@pAQVQd@[j@Ob@YbA_ChKsAnGIfBGzBCnFDnMFxIDrARnF?rAIL"
+    },
+    "summary": "Pfenningsbusch and Osterbekstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

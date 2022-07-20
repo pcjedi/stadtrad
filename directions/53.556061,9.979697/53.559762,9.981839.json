@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5597632,
+        "lng": 9.9821372
+      },
+      "southwest": {
+        "lat": 53.55598620000001,
+        "lng": 9.9768577
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 721
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 162
+        },
+        "end_address": "St. Petersburger Stra\u00dfe / Bei den Kirchh\u00f6fen, 20355 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5597124,
+          "lng": 9.9818793
+        },
+        "start_address": "Gorch-Fock-Wall, 20355 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5560139,
+          "lng": 9.979726699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.55598620000001,
+              "lng": 9.9793954
+            },
+            "html_instructions": "Head <b>west</b> on <b>Gorch-Fock-Wall</b> toward <b>Sievekingpl.</b>",
+            "polyline": {
+              "points": "ad{eIid|{@@L?B@n@"
+            },
+            "start_location": {
+              "lat": 53.5560139,
+              "lng": 9.979726699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 243
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5575472,
+              "lng": 9.9768577
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sievekingpl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}c{eIgb|{@ADKNUb@Q`@CDABKTMZADMVA@MZg@lAEJ_@~@OZ?@OXEDY\\GF?@SVWN"
+            },
+            "start_location": {
+              "lat": 53.55598620000001,
+              "lng": 9.9793954
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 204
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5588643,
+              "lng": 9.978993299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenglacis</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "um{eIkr{{@Yi@QYEICCIIIO_@_AEKEKc@aAQa@]k@k@{@OY"
+            },
+            "start_location": {
+              "lat": 53.5575472,
+              "lng": 9.9768577
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 227
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5596628,
+              "lng": 9.9821372
+            },
+            "html_instructions": "Continue onto <b>b. den Kirchh\u00f6fen</b>",
+            "polyline": {
+              "points": "{u{eIu_|{@Qe@IYG]G[]wBYiBUqACMGu@YcC"
+            },
+            "start_location": {
+              "lat": 53.5588643,
+              "lng": 9.978993299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5597124,
+              "lng": 9.9818793
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Jungiusstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "{z{eIks|{@SNHb@"
+            },
+            "start_location": {
+              "lat": 53.5596628,
+              "lng": 9.9821372
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ad{eIid|{@@P@n@ADa@r@Uf@]z@eAbCu@hBU^a@d@SXWNYi@Wc@MMu@gBu@cBiAgBa@_AQw@uAoIKcAYcCSNHb@"
+    },
+    "summary": "Sievekingpl., Holstenglacis and b. den Kirchh\u00f6fen",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

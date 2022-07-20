@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58195869999999,
+        "lng": 10.014938
+      },
+      "southwest": {
+        "lat": 53.57401979999999,
+        "lng": 10.0080515
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1424
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 310
+        },
+        "end_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57401979999999,
+          "lng": 10.0080515
+        },
+        "start_address": "Gertigstra\u00dfe / For\u00dfmannstra\u00dfe, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58195869999999,
+          "lng": 10.0147472
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 212
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5810437,
+              "lng": 10.011922
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Gertigstra\u00dfe</b> toward <b>Schinkelstra\u00dfe</b>",
+            "polyline": {
+              "points": "gf`fIe_c|@t@lDx@pDRv@DNHb@b@hB"
+            },
+            "start_location": {
+              "lat": 53.58195869999999,
+              "lng": 10.0147472
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 217
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5792888,
+              "lng": 10.0133533
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>M\u00fchlenkamp</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o``fIomb|@`BkALIr@o@XUx@m@f@_@|@s@"
+            },
+            "start_location": {
+              "lat": 53.5810437,
+              "lng": 10.011922
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 536
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 110
+            },
+            "end_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "html_instructions": "Continue onto <b>Hofweg</b>",
+            "polyline": {
+              "points": "qu_fImvb|@l@i@PM\\WJITOJGFELIPKJENIJCJCHAVCTEp@IHA`@GbAMhBUrBWhC]dAMXCFCHALE"
+            },
+            "start_location": {
+              "lat": 53.5792888,
+              "lng": 10.0133533
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 459
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 105
+            },
+            "end_location": {
+              "lat": 53.57401979999999,
+              "lng": 10.0080515
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Karlstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gx~eIk`c|@Bd@@p@Bh@Bt@HfBPnGPfDDl@X`IRlFBj@"
+            },
+            "start_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gf`fIe_c|@hCfLl@lCnBuAlAeA`BmAzCcCt@g@z@e@x@MrBY|OqBLEBd@DzAL|CPnGPfD^nJVxG"
+    },
+    "summary": "Hofweg and Karlstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

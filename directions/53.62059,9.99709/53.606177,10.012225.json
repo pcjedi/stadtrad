@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6206361,
+        "lng": 10.0122895
+      },
+      "southwest": {
+        "lat": 53.60618299999999,
+        "lng": 9.997254
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2193
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 493
+        },
+        "end_address": "U Alsterdorf / Hindenburgstra\u00dfe, 22297 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.60618299999999,
+          "lng": 10.0122895
+        },
+        "start_address": "Weg beim J\u00e4ger / Lufthansa 2, 22335 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6206361,
+          "lng": 9.997254
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.6205235,
+              "lng": 9.997344
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Weg beim J\u00e4ger</b> toward <b>Sportallee</b>",
+            "polyline": {
+              "points": "_xgfIyq_|@VQ"
+            },
+            "start_location": {
+              "lat": 53.6206361,
+              "lng": 9.997254
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 347
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 75
+            },
+            "end_location": {
+              "lat": 53.6179341,
+              "lng": 10.0002242
+            },
+            "html_instructions": "Continue onto <b>Sportallee</b>",
+            "polyline": {
+              "points": "gwgfIkr_|@Ne@l@w@DGDGjB_CHK`@i@BCh@o@@AxAaBPOp@k@TS~@s@"
+            },
+            "start_location": {
+              "lat": 53.6205235,
+              "lng": 9.997344
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 260
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.61897829999999,
+              "lng": 10.0037535
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Obenhauptstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "aggfIkd`|@YkAa@yBAEI_@Qy@[_BS_AG[COOo@QaAY}A"
+            },
+            "start_location": {
+              "lat": 53.6179341,
+              "lng": 10.0002242
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.6 km",
+              "value": 1572
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 366
+            },
+            "end_location": {
+              "lat": 53.60618299999999,
+              "lng": 10.0122895
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hindenburgstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "smgfImz`|@j@c@TUBAJOHIDIHKLYBGf@cAFOJS`@y@?AHON]?AL]Pa@DKb@}@P]`@m@DKRg@L[TWZU^Sp@URGNGTG\\MBAZIrA_@zAi@HEr@]JGn@Up@WPIb@Uz@i@n@a@z@g@VOZ]j@o@NKh@]PMd@CZANAFCRE^Mt@_@xA{@v@i@j@g@PWDGNIPMFAr@SBA`@K\\AP?z@GlBSpAQ`AKVEFCRMr@e@FCRGRCRCJC|@O"
+            },
+            "start_location": {
+              "lat": 53.61897829999999,
+              "lng": 10.0037535
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_xgfIyq_|@VQNe@r@_A|C}DhCwCxCcCqCaN_A_F`Ay@NQf@y@~@oB`BwDt@{Af@y@`@cATWZU^Sp@Ub@OrAa@nDiA|@c@~B_A~A_AjBiAVOZ]z@{@z@k@d@Cj@CZI^Mt@_@pCeBj@g@PWTQXOv@U`@K\\AlAGxGw@ZQz@i@fAS|@O"
+    },
+    "summary": "Hindenburgstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

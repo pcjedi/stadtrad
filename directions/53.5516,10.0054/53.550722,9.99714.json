@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5516849,
+        "lng": 10.0053786
+      },
+      "southwest": {
+        "lat": 53.5506733,
+        "lng": 9.9971443
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 566
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 145
+        },
+        "end_address": "U Rathaus / M\u00f6nckebergstra\u00dfe, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5506733,
+          "lng": 9.9971443
+        },
+        "start_address": "M\u00f6nckebergstra\u00dfe / Steintorwall, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5516022,
+          "lng": 10.0053661
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.5516849,
+              "lng": 10.0049703
+            },
+            "html_instructions": "Head <b>west</b> toward <b>M\u00f6nckebergstra\u00dfe</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+            "polyline": {
+              "points": "ohzeIqda|@MADl@?BAB?DET"
+            },
+            "start_location": {
+              "lat": 53.5516022,
+              "lng": 10.0053661
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 530
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 87
+            },
+            "end_location": {
+              "lat": 53.5506733,
+              "lng": 9.9971443
+            },
+            "html_instructions": "Continue straight onto <b>M\u00f6nckebergstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "straight",
+            "polyline": {
+              "points": "_izeIaba|@Dt@LvB@HHlAB\\Dz@Fx@?JPbCNzAHx@LhAHv@Jx@Jx@Fx@N|BDh@HjA?LDl@Bz@?@Bx@?P@\\@z@@X"
+            },
+            "start_location": {
+              "lat": 53.5516849,
+              "lng": 10.0049703
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ohzeIqda|@MADl@AFEZRlDTpDFdA`@~El@tFRrBTfDRbEDjBBtA"
+    },
+    "summary": "M\u00f6nckebergstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

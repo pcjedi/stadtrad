@@ -1,0 +1,264 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5803039,
+        "lng": 10.041543
+      },
+      "southwest": {
+        "lat": 53.5745222,
+        "lng": 10.0352624
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1303
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 291
+        },
+        "end_address": "U Hamburger Stra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5745222,
+          "lng": 10.0366016
+        },
+        "start_address": "U Dehnhaide / Barmbeker Markt, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5799399,
+          "lng": 10.041543
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Barmbeker Markt</b> toward <b>Dehnhaide</b>",
+            "polyline": {
+              "points": "sy_fIsfh|@HPFLFT"
+            },
+            "start_location": {
+              "lat": 53.5799399,
+              "lng": 10.041543
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "69 m",
+              "value": 69
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5802664,
+              "lng": 10.0405705
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Weidestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yx_fI}dh|@QVA@MPKPMVGHGNGJGN"
+            },
+            "start_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5803039,
+              "lng": 10.0402218
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Weidestra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "u{_fIq`h|@AZCh@"
+            },
+            "start_location": {
+              "lat": 53.5802664,
+              "lng": 10.0405705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 685
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 159
+            },
+            "end_location": {
+              "lat": 53.57504059999999,
+              "lng": 10.0352624
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hamburger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{{_fIk~g|@T@VHVJTJLL\\Vb@XFDB@FA`B`A`Aj@nAx@`@Vh@XLFLHd@XLFDBJHHHbAt@LHZXFHf@n@HBHJ\\l@bAhBRX?@JVNZZx@Rd@b@n@DNPb@"
+            },
+            "start_location": {
+              "lat": 53.5803039,
+              "lng": 10.0402218
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5749113,
+              "lng": 10.0354913
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Adolph-Sch\u00f6nfelder-Stra\u00dfe</b>/<wbr/><b>Wagnerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_{~eIk_g|@Xm@"
+            },
+            "start_location": {
+              "lat": 53.57504059999999,
+              "lng": 10.0352624
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 205
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.5762911,
+              "lng": 10.0375522
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hamburger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ez~eIy`g|@S]c@q@q@mAWe@ACS[Q[aAcB]k@IK"
+            },
+            "start_location": {
+              "lat": 53.5749113,
+              "lng": 10.0354913
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 100
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5755832,
+              "lng": 10.0384762
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Marschnerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yb_fIumg|@JOv@w@Vc@Zm@T_@"
+            },
+            "start_location": {
+              "lat": 53.5762911,
+              "lng": 10.0375522
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 116
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5747748,
+              "lng": 10.0374012
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holsteinischer Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k~~eIosg|@Rb@Zp@BDTf@\\h@HJXPTJ"
+            },
+            "start_location": {
+              "lat": 53.5755832,
+              "lng": 10.0384762
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "61 m",
+              "value": 61
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5745222,
+              "lng": 10.0366016
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holsteinischer Kamp</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "iy~eIwlg|@Ft@@LBJJb@HRLV"
+            },
+            "start_location": {
+              "lat": 53.5747748,
+              "lng": 10.0374012
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sy_fIsfh|@P^FTQVORYh@_@t@EdAl@Jl@Vj@d@j@^J?bDlBpBpAjBdARJTRpA~@b@b@f@n@HBf@x@vAbCJXj@tARd@b@n@Vr@Xm@S]uA_CYi@eCgEIKJOv@w@Vc@p@mAn@tAXl@f@t@n@\\HbANn@Vj@"
+    },
+    "summary": "Hamburger Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

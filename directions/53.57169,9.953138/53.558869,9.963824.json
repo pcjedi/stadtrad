@@ -1,0 +1,215 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5716838,
+        "lng": 9.9640367
+      },
+      "southwest": {
+        "lat": 53.5588828,
+        "lng": 9.952859199999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1790
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 408
+        },
+        "end_address": "Neuer Pferdemarkt / Beim Gr\u00fcnen J\u00e4ger, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5588828,
+          "lng": 9.9637698
+        },
+        "start_address": "U Emilienstra\u00dfe / Fruchtallee, 20259 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5716654,
+          "lng": 9.953128399999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5716855,
+              "lng": 9.9529823
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Emilienstra\u00dfe</b>",
+            "polyline": {
+              "points": "}e~eIa~v{@C\\"
+            },
+            "start_location": {
+              "lat": 53.5716654,
+              "lng": 9.953128399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5713187,
+              "lng": 9.952859199999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Emilienstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "af~eIc}v{@@?J@j@JNH"
+            },
+            "start_location": {
+              "lat": 53.5716855,
+              "lng": 9.9529823
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 343
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 91
+            },
+            "end_location": {
+              "lat": 53.5699854,
+              "lng": 9.957526099999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fruchtallee</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow Fruchtallee</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wc~eIk|v{@b@}ARs@`A}DFYd@mCD_@PsAFe@Lq@Jw@PmAT{A"
+            },
+            "start_location": {
+              "lat": 53.5713187,
+              "lng": 9.952859199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 221
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.56818879999999,
+              "lng": 9.956135999999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eppendorfer Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m{}eIqyw{@f@V`@X`@VPJB@VPrA|@|@l@LHJFHFHHBDBH@BBF"
+            },
+            "start_location": {
+              "lat": 53.5699854,
+              "lng": 9.957526099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 325
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.56573400000001,
+              "lng": 9.9587773
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eimsb\u00fctteler Chaussee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ep}eI{pw{@r@a@h@g@x@w@PUJMT]P[^e@TQPSX]BCHMFMLQLMVWVWNOBCFINS@CLOLO"
+            },
+            "start_location": {
+              "lat": 53.56818879999999,
+              "lng": 9.956135999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 816
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 179
+            },
+            "end_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "html_instructions": "Continue onto <b>Schulterblatt</b>",
+            "polyline": {
+              "points": "y`}eIkax{@PKLIRMr@c@t@a@XOj@UXOVK\\SFCLIROHGf@_@z@y@ZUTQ`@i@VSZ]v@y@`@c@`@e@r@s@TWZa@d@a@hA_Al@g@FEPOrAaAlAo@RMbCeA"
+            },
+            "start_location": {
+              "lat": 53.56573400000001,
+              "lng": 9.9587773
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5588828,
+              "lng": 9.9637698
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Schanzenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qw{eIgby{@X^BDBDNH"
+            },
+            "start_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}e~eIa~v{@A\\v@LNHb@}AtAqFl@gDVsBr@}ET{Af@VbAp@`C|A`BfALNDLBFr@a@bB_B\\c@f@y@`BiBb@q@lAmA\\e@Z_@^UvCcBzBeAr@e@f@_@z@y@p@g@`@i@VSrAwAlCuC`AcAvBgBXUrAaAlAo@vCsA\\d@RN"
+    },
+    "summary": "Schulterblatt",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58585129999999,
+        "lng": 10.0679991
+      },
+      "southwest": {
+        "lat": 53.5817957,
+        "lng": 10.0653471
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 486
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 115
+        },
+        "end_address": "U Alter Teichweg / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58585129999999,
+          "lng": 10.0653471
+        },
+        "start_address": "U Stra\u00dfburger Stra\u00dfe / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5817957,
+          "lng": 10.0679991
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 486
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.58585129999999,
+              "lng": 10.0653471
+            },
+            "html_instructions": "Head <b>north</b> on <b>Nordschleswiger Str.</b> toward <b>Stra\u00dfburger Str.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "ge`fI_lm|@UNUF{@TUJIBa@N]b@g@RWJ{@^}@`@o@\\c@T_@Ro@`@WPaBhAiA|@_Ax@"
+            },
+            "start_location": {
+              "lat": 53.5817957,
+              "lng": 10.0679991
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ge`fI_lm|@k@V{@TUJk@R]b@g@RsAj@mB~@cAh@gAr@kDfC_Ax@"
+    },
+    "summary": "Nordschleswiger Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

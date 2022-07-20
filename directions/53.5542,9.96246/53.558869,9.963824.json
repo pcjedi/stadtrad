@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5588828,
+        "lng": 9.9637698
+      },
+      "southwest": {
+        "lat": 53.5542418,
+        "lng": 9.9622488
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 542
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 144
+        },
+        "end_address": "Neuer Pferdemarkt / Beim Gr\u00fcnen J\u00e4ger, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5588828,
+          "lng": 9.9637698
+        },
+        "start_address": "Paulinenplatz / Wohlwillstra\u00dfe, 20359 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5542418,
+          "lng": 9.9622488
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 243
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5563874,
+              "lng": 9.9628924
+            },
+            "html_instructions": "Head <b>north</b> on <b>Wohlwillstra\u00dfe</b> toward <b>Paulinenstra\u00dfe</b>",
+            "polyline": {
+              "points": "_yzeIawx{@_@Qq@YIAk@I_@GQEu@Qo@Ki@IqAOQA"
+            },
+            "start_location": {
+              "lat": 53.5542418,
+              "lng": 9.9622488
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 157
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5577818,
+              "lng": 9.9632262
+            },
+            "html_instructions": "Continue onto <b>Beim Gr\u00fcnen J\u00e4ger</b>",
+            "polyline": {
+              "points": "mf{eIa{x{@_@Ec@GQAe@Ky@Mu@K[GME"
+            },
+            "start_location": {
+              "lat": 53.5563874,
+              "lng": 9.9628924
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.5582891,
+              "lng": 9.963706499999999
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Beim Gr\u00fcnen J\u00e4ger</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "co{eIe}x{@AG?CACACAACCACAAA?AAA?A?A?A?A??@A@A??@A@ECGCAAACAAAAMMGGKOIM"
+            },
+            "start_location": {
+              "lat": 53.5577818,
+              "lng": 9.9632262
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "72 m",
+              "value": 72
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5588828,
+              "lng": 9.9637698
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ir{eIe`y{@IPGFC@G@G?g@Kg@]"
+            },
+            "start_location": {
+              "lat": 53.5582891,
+              "lng": 9.963706499999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_yzeIawx{@qAk@u@Kq@MeB]{BYq@Gu@I_BYqASMEAGAGCEIIGAEBA@GAMKc@g@IMIPKHO@g@Kg@]"
+    },
+    "summary": "Wohlwillstra\u00dfe and Beim Gr\u00fcnen J\u00e4ger",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

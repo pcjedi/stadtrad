@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5587238,
+        "lng": 9.950628199999999
+      },
+      "southwest": {
+        "lat": 53.5557996,
+        "lng": 9.9487911
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.4 km",
+          "value": 383
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 110
+        },
+        "end_address": "Max-Brauer-Allee 147, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5585362,
+          "lng": 9.9487911
+        },
+        "start_address": "Holstenstra\u00dfe / Thadenstra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5557996,
+          "lng": 9.950628199999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 337
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5587238,
+              "lng": 9.9494048
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Holstenstra\u00dfe</b> toward <b>Chemnitzstra\u00dfe</b>",
+            "polyline": {
+              "points": "wb{eImnv{@ONq@TWJGBEDCFYHcA^g@L_DbAa@LKEM?SDmA\\WH"
+            },
+            "start_location": {
+              "lat": 53.5557996,
+              "lng": 9.950628199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "46 m",
+              "value": 46
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.5585362,
+              "lng": 9.9487911
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Max-Brauer-Allee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_u{eIwfv{@DZT|@F^"
+            },
+            "start_location": {
+              "lat": 53.5587238,
+              "lng": 9.9494048
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wb{eImnv{@ONq@T_@NIL}Ah@gEpAa@LKEa@DeBf@b@xB"
+    },
+    "summary": "Holstenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

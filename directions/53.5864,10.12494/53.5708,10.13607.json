@@ -1,0 +1,142 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58638999999999,
+        "lng": 10.1360955
+      },
+      "southwest": {
+        "lat": 53.5709043,
+        "lng": 10.1245202
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.6 km",
+          "value": 2562
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 538
+        },
+        "end_address": "Barsb\u00fctteler Stra\u00dfe / \u00d6jendorfer Damm, 22043 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5709043,
+          "lng": 10.1360955
+        },
+        "start_address": "Tonndorfer Hauptstra\u00dfe / Sonnenweg, 22045 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58638999999999,
+          "lng": 10.1247505
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.58611810000001,
+              "lng": 10.1247992
+            },
+            "html_instructions": "Head <b>south</b> on <b>Sonnenweg</b> toward <b>Tonndorfer Hauptstra\u00dfe</b>",
+            "polyline": {
+              "points": "}aafIunx|@@?LAd@G"
+            },
+            "start_location": {
+              "lat": 53.58638999999999,
+              "lng": 10.1247505
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.8 km",
+              "value": 1764
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 350
+            },
+            "end_location": {
+              "lat": 53.5709256,
+              "lng": 10.1245202
+            },
+            "html_instructions": "Continue onto <b>Jenfelder Allee</b>",
+            "polyline": {
+              "points": "g`afI_ox|@lBMPEB?PGPEXI~@_@HEhAg@f@[n@Yb@WHERKFE^Qd@Uj@YL@JBDA\\KRIf@Sn@Yr@e@lAs@@Av@e@rAm@h@Sb@MLEVIj@Ov@Ov@Mf@G\\Cb@Cl@ELEX?dAAP@TA`@BnAHf@FlAPr@Nn@TVNPHh@TLF`ClAXRHB`@R\\LLFfAf@B?B?@AHEpAl@n@\\tAr@dCnAh@Vn@^d@X\\NHXTLVLx@`@NF"
+            },
+            "start_location": {
+              "lat": 53.58611810000001,
+              "lng": 10.1247992
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 757
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 166
+            },
+            "end_location": {
+              "lat": 53.5709179,
+              "lng": 10.1359375
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Rodigallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ia~eIgmx|@@YCaEAcA?OAE?EEM?aC?s@Aw@CeD?MAo@?o@A]A}@AiAA}AAaAAcAAoC?Y?kA?oA?]?m@Dm@?SB_C@]@cDDs@@WBk@BcABe@@]"
+            },
+            "start_location": {
+              "lat": 53.5709256,
+              "lng": 10.1245202
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5709043,
+              "lng": 10.1360955
+            },
+            "html_instructions": "Continue onto <b>Barsb\u00fctteler Str.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "ga~eIstz|@B_@"
+            },
+            "start_location": {
+              "lat": 53.5709179,
+              "lng": 10.1359375
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}aafIunx|@bDWx@SxAi@rAm@vAu@l@]`By@j@YL@P@hCcAzDaC|BaAp@SbAYnB]dAKb@Cz@K~AAf@?pBLtBXbBd@h@Xv@\\zC`Bj@VvB|@DAHEpAl@dCpAnDfBtAx@\\NHXl@ZhAh@CoHAKEM?aCAkBCsDE{DGmHAeI?kADaALuJLmDD}@"
+    },
+    "summary": "Jenfelder Allee and Rodigallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

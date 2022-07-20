@@ -1,0 +1,212 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55608969999999,
+        "lng": 9.9842623
+      },
+      "southwest": {
+        "lat": 53.5509759,
+        "lng": 9.9797496
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 807
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 182
+        },
+        "end_address": "U G\u00e4nsemarkt / Caffamacherreihe, 20355 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55608969999999,
+          "lng": 9.9842229
+        },
+        "start_address": "Gro\u00dfneumarkt / Thielbek, 20459 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5509759,
+          "lng": 9.980524599999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "68 m",
+              "value": 68
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5515887,
+              "lng": 9.9804511
+            },
+            "html_instructions": "Head <b>north</b> on <b>Gro\u00dfneumarkt</b>/<wbr/><b>Thielbek</b> toward <b>Br\u00fcderstra\u00dfe</b><div style=\"font-size:0.9em\">Continue to follow Thielbek</div>",
+            "polyline": {
+              "points": "sdzeIgi|{@EAUB[Dg@BY@"
+            },
+            "start_location": {
+              "lat": 53.5509759,
+              "lng": 9.980524599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 214
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.553493,
+              "lng": 9.9799673
+            },
+            "html_instructions": "Continue onto <b>Kohlh\u00f6fen</b>",
+            "polyline": {
+              "points": "mhzeIyh|{@[@cAJkBZkCl@c@F"
+            },
+            "start_location": {
+              "lat": 53.5515887,
+              "lng": 9.9804511
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 140
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5547359,
+              "lng": 9.9797496
+            },
+            "html_instructions": "Continue onto <b>Poolstra\u00dfe</b>",
+            "polyline": {
+              "points": "itzeIye|{@WDk@DoBDS@UBQDCBA@CF"
+            },
+            "start_location": {
+              "lat": 53.553493,
+              "lng": 9.9799673
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5552366,
+              "lng": 9.9803831
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Johannes-Brahms-Platz</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "c|zeImd|{@KMEGe@i@QQAGGOOS"
+            },
+            "start_location": {
+              "lat": 53.5547359,
+              "lng": 9.9797496
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 107
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.5556032,
+              "lng": 9.981835799999999
+            },
+            "html_instructions": "Continue onto <b>Dragonerstall</b>",
+            "polyline": {
+              "points": "g_{eIkh|{@Qo@c@oACK?AAOA[ACAMAMAMAY?a@"
+            },
+            "start_location": {
+              "lat": 53.5552366,
+              "lng": 9.9803831
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 161
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5556645,
+              "lng": 9.9842623
+            },
+            "html_instructions": "Continue onto <b>Valentinskamp</b>",
+            "polyline": {
+              "points": "oa{eIoq|{@Aw@CS?M?Q?Q?CA_A?]?wACkD"
+            },
+            "start_location": {
+              "lat": 53.5556032,
+              "lng": 9.981835799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "47 m",
+              "value": 47
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.55608969999999,
+              "lng": 9.9842229
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Caffamacherreihe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{a{eIs`}{@eAFO?"
+            },
+            "start_location": {
+              "lat": 53.5556645,
+              "lng": 9.9842623
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sdzeIgi|{@_BJu@BcAJkBZoDt@cAJcCFg@HEDCFKMk@q@SYWc@u@_CCMCk@Gm@A{@EkA?u@EaJuAF"
+    },
+    "summary": "Kohlh\u00f6fen",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

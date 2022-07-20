@@ -1,0 +1,310 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.551766,
+        "lng": 9.9347142
+      },
+      "southwest": {
+        "lat": 53.5491793,
+        "lng": 9.9127108
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1770
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 364
+        },
+        "end_address": "Bahnhof Altona / Busbahnhof, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.551766,
+          "lng": 9.9338676
+        },
+        "start_address": "Bleickenallee / Kinderkrankenhaus Altona, 22763 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5511636,
+          "lng": 9.9129357
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5511501,
+              "lng": 9.912721699999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Bleickenallee</b> toward <b>Am Rathenaupark</b>",
+            "polyline": {
+              "points": "wezeI{bo{@@j@"
+            },
+            "start_location": {
+              "lat": 53.5511636,
+              "lng": 9.9129357
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 657
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 128
+            },
+            "end_location": {
+              "lat": 53.5506647,
+              "lng": 9.9223655
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Am Rathenaupark</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "uezeIoao{@V@GaBIoCAuAAgA?sBAe@@gCBsA?m@?Q@gA@kA@s@Dq@BoAH}CBiA?ODeBDqABYNmCDg@V{B"
+            },
+            "start_location": {
+              "lat": 53.5511501,
+              "lng": 9.912721699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 381
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5491793,
+              "lng": 9.927477699999999
+            },
+            "html_instructions": "Continue onto <b>Keplerstra\u00dfe</b>",
+            "polyline": {
+              "points": "sbzeIy}p{@pAsK`@kDVwA^eBZmA\\cATk@Va@DILU"
+            },
+            "start_location": {
+              "lat": 53.5506647,
+              "lng": 9.9223655
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 214
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5496488,
+              "lng": 9.9306202
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Arnoldstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kyyeIw}q{@MiAOmAKoAEe@OeCSsCIkA"
+            },
+            "start_location": {
+              "lat": 53.5491793,
+              "lng": 9.927477699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 215
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5502347,
+              "lng": 9.933695300000002
+            },
+            "html_instructions": "Continue onto <b>Lobuschstra\u00dfe</b>",
+            "polyline": {
+              "points": "i|yeIkqr{@MoAAKEe@I{@AGWsBUeBGc@Oi@EUAa@CaA"
+            },
+            "start_location": {
+              "lat": 53.5496488,
+              "lng": 9.9306202
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "71 m",
+              "value": 71
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.55087160000001,
+              "lng": 9.9336708
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Winterstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}_zeIsds{@Q@{@@_@@Q?"
+            },
+            "start_location": {
+              "lat": 53.5502347,
+              "lng": 9.933695300000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "66 m",
+              "value": 66
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5508867,
+              "lng": 9.934672299999999
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Winterstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}czeImds{@AM?E?UAaA?_@?{@"
+            },
+            "start_location": {
+              "lat": 53.55087160000001,
+              "lng": 9.9336708
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5515136,
+              "lng": 9.934707699999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Museumstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "adzeIujs{@a@AUAy@CI?"
+            },
+            "start_location": {
+              "lat": 53.5508867,
+              "lng": 9.934672299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5516426,
+              "lng": 9.9347142
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Paul-Nevermann-Platz</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "}gzeI}js{@Y?"
+            },
+            "start_location": {
+              "lat": 53.5515136,
+              "lng": 9.934707699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5517615,
+              "lng": 9.934049
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Paul-Nevermann-Platz</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "whzeI}js{@An@?tAUA"
+            },
+            "start_location": {
+              "lat": 53.5516426,
+              "lng": 9.9347142
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "12 m",
+              "value": 12
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.551766,
+              "lng": 9.9338676
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Paul-Nevermann-Platz</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oizeIyfs{@Ab@"
+            },
+            "start_location": {
+              "lat": 53.5517615,
+              "lng": 9.934049
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wezeI{bo{@@j@V@QqFEwHD{GBsCFeBPgIJwDRgD\\cDrB_Qv@}Dx@qCl@mAR_@]wCQuBc@yGW{CSuBm@yEWmAEUAa@CaAQ@{ABQ?AM?[AaB?{@a@AoAEc@?An@?tAUAAb@"
+    },
+    "summary": "Bleickenallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

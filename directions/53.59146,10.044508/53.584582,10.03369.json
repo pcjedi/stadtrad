@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5914673,
+        "lng": 10.0445087
+      },
+      "southwest": {
+        "lat": 53.5845287,
+        "lng": 10.0336783
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1391
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 368
+        },
+        "end_address": "Schleidenstra\u00dfe / Osterbekstra\u00dfe, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5845753,
+          "lng": 10.0336783
+        },
+        "start_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hellbrookstra\u00dfe, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5914673,
+          "lng": 10.0445087
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.5914589,
+              "lng": 10.043984
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hellbrookstra\u00dfe</b> toward <b>Fuhlsb\u00fcttler Str.</b>",
+            "polyline": {
+              "points": "uabfIeyh|@?N@xA"
+            },
+            "start_location": {
+              "lat": 53.5914673,
+              "lng": 10.0445087
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 810
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 197
+            },
+            "end_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hufnerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sabfI{uh|@PDtBhAdAh@bB`AzA`A`An@JZNLh@VVLXRNJJDb@LR@J?hAl@b@LZDd@Lb@C\\?XAVCTGVGXKd@Wd@a@d@a@l@g@d@SJHDDf@`@FDt@`@"
+            },
+            "start_location": {
+              "lat": 53.5914589,
+              "lng": 10.043984
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 540
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 103
+            },
+            "end_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Osterbekstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aw`fI{hh|@Cf@?FA^EzAClC?`B?bCB~B?T@tD?LBxC@r@@|BB|@@TRnF?rA"
+            },
+            "start_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "6 m",
+              "value": 6
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5845753,
+              "lng": 10.0336783
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Osterbekstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "iv`fI}uf|@IL"
+            },
+            "start_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "uabfIeyh|@@hBfCnAhDjB|CpBJZNL`Ad@h@^n@R^@hAl@b@L`AR`ACp@El@O~@c@jAcAl@g@d@SPNn@f@t@`@Cf@Af@IhF?dFBtC@bEDlEDzDTdG?rAIL"
+    },
+    "summary": "Hufnerstra\u00dfe and Osterbekstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

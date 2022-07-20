@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5661845,
+        "lng": 9.9640367
+      },
+      "southwest": {
+        "lat": 53.5588828,
+        "lng": 9.953386700000001
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1159
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 244
+        },
+        "end_address": "Eimsb\u00fctteler Stra\u00dfe / Waterloostra\u00dfe, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5661845,
+          "lng": 9.953386700000001
+        },
+        "start_address": "Neuer Pferdemarkt / Beim Gr\u00fcnen J\u00e4ger, 20359 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5588828,
+          "lng": 9.9637698
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>Schulterblatt</b>",
+            "polyline": {
+              "points": "_v{eIq`y{@OICECEY_@"
+            },
+            "start_location": {
+              "lat": 53.5588828,
+              "lng": 9.9637698
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 650
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 166
+            },
+            "end_location": {
+              "lat": 53.5643415,
+              "lng": 9.9596438
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schulterblatt</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qw{eIgby{@cCdASLmAn@sA`AQNGDm@f@iA~@e@`@[`@UVs@r@a@d@a@b@w@x@[\\WRa@h@UP[T{@x@g@^IFSNMHGB]R"
+            },
+            "start_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 476
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.5661845,
+              "lng": 9.953386700000001
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eimsb\u00fctteler Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cx|eIwfx{@L~@Df@@B?D?B?D?D?DADCJOh@KRw@vBU|@}@nDwAlGe@vBsAhGER"
+            },
+            "start_location": {
+              "lat": 53.5643415,
+              "lng": 9.9596438
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_v{eIq`y{@SO]e@wCrAmAn@sA`AYTwBfBkCnCwC`DWRa@h@q@f@{@x@g@^]VUL]RL~@Fj@?HAVSt@cAjCsAlF}BdKyA|G"
+    },
+    "summary": "Schulterblatt and Eimsb\u00fctteler Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

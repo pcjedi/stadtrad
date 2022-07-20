@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6074236,
+        "lng": 9.9786599
+      },
+      "southwest": {
+        "lat": 53.6032498,
+        "lng": 9.9727859
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 791
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 158
+        },
+        "end_address": "Gert-Marcus-Stra\u00dfe / Anni-Glissmann-Weg, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.60337579999999,
+          "lng": 9.9727859
+        },
+        "start_address": "Borsteler Chaussee / K\u00f6ppenstra\u00dfe, 22453 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6074236,
+          "lng": 9.9786599
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.6072864,
+              "lng": 9.9784939
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>K\u00f6ppenstra\u00dfe</b> toward <b>Borsteler Chaussee</b>",
+            "polyline": {
+              "points": "keefIs}{{@JTLJ"
+            },
+            "start_location": {
+              "lat": 53.6074236,
+              "lng": 9.9786599
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 279
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.60533359999999,
+              "lng": 9.9761046
+            },
+            "html_instructions": "Continue onto <b>Br\u00f6dermannsweg</b>",
+            "polyline": {
+              "points": "qdefIq|{{@bAz@d@d@NNPR\\\\b@^dAr@|@z@NVLZFVHh@Dr@"
+            },
+            "start_location": {
+              "lat": 53.6072864,
+              "lng": 9.9784939
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 382
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.6032498,
+              "lng": 9.9744511
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Anni-Glissmann-Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ixdfIsm{{@PAXGx@SHCv@WLE@?l@UDC@A\\D@MB{@@I?G?A@?@?@@?RAH?DAv@?@?@@?@?Cj@?X?DPl@b@zAPl@^lARl@LZ"
+            },
+            "start_location": {
+              "lat": 53.60533359999999,
+              "lng": 9.9761046
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 111
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.60337579999999,
+              "lng": 9.9727859
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gert-Marcus-Stra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ikdfIic{{@OzDAZAL?HGr@@f@"
+            },
+            "start_location": {
+              "lat": 53.6032498,
+              "lng": 9.9744511
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "keefIs}{{@X`@hB`B~@`Ab@^dAr@|@z@NVTr@N|Aj@IbAWtBs@FE\\D@MB{@@I@IB@A~AAj@?^t@hCp@zB`@hASnFGr@@f@"
+    },
+    "summary": "Br\u00f6dermannsweg and Anni-Glissmann-Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.578076,
+        "lng": 10.0270773
+      },
+      "southwest": {
+        "lat": 53.5695893,
+        "lng": 10.0139993
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1495
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 364
+        },
+        "end_address": "U Mundsburg / Sch\u00fcrbeker Stra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5695893,
+          "lng": 10.0270773
+        },
+        "start_address": "Hofweg / Am Langenzug, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.578029,
+          "lng": 10.0139993
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.578076,
+              "lng": 10.0141883
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Am Langenzug</b> toward <b>Hofweg</b>",
+            "polyline": {
+              "points": "um_fIozb|@Ie@"
+            },
+            "start_location": {
+              "lat": 53.578029,
+              "lng": 10.0139993
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 176
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.5765082,
+              "lng": 10.0145222
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hofweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_n_fIu{b|@VCTEp@IHA`@GbAMhBU"
+            },
+            "start_location": {
+              "lat": 53.578076,
+              "lng": 10.0141883
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 310
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 79
+            },
+            "end_location": {
+              "lat": 53.5770348,
+              "lng": 10.0191312
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schenkendorfstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ed_fIw}b|@YmFSsD[uFS}CEy@Ci@"
+            },
+            "start_location": {
+              "lat": 53.5765082,
+              "lng": 10.0145222
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 974
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 223
+            },
+            "end_location": {
+              "lat": 53.56973439999999,
+              "lng": 10.0268829
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Winterhuder Weg</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mg_fIqzc|@nBaCl@q@DCFIdAkAZ]fBoBjA_BBIDKd@o@^e@j@o@NSV[`AoAn@w@|@iAPULMh@s@FIRYBAl@w@b@i@^i@x@cAxAeBLQTWj@u@FCFCHMx@aA@ADGFEFCFCFALAH?L@N@NDZH"
+            },
+            "start_location": {
+              "lat": 53.5770348,
+              "lng": 10.0191312
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5695893,
+              "lng": 10.0270773
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yy}eI_ke|@Zg@"
+            },
+            "start_location": {
+              "lat": 53.56973439999999,
+              "lng": 10.0268829
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "um_fIozb|@Ie@VCfAOxEm@}AuXIcB|CsDnBwBfBoBjA_BHUdAuAz@cAfEmFzD_F`EeF`AmANGjAyA^OVA\\Bj@NZg@"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

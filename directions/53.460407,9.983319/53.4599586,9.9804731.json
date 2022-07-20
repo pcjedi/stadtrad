@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4606903,
+        "lng": 9.9833138
+      },
+      "southwest": {
+        "lat": 53.4600313,
+        "lng": 9.980425499999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.3 km",
+          "value": 292
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 131
+        },
+        "end_address": "S Harburg Rathaus / Deichhausweg, 21073 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4600313,
+          "lng": 9.9806628
+        },
+        "start_address": "Herbert-Wehner-Platz / Gro\u00dfer Schippsee, 21073 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.460409,
+          "lng": 9.9833138
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.4602126,
+              "lng": 9.9830747
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Gro\u00dfer Schippsee</b> toward <b>Harburger Ring</b>",
+            "polyline": {
+              "points": "qnheIuz|{@FDTZHL"
+            },
+            "start_location": {
+              "lat": 53.460409,
+              "lng": 9.9833138
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 183
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.4606903,
+              "lng": 9.9804536
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Harburger Ring</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "imheIey|{@K`@Qr@EPG\\E`@G`A?@IfAMfBMnB"
+            },
+            "start_location": {
+              "lat": 53.4602126,
+              "lng": 9.9830747
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.4602708,
+              "lng": 9.9805207
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Harburger Rathausstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ipheIyh|{@RBNAD?NCJA@?D?DI"
+            },
+            "start_location": {
+              "lat": 53.4606903,
+              "lng": 9.9804536
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.4602328,
+              "lng": 9.980444799999999
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Harburger Rathausstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "umheIgi|{@FN"
+            },
+            "start_location": {
+              "lat": 53.4602708,
+              "lng": 9.9805207
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.4600313,
+              "lng": 9.9806628
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Harburger Rathausstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mmheIwh|{@\\a@HI"
+            },
+            "start_location": {
+              "lat": 53.4602328,
+              "lng": 9.980444799999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qnheIuz|{@\\`@HLK`@WdAM~@_@rFMnBRBTAb@EDIFNf@k@"
+    },
+    "summary": "Harburger Ring and Harburger Rathausstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

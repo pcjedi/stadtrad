@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5782311,
+        "lng": 9.9760633
+      },
+      "southwest": {
+        "lat": 53.574692,
+        "lng": 9.963061699999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1155
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 238
+        },
+        "end_address": "Goebenstra\u00dfe / Eppendorfer Weg, 20253 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5775784,
+          "lng": 9.963061699999999
+        },
+        "start_address": "U Hoheluftbr\u00fccke / Kaiser-Friedrich-Ufer, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780879,
+          "lng": 9.975954999999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "html_instructions": "Head <b>northeast</b>",
+            "polyline": {
+              "points": "an_fIul{{@KU"
+            },
+            "start_location": {
+              "lat": 53.5780879,
+              "lng": 9.975954999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5782311,
+              "lng": 9.975965
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mn_fIkm{{@OR"
+            },
+            "start_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 683
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 144
+            },
+            "end_location": {
+              "lat": 53.574692,
+              "lng": 9.967526699999999
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}n_fIwl{{@^x@Rb@V|@b@nAZdAj@fBVt@j@lBv@hCBJb@pAl@lBj@pBPj@j@hBp@vBNb@f@~AZdAd@|Ab@xA"
+            },
+            "start_location": {
+              "lat": 53.5782311,
+              "lng": 9.975965
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 357
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.57721009999999,
+              "lng": 9.964195300000002
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Goebenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yx~eIaxy{@m@~@OVGLGRMRSTOTQTSZABeBbC}@hAi@r@gAzAw@hAA@"
+            },
+            "start_location": {
+              "lat": 53.574692,
+              "lng": 9.967526699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5775784,
+              "lng": 9.963061699999999
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Goebenstra\u00dfe</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "qh_fIgcy{@I\\ADADCF?DABC`@@@?B@@@B?B@F?D?B?BAB?@?@A@?BABABC@ABC@A?K\\Yb@"
+            },
+            "start_location": {
+              "lat": 53.57721009999999,
+              "lng": 9.964195300000002
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "an_fIul{{@KUOR^x@Rb@V|@~@tCbA|CbBvFf@|AxA~E~BpHlC|I}@vAO`@cAtAU^cDlEkDzEQp@Cl@BL@TCHGLEDM\\Yb@"
+    },
+    "summary": "Goebenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

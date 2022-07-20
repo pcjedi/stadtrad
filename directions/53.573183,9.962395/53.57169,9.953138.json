@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5731535,
+        "lng": 9.962462700000001
+      },
+      "southwest": {
+        "lat": 53.5710999,
+        "lng": 9.953128399999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 803
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 173
+        },
+        "end_address": "U Emilienstra\u00dfe / Fruchtallee, 20259 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5716654,
+          "lng": 9.953128399999999
+        },
+        "start_address": "Osterstra\u00dfe / Bismarckstra\u00dfe, 20259 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5731535,
+          "lng": 9.962462700000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5729999,
+              "lng": 9.9623144
+            },
+            "html_instructions": "Head <b>southwest</b> toward <b>Bismarckstra\u00dfe</b>",
+            "polyline": {
+              "points": "eo~eIkxx{@DFDFDDBDB?B@"
+            },
+            "start_location": {
+              "lat": 53.5731535,
+              "lng": 9.962462700000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "74 m",
+              "value": 74
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.57242650000001,
+              "lng": 9.961741499999999
+            },
+            "html_instructions": "Continue onto <b>Bismarckstra\u00dfe</b>",
+            "polyline": {
+              "points": "gn~eImwx{@f@j@PPFFb@^JJ"
+            },
+            "start_location": {
+              "lat": 53.5729999,
+              "lng": 9.9623144
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 126
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.57286070000001,
+              "lng": 9.9599908
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Tegetthoffstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uj~eI{sx{@Kv@]|B[|BAFCDIZ"
+            },
+            "start_location": {
+              "lat": 53.57242650000001,
+              "lng": 9.961741499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 226
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5710999,
+              "lng": 9.958330499999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eppendorfer Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "km~eI}hx{@Td@x@fARTr@x@l@`@dAl@lAx@DB"
+            },
+            "start_location": {
+              "lat": 53.57286070000001,
+              "lng": 9.9599908
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 149
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 54
+            },
+            "end_location": {
+              "lat": 53.5715545,
+              "lng": 9.9562087
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kb~eIq~w{@OdASnAAJY~AOtAG|@AP"
+            },
+            "start_location": {
+              "lat": 53.5710999,
+              "lng": 9.958330499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 208
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5716654,
+              "lng": 9.953128399999999
+            },
+            "html_instructions": "Slight <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "ee~eIiqw{@HdBPrD]nD?@UzC"
+            },
+            "start_location": {
+              "lat": 53.5715545,
+              "lng": 9.9562087
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "eo~eIkxx{@TZF@x@|@j@f@JJKv@y@zFELIZTd@lA|Ar@x@l@`@rCfBDBOdAUzAY~AOtAG|@APZxGs@lI"
+    },
+    "summary": "Eppendorfer Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

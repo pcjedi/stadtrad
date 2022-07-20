@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4600313,
+        "lng": 9.9823697
+      },
+      "southwest": {
+        "lat": 53.4537177,
+        "lng": 9.9806628
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 733
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 137
+        },
+        "end_address": "S Harburg Rathaus / Deichhausweg, 21073 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4600313,
+          "lng": 9.9806628
+        },
+        "start_address": "Maretstra\u00dfe / Baererstra\u00dfe, 21073 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4537177,
+          "lng": 9.9823697
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 176
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.45527389999999,
+              "lng": 9.9822866
+            },
+            "html_instructions": "Head <b>north</b> on <b>Maretstra\u00dfe</b> toward <b>Reinholdstra\u00dfe</b>",
+            "polyline": {
+              "points": "wdgeIyt|{@C@MDA?KBG@K?G?ICa@?K@KBOBEBI@GAECECGAGAI@A?KB_@FI?K@CACA[G"
+            },
+            "start_location": {
+              "lat": 53.4537177,
+              "lng": 9.9823697
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 349
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.4583388,
+              "lng": 9.981867699999999
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Maretstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mngeIit|{@GLGHA@EDQDIBA?K?WAS?O@E@[Fq@Hc@Dc@D}@Ja@DS@OBa@DA?SEQ?S?G?I?K@K@I@E?AACCCAAAA?C?E@E@C?C?ACCACG"
+            },
+            "start_location": {
+              "lat": 53.45527389999999,
+              "lng": 9.9822866
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.4583836,
+              "lng": 9.981776499999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Krummholzberg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "saheIuq|{@CFADAB"
+            },
+            "start_location": {
+              "lat": 53.4583388,
+              "lng": 9.981867699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 200
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.4600313,
+              "lng": 9.9806628
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Harburger Rathausstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{aheIcq|{@IAEAE?EBCBIFc@b@i@h@iAj@o@VGDKDa@RKHA@ST"
+            },
+            "start_location": {
+              "lat": 53.4583836,
+              "lng": 9.981776499999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wdgeIyt|{@_@JS@QCm@@[FODMEMEQ?w@JO?_@IOVGF[HM?k@AUBmAPgAJcCVc@De@Eq@@]@KGSBECGIELABIAKAIFm@j@i@h@iAj@w@\\m@Xa@`@"
+    },
+    "summary": "Maretstra\u00dfe and Harburger Rathausstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

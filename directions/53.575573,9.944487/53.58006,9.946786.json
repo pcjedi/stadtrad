@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5800827,
+        "lng": 9.9465111
+      },
+      "southwest": {
+        "lat": 53.5756317,
+        "lng": 9.9418463
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 733
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 142
+        },
+        "end_address": "Methfesselstra\u00dfe / Luruper Weg, 20257 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5800827,
+          "lng": 9.9465111
+        },
+        "start_address": "Lappenbergsallee / Bei der Apostelkirche, 20257 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5756317,
+          "lng": 9.9445511
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 282
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.5775789,
+              "lng": 9.9418463
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Lappenbergsallee</b> toward <b>Voigtstra\u00dfe</b>",
+            "polyline": {
+              "points": "u~~eImhu{@ELMTINo@lAILo@fAo@fACFe@z@gBzB{@z@"
+            },
+            "start_location": {
+              "lat": 53.5756317,
+              "lng": 9.9445511
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "49 m",
+              "value": 49
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5780164,
+              "lng": 9.9419144
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Lappenbergsallee</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "{j_fIqwt{@wAK"
+            },
+            "start_location": {
+              "lat": 53.5775789,
+              "lng": 9.9418463
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 402
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 83
+            },
+            "end_location": {
+              "lat": 53.5800827,
+              "lng": 9.9465111
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Methfesselstra\u00dfe</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sm_fI}wt{@{AoJk@gEa@u@_@i@e@q@e@o@@??A?A?A?A?A?A?A?A?A?AA??A?AAA?AA?AAA?A?A?A??@A??@A??@UUU[OQGGGIIKQUKM"
+            },
+            "start_location": {
+              "lat": 53.5780164,
+              "lng": 9.9419144
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "u~~eImhu{@Sb@y@|AmBdDe@z@gBzB{@z@wAK{AoJk@gEaA_BiAaB?A?C?IAGIEE@A@?@k@q@gAsA"
+    },
+    "summary": "Lappenbergsallee and Methfesselstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

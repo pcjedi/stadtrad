@@ -1,0 +1,142 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6487811,
+        "lng": 10.0162479
+      },
+      "southwest": {
+        "lat": 53.6235783,
+        "lng": 10.0116346
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.0 km",
+          "value": 3007
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 584
+        },
+        "end_address": "U Langenhorn Markt / Tangstedter Landstra\u00dfe, 22415 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6487811,
+          "lng": 10.0162479
+        },
+        "start_address": "R\u00f6ntgenstra\u00dfe / Philips, 22335 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6235783,
+          "lng": 10.0121832
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "51 m",
+              "value": 51
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.6238564,
+              "lng": 10.0116346
+            },
+            "html_instructions": "Head <b>west</b> on <b>R\u00f6ntgenstra\u00dfe</b> toward <b>Alsterkrugchaussee</b>",
+            "polyline": {
+              "points": "kjhfIcob|@AXMf@GLEFGHQJ"
+            },
+            "start_location": {
+              "lat": 53.6235783,
+              "lng": 10.0121832
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1232
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 236
+            },
+            "end_location": {
+              "lat": 53.6345985,
+              "lng": 10.0161396
+            },
+            "html_instructions": "Continue onto <b>Alsterkrugchaussee</b>",
+            "polyline": {
+              "points": "clhfIukb|@_@AIEe@QAAC?A@A??@gA]]KyHyBqBq@aAa@QGOGa@MEAKEg@Oa@Mq@UyCaAe@OkBm@wAc@iAa@k@QsBq@QGICuCaAsBm@w@[y@YaA]AAmA]]MKGA?_@K"
+            },
+            "start_location": {
+              "lat": 53.6238564,
+              "lng": 10.0116346
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1342
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 269
+            },
+            "end_location": {
+              "lat": 53.6462053,
+              "lng": 10.0125867
+            },
+            "html_instructions": "Continue onto <b>Langenhorner Chaussee</b>",
+            "polyline": {
+              "points": "gojfI{gc|@k@KW?S@[BOFMFOHo@^cAh@[RSLgAh@{Av@sAr@QJULiAl@}@h@UJOJm@Zi@X]NSFC?o@\\a@Vm@ZYJIJGLWNC?UNq@`@e@PWFE@SB]?c@CE?GAuAQeBW}BUEAOGSEUC{AI[Ca@K_@EW?SBMBm@He@Hi@H}@P[Dg@LQFOHg@X"
+            },
+            "start_location": {
+              "lat": 53.6345985,
+              "lng": 10.0161396
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 382
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.6487811,
+              "lng": 10.0162479
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Tangstedter Landstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ywlfIuqb|@Wu@ACs@gB_AaCq@mBSc@MUS[OGSSe@g@sDgDCCCAEA"
+            },
+            "start_location": {
+              "lat": 53.6462053,
+              "lng": 10.0125867
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kjhfIcob|@AXMf@MTYT_@AIEg@SE@A?gA[wIeCqBq@aAa@a@Og@OgCy@cKcDgQ}F{Bw@oA_@kAa@k@KW?o@D}Ax@sKzFmDnBwAt@q@VcCpAYJIJGLWNYNq@`@e@P]HSB]?i@C}ASeBW}BUUIi@IwBMaAQk@BkC`@yAVy@Tw@b@Yy@yD{Ja@q@OGSSyEoEGEEA"
+    },
+    "summary": "Alsterkrugchaussee and Langenhorner Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

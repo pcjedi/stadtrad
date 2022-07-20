@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.554086,
+        "lng": 10.0044325
+      },
+      "southwest": {
+        "lat": 53.5525459,
+        "lng": 10.0024762
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.3 km",
+          "value": 325
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 90
+        },
+        "end_address": "Kurze M\u00fchren / Spitalerstra\u00dfe, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5525459,
+          "lng": 10.0040435
+        },
+        "start_address": "Hauptbahnhof / Glockengie\u00dferwall, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5536256,
+          "lng": 10.0044325
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "63 m",
+              "value": 63
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.554086,
+              "lng": 10.0038875
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Glockengie\u00dferwall</b> toward <b>Ernst-Merck-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "euzeIu~`|@u@~@A@SVOP"
+            },
+            "start_location": {
+              "lat": 53.5536256,
+              "lng": 10.0044325
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 115
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.55348619999999,
+              "lng": 10.0024762
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Georgspl.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "axzeIi{`|@VfAHPTp@N\\JVFNFPFTDLDP"
+            },
+            "start_location": {
+              "lat": 53.554086,
+              "lng": 10.0038875
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 147
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5525459,
+              "lng": 10.0040435
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kurze M\u00fchren</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "itzeIor`|@Xo@Vi@Xi@\\o@j@eAXi@BCFO"
+            },
+            "start_location": {
+              "lat": 53.55348619999999,
+              "lng": 10.0024762
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "euzeIu~`|@{AjBVfAHPd@nAb@nAJ^p@yA|BiEJS"
+    },
+    "summary": "Glockengie\u00dferwall, Georgspl. and Kurze M\u00fchren",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

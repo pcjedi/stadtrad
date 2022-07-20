@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5439527,
+        "lng": 10.0067865
+      },
+      "southwest": {
+        "lat": 53.54073640000001,
+        "lng": 10.0035406
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 466
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 108
+        },
+        "end_address": "U HafenCity Universit\u00e4t / Versmannstra\u00dfe, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5407684,
+          "lng": 10.0061656
+        },
+        "start_address": "Stockmeyerstra\u00dfe / Am Lohsepark, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5439527,
+          "lng": 10.0035406
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "69 m",
+              "value": 69
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.543434,
+              "lng": 10.0041056
+            },
+            "html_instructions": "Head <b>southeast</b>",
+            "polyline": {
+              "points": "uxxeIcy`|@DC@ABAFEFGDCDEDEDEDEDGDEFM@A@CBABGLS"
+            },
+            "start_location": {
+              "lat": 53.5439527,
+              "lng": 10.0035406
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5431909,
+              "lng": 10.0045889
+            },
+            "html_instructions": "Slight <b>left</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "muxeIu|`|@n@_B"
+            },
+            "start_location": {
+              "lat": 53.543434,
+              "lng": 10.0041056
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 314
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.54073640000001,
+              "lng": 10.0067865
+            },
+            "html_instructions": "Slight <b>right</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "}sxeIu_a|@f@s@b@o@`@e@TUZUhAw@HGdAm@p@g@DCZSf@[TMBC@A?G?C@C@G@CBABABADA"
+            },
+            "start_location": {
+              "lat": 53.5431909,
+              "lng": 10.0045889
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5407684,
+              "lng": 10.0061656
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>\u00dcberseeallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sdxeImma|@C`BAX"
+            },
+            "start_location": {
+              "lat": 53.54073640000001,
+              "lng": 10.0067865
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "uxxeIcy`|@l@e@VYNUP[n@_Bf@s@dAuAp@k@rA_AvBuA~AaADE?KHQFCDAC`BAX"
+    },
+    "summary": "\u00dcberseeallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

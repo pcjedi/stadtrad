@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5555969,
+        "lng": 10.0412907
+      },
+      "southwest": {
+        "lat": 53.5521123,
+        "lng": 10.0302603
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1084
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 239
+        },
+        "end_address": "Eiffestra\u00dfe / Normannenweg, 20537 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5521123,
+          "lng": 10.0303069
+        },
+        "start_address": "U Burgstra\u00dfe, 20537 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5555969,
+          "lng": 10.0412907
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5555704,
+              "lng": 10.0404069
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hammer Landstra\u00dfe</b> toward <b>Burgstra\u00dfe</b>/<wbr/><b>Grevenweg</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "oa{eIaeh|@?B?X?L?nA@TB\\"
+            },
+            "start_location": {
+              "lat": 53.5555969,
+              "lng": 10.0412907
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 327
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5526631,
+              "lng": 10.040602
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Grevenweg</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ia{eIq_h|@NENGHCHCJANCRA`@ArAC`@?FAPIrBE|ACDH@@@?f@Bj@B"
+            },
+            "start_location": {
+              "lat": 53.5555704,
+              "lng": 10.0404069
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 688
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 145
+            },
+            "end_location": {
+              "lat": 53.55220019999999,
+              "lng": 10.0302603
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eiffestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cozeIw`h|@Aj@@r@RfGDpB@\\FbB?PBnA?p@?^?fA?vA?fCDfBBhB?^DzA?L?N?B@@HPDjA?HBlB@XA\\?\\?P?LB\\AT?N@P@HBdBBvA"
+            },
+            "start_location": {
+              "lat": 53.5526631,
+              "lng": 10.040602
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5521123,
+              "lng": 10.0303069
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Normannenweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "glzeIc`f|@PI"
+            },
+            "start_location": {
+              "lat": 53.55220019999999,
+              "lng": 10.0302603
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oa{eIaeh|@?zBDr@^M^Ib@EtBEh@APIrBE|ACDHB@rAF?~Ab@zNB`B?pA?~CDnFHrF?RJRJ|EAzAB\\AT@`@DnBBvAPI"
+    },
+    "summary": "Grevenweg/B5 and Eiffestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

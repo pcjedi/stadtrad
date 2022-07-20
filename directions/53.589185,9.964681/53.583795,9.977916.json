@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.589206,
+        "lng": 9.9779957
+      },
+      "southwest": {
+        "lat": 53.583875,
+        "lng": 9.9647275
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1520
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 320
+        },
+        "end_address": "L\u00f6wenstra\u00dfe / Eppendorfer Weg, 20251 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.583875,
+          "lng": 9.9779957
+        },
+        "start_address": "Grandweg / Veilchenweg, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.589206,
+          "lng": 9.9647275
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 425
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5858751,
+              "lng": 9.9676996
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Grandweg</b> toward <b>Veilchenweg</b>",
+            "polyline": {
+              "points": "qsafIqfy{@\\e@^i@b@s@`@i@\\g@p@_ANWPSJMRUBCLMDELK\\ULKLG|@a@^OLGn@Yd@UFCn@WVKPK"
+            },
+            "start_location": {
+              "lat": 53.589206,
+              "lng": 9.9647275
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5860664,
+              "lng": 9.968472
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Troplowitzstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "w~`fIcyy{@Ii@Ky@Ou@"
+            },
+            "start_location": {
+              "lat": 53.5858751,
+              "lng": 9.9676996
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 241
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5839902,
+              "lng": 9.9694772
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hoheluftchaussee</b>/<wbr/><b>B447</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}_afI}}y{@ZIl@Mf@M^Kl@Qj@Uh@WVOHGz@i@PKXI"
+            },
+            "start_location": {
+              "lat": 53.5860664,
+              "lng": 9.968472
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 413
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 105
+            },
+            "end_location": {
+              "lat": 53.5863983,
+              "lng": 9.9740672
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Breitenfelder Str.</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}r`fIgdz{@E[C_@OgACWAIAICQKc@EKWs@KWU[KOw@aAc@o@QSWc@MSq@kAe@}@Sc@GMa@{@Qc@g@qA"
+            },
+            "start_location": {
+              "lat": 53.5839902,
+              "lng": 9.9694772
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 386
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.583875,
+              "lng": 9.9779957
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>L\u00f6wenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_bafI}`{{@X[p@{@p@}@\\i@pAaBdAqAVc@L_@b@mA^cAd@yAPa@Xq@FY"
+            },
+            "start_location": {
+              "lat": 53.5863983,
+              "lng": 9.9740672
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qsafIqfy{@bCmDpBsCp@u@~@s@fGmCh@WUcBOu@ZItA[lA]tAm@nBmAXIE[SgBK}@Qo@c@kA}B}Ci@w@_A_BcBkDy@uBjAwAnAgBvCsDVc@L_@bAqCxAgE"
+    },
+    "summary": "Grandweg, Breitenfelder Str./B5 and L\u00f6wenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

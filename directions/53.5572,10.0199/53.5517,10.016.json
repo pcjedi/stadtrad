@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5572045,
+        "lng": 10.020079
+      },
+      "southwest": {
+        "lat": 53.5516721,
+        "lng": 10.0133809
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 934
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 273
+        },
+        "end_address": "Kurt-Schumacher-Allee / Nagelsweg, 20097 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5516721,
+          "lng": 10.0159264
+        },
+        "start_address": "U Lohm\u00fchlenstra\u00dfe / Steindamm, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5571758,
+          "lng": 10.0199453
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5571443,
+              "lng": 10.020079
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Steindamm</b>",
+            "polyline": {
+              "points": "kk{eIu_d|@CGJQ"
+            },
+            "start_location": {
+              "lat": 53.5571758,
+              "lng": 10.0199453
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 561
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 120
+            },
+            "end_location": {
+              "lat": 53.55405750000001,
+              "lng": 10.0133809
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Steindamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ck{eIo`d|@HTVn@jBrFd@zAXf@Tb@Pf@Vr@j@dB@FTj@l@nB|@dCX|@\\~@h@zAPh@t@hB"
+            },
+            "start_location": {
+              "lat": 53.5571443,
+              "lng": 10.020079
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 220
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 66
+            },
+            "end_location": {
+              "lat": 53.5527861,
+              "lng": 10.0158713
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Pulverteich</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{wzeIsvb|@Lc@Po@LWn@uAz@cCr@uBHUJQBEBCPC"
+            },
+            "start_location": {
+              "lat": 53.55405750000001,
+              "lng": 10.0133809
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.55248959999999,
+              "lng": 10.0156447
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Adenauerallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}ozeIefc|@HTDJ@DDBD@\\?"
+            },
+            "start_location": {
+              "lat": 53.5527861,
+              "lng": 10.0158713
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5524256,
+              "lng": 10.015814
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Adenauerallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "anzeIwdc|@@I?GBGDG"
+            },
+            "start_location": {
+              "lat": 53.55248959999999,
+              "lng": 10.0156447
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "86 m",
+              "value": 86
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.5516721,
+              "lng": 10.0159264
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Nagelsweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "umzeIyec|@FC\\AVCZEVHF?DABABA@?DEFE"
+            },
+            "start_location": {
+              "lat": 53.5524256,
+              "lng": 10.015814
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kk{eIu_d|@CGJQ`@dApCnIn@jAh@zAl@lBzC~IfAzCfArC^sA|@mBnByFTg@FIPCHTFPJD\\?@IBOLKt@EZEVHLANIFE"
+    },
+    "summary": "Steindamm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

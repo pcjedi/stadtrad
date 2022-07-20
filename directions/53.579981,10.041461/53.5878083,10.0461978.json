@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5877541,
+        "lng": 10.0491191
+      },
+      "southwest": {
+        "lat": 53.5799399,
+        "lng": 10.041543
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1217
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 313
+        },
+        "end_address": "S+U Barmbek / Piazzetta-Ralph-Giordano, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5877541,
+          "lng": 10.0460489
+        },
+        "start_address": "U Dehnhaide / Barmbeker Markt, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5799399,
+          "lng": 10.041543
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 305
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5821017,
+              "lng": 10.0443585
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Barmbeker Markt</b> toward <b>Beimoorstra\u00dfe</b>",
+            "polyline": {
+              "points": "sy_fIsfh|@EGOSMQU[CE]c@{@cA_@g@IMyAgBCEMOCCUYSWc@o@MSEIM_@Mc@"
+            },
+            "start_location": {
+              "lat": 53.5799399,
+              "lng": 10.041543
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 148
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.582786,
+              "lng": 10.0462757
+            },
+            "html_instructions": "Continue onto <b>Bramfelder Str.</b>",
+            "polyline": {
+              "points": "cg`fIgxh|@_@{AI[_@yAOo@Kc@I_@IWIWEI"
+            },
+            "start_location": {
+              "lat": 53.5821017,
+              "lng": 10.0443585
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 268
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5847689,
+              "lng": 10.0484927
+            },
+            "html_instructions": "Keep <b>right</b> to stay on <b>Bramfelder Str.</b>",
+            "maneuver": "keep-right",
+            "polyline": {
+              "points": "mk`fIgdi|@Wo@OW_@c@MKOIg@_@YQ_@Ui@_@IGSQY]QUEGQ]Q[MUOYGO"
+            },
+            "start_location": {
+              "lat": 53.582786,
+              "lng": 10.0462757
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 269
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 94
+            },
+            "end_location": {
+              "lat": 53.5870521,
+              "lng": 10.0491191
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Steilshooper Str.</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "yw`fIari|@MGGACAA?G@A?A@A?A@CDm@h@IDG@G@G@EAC?UK_@OcAg@c@Sa@Q}BgA"
+            },
+            "start_location": {
+              "lat": 53.5847689,
+              "lng": 10.0484927
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 183
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5875154,
+              "lng": 10.046469
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Pestalozzistra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "afafI_vi|@k@rF]|CAR?LG~@?BIX"
+            },
+            "start_location": {
+              "lat": 53.5870521,
+              "lng": 10.0491191
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "44 m",
+              "value": 44
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5877541,
+              "lng": 10.0460489
+            },
+            "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>Fuhlsb\u00fcttler Str.</b>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "_iafImei|@?@A?A??@A??@A??@A@?@A@?@A@?@?@?@A@?@?@?@?@?@?@?@?@?@?@?@?@@@?BKNCBEB?@I@"
+            },
+            "start_location": {
+              "lat": 53.5875154,
+              "lng": 10.046469
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sy_fIsfh|@wD_FuBkCY]w@gAS][cAyAaG_@{AOa@g@gAm@o@w@i@mBoAeAmAaAiBGOMGKCK@IHw@n@OBM?YKiD}A}BgAk@rF_@pDGlAI\\C@CBCHC\\@DKRIFIB"
+    },
+    "summary": "Barmbeker Markt and Bramfelder Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

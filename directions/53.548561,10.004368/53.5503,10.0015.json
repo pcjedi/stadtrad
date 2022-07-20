@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5503043,
+        "lng": 10.0043699
+      },
+      "southwest": {
+        "lat": 53.54847969999999,
+        "lng": 9.9993972
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 619
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 150
+        },
+        "end_address": "Jakobikirchhhof / Steinstra\u00dfe, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5503043,
+          "lng": 10.0016302
+        },
+        "start_address": "U Steinstra\u00dfe / Deichtorplatz, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5485482,
+          "lng": 10.0043699
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 413
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5497206,
+              "lng": 9.9994706
+            },
+            "html_instructions": "Head <b>west</b> on <b>Burchardstra\u00dfe</b> toward <b>Springeltwiete</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "polyline": {
+              "points": "muyeIi~`|@DvBBx@@T@R?L?BAL[xAIZCNCLE`@u@Hi@FKVAR@P@XBPFPT@?\\C^ALMd@ETQn@U~@YbAQr@K`@"
+            },
+            "start_location": {
+              "lat": 53.5485482,
+              "lng": 10.0043699
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5499246,
+              "lng": 9.9993972
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kattrepel</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w|yeIu_`|@g@L"
+            },
+            "start_location": {
+              "lat": 53.5497206,
+              "lng": 9.9994706
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 150
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 54
+            },
+            "end_location": {
+              "lat": 53.5500045,
+              "lng": 10.0016597
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Steinstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_~yeIg_`|@A[AQAc@Ai@Ag@A_BCaC?}@"
+            },
+            "start_location": {
+              "lat": 53.5499246,
+              "lng": 9.9993972
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5503043,
+              "lng": 10.0016302
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Jakobikirchhof</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o~yeIkm`|@S@g@B"
+            },
+            "start_location": {
+              "lat": 53.5500045,
+              "lng": 10.0016597
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "muyeIi~`|@LzE?P]fBMj@In@_BPKVARBj@Jb@T@?\\El@{@jDk@vBK`@g@LCm@CmAGgI{@D"
+    },
+    "summary": "Burchardstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

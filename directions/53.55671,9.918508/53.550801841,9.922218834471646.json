@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55679869999999,
+        "lng": 9.924154999999999
+      },
+      "southwest": {
+        "lat": 53.5507973,
+        "lng": 9.9185787
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 941
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 184
+        },
+        "end_address": "Fischersallee / Bleickenallee, 22763 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5507973,
+          "lng": 9.9223763
+        },
+        "start_address": "Hohenzollernring / Friedensallee, 22763 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55679869999999,
+          "lng": 9.9185787
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.5560206,
+              "lng": 9.9215229
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Friedensallee</b> toward <b>Daimlerstra\u00dfe</b>",
+            "polyline": {
+              "points": "_i{eIcfp{@^mBv@yEl@eDF_@L}@"
+            },
+            "start_location": {
+              "lat": 53.55679869999999,
+              "lng": 9.9185787
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 429
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.5527448,
+              "lng": 9.924154999999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00dfe Brunnenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cd{eIoxp{@r@MHCRCHAp@K@?RKPMTEPBb@KnBi@j@Gh@MLILOLWJWLYRo@Ne@J]HWhAqC"
+            },
+            "start_location": {
+              "lat": 53.5560206,
+              "lng": 9.9215229
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 139
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5522313,
+              "lng": 9.922407999999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstentwiete</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sozeI}hq{@b@z@d@`ADJ@D@J@vAAhA@H@B@D@@@BFB"
+            },
+            "start_location": {
+              "lat": 53.5527448,
+              "lng": 9.924154999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 160
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5507973,
+              "lng": 9.9223763
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Fischers Allee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "mlzeIa~p{@D@nBDrA?x@CX@"
+            },
+            "start_location": {
+              "lat": 53.5522313,
+              "lng": 9.922407999999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_i{eIcfp{@lCmOL}@r@M\\Gz@MTKPMTEPBb@KnBi@j@Gh@MLIZg@Xq@x@kChAqCb@z@j@lABP?`DFTHFtBFlCCX@"
+    },
+    "summary": "Gro\u00dfe Brunnenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

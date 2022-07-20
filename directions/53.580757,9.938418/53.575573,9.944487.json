@@ -1,0 +1,95 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5808111,
+        "lng": 9.9445511
+      },
+      "southwest": {
+        "lat": 53.5756317,
+        "lng": 9.9385069
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 708
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 118
+        },
+        "end_address": "Lappenbergsallee / Bei der Apostelkirche, 20257 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5756317,
+          "lng": 9.9445511
+        },
+        "start_address": "H\u00f6genstra\u00dfe, 22525 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5808111,
+          "lng": 9.9385069
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 384
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.5778872,
+              "lng": 9.9414828
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Langenfelder Damm</b> toward <b>H\u00f6genstra\u00dfe</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "polyline": {
+              "points": "a_`fIubt{@n@{@RE@??@@?@?@?@??A@?@??A@A?A@??A?A@??A?A?A?A?A?AbAaADSZYfAoAtAoAxCsCpAuA"
+            },
+            "start_location": {
+              "lat": 53.5808111,
+              "lng": 9.9385069
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 324
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5756317,
+              "lng": 9.9445511
+            },
+            "html_instructions": "Continue onto <b>Lappenbergsallee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "yl_fIgut{@HMr@{@z@{@fB{Bd@{@BGn@gAn@gAHMn@mAHOLUDM"
+            },
+            "start_location": {
+              "lat": 53.5778872,
+              "lng": 9.9414828
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "a_`fIubt{@n@{@RE@??@B?FADSbAcADSZYfAoAtAoAxCsCpAuA|@iAz@{@fB{Bh@cAxCkF\\s@"
+    },
+    "summary": "Langenfelder Damm and Lappenbergsallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

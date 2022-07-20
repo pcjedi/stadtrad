@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5615383,
+        "lng": 10.0287806
+      },
+      "southwest": {
+        "lat": 53.5590328,
+        "lng": 10.02211
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 849
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 198
+        },
+        "end_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "start_address": "Alsterschwimmhalle / Ifflandstra\u00dfe, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5615383,
+          "lng": 10.02211
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 263
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5592564,
+              "lng": 10.0229244
+            },
+            "html_instructions": "Head <b>south</b> on <b>Ifflandstra\u00dfe</b> toward <b>Hohenfelder Terrasse</b>",
+            "polyline": {
+              "points": "sf|eIemd|@rAYREPAxCm@\\QRKp@_@j@a@NAD@D@FJ"
+            },
+            "start_location": {
+              "lat": 53.5615383,
+              "lng": 10.02211
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 220
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5599287,
+              "lng": 10.025618
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bozenhardweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kx{eIgrd|@HQHWBIHODKBMBQAMAMGM_@iAIUM]KUOe@KUK[So@]iAK["
+            },
+            "start_location": {
+              "lat": 53.5592564,
+              "lng": 10.0229244
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 226
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.5609841,
+              "lng": 10.0285456
+            },
+            "html_instructions": "Continue onto <b>Wandsbeker Stieg</b>",
+            "polyline": {
+              "points": "q|{eIcce|@S{@_AcDc@gBU}@c@_BSw@EOE["
+            },
+            "start_location": {
+              "lat": 53.5599287,
+              "lng": 10.025618
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 97
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.56012310000001,
+              "lng": 10.0287806
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cc|eImue|@jDm@"
+            },
+            "start_location": {
+              "lat": 53.5609841,
+              "lng": 10.0285456
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w}{eI{ve|@^fAN\\"
+            },
+            "start_location": {
+              "lat": 53.56012310000001,
+              "lng": 10.0287806
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sf|eIemd|@rGoAp@]|AaAT?LL`@cAHY@_@I[i@_Bu@oBiAqDsA_Fy@eDw@wCKk@jDm@^fAN\\"
+    },
+    "summary": "Ifflandstra\u00dfe and Wandsbeker Stieg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

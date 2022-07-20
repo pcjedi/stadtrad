@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57401979999999,
+        "lng": 10.0161122
+      },
+      "southwest": {
+        "lat": 53.5676611,
+        "lng": 10.0077892
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 973
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 174
+        },
+        "end_address": "Eduard-Rhein-Ufer / Schwanenwik, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5676611,
+          "lng": 10.0161122
+        },
+        "start_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57401979999999,
+          "lng": 10.0080515
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5739934,
+              "lng": 10.0077892
+            },
+            "html_instructions": "Head <b>west</b> on <b>Karlstra\u00dfe</b> toward <b>Sch\u00f6ne Aussicht</b>",
+            "polyline": {
+              "points": "st~eIiua|@Dr@"
+            },
+            "start_location": {
+              "lat": 53.57401979999999,
+              "lng": 10.0080515
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 859
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 154
+            },
+            "end_location": {
+              "lat": 53.5683164,
+              "lng": 10.0151911
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sch\u00f6ne Aussicht</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mt~eIusa|@~BgALGdDwAXMjAm@h@WfAc@~@c@jAe@`Bo@LILMJSHSDWHe@Nq@HYDYReA^eCXuA^aB\\mAR{@j@wBLc@j@{BJc@"
+            },
+            "start_location": {
+              "lat": 53.5739934,
+              "lng": 10.0077892
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 96
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5676611,
+              "lng": 10.0161122
+            },
+            "html_instructions": "Continue onto <b>Eduard-Rhein-Ufer</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "_q}eI}ac|@Xu@Te@T[x@y@BE"
+            },
+            "start_location": {
+              "lat": 53.5683164,
+              "lng": 10.0151911
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "st~eIiua|@Dr@~BgArD_BdB{@pB{@zFcCXa@Nk@h@kCr@kEx@wDjBeHv@_Dn@{AnAuABE"
+    },
+    "summary": "Sch\u00f6ne Aussicht",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

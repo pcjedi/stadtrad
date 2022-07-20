@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.457207,
+        "lng": 9.9880401
+      },
+      "southwest": {
+        "lat": 53.4537177,
+        "lng": 9.9822357
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 738
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 194
+        },
+        "end_address": "Bahnhof Harburg / Moorstra\u00dfe, 21073 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.457207,
+          "lng": 9.9880401
+        },
+        "start_address": "Maretstra\u00dfe / Baererstra\u00dfe, 21073 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4537177,
+          "lng": 9.9823697
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 176
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.45527389999999,
+              "lng": 9.9822866
+            },
+            "html_instructions": "Head <b>north</b> on <b>Maretstra\u00dfe</b> toward <b>Reinholdstra\u00dfe</b>",
+            "polyline": {
+              "points": "wdgeIyt|{@C@MDA?KBG@K?G?ICa@?K@KBOBEBI@GAECECGAGAI@A?KB_@FI?K@CACA[G"
+            },
+            "start_location": {
+              "lat": 53.4537177,
+              "lng": 9.9823697
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 288
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.4562375,
+              "lng": 9.9861021
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kalischerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mngeIit|{@Cw@?CC{@?KAo@?_@Ak@Aq@Ck@Ae@ASAIAKGQCGCGAG?EOWM[Wo@Qg@o@yA]u@"
+            },
+            "start_location": {
+              "lat": 53.45527389999999,
+              "lng": 9.9822866
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "81 m",
+              "value": 81
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 91
+            },
+            "end_location": {
+              "lat": 53.4567472,
+              "lng": 9.985233899999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wilstorfer Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "otgeIcl}{@S\\OVe@bAO^KR"
+            },
+            "start_location": {
+              "lat": 53.4562375,
+              "lng": 9.9861021
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 193
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.457207,
+              "lng": 9.9880401
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Moorstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uwgeIuf}{@E[E]Cc@Ca@E_@MeBEq@C_@KiAAUCOKy@Ik@AC"
+            },
+            "start_location": {
+              "lat": 53.4567472,
+              "lng": 9.985233899999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wdgeIyt|{@_@JS@QCm@@[FODMEMEQ?w@JO?_@IGcCEmDIoBQm@AM]s@i@wAmAoCc@t@u@bBKRE[IaA]yEUoCWiB"
+    },
+    "summary": "Kalischerstra\u00dfe and Moorstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

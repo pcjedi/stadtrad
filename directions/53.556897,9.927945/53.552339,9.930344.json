@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5568867,
+        "lng": 9.9332256
+      },
+      "southwest": {
+        "lat": 53.552322,
+        "lng": 9.9280887
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 811
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 153
+        },
+        "end_address": "Gro\u00dfe Rainstra\u00dfe/Ottenser Hauptstra\u00dfe, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5523223,
+          "lng": 9.930341
+        },
+        "start_address": "V\u00f6lckersstra\u00dfe 1, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5568867,
+          "lng": 9.9280887
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 169
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5553941,
+              "lng": 9.9285414
+            },
+            "html_instructions": "Head <b>south</b> on <b>Bahrenfelder Str.</b> toward <b>Barnerstra\u00dfe</b>",
+            "polyline": {
+              "points": "qi{eIqar{@B?J?JAJC`AWPGPKtAUfAQ"
+            },
+            "start_location": {
+              "lat": 53.5568867,
+              "lng": 9.9280887
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 353
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5542312,
+              "lng": 9.9332256
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Zei\u00dfstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e`{eIkdr{@MkDDWD_@N}@^eCDa@TwB@MLgAJy@@KFSNUZg@JQTa@h@eA"
+            },
+            "start_location": {
+              "lat": 53.5553941,
+              "lng": 9.9285414
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 289
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5523223,
+              "lng": 9.930341
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00dfe Rainstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}xzeIuas{@PXZh@LZ`@`AHRfAlCHNHNZb@DHRVj@r@t@r@TTDFBD@B?D?@"
+            },
+            "start_location": {
+              "lat": 53.5542312,
+              "lng": 9.9332256
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qi{eIqar{@N?VErA_@PKtAUfAQMkDJw@n@cEZyC\\{CVi@f@y@~@gBl@bA`C~Ft@lA~@jAjAhAHL@H?@"
+    },
+    "summary": "Zei\u00dfstra\u00dfe and Gro\u00dfe Rainstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5365043,
+        "lng": 10.0243496
+      },
+      "southwest": {
+        "lat": 53.53503329999999,
+        "lng": 10.0221103
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.3 km",
+          "value": 280
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 158
+        },
+        "end_address": "S+U Elbbr\u00fccken / Versmannstra\u00dfe, 20539 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5351941,
+          "lng": 10.0243496
+        },
+        "start_address": "Amerigo-Vespucci-Platz / Baakenwerder Stra\u00dfe, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5365043,
+          "lng": 10.0223617
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "66 m",
+              "value": 66
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5359455,
+              "lng": 10.0221953
+            },
+            "html_instructions": "Head <b>south</b> on <b>Baakenwerder Str.</b> toward <b>Amerigo-Vespucci-Platz</b>",
+            "polyline": {
+              "points": "cjweIwnd|@z@b@TLJCFCFI"
+            },
+            "start_location": {
+              "lat": 53.5365043,
+              "lng": 10.0223617
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5359977,
+              "lng": 10.0223155
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Baakenwerder Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ufweIwmd|@IW"
+            },
+            "start_location": {
+              "lat": 53.5359455,
+              "lng": 10.0221953
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 142
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.53503329999999,
+              "lng": 10.0237257
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Zweibr\u00fcckenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_gweIond|@n@_A|@wA\\m@Vc@@EZi@"
+            },
+            "start_location": {
+              "lat": 53.5359977,
+              "lng": 10.0223155
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 97
+            },
+            "end_location": {
+              "lat": 53.535305,
+              "lng": 10.0239617
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}`weIiwd|@YSEEEEOM"
+            },
+            "start_location": {
+              "lat": 53.53503329999999,
+              "lng": 10.0237257
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5351941,
+              "lng": 10.0243496
+            },
+            "html_instructions": "Take the pedestrian overpass",
+            "polyline": {
+              "points": "sbweIwxd|@Lu@FW"
+            },
+            "start_location": {
+              "lat": 53.535305,
+              "lng": 10.0239617
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cjweIwnd|@pAp@RGFIIWlBwCrAaCu@m@TmA"
+    },
+    "summary": "Baakenwerder Str. and Zweibr\u00fcckenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

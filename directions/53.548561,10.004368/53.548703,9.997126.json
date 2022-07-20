@@ -1,0 +1,190 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5486982,
+        "lng": 10.0043699
+      },
+      "southwest": {
+        "lat": 53.54787719999999,
+        "lng": 9.9971923
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 551
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 92
+        },
+        "end_address": "Schopenstehl / Alter Fischmarkt, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5486982,
+          "lng": 9.9972342
+        },
+        "start_address": "U Steinstra\u00dfe / Deichtorplatz, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5485482,
+          "lng": 10.0043699
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5484959,
+              "lng": 10.0034769
+            },
+            "html_instructions": "Head <b>west</b> on <b>Burchardstra\u00dfe</b> toward <b>Springeltwiete</b>",
+            "polyline": {
+              "points": "muyeIi~`|@DvBBx@"
+            },
+            "start_location": {
+              "lat": 53.5485482,
+              "lng": 10.0043699
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 176
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.547897,
+              "lng": 10.0012828
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Pumpen</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cuyeIwx`|@TPHDHAB@B?BB@BBD@H@F@FFv@@N@NBL@H@JBJ@FBL@DBFBLBJ@F@F@F@F@J?H@\\@V?P?PC`@"
+            },
+            "start_location": {
+              "lat": 53.5484959,
+              "lng": 10.0034769
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.54804439999999,
+              "lng": 10.0004992
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Klingberg</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "kqyeI_k`|@Gd@Gb@Gd@?BAB?BAP?L"
+            },
+            "start_location": {
+              "lat": 53.547897,
+              "lng": 10.0012828
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5483516,
+              "lng": 9.9983939
+            },
+            "html_instructions": "Continue onto <b>Hopfensack</b>",
+            "polyline": {
+              "points": "gryeIcf`|@QdASdAABCNCVCPCbAEvC"
+            },
+            "start_location": {
+              "lat": 53.54804439999999,
+              "lng": 10.0004992
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5483657,
+              "lng": 9.9971923
+            },
+            "html_instructions": "Continue onto <b>Kleine Reichenstra\u00dfe</b>",
+            "polyline": {
+              "points": "etyeI}x_|@AtA?h@AnB"
+            },
+            "start_location": {
+              "lat": 53.5483516,
+              "lng": 9.9983939
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "37 m",
+              "value": 37
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5486982,
+              "lng": 9.9972342
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ityeImq_|@aAG"
+            },
+            "start_location": {
+              "lat": 53.5483657,
+              "lng": 9.9971923
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "muyeIi~`|@HpD^VL?FBHZL~AVrAJh@Dd@BxAKfAOhAC\\QrAUhAGf@GtAIfKaAG"
+    },
+    "summary": "Pumpen and Hopfensack",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5307257,
+        "lng": 10.1099423
+      },
+      "southwest": {
+        "lat": 53.5163008,
+        "lng": 10.0963195
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2061
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 415
+        },
+        "end_address": "Liebigstra\u00dfe / Berzeliusstra\u00dfe, 22113 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5307257,
+          "lng": 10.1061529
+        },
+        "start_address": "Alter Landweg 40, 22113 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5163603,
+          "lng": 10.0963195
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5163318,
+              "lng": 10.0967296
+            },
+            "html_instructions": "Head <b>southeast</b> toward <b>Alter Landweg</b>",
+            "polyline": {
+              "points": "glseI_}r|@FM@G@E?A?G?KE_@"
+            },
+            "start_location": {
+              "lat": 53.5163603,
+              "lng": 10.0963195
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 373
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.5189852,
+              "lng": 10.0998312
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alter Landweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "alseIq_s|@A@G?GEMOeAcBACkGuJg@q@QUMSc@k@IGGAI?C@GFKL"
+            },
+            "start_location": {
+              "lat": 53.5163318,
+              "lng": 10.0967296
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1007
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 231
+            },
+            "end_location": {
+              "lat": 53.5257818,
+              "lng": 10.1098439
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Unterer Landweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "u|seI}rs|@Ka@M_@Yu@Ue@KQMQMSg@{@A?u@mA[g@CE{A}BaBgCU]}@uAYg@GIYi@m@eAAA_@m@SYyCqEwBkDACAACEc@o@KSOUQi@K[MYIOYe@Wc@OUGI[g@EIQWw@kAy@qAMSIOCGMK"
+            },
+            "start_location": {
+              "lat": 53.5189852,
+              "lng": 10.0998312
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 651
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 116
+            },
+            "end_location": {
+              "lat": 53.5307257,
+              "lng": 10.1061529
+            },
+            "html_instructions": "Continue onto <b>Liebigstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "cgueIoqu|@OOKAe@CY@_@?[?s@@_CJYBcAP[Fg@N[Lk@Zm@ZKHq@l@u@p@e@j@KPY`@OR_@l@QZS`@EHO\\A?Of@Of@AFI^ABG\\?@ERIp@E^"
+            },
+            "start_location": {
+              "lat": 53.5257818,
+              "lng": 10.1098439
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "glseI_}r|@J]?SG]OEsAsBmGyJy@gAq@_AQIM@STYaAo@{AoAsBiJuNiBaDa@o@mDkF_CwDo@cAa@_AYu@c@u@kAkBiC_EWc@QSOOKA_AAoB@yCNcAPcAVgAh@y@d@gB~A{ArBkAtBQ\\_@nAUhAUfB"
+    },
+    "summary": "Unterer Landweg and Liebigstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

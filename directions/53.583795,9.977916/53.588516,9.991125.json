@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5884449,
+        "lng": 9.9914127
+      },
+      "southwest": {
+        "lat": 53.5826862,
+        "lng": 9.9779957
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1254
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 289
+        },
+        "end_address": "U Kellinghusenstra\u00dfe / Loogeplatz, 20249 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5884449,
+          "lng": 9.9914127
+        },
+        "start_address": "L\u00f6wenstra\u00dfe / Eppendorfer Weg, 20251 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.583875,
+          "lng": 9.9779957
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 230
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5826862,
+              "lng": 9.9808456
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>L\u00f6wenstra\u00dfe</b>",
+            "polyline": {
+              "points": "gr`fIoy{{@HWFQHUPg@J[`@gAVo@FSZaANc@DILk@j@sB?A@C?ABQ"
+            },
+            "start_location": {
+              "lat": 53.583875,
+              "lng": 9.9779957
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 607
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 132
+            },
+            "end_location": {
+              "lat": 53.585439,
+              "lng": 9.9882761
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hegestra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yj`fIik|{@CGQ[CG[k@OYCGs@uAcB_DIOk@iAMUOWACIQKWIQEKm@_BKYSo@K[GSOu@Ok@I_@c@wBCSCISq@@k@?]?O?O?Q?YAq@?aA@c@?_@?EBGAI"
+            },
+            "start_location": {
+              "lat": 53.5826862,
+              "lng": 9.9808456
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.58604039999999,
+              "lng": 9.9886807
+            },
+            "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>Isepl.</b>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "_|`fIwy}{@@??A@??A@??A?A@??A?A@A?A?A?A?A?A@A?AAA?A?A?A?A?AAA?A?AAA?AA??AA??AA??AA?A??AA?A?A?A@A??@A?A@?@A??@A@?@QGKAU?m@Y"
+            },
+            "start_location": {
+              "lat": 53.585439,
+              "lng": 9.9882761
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 238
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5877913,
+              "lng": 9.9907585
+            },
+            "html_instructions": "Continue onto <b>Loogestra\u00dfe</b>",
+            "polyline": {
+              "points": "w_afIg|}{@q@{@y@_AoA_BIKMOg@o@MOsAgB"
+            },
+            "start_location": {
+              "lat": 53.58604039999999,
+              "lng": 9.9886807
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "53 m",
+              "value": 53
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5881823,
+              "lng": 9.991210899999999
+            },
+            "html_instructions": "Continue straight onto <b>Loogepl.</b>",
+            "maneuver": "straight",
+            "polyline": {
+              "points": "ujafIgi~{@KKQUEE_@e@IK"
+            },
+            "start_location": {
+              "lat": 53.5877913,
+              "lng": 9.9907585
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5884449,
+              "lng": 9.9914127
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Loogepl.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "cmafIal~{@q@e@AA"
+            },
+            "start_location": {
+              "lat": 53.5881823,
+              "lng": 9.991210899999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gr`fIoy{{@l@gBlAgDj@eBRu@l@{BBQCGUc@cBcDgDoGg@eAiAwC_@kAWiAaAwEW{@@iA?kA?wDBMAIBABE@I?SEMIEKDCDQEa@Am@Yq@{@iC_DW[uCsDaAmAs@g@"
+    },
+    "summary": "Hegestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

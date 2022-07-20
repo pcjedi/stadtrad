@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5597632,
+        "lng": 9.9821372
+      },
+      "southwest": {
+        "lat": 53.557497,
+        "lng": 9.975441499999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 617
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 188
+        },
+        "end_address": "St. Petersburger Stra\u00dfe / Bei den Kirchh\u00f6fen, 20355 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5597124,
+          "lng": 9.9818793
+        },
+        "start_address": "U Messehallen / Marktstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5584243,
+          "lng": 9.975441499999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5585117,
+              "lng": 9.9756846
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Marktstra\u00dfe</b> toward <b>Karolinenstra\u00dfe</b>",
+            "polyline": {
+              "points": "cs{eIoi{{@Qo@"
+            },
+            "start_location": {
+              "lat": 53.5584243,
+              "lng": 9.975441499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 134
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.557497,
+              "lng": 9.9767646
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Vor dem Holstentor</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "us{eI_k{{@^e@TQJM\\]`@e@TYFETYRS"
+            },
+            "start_location": {
+              "lat": 53.5585117,
+              "lng": 9.9756846
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 212
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5588643,
+              "lng": 9.978993299999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Holstenglacis</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "km{eIwq{{@ISYi@QYEICCIIIO_@_AEKEKc@aAQa@]k@k@{@OY"
+            },
+            "start_location": {
+              "lat": 53.557497,
+              "lng": 9.9767646
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 227
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5596628,
+              "lng": 9.9821372
+            },
+            "html_instructions": "Continue onto <b>b. den Kirchh\u00f6fen</b>",
+            "polyline": {
+              "points": "{u{eIu_|{@Qe@IYG]G[]wBYiBUqACMGu@YcC"
+            },
+            "start_location": {
+              "lat": 53.5588643,
+              "lng": 9.978993299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5597124,
+              "lng": 9.9818793
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Jungiusstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "{z{eIks|{@SNHb@"
+            },
+            "start_location": {
+              "lat": 53.5596628,
+              "lng": 9.9821372
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cs{eIoi{{@Qo@^e@`@_@|AcBh@m@c@}@Wc@MMu@gBu@cBiAgBa@_AQw@uAoIKcAYcCSNHb@"
+    },
+    "summary": "Holstenglacis and b. den Kirchh\u00f6fen",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

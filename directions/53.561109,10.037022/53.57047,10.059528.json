@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57029319999999,
+        "lng": 10.0596417
+      },
+      "southwest": {
+        "lat": 53.5611955,
+        "lng": 10.0370209
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2100
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 437
+        },
+        "end_address": "S+U Wandsbeker Chaussee / B\u00f6rnestra\u00dfe, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57029319999999,
+          "lng": 10.0596417
+        },
+        "start_address": "S Landwehr / Ramazan-Avci-Platz, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5611955,
+          "lng": 10.0373412
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Landwehr</b>/<wbr/><b>B5</b> toward <b>Hasselbrookstra\u00dfe</b>",
+            "polyline": {
+              "points": "od|eIklg|@[To@h@"
+            },
+            "start_location": {
+              "lat": 53.5611955,
+              "lng": 10.0373412
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 643
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 124
+            },
+            "end_location": {
+              "lat": 53.5640132,
+              "lng": 10.0457379
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hasselbrookstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{f|eIkjg|@AKIYW}@Su@s@cCUcAWaA[oAgAgEEQSs@YeAo@eCQ_AKq@YqBIy@CWGe@Is@Em@AMIy@AQG{@Ei@ASA_@EoA"
+            },
+            "start_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 366
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 94
+            },
+            "end_location": {
+              "lat": 53.5672605,
+              "lng": 10.0448455
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ritterstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "av|eI{`i|@oEt@EBC@s@LIBkDh@]DI@E?C@QBKBYD{@NE@YN"
+            },
+            "start_location": {
+              "lat": 53.5640132,
+              "lng": 10.0457379
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1043
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 208
+            },
+            "end_location": {
+              "lat": 53.57029319999999,
+              "lng": 10.0596417
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wandsbeker Chaussee</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kj}eIi{h|@Ok@KyAEk@Gi@Ky@E_@]yBe@cDCUCUS{AAe@[kCCUEo@Eo@EQ@I?GG{A?OCk@SiDCc@Eo@Cg@Am@Ck@?AEg@EQCa@E]Gg@MgAG[GWI_@Ia@EWKq@SUCQG]c@uCKo@CSS}@e@mCEUCOYiBSuAKk@SiAE[M}@"
+            },
+            "start_location": {
+              "lat": 53.5672605,
+              "lng": 10.0448455
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "od|eIklg|@kA~@Ke@k@sBiAgEaCkJm@yBo@eCQ_Ae@cDMqAYuCYqDCs@EoAoEt@ID}@PyEp@{@NaAPYNOk@QeCScBmAsIWqBAe@[kCIeAKaAE}Ba@iHIcCKy@I_AUoBOs@e@kCSUCQk@sDOcAy@kEw@eFs@oE"
+    },
+    "summary": "Hasselbrookstra\u00dfe and Wandsbeker Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

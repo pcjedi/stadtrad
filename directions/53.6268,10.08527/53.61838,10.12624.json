@@ -1,0 +1,312 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6267935,
+        "lng": 10.1262806
+      },
+      "southwest": {
+        "lat": 53.6148908,
+        "lng": 10.0802746
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.6 km",
+          "value": 4635
+        },
+        "duration": {
+          "text": "15 mins",
+          "value": 888
+        },
+        "end_address": "U Oldenfelde / Busbrookh\u00f6he, 22159 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6183978,
+          "lng": 10.1262806
+        },
+        "start_address": "Bramfelder Chaussee / Maisredder, 22175 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6267935,
+          "lng": 10.0853429
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 942
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 153
+            },
+            "end_location": {
+              "lat": 53.6190055,
+              "lng": 10.0802746
+            },
+            "html_instructions": "Head <b>south</b> on <b>Bramfelder Ch</b> toward <b>Hirsekamp</b>",
+            "polyline": {
+              "points": "m~hfIkxp|@@?nBVlARz@LpATRBRF^F`@HdAPB@l@PNFt@\\TNn@f@@@x@l@fAv@DBf@\\RFr@j@dAz@ZVzBfBt@l@b@^PLTTNNzBtB\\XJ^LPf@l@PV"
+            },
+            "start_location": {
+              "lat": 53.6267935,
+              "lng": 10.0853429
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.619032,
+              "lng": 10.0805391
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Berner Ch</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "ymgfIuxo|@L_@QU"
+            },
+            "start_location": {
+              "lat": 53.6190055,
+              "lng": 10.0802746
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1091
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 207
+            },
+            "end_location": {
+              "lat": 53.6190471,
+              "lng": 10.0964675
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Berner Ch</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}mgfIkzo|@Nm@Lm@FQJk@x@eFBMZqB^eCN_BDeAF}BD_DBsD?K?EFyG@k@?}@ASEw@KuAi@sHA][wDQ_CWcDYyDYmEEa@AKAGAGAGAECKSm@"
+            },
+            "start_location": {
+              "lat": 53.619032,
+              "lng": 10.0805391
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.6189204,
+              "lng": 10.096873
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Berner Ch</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "angfI}}r|@XoA"
+            },
+            "start_location": {
+              "lat": 53.6190471,
+              "lng": 10.0964675
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "72 m",
+              "value": 72
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.6183017,
+              "lng": 10.0971827
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Fahrenkr\u00f6n</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "gmgfIm`s|@JMRITGdA]"
+            },
+            "start_location": {
+              "lat": 53.6189204,
+              "lng": 10.096873
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 382
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 75
+            },
+            "end_location": {
+              "lat": 53.6192905,
+              "lng": 10.1027247
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sandstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kigfIkbs|@_@mDe@}EeAmKi@gFOqA"
+            },
+            "start_location": {
+              "lat": 53.6183017,
+              "lng": 10.0971827
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 558
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.6148908,
+              "lng": 10.1066424
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Swartenhorst</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qogfI_et|@dBqAlA_AfC}A|@c@h@YlAu@NKd@S\\]\\]PSJMNWNUZi@Tc@FM\\g@P[PWb@a@FEd@_@"
+            },
+            "start_location": {
+              "lat": 53.6192905,
+              "lng": 10.1027247
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1152
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 207
+            },
+            "end_location": {
+              "lat": 53.6160313,
+              "lng": 10.1236425
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Neusurenland</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "atffIo}t|@SyAQuAE[G]Ky@Io@w@}FgAoIyAyKCi@ByI?kD@eE?m@@mA?q@@o@FiE?ORiM@}@@oA@s@@q@B[@WBYBYBYB]"
+            },
+            "start_location": {
+              "lat": 53.6148908,
+              "lng": 10.1066424
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 269
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 122
+            },
+            "end_location": {
+              "lat": 53.61836659999999,
+              "lng": 10.1246807
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Berner Heerweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e{ffIwgx|@[Gs@O_@Mo@SQI]MQGy@YsAi@cAa@_@O"
+            },
+            "start_location": {
+              "lat": 53.6160313,
+              "lng": 10.1236425
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 96
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.6185277,
+              "lng": 10.1260968
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Busbrookh\u00f6he</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yigfIgnx|@@Q@M?W?SCYC[Gm@Ii@IaA"
+            },
+            "start_location": {
+              "lat": 53.61836659999999,
+              "lng": 10.1246807
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.6183978,
+              "lng": 10.1262806
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yjgfIcwx|@JQDGFI"
+            },
+            "start_location": {
+              "lat": 53.6185277,
+              "lng": 10.1260968
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m~hfIkxp|@zFx@xCh@fBZp@RdAd@dAv@hCjBf@\\RFxBfBpFlErDhD\\XJ^t@~@PVL_@QUNm@T_AdAqG^_C^eCN_BLcEHsIHwIAqAQmCk@qIm@wHqAmQGc@EQSm@XoA^WzAe@uDa_@OqAdBqAlA_AfC}AfB}@|AaAd@S\\]n@q@fAeB\\q@n@cAPWb@a@l@e@s@iFuCwTyAyKCi@BeOBsJ\\sUFsFHmAFs@B][GsA]aA]}DyAcBq@B_@?k@Gu@QwAIaAJQLQ"
+    },
+    "summary": "Neusurenland",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

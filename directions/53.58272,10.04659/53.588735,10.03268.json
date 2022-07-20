@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5908299,
+        "lng": 10.0467149
+      },
+      "southwest": {
+        "lat": 53.5827975,
+        "lng": 10.0327131
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1878
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 470
+        },
+        "end_address": "U Saarlandstra\u00dfe / Wiesendamm, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5888018,
+          "lng": 10.0330122
+        },
+        "start_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "38 m",
+              "value": 38
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5830531,
+              "lng": 10.0463452
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Pfenningsbusch</b> toward <b>Bramfelder Str.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ok`fI}fi|@Ud@EJUT"
+            },
+            "start_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.58312189999999,
+              "lng": 10.0464437
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bramfelder Str.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "am`fIudi|@MQ"
+            },
+            "start_location": {
+              "lat": 53.5830531,
+              "lng": 10.0463452
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 347
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 87
+            },
+            "end_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Flachsland</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "om`fIgei|@Qd@Yf@ABGPGPCLIVIXABm@hCMh@Ot@s@~Cy@xDIZCLKj@CXA\\"
+            },
+            "start_location": {
+              "lat": 53.58312189999999,
+              "lng": 10.0464437
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 540
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 137
+            },
+            "end_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "html_instructions": "Continue onto <b>Osterbekstra\u00dfe</b>",
+            "polyline": {
+              "points": "aw`fI{hh|@Cf@?FA^EzAClC?`B?bCB~B?T@tD?LBxC@r@@|BB|@@TRnF?rA"
+            },
+            "start_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 703
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 148
+            },
+            "end_location": {
+              "lat": 53.5908299,
+              "lng": 10.0329376
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Saarlandstra\u00dfe</b>/<wbr/><b>Schleidenbr\u00fccke</b><div style=\"font-size:0.9em\">Continue to follow Saarlandstra\u00dfe</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "iv`fI}uf|@m@?k@?k@@e@@_ADC?mAJq@Dq@D_@B_BLUBcADWBg@B}C\\c@Bg@Bo@BQ@}@Fm@DC?}@LuAR"
+            },
+            "start_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 240
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5888018,
+              "lng": 10.0330122
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Hellbrookstra\u00dfe</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "u}afI{pf|@@l@rIq@PC^CLA"
+            },
+            "start_location": {
+              "lat": 53.5908299,
+              "lng": 10.0329376
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ok`fI}fi|@[p@UTMQk@lAIT_@pAmAlF{BbKOdAEdAKpG?dFBtC@bEDlEDzDTdG?rAm@?wA@eBFqAJcF\\yCPaE`@wAFaCNsC`@@l@rIq@p@GLA"
+    },
+    "summary": "Osterbekstra\u00dfe and Saarlandstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

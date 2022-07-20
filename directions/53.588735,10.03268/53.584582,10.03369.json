@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5887523,
+        "lng": 10.0336783
+      },
+      "southwest": {
+        "lat": 53.5845753,
+        "lng": 10.0330194
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 469
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 104
+        },
+        "end_address": "Schleidenstra\u00dfe / Osterbekstra\u00dfe, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5845753,
+          "lng": 10.0336783
+        },
+        "start_address": "U Saarlandstra\u00dfe / Wiesendamm, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5887523,
+          "lng": 10.0330194
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 460
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 103
+            },
+            "end_location": {
+              "lat": 53.5846332,
+              "lng": 10.0335848
+            },
+            "html_instructions": "Head <b>south</b> on <b>Saarlandstra\u00dfe</b> toward <b>Wiesendamm</b>",
+            "polyline": {
+              "points": "upafIkqf|@TCdAIn@Gd@?XE\\EFAz@IbBGnAKHAxCWf@Cf@ITETCHAB@R@F?F?B@"
+            },
+            "start_location": {
+              "lat": 53.5887523,
+              "lng": 10.0330194
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5845753,
+              "lng": 10.0336783
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Osterbekstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}v`fI{tf|@HS"
+            },
+            "start_location": {
+              "lat": 53.5846332,
+              "lng": 10.0335848
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "upafIkqf|@zAMtAGzBWrDSbDYnAMj@Ih@@J@HS"
+    },
+    "summary": "Saarlandstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

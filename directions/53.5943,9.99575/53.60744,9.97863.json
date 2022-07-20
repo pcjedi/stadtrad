@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6074236,
+        "lng": 9.995889
+      },
+      "southwest": {
+        "lat": 53.5943171,
+        "lng": 9.9784939
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2169
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 513
+        },
+        "end_address": "Borsteler Chaussee / K\u00f6ppenstra\u00dfe, 22453 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6074236,
+          "lng": 9.9786599
+        },
+        "start_address": "U Hudtwalckerstra\u00dfe / Bebelallee, 22299 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5943171,
+          "lng": 9.995889
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 559
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 98
+            },
+            "end_location": {
+              "lat": 53.59913419999999,
+              "lng": 9.9938915
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Lattenkampstieg</b>",
+            "polyline": {
+              "points": "osbfIii_|@QDq@Ru@NYFo@NwA\\_B^qAXe@Lg@LiATmBf@}A\\eAROFIHKPMRIPEJER"
+            },
+            "start_location": {
+              "lat": 53.5943171,
+              "lng": 9.995889
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 347
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 88
+            },
+            "end_location": {
+              "lat": 53.6021653,
+              "lng": 9.9947222
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bebelallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qqcfIy|~{@Q@c@Ai@?S?S@a@@eAGSCa@GWEUEy@OIAKE_@Ga@MMWACkAg@]W"
+            },
+            "start_location": {
+              "lat": 53.59913419999999,
+              "lng": 9.9938915
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 541
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 154
+            },
+            "end_location": {
+              "lat": 53.60360499999999,
+              "lng": 9.9870764
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Deelb\u00f6ge</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qddfI_b_|@@h@BzA@r@?^?x@?R?NAB?T@r@CJADUlB?DGPGn@SvAIj@KXABCDWxAOp@Kj@Qz@SbAMj@Kf@O`AIXKr@OhAEZY~B"
+            },
+            "start_location": {
+              "lat": 53.6021653,
+              "lng": 9.9947222
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "69 m",
+              "value": 69
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.6038712,
+              "lng": 9.9861395
+            },
+            "html_instructions": "Continue onto <b>Borsteler Chaussee</b>",
+            "polyline": {
+              "points": "omdfIgr}{@SlACNAP[jA"
+            },
+            "start_location": {
+              "lat": 53.60360499999999,
+              "lng": 9.9870764
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 634
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 119
+            },
+            "end_location": {
+              "lat": 53.6072864,
+              "lng": 9.9784939
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Borsteler Chaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "eodfIkl}{@M@a@hAa@rASn@k@fB[bA[bAEXEJ[z@a@hAe@nAUp@_@fAc@rASn@IVGPy@|B]`AGRo@hBGPy@~B_@dA"
+            },
+            "start_location": {
+              "lat": 53.6038712,
+              "lng": 9.9861395
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.6074236,
+              "lng": 9.9786599
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>K\u00f6ppenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qdefIq|{{@MKKU"
+            },
+            "start_location": {
+              "lat": 53.6072864,
+              "lng": 9.9784939
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "osbfIii_|@sCp@yHfBmAZwD|@cDp@YPi@bAERQ@mAAg@@a@@eAGu@Km@KcAQk@Ma@MMWmAk@]W@h@DnC?|BAX@r@CJWrBGV[fCIj@KXEHg@jC_AvEq@vDcArHE`@[jAM@cA|C_AvCw@fCKd@yBfGaBbFyFfPYa@"
+    },
+    "summary": "Borsteler Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

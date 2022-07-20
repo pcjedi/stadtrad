@@ -1,0 +1,238 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.548812,
+        "lng": 10.0071354
+      },
+      "southwest": {
+        "lat": 53.5440598,
+        "lng": 9.9972342
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1266
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 263
+        },
+        "end_address": "Stockmeyerstra\u00dfe / Am Lohsepark, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5440598,
+          "lng": 10.0035998
+        },
+        "start_address": "Schopenstehl / Alter Fischmarkt, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5486982,
+          "lng": 9.9972342
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.548812,
+              "lng": 9.997248599999999
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Schopenstehl</b>",
+            "polyline": {
+              "points": "kvyeIuq_|@UC"
+            },
+            "start_location": {
+              "lat": 53.5486982,
+              "lng": 9.9972342
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 152
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5487592,
+              "lng": 9.999548100000002
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schopenstehl</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "awyeIyq_|@?SDcA@a@@W@oA@u@AsB?YAe@"
+            },
+            "start_location": {
+              "lat": 53.548812,
+              "lng": 9.997248599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5486233,
+              "lng": 10.0015709
+            },
+            "html_instructions": "Continue onto <b>Niedernstra\u00dfe</b>",
+            "polyline": {
+              "points": "wvyeIe``|@?O?I@MBg@Hy@F{@Bg@D]EgC"
+            },
+            "start_location": {
+              "lat": 53.5487592,
+              "lng": 9.999548100000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 119
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.54769,
+              "lng": 10.0019713
+            },
+            "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>Fischertwiete</b>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "{uyeIyl`|@?K?G?KL?`@A`@Ad@AX@FGFIHOFE@C@A@??@"
+            },
+            "start_location": {
+              "lat": 53.5486233,
+              "lng": 10.0015709
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 464
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 104
+            },
+            "end_location": {
+              "lat": 53.5458132,
+              "lng": 10.0071354
+            },
+            "html_instructions": "Take the pedestrian tunnel",
+            "polyline": {
+              "points": "apyeIio`|@@j@hBECqA?OVkApAaHR_APg@z@{DJi@DQPu@Pk@?EJuAC_@@A?A?AB["
+            },
+            "start_location": {
+              "lat": 53.54769,
+              "lng": 10.0019713
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5446179,
+              "lng": 10.0067063
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Oberhafenbr\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "idyeIsoa|@FBbCn@`B`@"
+            },
+            "start_location": {
+              "lat": 53.5458132,
+              "lng": 10.0071354
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.54448009999999,
+              "lng": 10.0068846
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Stockmeyerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{|xeI}la|@HMPS"
+            },
+            "start_location": {
+              "lat": 53.5446179,
+              "lng": 10.0067063
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 227
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.5440598,
+              "lng": 10.0035998
+            },
+            "html_instructions": "Sharp <b>right</b> to stay on <b>Stockmeyerstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "_|xeI_na|@Gl@Eh@ANFt@Fz@Fx@NtBDn@Fd@@H@F^~BH\\"
+            },
+            "start_location": {
+              "lat": 53.54448009999999,
+              "lng": 10.0068846
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kvyeIuq_|@UC?SFeBBgB?iDAyAVkDHeAEsC?Sn@AfACX@FGPYHIB?@j@hBECaBhBmJd@gBfAeFVgAPq@JuAC_@@C?AB[FBdFpAZa@MvAANFt@NtB^tEj@dD"
+    },
+    "summary": "Stockmeyerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5769472,
+        "lng": 9.8930046
+      },
+      "southwest": {
+        "lat": 53.5735648,
+        "lng": 9.8785251
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1271
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 260
+        },
+        "end_address": "Luruper Chauseee / Ebertallee, 22761 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5735648,
+          "lng": 9.8930046
+        },
+        "start_address": "Flottbeker Drift 56, 22607 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5745236,
+          "lng": 9.8785251
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "66 m",
+              "value": 66
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5745435,
+              "lng": 9.879508699999999
+            },
+            "html_instructions": "Head <b>east</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "polyline": {
+              "points": "ww~eIykh{@?OByA?]G{@"
+            },
+            "start_location": {
+              "lat": 53.5745236,
+              "lng": 9.8785251
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "93 m",
+              "value": 93
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5746895,
+              "lng": 9.8807433
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{w~eI}qh{@Vk@COC_@SiAYoA"
+            },
+            "start_location": {
+              "lat": 53.5745435,
+              "lng": 9.879508699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 257
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5755815,
+              "lng": 9.8834415
+            },
+            "html_instructions": "Slight <b>right</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "yx~eIsyh{@HiB@YBi@JsCA[Iq@Oc@We@MMCAaAMo@QUQ"
+            },
+            "start_location": {
+              "lat": 53.5746895,
+              "lng": 9.8807433
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 360
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5769472,
+              "lng": 9.8882955
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k~~eIoji{@Eq@Ci@oBkFq@sHAGiAoFQy@G]"
+            },
+            "start_location": {
+              "lat": 53.5755815,
+              "lng": 9.8834415
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 495
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 140
+            },
+            "end_location": {
+              "lat": 53.5735648,
+              "lng": 9.8930046
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Luruper Ch</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}f_fI{hj{@PKPMd@c@ZYn@o@XWPQf@a@HKj@u@v@eANQ\\c@@Cp@eABC`AqBTy@`ByETa@P]DE"
+            },
+            "start_location": {
+              "lat": 53.5769472,
+              "lng": 9.8882955
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ww~eIykh{@BiBGyAVk@COWiBYoAHiBDcAJsCA[Iq@Oc@We@MMeAOo@QUQI{AoBkFq@sHkAwFYwAb@YjCeCx@s@t@aAfB_Ct@iA`AqBTy@`ByETa@Vc@"
+    },
+    "summary": "Luruper Ch",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5638016,
+        "lng": 9.9908504
+      },
+      "southwest": {
+        "lat": 53.5556215,
+        "lng": 9.9842229
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1366
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 297
+        },
+        "end_address": "Universit\u00e4t / Moorweidenstra\u00dfe, 20146 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5638016,
+          "lng": 9.987521
+        },
+        "start_address": "U G\u00e4nsemarkt / Caffamacherreihe, 20355 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55608969999999,
+          "lng": 9.9842229
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "47 m",
+              "value": 47
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5556645,
+              "lng": 9.9842623
+            },
+            "html_instructions": "Head <b>south</b> on <b>Caffamacherreihe</b> toward <b>Valentinskamp</b>",
+            "polyline": {
+              "points": "qd{eIk`}{@N?dAG"
+            },
+            "start_location": {
+              "lat": 53.55608969999999,
+              "lng": 9.9842229
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 237
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5557235,
+              "lng": 9.9878235
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Valentinskamp</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{a{eIs`}{@?mBEqDFqDBiA?U@S?I?QAKCU?EAEAE?EACAE?EACCW"
+            },
+            "start_location": {
+              "lat": 53.5556645,
+              "lng": 9.9842623
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 307
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.5583044,
+              "lng": 9.9893095
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Dammtorstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gb{eI{v}{@G@IBG?IC]Kc@KYIUKSMOKe@_@UUQSQUQQSMOG_@MC?kAa@YKi@_@"
+            },
+            "start_location": {
+              "lat": 53.5557235,
+              "lng": 9.9878235
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 269
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 68
+            },
+            "end_location": {
+              "lat": 53.5605231,
+              "lng": 9.9908504
+            },
+            "html_instructions": "Continue onto <b>Dammtordamm</b>",
+            "polyline": {
+              "points": "kr{eIe`~{@sBaA_Ac@WMwAw@u@a@MGIGKGIGOOQWKSEI"
+            },
+            "start_location": {
+              "lat": 53.5583044,
+              "lng": 9.9893095
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 139
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5615502,
+              "lng": 9.989765
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Theodor-Heuss-Platz</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g`|eIyi~{@ODMBUDKDIDg@l@o@`Ak@lA"
+            },
+            "start_location": {
+              "lat": 53.5605231,
+              "lng": 9.9908504
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 277
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.56320030000001,
+              "lng": 9.9866256
+            },
+            "html_instructions": "Continue onto <b>Edmund-Siemers-Allee</b>",
+            "polyline": {
+              "points": "uf|eI_c~{@KTCFq@`BYr@M\\g@jAQb@eDnH"
+            },
+            "start_location": {
+              "lat": 53.5615502,
+              "lng": 9.989765
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "90 m",
+              "value": 90
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5638016,
+              "lng": 9.987521
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_q|eImo}{@gBaDOO"
+            },
+            "start_location": {
+              "lat": 53.56320030000001,
+              "lng": 9.9866256
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qd{eIk`}{@tAGE_HLeHE}@CWESCWG@QBeBe@i@Yu@k@kAqAc@Uc@MeBm@i@_@sBaAwAq@mCyAm@_@a@g@Q]]Ha@Jq@r@o@`Ak@lAO\\kAtCu@hBwDrIgBaDOO"
+    },
+    "summary": "Dammtorstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

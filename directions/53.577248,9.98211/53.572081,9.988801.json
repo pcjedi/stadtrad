@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5772437,
+        "lng": 9.988886299999999
+      },
+      "southwest": {
+        "lat": 53.57125569999999,
+        "lng": 9.981785400000001
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1251
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 315
+        },
+        "end_address": "U Hallerstra\u00dfe / Rothenbaumchaussee, 20148 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57208,
+          "lng": 9.988886299999999
+        },
+        "start_address": "Innocentiapark / Oberstra\u00dfe, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5772437,
+          "lng": 9.9821098
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5772339,
+              "lng": 9.981892799999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Oberstra\u00dfe</b> toward <b>Brahmsallee</b>",
+            "polyline": {
+              "points": "wh_fIes|{@AXBP"
+            },
+            "start_location": {
+              "lat": 53.5772437,
+              "lng": 9.9821098
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 528
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.5724868,
+              "lng": 9.981871
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Brahmsallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uh_fIyq|{@LFL@`BBB?h@?XAnB@T@x@BfAAjACt@C|B?nCCtAA"
+            },
+            "start_location": {
+              "lat": 53.5772339,
+              "lng": 9.981892799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 448
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 143
+            },
+            "end_location": {
+              "lat": 53.5726717,
+              "lng": 9.988641099999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hallerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ak~eIuq|{@KkLKeLE}DAoAA??gA?{@Ay@?k@"
+            },
+            "start_location": {
+              "lat": 53.5724868,
+              "lng": 9.981871
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 158
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.57125569999999,
+              "lng": 9.9885807
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rothenbaumchaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "el~eI_|}{@x@?P@F?@?f@@h@BJ@dB@"
+            },
+            "start_location": {
+              "lat": 53.5726717,
+              "lng": 9.988641099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 103
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.57208,
+              "lng": 9.988886299999999
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kc~eIs{}{@?OCMAICEACACC?CAG?eCE"
+            },
+            "start_location": {
+              "lat": 53.57125569999999,
+              "lng": 9.9885807
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh_fIes|{@@j@ZHdBBbAAdCBx@BfAA`CGlGCtAAKkLQcRCsEAeBjA@zADpBBC]IWGAmCE"
+    },
+    "summary": "Brahmsallee and Hallerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

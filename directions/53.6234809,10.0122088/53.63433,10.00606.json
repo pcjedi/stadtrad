@@ -1,0 +1,238 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6343302,
+        "lng": 10.0130698
+      },
+      "southwest": {
+        "lat": 53.6235783,
+        "lng": 10.00605
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1640
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 420
+        },
+        "end_address": "Flughafenstr., 22335 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6343302,
+          "lng": 10.0060586
+        },
+        "start_address": "R\u00f6ntgenstra\u00dfe / Philips, 22335 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6235783,
+          "lng": 10.0121832
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "51 m",
+              "value": 51
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.6238564,
+              "lng": 10.0116346
+            },
+            "html_instructions": "Head <b>west</b> on <b>R\u00f6ntgenstra\u00dfe</b> toward <b>Alsterkrugchaussee</b>",
+            "polyline": {
+              "points": "kjhfIcob|@AXMf@GLEFGHQJ"
+            },
+            "start_location": {
+              "lat": 53.6235783,
+              "lng": 10.0121832
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 413
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 90
+            },
+            "end_location": {
+              "lat": 53.6274624,
+              "lng": 10.0130698
+            },
+            "html_instructions": "Continue onto <b>Alsterkrugchaussee</b>",
+            "polyline": {
+              "points": "clhfIukb|@_@AIEe@QAAC?A@A??@gA]]KyHyBqBq@aAa@QGOG"
+            },
+            "start_location": {
+              "lat": 53.6238564,
+              "lng": 10.0116346
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 174
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.6275029,
+              "lng": 10.010503
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sbifIutb|@GnAATOfCCd@Et@?\\AT@XHn@Px@"
+            },
+            "start_location": {
+              "lat": 53.6274624,
+              "lng": 10.0130698
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.6278095,
+              "lng": 10.0106424
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{bifIsdb|@e@SWG"
+            },
+            "start_location": {
+              "lat": 53.6275029,
+              "lng": 10.010503
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 108
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.6281404,
+              "lng": 10.009183
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ydifIoeb|@CJS|@Oh@YbACPAL?PDx@"
+            },
+            "start_location": {
+              "lat": 53.6278095,
+              "lng": 10.0106424
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 231
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.6301985,
+              "lng": 10.0092828
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{fifIk|a|@SBo@Bq@?}@Bm@?G?]?_@AYEc@OOEICQCID"
+            },
+            "start_location": {
+              "lat": 53.6281404,
+              "lng": 10.009183
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 160
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.6302674,
+              "lng": 10.0070442
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Flughafenstr.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wsifI_}a|@BHBDFL@D@D?DCNFR@BDP?BBLBZ?n@Gl@G\\ENQlAMlA"
+            },
+            "start_location": {
+              "lat": 53.6301985,
+              "lng": 10.0092828
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 468
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 148
+            },
+            "end_location": {
+              "lat": 53.6343302,
+              "lng": 10.0060586
+            },
+            "html_instructions": "Continue onto <b>Flughafenstr.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "etifI_oa|@ELKXEJMVGJKHK@y@BcCNYBO?C?eBNqCLcBH_@HOJOBm@FY@QACA"
+            },
+            "start_location": {
+              "lat": 53.6302674,
+              "lng": 10.0070442
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kjhfIcob|@AXMf@MTYT_@AIEg@SE@A?gA[wIeCqBq@aAa@a@OIdBY`G?n@ZhB}@[WhAi@lBE^DjAcAFeDB}@A}@UYIQCIDFNHR@JCNFRFTBPBjAOjAW|AMlAELQd@Ub@WJ}DRsCRuFVo@T}@Jk@?CA"
+    },
+    "summary": "Alsterkrugchaussee and Flughafenstr.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

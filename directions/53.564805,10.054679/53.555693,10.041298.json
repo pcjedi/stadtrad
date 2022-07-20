@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.56595060000001,
+        "lng": 10.0574657
+      },
+      "southwest": {
+        "lat": 53.5555465,
+        "lng": 10.0412907
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 1958
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 437
+        },
+        "end_address": "U Burgstra\u00dfe, 20537 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5555969,
+          "lng": 10.0412907
+        },
+        "start_address": "S Hasselbrook / Papenstra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5648518,
+          "lng": 10.0548182
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "html_instructions": "Head <b>northwest</b> toward <b>Hasselbrookstra\u00dfe</b>",
+            "polyline": {
+              "points": "i{|eIsyj|@WV"
+            },
+            "start_location": {
+              "lat": 53.5648518,
+              "lng": 10.0548182
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.56595060000001,
+              "lng": 10.057231
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hasselbrookstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a||eI{xj|@EUUeAIc@WiAEYOq@[cAACc@_Am@{A"
+            },
+            "start_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 584
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 116
+            },
+            "end_location": {
+              "lat": 53.5609349,
+              "lng": 10.0552985
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hammer Steindamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "eb}eIuhk|@vAQPEd@IFA^E^EBD@@HAJ@NBJBHBNHx@n@\\BbAf@nAl@`@R`Bt@bChAh@VbClAFBVJ"
+            },
+            "start_location": {
+              "lat": 53.56595060000001,
+              "lng": 10.057231
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 128
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.561016,
+              "lng": 10.0533632
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sievekingsallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yb|eIs|j|@CfCElBEvBAP?B"
+            },
+            "start_location": {
+              "lat": 53.5609349,
+              "lng": 10.0552985
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 965
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 187
+            },
+            "end_location": {
+              "lat": 53.5555465,
+              "lng": 10.042275
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Sievekingdamm</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "kc|eIopj|@Nf@BHDPRp@`@vABLZhAp@~BPp@V~@J`@FVf@bB^tARr@l@lBHX\\fApAdEXhAb@jBLZNf@t@zAr@pA^z@z@zAh@x@@@DHXf@b@b@^b@n@r@\\f@dAnANNDFBH@D?F"
+            },
+            "start_location": {
+              "lat": 53.561016,
+              "lng": 10.0533632
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5555969,
+              "lng": 10.0412907
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Hammer Landstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ea{eIgkh|@A\\A\\Al@An@Aj@"
+            },
+            "start_location": {
+              "lat": 53.5555465,
+              "lng": 10.042275
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i{|eIsyj|@WVEU_@iB]cBk@uBe@cAm@{AvAQv@Of@G^EBD@@d@BTFhAx@\\BbAf@pB`AdF~BlDdB^NItFGhCNj@~@dDvDfNjBpGnBlG|@tD\\bAhBlD^z@z@zAj@z@^p@bAfAbDzDHP@LGxCAj@"
+    },
+    "summary": "Hammer Steindamm and Sievekingdamm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

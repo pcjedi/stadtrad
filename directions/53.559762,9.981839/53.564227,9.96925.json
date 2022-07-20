@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5642947,
+        "lng": 9.9820563
+      },
+      "southwest": {
+        "lat": 53.5597124,
+        "lng": 9.969241799999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1259
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 316
+        },
+        "end_address": "S+U Sternschanze / D\u00e4nenweg, 20357 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5642903,
+          "lng": 9.969241799999999
+        },
+        "start_address": "St. Petersburger Stra\u00dfe / Bei den Kirchh\u00f6fen, 20355 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5597124,
+          "lng": 9.9818793
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5597632,
+              "lng": 9.9820563
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>b. den Kirchh\u00f6fen</b> toward <b>St.Petersburger Str.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "e{{eIwq|{@Ic@"
+            },
+            "start_location": {
+              "lat": 53.5597124,
+              "lng": 9.9818793
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 499
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 117
+            },
+            "end_location": {
+              "lat": 53.5624962,
+              "lng": 9.976084499999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>St.Petersburger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o{{eI{r|{@U\\?@Yl@IRQd@aAxCuA`Em@jBOb@Qh@IViAdDGLe@xAa@bAUl@MPOd@W|@"
+            },
+            "start_location": {
+              "lat": 53.5597632,
+              "lng": 9.9820563
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 197
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5640973,
+              "lng": 9.977266
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rentzelstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sl|eIom{{@]QKEGE}@c@y@c@UMUOSKc@YOc@YYGE"
+            },
+            "start_location": {
+              "lat": 53.5624962,
+              "lng": 9.976084499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 247
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.56420379999999,
+              "lng": 9.973611799999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sternschanze</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sv|eI}t{{@I`@GRCNENCXAZAZ?p@@dA@zB@X@`A@X?V?d@@hAANBd@@J"
+            },
+            "start_location": {
+              "lat": 53.5640973,
+              "lng": 9.977266
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 303
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5642903,
+              "lng": 9.969241799999999
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Sternschanze</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "gw|eIa~z{@JpA?@Jr@BTJfA@X@`@DtC?J?`A@Z?Z?B?R?J?H?DAH?HAHCLAJCF]nAWdAAB?B?D?R"
+            },
+            "start_location": {
+              "lat": 53.56420379999999,
+              "lng": 9.973611799999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "e{{eIwq|{@Ic@U\\Yn@sDtKyApEqArDgA|Cc@~@g@bBoBaAyBmAc@YOc@a@_@[tAEt@AlAF|GB`D@t@L|AZrCJzI?n@Gj@{@hDAL?R"
+    },
+    "summary": "St.Petersburger Str. and Sternschanze",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

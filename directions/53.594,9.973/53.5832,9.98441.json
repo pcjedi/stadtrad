@@ -1,0 +1,189 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5944067,
+        "lng": 9.9846744
+      },
+      "southwest": {
+        "lat": 53.5831808,
+        "lng": 9.972965
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2088
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 415
+        },
+        "end_address": "U Eppendorfer Baum / Isestra\u00dfe, 20149 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5831808,
+          "lng": 9.9844574
+        },
+        "start_address": "S\u00fcderfeldstra\u00dfe / Universit\u00e4tsklinikum Eppendorf, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5940743,
+          "lng": 9.972965
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "90 m",
+              "value": 90
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.59428029999999,
+              "lng": 9.9742871
+            },
+            "html_instructions": "Head <b>east</b> on <b>S\u00fcderfeldstra\u00dfe</b> toward <b>Lottestra\u00dfe</b>",
+            "polyline": {
+              "points": "}qbfI_zz{@E[QaCQkB"
+            },
+            "start_location": {
+              "lat": 53.5940743,
+              "lng": 9.972965
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 638
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 83
+            },
+            "end_location": {
+              "lat": 53.5944067,
+              "lng": 9.9839342
+            },
+            "html_instructions": "Continue onto <b>Geschwister-Scholl-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "gsbfIib{{@GiAGi@A[?KA]?E?E?iBAyG?gD?qB?gJ?K?{@AyIAyG"
+            },
+            "start_location": {
+              "lat": 53.59428029999999,
+              "lng": 9.9742871
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 492
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 142
+            },
+            "end_location": {
+              "lat": 53.5900157,
+              "lng": 9.983271799999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Tarpenbekstra\u00dfe</b>/<wbr/><b>B433</b><div style=\"font-size:0.9em\">Continue to follow Tarpenbekstra\u00dfe</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "atbfIq~|{@`C?|@?R?T?L@D@R@p@@l@Fn@H`ANVDTFfAJ`ADD?|@HP@TBRBHBTFJDRHPH"
+            },
+            "start_location": {
+              "lat": 53.5944067,
+              "lng": 9.9839342
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 549
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 100
+            },
+            "end_location": {
+              "lat": 53.58518480000001,
+              "lng": 9.9817141
+            },
+            "html_instructions": "Continue onto <b>Lenhartzstra\u00dfe</b>",
+            "polyline": {
+              "points": "sxafImz|{@PHNHdAn@^Rn@RJB\\AXFl@JlDt@n@Nz@PvB\\|AVdALn@L`@DTD"
+            },
+            "start_location": {
+              "lat": 53.5900157,
+              "lng": 9.983271799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 292
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5833853,
+              "lng": 9.9846744
+            },
+            "html_instructions": "Continue onto <b>Eppendorfer Baum</b>",
+            "polyline": {
+              "points": "kz`fIup|{@R?NAJAPGXQFIFGHMHODIJWRo@V}@Z_At@sBN_@DO`@kARk@HU"
+            },
+            "start_location": {
+              "lat": 53.58518480000001,
+              "lng": 9.9817141
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5831808,
+              "lng": 9.9844574
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Isestra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "eo`fIec}{@PLVZ"
+            },
+            "start_location": {
+              "lat": 53.5833853,
+              "lng": 9.9846744
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}qbfI_zz{@q@sIIeAAi@AoK?mSAuKAyG`C?pA?b@@xBL~Cf@lEZdALfA`@fCvAz@V\\AXFzE`AjB`@tEt@tBZv@Jb@A\\I`@[`@o@rAeElBoF\\aAh@h@"
+    },
+    "summary": "Geschwister-Scholl-Stra\u00dfe and Lenhartzstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58164439999999,
+        "lng": 9.9530023
+      },
+      "southwest": {
+        "lat": 53.57718939999999,
+        "lng": 9.9383163
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1282
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 244
+        },
+        "end_address": "Heu\u00dfweg / Wiesenstra\u00dfe, 20255 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5778431,
+          "lng": 9.9530023
+        },
+        "start_address": "H\u00f6genstra\u00dfe, 22525 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5808078,
+          "lng": 9.9385013
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.58096490000001,
+              "lng": 9.9383163
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Langenfelder Damm</b> toward <b>H\u00f6genstra\u00dfe</b>",
+            "polyline": {
+              "points": "a_`fIsbt{@]b@"
+            },
+            "start_location": {
+              "lat": 53.5808078,
+              "lng": 9.9385013
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "91 m",
+              "value": 91
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.58164439999999,
+              "lng": 9.938841799999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>H\u00f6genstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_``fIoat{@Qo@IWEEGIICo@Gc@C"
+            },
+            "start_location": {
+              "lat": 53.58096490000001,
+              "lng": 9.9383163
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 556
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.58060829999999,
+              "lng": 9.947081299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hartwig-Hesse-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gd`fIwdt{@hB}XlA_STqD"
+            },
+            "start_location": {
+              "lat": 53.58164439999999,
+              "lng": 9.938841799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 504
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 107
+            },
+            "end_location": {
+              "lat": 53.5772483,
+              "lng": 9.9520038
+            },
+            "html_instructions": "Continue onto <b>Stellinger Weg</b>",
+            "polyline": {
+              "points": "y}_fIgxu{@Fc@Zu@~@_Bf@y@f@aAd@}@`AmBz@gBn@qABIBCXi@P]JSTc@J[~@c@r@_@XWHIDEBCDEDGFS"
+            },
+            "start_location": {
+              "lat": 53.58060829999999,
+              "lng": 9.947081299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 110
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5778431,
+              "lng": 9.9530023
+            },
+            "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Heu\u00dfweg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "yh_fI_wv{@@?@@@??A@?@??A?A@??A?A?A?A?A?A?A?A?AA??AA??AA?A?A?A@?@A??@Y_@GEQWEKMYGKO]Se@"
+            },
+            "start_location": {
+              "lat": 53.5772483,
+              "lng": 9.9520038
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "a_`fIsbt{@]b@Qo@O]QMsAKvD}l@\\uEZu@~@_BnA{BrEeJr@uA`@w@J[~@c@r@_@XWNOHIL[@?@@BABEAOGCCDa@e@Wc@y@iB"
+    },
+    "summary": "Hartwig-Hesse-Stra\u00dfe and Stellinger Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.580146,
+        "lng": 9.9520903
+      },
+      "southwest": {
+        "lat": 53.576037,
+        "lng": 9.9458421
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 689
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 147
+        },
+        "end_address": "Methfesselstra\u00dfe / Luruper Weg, 20257 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.580146,
+          "lng": 9.946589699999999
+        },
+        "start_address": "Osterstra\u00dfe 121, 20255 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.576037,
+          "lng": 9.9520903
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 592
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 121
+            },
+            "end_location": {
+              "lat": 53.5794234,
+              "lng": 9.9458554
+            },
+            "html_instructions": "Head <b>west</b> on <b>Osterstra\u00dfe</b> toward <b>Heu\u00dfweg</b>",
+            "polyline": {
+              "points": "ga_fIqwv{@GjACZIhAEn@Er@G~@CXCTGh@ETEVI`@Qv@Oj@[r@]p@EHEHa@f@YXUT[XQReC~BkAhAOJoApASTKNGHA@KTCH"
+            },
+            "start_location": {
+              "lat": 53.576037,
+              "lng": 9.9520903
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 97
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.580146,
+              "lng": 9.946589699999999
+            },
+            "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>Methfesselstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "kv_fIspu{@A?AAA?A?A?A??@A??@A??@UUU[WYGIIK]c@MO"
+            },
+            "start_location": {
+              "lat": 53.5794234,
+              "lng": 9.9458554
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ga_fIqwv{@[`FUbD]xBa@bBy@dBKR{@`Aq@n@wCrC{AtAcBfBa@p@EHCAC?EB?@k@q@uAcB"
+    },
+    "summary": "Osterstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

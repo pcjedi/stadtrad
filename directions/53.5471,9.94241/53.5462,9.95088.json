@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5470674,
+        "lng": 9.9508909
+      },
+      "southwest": {
+        "lat": 53.5460928,
+        "lng": 9.9421777
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 683
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 163
+        },
+        "end_address": "Fischmarkt / Breite Stra\u00dfe, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5461652,
+          "lng": 9.9508909
+        },
+        "start_address": "S K\u00f6nigstra\u00dfe / Struenseestra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5470674,
+          "lng": 9.9421777
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 111
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.54612359999999,
+              "lng": 9.9425825
+            },
+            "html_instructions": "Head <b>south</b> on <b>Behnstra\u00dfe</b> toward <b>Struenseestra\u00dfe</b>",
+            "polyline": {
+              "points": "elyeIsyt{@`@MVEp@Of@GH?FCDABELW"
+            },
+            "start_location": {
+              "lat": 53.5470674,
+              "lng": 9.9421777
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 163
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 95
+            },
+            "end_location": {
+              "lat": 53.5461305,
+              "lng": 9.945054899999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Palmaille</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gfyeIc|t{@?}B@wD?AAy@?QAgA?a@"
+            },
+            "start_location": {
+              "lat": 53.54612359999999,
+              "lng": 9.9425825
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 362
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5463181,
+              "lng": 9.950519199999999
+            },
+            "html_instructions": "Continue onto <b>Breite Str.</b>",
+            "polyline": {
+              "points": "ifyeIqku{@?SAu@Aa@?e@Aa@@]?_@@m@?c@?c@?O?K?U@UAc@?a@?mAAg@Ao@As@Ao@Cs@EmAAMAe@AMAMA_@A]C[AY"
+            },
+            "start_location": {
+              "lat": 53.5461305,
+              "lng": 9.945054899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5460928,
+              "lng": 9.950574099999999
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Fischmarkt</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ogyeIwmv{@l@I"
+            },
+            "start_location": {
+              "lat": 53.5463181,
+              "lng": 9.950519199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5461652,
+              "lng": 9.9508909
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fischmarkt</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "afyeIanv{@CQG]AIAE"
+            },
+            "start_location": {
+              "lat": 53.5460928,
+              "lng": 9.950574099999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "elyeIsyt{@x@SxAWPCHGLW?}B@yDCuDCqC@mC?uEEyEM_EGaBEy@AYl@IKo@CO"
+    },
+    "summary": "Breite Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

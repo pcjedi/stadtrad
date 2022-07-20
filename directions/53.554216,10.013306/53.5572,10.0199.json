@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5572045,
+        "lng": 10.0201962
+      },
+      "southwest": {
+        "lat": 53.5539901,
+        "lng": 10.0131997
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 613
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 159
+        },
+        "end_address": "U Lohm\u00fchlenstra\u00dfe / Steindamm, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5571758,
+          "lng": 10.0199453
+        },
+        "start_address": "Steindamm / Stralsunder Stra\u00dfe, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5541654,
+          "lng": 10.0131997
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "31 m",
+              "value": 31
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5539901,
+              "lng": 10.0135636
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Stralsunder Str.</b> toward <b>Steindamm</b>",
+            "polyline": {
+              "points": "qxzeIoub|@PUBMLc@"
+            },
+            "start_location": {
+              "lat": 53.5541654,
+              "lng": 10.0131997
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 557
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 124
+            },
+            "end_location": {
+              "lat": 53.5570609,
+              "lng": 10.0201962
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Steindamm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mwzeIwwb|@SS[g@]{@i@aBAAAGUq@a@mAg@{ACII[IYc@mAGU[}@CIy@}BUk@a@aAkBaGQg@Q]CECIGQEQM["
+            },
+            "start_location": {
+              "lat": 53.5539901,
+              "lng": 10.0135636
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5571758,
+              "lng": 10.0199453
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sj{eIgad|@OVKPBF"
+            },
+            "start_location": {
+              "lat": 53.5570609,
+              "lng": 10.0201962
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qxzeIoub|@Tc@Lc@SS[g@]{@k@cBaBcF{@mCaB{Ew@mB}BiHa@_ASm@[h@BF"
+    },
+    "summary": "Steindamm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5466369,
+        "lng": 10.0071354
+      },
+      "southwest": {
+        "lat": 53.54448009999999,
+        "lng": 10.0029255
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 498
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 82
+        },
+        "end_address": "Oberhafenquartier Nord / Oberhafenbr\u00fccke, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.54448009999999,
+          "lng": 10.0068846
+        },
+        "start_address": "Oberbaumbr\u00fccke / Ericusspitze, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5458414,
+          "lng": 10.0029255
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 118
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5466369,
+              "lng": 10.0040961
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Oberbaumbr\u00fccke</b> toward <b>Ericuspromenade</b>",
+            "polyline": {
+              "points": "odyeIiu`|@SW[e@IMIMYi@aAeB"
+            },
+            "start_location": {
+              "lat": 53.5458414,
+              "lng": 10.0029255
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 225
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5458132,
+              "lng": 10.0071354
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oiyeIs|`|@R_APg@z@{DJi@DQPu@Pk@?EJuAC_@@A?A?AB["
+            },
+            "start_location": {
+              "lat": 53.5466369,
+              "lng": 10.0040961
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5446179,
+              "lng": 10.0067063
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Oberhafenbr\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "idyeIsoa|@FBbCn@`B`@"
+            },
+            "start_location": {
+              "lat": 53.5458132,
+              "lng": 10.0071354
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.54448009999999,
+              "lng": 10.0068846
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Stockmeyerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{|xeI}la|@HMPS"
+            },
+            "start_location": {
+              "lat": 53.5446179,
+              "lng": 10.0067063
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "odyeIiu`|@cAyA{AoCd@gBfAeFVgAPq@JuAC_@@C?AB[FBdFpAZa@"
+    },
+    "summary": "Oberhafenbr\u00fccke",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

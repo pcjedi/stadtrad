@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5681105,
+        "lng": 9.9707136
+      },
+      "southwest": {
+        "lat": 53.5588828,
+        "lng": 9.9637698
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1287
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 342
+        },
+        "end_address": "Neuer Pferdemarkt / Beim Gr\u00fcnen J\u00e4ger, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5588828,
+          "lng": 9.9637698
+        },
+        "start_address": "U Schlump / Gustav-Falke-Stra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5681105,
+          "lng": 9.9696088
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "57 m",
+              "value": 57
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5680906,
+              "lng": 9.9704783
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Gustav-Falke-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "uo}eIaez{@@s@@qB?G"
+            },
+            "start_location": {
+              "lat": 53.5681105,
+              "lng": 9.9696088
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5677706,
+              "lng": 9.9707136
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gustav-Falke-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qo}eIojz{@@?BABCDEDC@Af@["
+            },
+            "start_location": {
+              "lat": 53.5680906,
+              "lng": 9.9704783
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "58 m",
+              "value": 58
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5675295,
+              "lng": 9.9699435
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Beim Schlump</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qm}eI}kz{@Lj@Jh@DVNj@"
+            },
+            "start_location": {
+              "lat": 53.5677706,
+              "lng": 9.9707136
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 363
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 104
+            },
+            "end_location": {
+              "lat": 53.5654714,
+              "lng": 9.965710099999999
+            },
+            "html_instructions": "Continue onto <b>Kleiner Sch\u00e4ferkamp</b>",
+            "polyline": {
+              "points": "al}eIcgz{@HXFZFPDNPd@NVHTHRFTDLHR^~@hCtGZj@P`@?F?B?BP`@HV@Bj@lAJT"
+            },
+            "start_location": {
+              "lat": 53.5675295,
+              "lng": 9.9699435
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 737
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 156
+            },
+            "end_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schanzenstra\u00dfe</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e_}eIuly{@PEXBVBpAJd@H@@f@Hd@J|APJ?RAb@CTAb@Gh@YLIj@Q`@O?@@?@@@?@?@?@?@??A@??A@??A@??A?A@??AFCBC@CNA@?D@D@@?D@FBB@BBLFr@Zp@XpAh@B@t@Zb@XFBd@XZRjAz@XTJLb@ZFDNHNH"
+            },
+            "start_location": {
+              "lat": 53.5654714,
+              "lng": 9.965710099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5588828,
+              "lng": 9.9637698
+            },
+            "html_instructions": "Slight <b>right</b> at <b>Schulterblatt</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "qw{eIgby{@X^BDBDNH"
+            },
+            "start_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "uo}eIaez{@BeD@GROh@]XtAf@xBL`@`@|@`@lAh@rAhCtGZj@P`@?F?FhAjCJTPEp@FxBVlAThBPv@Ex@Iv@c@lAa@@@@@B?B?FGLK@CNAF@TFhAh@|D`BlBjAdBpAJLb@ZVNNHX^FJNH"
+    },
+    "summary": "Kleiner Sch\u00e4ferkamp and Schanzenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

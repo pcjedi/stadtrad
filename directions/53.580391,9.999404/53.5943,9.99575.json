@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5943171,
+        "lng": 9.9995614
+      },
+      "southwest": {
+        "lat": 53.5804956,
+        "lng": 9.994148599999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1806
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 383
+        },
+        "end_address": "U Hudtwalckerstra\u00dfe / Bebelallee, 22299 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5943171,
+          "lng": 9.995889
+        },
+        "start_address": "Leinpfad/Fernsicht, 22301 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5804956,
+          "lng": 9.9995614
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.6 km",
+              "value": 1625
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 298
+            },
+            "end_location": {
+              "lat": 53.5932828,
+              "lng": 9.994148599999999
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Leinpfad</b> toward <b>M\u00f6venstra\u00dfe</b>",
+            "polyline": {
+              "points": "c}_fIg``|@Wn@kAnCiAlC{@dBu@nBm@rA[j@ORKJYJ[FC@WDm@F_A?w@CYA]?A?g@G_@ISGQGq@YgAc@SIWKk@WgBs@KE}B_ASI{@[SGCCa@OaA_@UGWE]CqB?gA@oC?W?i@Dg@FG?g@L_@Pa@V]V[X]`@o@x@y@fA}@tAS^Wh@aAlBUb@S`@{@`B"
+            },
+            "start_location": {
+              "lat": 53.5804956,
+              "lng": 9.9995614
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.593998,
+              "lng": 9.9959911
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hudtwalckerstra\u00dfe</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_mbfIm~~{@YeAa@sAEK[kACG]uAO_@"
+            },
+            "start_location": {
+              "lat": 53.5932828,
+              "lng": 9.994148599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5943171,
+              "lng": 9.995889
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oqbfI}i_|@i@JUF"
+            },
+            "start_location": {
+              "lat": 53.593998,
+              "lng": 9.9959911
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "c}_fIg``|@cB~DiAlC{@dBcBbEk@~@KJYJ_@HeALwBCw@Ai@Gs@QcAa@_DqAeGcCuBw@wAg@u@IaJ@qALo@LaAh@y@p@mAzAwB|CcCzEoAbC{@yCcAuDO_@i@JUF"
+    },
+    "summary": "Leinpfad",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

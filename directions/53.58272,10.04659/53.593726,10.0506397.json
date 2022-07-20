@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5937989,
+        "lng": 10.0560204
+      },
+      "southwest": {
+        "lat": 53.5827975,
+        "lng": 10.0465235
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1612
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 392
+        },
+        "end_address": "U Habichtstra\u00dfe / Steilshooper Stra\u00dfe, 22307 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5937989,
+          "lng": 10.0507402
+        },
+        "start_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Pfenningsbusch</b> toward <b>Bramfelder Str.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ok`fI}fi|@Ud@"
+            },
+            "start_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1159
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 268
+            },
+            "end_location": {
+              "lat": 53.5914622,
+              "lng": 10.0560204
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bramfelder Br\u00fccke</b>/<wbr/><b>Bramfelder Str.</b><div style=\"font-size:0.9em\">Continue to follow Bramfelder Str.</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "el`fIwei|@OW_@c@MKOIg@_@YQ_@Ui@_@IGSQY]QUEGQ]Q[MUOYGOc@gAsAeDGMGOEGGMa@w@Yi@OQ]c@GGg@m@QSs@q@QQy@w@_A{@y@q@SQQOUOQMYMQKc@Uc@UMIO@mAw@_BcAeAs@QMKICAKKIKc@c@u@wAIKQ]IMa@mA{@eBS["
+            },
+            "start_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 435
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 108
+            },
+            "end_location": {
+              "lat": 53.5937989,
+              "lng": 10.0507402
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Habichtstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sabfIcak|@O`@Ut@a@pAg@|Am@fBEHCNw@|Bg@`B_BnEg@vAYt@Qf@Wn@"
+            },
+            "start_location": {
+              "lat": 53.5914622,
+              "lng": 10.0560204
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ok`fI}fi|@Ud@OWm@o@qBqAs@g@m@o@{@wAiAgCiBkEi@eAi@{@_BmB_EwDuBcBaB}@q@_@O@eG}De@c@c@c@u@wA[i@k@{AoAaCoBfGoB~FiE~Li@vA"
+    },
+    "summary": "Bramfelder Str. and Habichtstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

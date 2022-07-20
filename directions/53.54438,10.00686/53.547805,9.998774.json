@@ -1,0 +1,311 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.547897,
+        "lng": 10.0078714
+      },
+      "southwest": {
+        "lat": 53.54448009999999,
+        "lng": 9.9987943
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1040
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 237
+        },
+        "end_address": "U Me\u00dfberg / Willy-Brandt-Stra\u00dfe, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5476766,
+          "lng": 9.9987943
+        },
+        "start_address": "Oberhafenquartier Nord / Oberhafenbr\u00fccke, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54448009999999,
+          "lng": 10.0068846
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5446179,
+              "lng": 10.0067063
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Stockmeyerstra\u00dfe</b> toward <b>Oberhafenbr\u00fccke</b>",
+            "polyline": {
+              "points": "_|xeI_na|@QRIL"
+            },
+            "start_location": {
+              "lat": 53.54448009999999,
+              "lng": 10.0068846
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5458132,
+              "lng": 10.0071354
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Oberhafenbr\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{|xeI}la|@aBa@cCo@GC"
+            },
+            "start_location": {
+              "lat": 53.5446179,
+              "lng": 10.0067063
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.54576220000001,
+              "lng": 10.0074171
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Altl\u00e4nder Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "idyeIsoa|@Be@DQ"
+            },
+            "start_location": {
+              "lat": 53.5458132,
+              "lng": 10.0071354
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "57 m",
+              "value": 57
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5461891,
+              "lng": 10.0078714
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Oberhafenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_dyeIkqa|@KQEIEE}@w@"
+            },
+            "start_location": {
+              "lat": 53.54576220000001,
+              "lng": 10.0074171
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5464153,
+              "lng": 10.0071277
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Banksstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ufyeIeta|@Kf@Ot@Qt@"
+            },
+            "start_location": {
+              "lat": 53.5461891,
+              "lng": 10.0078714
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5458412,
+              "lng": 10.0069737
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Altl\u00e4nder Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "chyeIqoa|@PD|AX@?@?"
+            },
+            "start_location": {
+              "lat": 53.5464153,
+              "lng": 10.0071277
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 380
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 94
+            },
+            "end_location": {
+              "lat": 53.5471549,
+              "lng": 10.0017841
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "odyeIqna|@B^KtA?DQj@Qt@EPKh@{@zDQf@S~@qA`HWjA?NBpA"
+            },
+            "start_location": {
+              "lat": 53.5458412,
+              "lng": 10.0069737
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 100
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5478897,
+              "lng": 10.0017548
+            },
+            "html_instructions": "Take the pedestrian tunnel",
+            "polyline": {
+              "points": "ulyeIcn`|@iBDAk@?AA?A@ABGDINGHGF"
+            },
+            "start_location": {
+              "lat": 53.5471549,
+              "lng": 10.0017841
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "31 m",
+              "value": 31
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.547897,
+              "lng": 10.0012828
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Pumpen</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "iqyeI}m`|@@V?P?PC`@"
+            },
+            "start_location": {
+              "lat": 53.5478897,
+              "lng": 10.0017548
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.54766619999999,
+              "lng": 10.0008352
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Me\u00dfberg</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "kqyeI_k`|@@TBPBFBHDFFFFFHD"
+            },
+            "start_location": {
+              "lat": 53.547897,
+              "lng": 10.0012828
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 135
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5476766,
+              "lng": 9.9987943
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Willy-Brandt-Stra\u00dfe</b>/<wbr/><b>B4</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}oyeIgh`|@?`@Ah@Ad@?d@An@?VAP?d@@d@@r@@f@"
+            },
+            "start_location": {
+              "lat": 53.54766619999999,
+              "lng": 10.0008352
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_|xeI_na|@[`@eFqAGCBe@DQKQKO}@w@Kf@a@jBnB^@?D^KzAc@`BQz@{@zDQf@eB`JWjA?NBpAiBDAm@EDa@f@@h@Cr@Df@FP^\\GvGD`C"
+    },
+    "summary": "Oberhafenbr\u00fccke",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5778071,
+        "lng": 9.963061699999999
+      },
+      "southwest": {
+        "lat": 53.5714105,
+        "lng": 9.953128399999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1124
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 236
+        },
+        "end_address": "U Emilienstra\u00dfe / Fruchtallee, 20259 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5716654,
+          "lng": 9.953128399999999
+        },
+        "start_address": "Goebenstra\u00dfe / Eppendorfer Weg, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5775784,
+          "lng": 9.963061699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5778071,
+              "lng": 9.9620795
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Goebenstra\u00dfe</b> toward <b>Im Geh\u00f6lz</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "{j_fIc|x{@ABa@`CI|@"
+            },
+            "start_location": {
+              "lat": 53.5775784,
+              "lng": 9.963061699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 789
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 173
+            },
+            "end_location": {
+              "lat": 53.57142,
+              "lng": 9.9570401
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Im Geh\u00f6lz</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "il_fI_vx{@d@b@ZVNLZRlAz@FHDFPJLFf@TZRFDJH^Z\\`@b@n@NTNTZd@B@XXl@Zd@VXRTNXJVJJFL?H?VLLHn@^x@b@~BlBn@d@PNtA~@RN^Xv@h@HFFD"
+            },
+            "start_location": {
+              "lat": 53.5778071,
+              "lng": 9.9620795
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "57 m",
+              "value": 57
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5715545,
+              "lng": 9.9562087
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kd~eIovw{@OtAG|@AP"
+            },
+            "start_location": {
+              "lat": 53.57142,
+              "lng": 9.9570401
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 208
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5716654,
+              "lng": 9.953128399999999
+            },
+            "html_instructions": "Slight <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "ee~eIiqw{@HdBPrD]nD?@UzC"
+            },
+            "start_location": {
+              "lat": 53.5715545,
+              "lng": 9.9562087
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{j_fIc|x{@c@dCI|@d@b@j@d@hBnALP^RbAh@RN|@|@r@dAj@z@\\ZrAr@n@b@p@VJFL?H?VL|@h@x@b@~BlB`At@`ErCPLWrCAPHdBPrD]nDU|C"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

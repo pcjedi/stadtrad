@@ -1,0 +1,216 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.54152329999999,
+        "lng": 10.0071488
+      },
+      "southwest": {
+        "lat": 53.5402017,
+        "lng": 9.9963824
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1014
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 269
+        },
+        "end_address": "U HafenCity Universit\u00e4t / Versmannstra\u00dfe, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5407684,
+          "lng": 10.0061656
+        },
+        "start_address": "U \u00dcberseequartier / Grasbrookpark, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5402017,
+          "lng": 9.9964579
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "29 m",
+              "value": 29
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.540454,
+              "lng": 9.9963824
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Am Grasbrookpark</b>",
+            "polyline": {
+              "points": "gaxeI{l_|@MHS@OB"
+            },
+            "start_location": {
+              "lat": 53.5402017,
+              "lng": 9.9964579
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.54050179999999,
+              "lng": 9.9972139
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Am Grasbrookpark</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ybxeIkl_|@IeD"
+            },
+            "start_location": {
+              "lat": 53.540454,
+              "lng": 9.9963824
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 122
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.54152329999999,
+              "lng": 9.9965788
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>San-Francisco-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ccxeIqq_|@mAt@]VGAA?uAp@"
+            },
+            "start_location": {
+              "lat": 53.54050179999999,
+              "lng": 9.9972139
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 700
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 151
+            },
+            "end_location": {
+              "lat": 53.54056240000001,
+              "lng": 10.0070389
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>\u00dcberseeallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oixeIsm_|@PoDJoBb@{GDk@Ba@Bi@@S^iH?CDu@Bm@J}B@g@LqD@_@BWFeBBy@Bs@DaC@u@HuD"
+            },
+            "start_location": {
+              "lat": 53.54152329999999,
+              "lng": 9.9965788
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5404126,
+              "lng": 10.0071488
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Grandeswerderstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ocxeI_oa|@\\U"
+            },
+            "start_location": {
+              "lat": 53.54056240000001,
+              "lng": 10.0070389
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5407202,
+              "lng": 10.0069745
+            },
+            "html_instructions": "Make a <b>U-turn</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "qbxeIuoa|@]T_@L"
+            },
+            "start_location": {
+              "lat": 53.5404126,
+              "lng": 10.0071488
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "54 m",
+              "value": 54
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5407684,
+              "lng": 10.0061656
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>\u00dcberseeallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "odxeIqna|@Cb@C`BAX"
+            },
+            "start_location": {
+              "lat": 53.5407202,
+              "lng": 10.0069745
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gaxeI{l_|@MHS@OBIeDkBlAIAuAp@PoDn@kKNkCh@qK\\wJRkFFwDHuD\\U]T_@LGdCAX"
+    },
+    "summary": "\u00dcberseeallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

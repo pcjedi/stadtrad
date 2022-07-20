@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6013455,
+        "lng": 10.0703664
+      },
+      "southwest": {
+        "lat": 53.5968128,
+        "lng": 10.0625012
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 871
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 227
+        },
+        "end_address": "Hellbrookkamp / Novomind AG, 22177 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5970575,
+          "lng": 10.0625012
+        },
+        "start_address": "Werner-Otto-Stra\u00dfe / OTTO Group, 22179 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.60042259999999,
+          "lng": 10.0703664
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Werner-Otto-Stra\u00dfe</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "polyline": {
+              "points": "sycfIyzm|@JpD"
+            },
+            "start_location": {
+              "lat": 53.60042259999999,
+              "lng": 10.0703664
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 124
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.6013455,
+              "lng": 10.0687011
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Werner-Otto-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gycfIgum|@u@h@U@C@a@Va@Ve@ZK`@"
+            },
+            "start_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 612
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 158
+            },
+            "end_location": {
+              "lat": 53.5968128,
+              "lng": 10.0635552
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bramfelder Ch</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "m_dfIkpm|@PNfAj@f@^RLNDNNbA~@|BzBt@z@\\^PP`@d@?@RVzAzBTZVd@p@hA`@p@`AbBDFpArB"
+            },
+            "start_location": {
+              "lat": 53.6013455,
+              "lng": 10.0687011
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5969186,
+              "lng": 10.0633039
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hellbrookkamp</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "accfIgpl|@Ur@"
+            },
+            "start_location": {
+              "lat": 53.5968128,
+              "lng": 10.0635552
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5970575,
+              "lng": 10.0625012
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Hellbrookkamp</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "wccfIsnl|@AHENGXABAFA\\E`A"
+            },
+            "start_location": {
+              "lat": 53.5969186,
+              "lng": 10.0633039
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sycfIyzm|@JpDu@h@YBcAn@e@ZK`@PNfAj@z@l@NDNN`EzDfCrCdCpDlDdGvAzBW|@Qt@G~A"
+    },
+    "summary": "Bramfelder Ch",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

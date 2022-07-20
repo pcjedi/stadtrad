@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6487811,
+        "lng": 10.0162479
+      },
+      "southwest": {
+        "lat": 53.6343302,
+        "lng": 10.0060586
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1919
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 407
+        },
+        "end_address": "Flughafenstr., 22335 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6343302,
+          "lng": 10.0060586
+        },
+        "start_address": "U Langenhorn Markt / Tangstedter Landstra\u00dfe, 22415 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6487811,
+          "lng": 10.0162479
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 391
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.6461696,
+              "lng": 10.0124694
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Tangstedter Landstra\u00dfe</b> toward <b>Tannenweg</b>",
+            "polyline": {
+              "points": "{gmfIqhc|@D@B@BBrDfDd@f@RRNFRZLTRb@p@lB~@`Cr@fB@BVt@FV"
+            },
+            "start_location": {
+              "lat": 53.6487811,
+              "lng": 10.0162479
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 715
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 189
+            },
+            "end_location": {
+              "lat": 53.63985899999999,
+              "lng": 10.013147
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Langenhorner Chaussee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qwlfI}pb|@^Y^Sx@WhAS|@MNCt@Mb@@N?lE^TANCD@|BTdBVtAPF@D?b@B\\?RCDAVGd@Qp@a@TOB?VOL?FAZM"
+            },
+            "start_location": {
+              "lat": 53.6461696,
+              "lng": 10.0124694
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 813
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 162
+            },
+            "end_location": {
+              "lat": 53.6343302,
+              "lng": 10.0060586
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Flughafenstr.</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cpkfIeub|@^bB`@|ADTTz@H\\@BFNTt@Pf@DNHX@@FRFRPb@Rb@PVTXBBFHJNHLHF@BJNJJJLDFLNDFJLDHDBJPTXDFDDRVRXPVFLPXXf@HNHNNTLVDHNTJRb@n@Zd@BDNRVVXPTLJNNFJD?B@@?@?@@@?@@@?@@??@@@@?B@B@@AB?BC@A@C@C@C@ENATAPAPHPDLBLDLDJJ`@ZTP\\H"
+            },
+            "start_location": {
+              "lat": 53.63985899999999,
+              "lng": 10.013147
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{gmfIqhc|@HBvDjDx@z@NFRZ`@x@pBnFt@jB^lA~@m@x@WhASlAQt@Mb@@|E^d@EbCVzDh@nADXE|@YbBaATAZM^bBf@rB^xAp@pBX~@Xv@d@z@l@v@`@h@hAtAl@x@`AvArBnDnAnBf@j@n@^JNNFJHBFDHJ@JIBG@ENAf@Cb@Nh@Nl@f@TP\\H"
+    },
+    "summary": "Langenhorner Chaussee and Flughafenstr.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

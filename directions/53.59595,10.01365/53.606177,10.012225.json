@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6078104,
+        "lng": 10.0146765
+      },
+      "southwest": {
+        "lat": 53.5959318,
+        "lng": 10.0117192
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1557
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 342
+        },
+        "end_address": "U Alsterdorf / Hindenburgstra\u00dfe, 22297 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.60618299999999,
+          "lng": 10.0122895
+        },
+        "start_address": "Stadtpark (Planetarium), 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5959318,
+          "lng": 10.0137213
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 471
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.59997019999999,
+              "lng": 10.0137261
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Otto-Wels-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "q}bfIwxb|@IECCe@]w@i@aAo@QMGCSMMGYMKCYCG?QBI@I@MDWLq@\\WLa@ToAr@o@VSBEACAE?G?C?C@I@kBJSB"
+            },
+            "start_location": {
+              "lat": 53.5959318,
+              "lng": 10.0137213
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 908
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 199
+            },
+            "end_location": {
+              "lat": 53.60773510000001,
+              "lng": 10.0117192
+            },
+            "html_instructions": "Continue onto <b>Hindenburgstra\u00dfe</b>",
+            "polyline": {
+              "points": "yvcfIyxb|@E@aAH[FkDh@uD`@uI|@y@JqAHs@HQ@m@Bm@FcDZYDoAL]DgBRc@JMLADCBADCDAFAD?B?B?B?F?@?D@D@F@DFL"
+            },
+            "start_location": {
+              "lat": 53.59997019999999,
+              "lng": 10.0137261
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 178
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.60618299999999,
+              "lng": 10.0122895
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Hindenburgstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kgefIglb|@`AKVEFCRMr@e@FCRGRCRCJC|@O"
+            },
+            "start_location": {
+              "lat": 53.60773510000001,
+              "lng": 10.0117192
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "q}bfIwxb|@kBqAoBoAg@Ue@Gm@FoB~@qBhAo@VSBICM?}BNYDaAH[FkDh@uD`@oKhAeCR_AD{Hv@eCXc@JMLEHEJCT?RL`@xAQZQz@i@f@K|AW"
+    },
+    "summary": "Otto-Wels-Stra\u00dfe and Hindenburgstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

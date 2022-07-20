@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.497924,
+        "lng": 10.0081211
+      },
+      "southwest": {
+        "lat": 53.49709989999999,
+        "lng": 10.0038526
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 508
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 116
+        },
+        "end_address": "S Wilhelmsburg / Wilhelm-Strau\u00df-Weg, 21109 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.497924,
+          "lng": 10.0071144
+        },
+        "start_address": "Neuenfelder Stra\u00dfe / Kurt-Emmerich-Platz, 21109 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4972189,
+          "lng": 10.0038526
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 209
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.49775959999999,
+              "lng": 10.0067923
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Kurt-Emmerich-Platz</b> toward <b>Neuenfelder Str.</b>",
+            "polyline": {
+              "points": "stoeIa{`|@G]MWM[Gg@Ky@Gg@COGg@Ii@?I?E?{@?m@AI?COu@AAAG?i@?C?E?I?G"
+            },
+            "start_location": {
+              "lat": 53.4972189,
+              "lng": 10.0038526
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "88 m",
+              "value": 88
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.49772669999999,
+              "lng": 10.0081211
+            },
+            "html_instructions": "Continue onto <b>Bahnhofspassage</b>",
+            "polyline": {
+              "points": "_xoeImma|@?]AO?k@@_@@k@?QB{@?U"
+            },
+            "start_location": {
+              "lat": 53.49775959999999,
+              "lng": 10.0067923
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.49755709999999,
+              "lng": 10.0076048
+            },
+            "html_instructions": "Sharp <b>right</b> to stay on <b>Bahnhofspassage</b>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "ywoeIwua|@JPDJF^Fh@"
+            },
+            "start_location": {
+              "lat": 53.49772669999999,
+              "lng": 10.0081211
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "52 m",
+              "value": 52
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.49709989999999,
+              "lng": 10.0075824
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wilhelm-Strau\u00df-Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wvoeIora|@BEBAv@DF@RB"
+            },
+            "start_location": {
+              "lat": 53.49755709999999,
+              "lng": 10.0076048
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 119
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.497924,
+              "lng": 10.0071144
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Wilhelm-Strau\u00df-Weg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{soeIkra|@Cb@ALCRCNAHEFEDGDG@QBe@I[Ic@G"
+            },
+            "start_location": {
+              "lat": 53.49709989999999,
+              "lng": 10.0075824
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "stoeIa{`|@G]MWM[Gg@SaBKw@Is@?aAAw@Oy@Cw@?u@@gCBmA?UJPLj@Fh@BEz@BZDMtAGPMJYDaASc@G"
+    },
+    "summary": "Wilhelm-Strau\u00df-Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

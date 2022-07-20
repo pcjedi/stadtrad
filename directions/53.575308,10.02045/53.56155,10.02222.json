@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5751648,
+        "lng": 10.0269784
+      },
+      "southwest": {
+        "lat": 53.5615573,
+        "lng": 10.0205632
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1746
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 398
+        },
+        "end_address": "Alsterschwimmhalle / Ifflandstra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5615573,
+          "lng": 10.0221042
+        },
+        "start_address": "Winterhuder Weg / Zimmerstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5750903,
+          "lng": 10.0205632
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5751648,
+              "lng": 10.0211868
+            },
+            "html_instructions": "Head <b>east</b> on <b>Zimmerstra\u00dfe</b> toward <b>Winterhuder Weg</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "i{~eIocd|@M}B"
+            },
+            "start_location": {
+              "lat": 53.5750903,
+              "lng": 10.0205632
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 780
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 174
+            },
+            "end_location": {
+              "lat": 53.5692551,
+              "lng": 10.0267129
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Winterhuder Weg</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w{~eImgd|@jA_BBIDKd@o@^e@j@o@NSV[`AoAn@w@|@iAPULMh@s@FIRYBAl@w@b@i@^i@x@cAxAeBLQTWj@u@FCFCHMx@aA@ADGFEFCFCFALAH?L@N@NDZHrA\\HB"
+            },
+            "start_location": {
+              "lat": 53.5751648,
+              "lng": 10.0211868
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 396
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 79
+            },
+            "end_location": {
+              "lat": 53.5659152,
+              "lng": 10.0247051
+            },
+            "html_instructions": "Keep <b>right</b> to continue on <b>Sch\u00fcrbeker Str.</b>",
+            "maneuver": "keep-right",
+            "polyline": {
+              "points": "{v}eI}ie|@l@LLBRDJB@?NDLDLDLHj@TPPLHLLPJLHTNb@TPH`@R`@PLFNJVV^Z@?p@`@`Af@XLRJ"
+            },
+            "start_location": {
+              "lat": 53.5692551,
+              "lng": 10.0267129
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 211
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 68
+            },
+            "end_location": {
+              "lat": 53.5640765,
+              "lng": 10.0242868
+            },
+            "html_instructions": "Continue onto <b>Kuhm\u00fchle</b>",
+            "polyline": {
+              "points": "_b}eIm}d|@VJVHn@RRFF@\\J^JZHJBFLLBD?H@L?V?NCFCB?TING"
+            },
+            "start_location": {
+              "lat": 53.5659152,
+              "lng": 10.0247051
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 317
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.5615573,
+              "lng": 10.0221042
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ifflandstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ov|eIyzd|@L\\RPRPd@b@NJ@@NJVRp@p@VTZZJHXTd@`@d@Xb@Xp@d@BBNLHFD@FBF@"
+            },
+            "start_location": {
+              "lat": 53.5640765,
+              "lng": 10.0242868
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i{~eIocd|@M}BjA_BHUdAuAz@cAfEmFpAaBhB}B`EeF`AmANGjAyA^OVA\\BhCp@zAZl@Px@^^ZbAr@xBdA\\Rv@r@r@`@zAt@j@VfA\\xA`@f@LFLLBN@d@?p@QNGL\\f@b@fA|@|BvBd@^jAz@hBpANHND"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5888815,
+        "lng": 9.9757576
+      },
+      "southwest": {
+        "lat": 53.5809088,
+        "lng": 9.9668671
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1474
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 329
+        },
+        "end_address": "Martinistra\u00dfe / Haupteingang Klinikum, 20251 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5888815,
+          "lng": 9.9757576
+        },
+        "start_address": "Eppendorfer Weg / Hoheluftchaussee, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5816917,
+          "lng": 9.9713212
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 146
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5809088,
+              "lng": 9.969547799999999
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Eppendorfer Weg</b> toward <b>Moltkestra\u00dfe</b>",
+            "polyline": {
+              "points": "qd`fIwoz{@?@z@fC~AvE"
+            },
+            "start_location": {
+              "lat": 53.5816917,
+              "lng": 9.9713212
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 260
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.58261719999999,
+              "lng": 9.9668671
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wrangelstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "u_`fIudz{@o@jAKPoBdDi@`AUd@Wb@o@fAQ`@O\\"
+            },
+            "start_location": {
+              "lat": 53.5809088,
+              "lng": 9.969547799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 264
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 87
+            },
+            "end_location": {
+              "lat": 53.5840437,
+              "lng": 9.9697777
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>G\u00e4rtnerstra\u00dfe</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kj`fI}sy{@aAw@k@a@GUIKGIQUKOS[M[KWCIGQESEMCKE[Gk@Ec@M}AEUC_@"
+            },
+            "start_location": {
+              "lat": 53.58261719999999,
+              "lng": 9.9668671
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 246
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.5861512,
+              "lng": 9.9686839
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hoheluftchaussee</b>/<wbr/><b>B447</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gs`fIcfz{@WTUR[POHQLWNSJ]PWHYH]J{@Vm@Lu@R"
+            },
+            "start_location": {
+              "lat": 53.5840437,
+              "lng": 9.9697777
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 558
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.5888815,
+              "lng": 9.9757576
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Martinistra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m`afIg_z{@K[K[IWEMK_@EOI[a@aBG[KQAAm@yBMc@Qo@o@}BG]c@cBWo@EMWaA_@sAACYcAe@aBeAuDMa@EOIW"
+            },
+            "start_location": {
+              "lat": 53.5861512,
+              "lng": 9.9686839
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qd`fIwoz{@z@hC~AvEo@jA{BvD_AfBgAjBa@~@mByAQa@Y_@_@k@e@oAUiAa@cEC_@WTq@d@mAr@u@Zw@TiBd@u@RK[Us@Qm@y@iDMS{@}CaAmDk@aC]}@w@uCgC_J]iA"
+    },
+    "summary": "Martinistra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

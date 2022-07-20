@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58638999999999,
+        "lng": 10.1265696
+      },
+      "southwest": {
+        "lat": 53.5777006,
+        "lng": 10.1178705
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1276
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 261
+        },
+        "end_address": "Kuehnstra\u00dfe / Albert-Schweitzer-Ring, 22045 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57781809999999,
+          "lng": 10.1178705
+        },
+        "start_address": "Tonndorfer Hauptstra\u00dfe / Sonnenweg, 22045 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58638999999999,
+          "lng": 10.1247505
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.58611810000001,
+              "lng": 10.1247992
+            },
+            "html_instructions": "Head <b>south</b> on <b>Sonnenweg</b> toward <b>Tonndorfer Hauptstra\u00dfe</b>",
+            "polyline": {
+              "points": "}aafIunx|@@?LAd@G"
+            },
+            "start_location": {
+              "lat": 53.58638999999999,
+              "lng": 10.1247505
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 456
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5821841,
+              "lng": 10.1265696
+            },
+            "html_instructions": "Continue onto <b>Jenfelder Allee</b>",
+            "polyline": {
+              "points": "g`afI_ox|@lBMPEB?PGPEXI~@_@HEhAg@f@[n@Yb@WHERKFE^Qd@Uj@YL@JBDA\\KRIf@Sn@Y"
+            },
+            "start_location": {
+              "lat": 53.58611810000001,
+              "lng": 10.1247992
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 776
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 143
+            },
+            "end_location": {
+              "lat": 53.5777006,
+              "lng": 10.1179625
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kuehnstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sg`fIazx|@rAfBJNRXj@r@\\b@f@t@h@h@HHDNJPp@|@^h@TLFHTXDHFFHJHJn@`AFLFJBDb@~@LXBFDLVx@Pf@Ld@Xv@?@T|@P`AFTr@vDZxAn@`D@BRjAJn@F`@"
+            },
+            "start_location": {
+              "lat": 53.5821841,
+              "lng": 10.1265696
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.57781809999999,
+              "lng": 10.1178705
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Albert-Schweitzer-Ring</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sk_fIgdw|@WP"
+            },
+            "start_location": {
+              "lat": 53.5777006,
+              "lng": 10.1179625
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}aafIunx|@bDWx@SxAi@rAm@vAu@l@]`By@j@YL@P@hCcA~CdEdAxAr@r@DNJPpAfB\\VZb@PRx@lAv@~An@hBx@fCf@~Bz@lE`BjIRpAWP"
+    },
+    "summary": "Jenfelder Allee and Kuehnstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

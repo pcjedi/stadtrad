@@ -1,0 +1,142 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5847281,
+        "lng": 10.0467149
+      },
+      "southwest": {
+        "lat": 53.5827975,
+        "lng": 10.0336783
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 933
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 268
+        },
+        "end_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "start_address": "Schleidenstra\u00dfe / Osterbekstra\u00dfe, 22083 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5845753,
+          "lng": 10.0336783
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "6 m",
+              "value": 6
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Osterbekstra\u00dfe</b> toward <b>Saarlandstra\u00dfe</b>/<wbr/><b>Schleidenbr\u00fccke</b>",
+            "polyline": {
+              "points": "sv`fIouf|@HM"
+            },
+            "start_location": {
+              "lat": 53.5845753,
+              "lng": 10.0336783
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 540
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 116
+            },
+            "end_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Osterbekstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "iv`fI}uf|@?sASoFAUC}@A}BAs@CyC?MAuD?UC_C?cC?aBBmCD{A@_@?GBg@"
+            },
+            "start_location": {
+              "lat": 53.5845338,
+              "lng": 10.0337453
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 369
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 107
+            },
+            "end_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "html_instructions": "Continue onto <b>Flachsland</b>",
+            "polyline": {
+              "points": "aw`fI{hh|@@]BYJk@BMH[x@yDr@_DNu@Li@l@iC@CHYHWBMFQFQ@CXg@^STUDK"
+            },
+            "start_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "html_instructions": "Continue onto <b>Pfenningsbusch</b>",
+            "polyline": {
+              "points": "el`fIwei|@Te@"
+            },
+            "start_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sv`fIouf|@HM?sAUeGKiKEyI?eFHiFFmBNeALi@jCyLbA_ETu@Xg@^SZa@Te@"
+    },
+    "summary": "Osterbekstra\u00dfe and Flachsland",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

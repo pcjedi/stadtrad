@@ -1,0 +1,190 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5849608,
+        "lng": 10.0839033
+      },
+      "southwest": {
+        "lat": 53.5716261,
+        "lng": 10.0686596
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.4 km",
+          "value": 2411
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 504
+        },
+        "end_address": "Friedrich-Ebert-Damm / Lomerstra\u00dfe, 22047 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5849608,
+          "lng": 10.0795328
+        },
+        "start_address": "Schlo\u00dfstra\u00dfe 40, 22041 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5716261,
+          "lng": 10.0686596
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 484
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 114
+            },
+            "end_location": {
+              "lat": 53.5721704,
+              "lng": 10.0757494
+            },
+            "html_instructions": "Head <b>east</b> on <b>Schlo\u00dfstra\u00dfe</b> toward <b>Am Alten Posthaus</b>",
+            "polyline": {
+              "points": "ue~eIcpm|@Es@Gg@B_@Es@AWASA]G_AEi@E_@CWM{AEe@CWCWGg@Gi@AEGc@ACKQC_@Ca@AMOiCGuA@g@Ba@B_@FyAFgAFeADg@"
+            },
+            "start_location": {
+              "lat": 53.5716261,
+              "lng": 10.0686596
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 653
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 125
+            },
+            "end_location": {
+              "lat": 53.57444340000001,
+              "lng": 10.0836723
+            },
+            "html_instructions": "Continue onto <b>Neumann-Reichardt-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "ai~eIm|n|@?U?OAACYKk@EMSi@IWIUEQEQGg@I}@GaCAI?KKiCGwBIaACUKgASsBEa@Ga@Im@e@gDG_@Km@OeAMkACS?CCOCMEMEIAAAACAICG?I?G@gBj@"
+            },
+            "start_location": {
+              "lat": 53.5721704,
+              "lng": 10.0757494
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 267
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5767614,
+              "lng": 10.0826515
+            },
+            "html_instructions": "Continue onto <b>Efftingestra\u00dfe</b>",
+            "polyline": {
+              "points": "gw~eI}mp|@{Ab@_Cr@_AXKBMFOHMFGFOJKAC?g@TSHWH"
+            },
+            "start_location": {
+              "lat": 53.57444340000001,
+              "lng": 10.0836723
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5767329,
+              "lng": 10.0825381
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wandsbeker Zollstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "we_fIqgp|@DT"
+            },
+            "start_location": {
+              "lat": 53.5767614,
+              "lng": 10.0826515
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 929
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 192
+            },
+            "end_location": {
+              "lat": 53.584733,
+              "lng": 10.0785378
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holzm\u00fchlenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qe_fI{fp|@c@LKDoAd@A?YLYLyAf@w@Vk@PSFMB?@_@J{ATe@Ji@PqBv@MFuB~@{FbC}EzB{CdBqBbA"
+            },
+            "start_location": {
+              "lat": 53.5767329,
+              "lng": 10.0825381
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5849608,
+              "lng": 10.0795328
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedrich-Ebert-Damm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qw`fI{mo|@UyAS{ACO"
+            },
+            "start_location": {
+              "lat": 53.584733,
+              "lng": 10.0785378
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ue~eIcpm|@M{AB_@Es@Ck@I}A]}DU}BSwAKQC_@Eo@W_FDiAZgGD}@AQOeAYw@_@qAQeBIkCKuCQyDi@sF_AwG[sBQ_BMo@MOQCQ@cK|Cw@\\WROA{@^WHDTo@RqAd@s@ZqC~@mA^_@J{AToA\\_C~@qJbE}EzB{CdBqBbAUyAWkB"
+    },
+    "summary": "Neumann-Reichardt-Stra\u00dfe and Holzm\u00fchlenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

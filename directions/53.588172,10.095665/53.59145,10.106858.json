@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.591428,
+        "lng": 10.1072754
+      },
+      "southwest": {
+        "lat": 53.5881481,
+        "lng": 10.0956792
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 891
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 268
+        },
+        "end_address": "Friedrich-Ebert-Damm / Charlie-Mills-Stra\u00dfe, 22047 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.591428,
+          "lng": 10.1068096
+        },
+        "start_address": "Friedrich-Ebert-Damm / Helbingtwiete, 22047 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5881481,
+          "lng": 10.0956792
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 621
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 138
+            },
+            "end_location": {
+              "lat": 53.5900904,
+              "lng": 10.1044358
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Am Stadtrand</b>",
+            "polyline": {
+              "points": "}lafI_yr|@Ik@EW{@kH?Ai@eFIo@Iq@]eCOgAIi@?AOw@i@eE]oCK}@McAMiAOiAE[Kq@AKGMEK?AA?MI"
+            },
+            "start_location": {
+              "lat": 53.5881481,
+              "lng": 10.0956792
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 222
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.59109910000001,
+              "lng": 10.1072754
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Friedrich-Ebert-Damm</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ayafIwot|@MeAEYE]Ks@E[EWEYGUGYGSESIWIUM]O[Q_@Yo@Ug@"
+            },
+            "start_location": {
+              "lat": 53.5900904,
+              "lng": 10.1044358
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.591428,
+              "lng": 10.1068096
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "k_bfIoau|@S`@KPa@h@"
+            },
+            "start_location": {
+              "lat": 53.59109910000001,
+              "lng": 10.1072754
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}lafI_yr|@kAqJs@uGg@wDi@kDaBwMo@aFIYEMOIS_B]eC]}Ag@_BqAsC_@r@a@h@"
+    },
+    "summary": "Friedrich-Ebert-Damm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

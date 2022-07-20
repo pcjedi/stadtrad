@@ -1,0 +1,166 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6014442,
+        "lng": 10.0679991
+      },
+      "southwest": {
+        "lat": 53.5817957,
+        "lng": 10.0557048
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.6 km",
+          "value": 2645
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 544
+        },
+        "end_address": "U Stra\u00dfburger Stra\u00dfe / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5817957,
+          "lng": 10.0679991
+        },
+        "start_address": "Fabriciusstra\u00dfe / Buschrosenweg, 22177 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6014442,
+          "lng": 10.0624674
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 872
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 142
+            },
+            "end_location": {
+              "lat": 53.59402600000001,
+              "lng": 10.0595627
+            },
+            "html_instructions": "Head <b>south</b> on <b>Fabriciusstra\u00dfe</b> toward <b>Buschrosenweg</b>",
+            "polyline": {
+              "points": "_`dfImil|@\\JnA^xBl@VHlBf@f@NxAh@~@`@lAn@h@^h@\\~@l@PJd@ZlAn@XNZP\\Rb@XDB\\Rx@f@NHTJZJXHRDJDJDLBNBJ@N?VEPGPGPILGPMXUJSDM"
+            },
+            "start_location": {
+              "lat": 53.6014442,
+              "lng": 10.0624674
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5935011,
+              "lng": 10.0589971
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bramfelder Ch</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uqbfIgwk|@j@v@h@h@DD@@@??AB?DF"
+            },
+            "start_location": {
+              "lat": 53.59402600000001,
+              "lng": 10.0595627
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 315
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5914537,
+              "lng": 10.0557048
+            },
+            "html_instructions": "Continue onto <b>Bramfelder Str.</b>",
+            "polyline": {
+              "points": "knbfIwsk|@f@r@R`@v@vAT^Vf@l@dAFJDHZh@~@dBRn@P\\f@dAP\\"
+            },
+            "start_location": {
+              "lat": 53.5935011,
+              "lng": 10.0589971
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 562
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 126
+            },
+            "end_location": {
+              "lat": 53.5883304,
+              "lng": 10.0623527
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Habichtstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qabfIc_k|@Pc@`@qALaANe@DMJa@nCaIr@sBv@uB@CTq@v@qBLY`AsBnBaE"
+            },
+            "start_location": {
+              "lat": 53.5914537,
+              "lng": 10.0557048
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 826
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 191
+            },
+            "end_location": {
+              "lat": 53.5817957,
+              "lng": 10.0679991
+            },
+            "html_instructions": "Continue onto <b>Nordschleswiger Str.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "anafIuhl|@d@y@LSNUZg@NSLQ~AwBZg@Va@DEFIdAkAbBcBdB}AhA}@`BiAVQn@a@^Sb@Un@]|@a@z@_@VKf@SlAUVMt@u@TGTO"
+            },
+            "start_location": {
+              "lat": 53.5883304,
+              "lng": 10.0623527
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_`dfImil|@~FbBtCv@xAh@~@`@vBnAhBjAv@f@fB~@bBbA|BpAtA`@t@Nf@Eb@O^Qj@c@Pa@tA`BHDHFz@tArCdFhBdDd@lAx@bBPc@`@qALaANe@Po@bEuLfC}GnAmCtC{FhAeBlBiCr@iALOhDoDdB}AhA}@xB{AnAu@rAs@xDaBlAUVMt@u@TGTO"
+    },
+    "summary": "Fabriciusstra\u00dfe and Nordschleswiger Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58711470000001,
+        "lng": 10.0220944
+      },
+      "southwest": {
+        "lat": 53.583683,
+        "lng": 10.0101259
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1144
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 228
+        },
+        "end_address": "Jarrestra\u00dfe / Rambatzweg, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5840751,
+          "lng": 10.0211118
+        },
+        "start_address": "Goldbekplatz / Semperstra\u00dfe, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.583683,
+          "lng": 10.0101259
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 689
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 149
+            },
+            "end_location": {
+              "lat": 53.58711470000001,
+              "lng": 10.0188039
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Semperstra\u00dfe</b> toward <b>Kuhnsweg</b>",
+            "polyline": {
+              "points": "_q`fIibb|@IYa@wAaAsDiC}IWcAEO[eAw@qC}C{Km@uBK_@kBcF"
+            },
+            "start_location": {
+              "lat": 53.583683,
+              "lng": 10.0101259
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 386
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.5842883,
+              "lng": 10.0220944
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Glindweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mfafIoxc|@vB}CpAmBvCyEd@u@TUrAu@`Ai@"
+            },
+            "start_location": {
+              "lat": 53.58711470000001,
+              "lng": 10.0188039
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "69 m",
+              "value": 69
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5840751,
+              "lng": 10.0211118
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Jarrestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yt`fIamd|@h@bE"
+            },
+            "start_location": {
+              "lat": 53.5842883,
+              "lng": 10.0220944
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_q`fIibb|@k@qBkEqOqBkHkEqOwBcGhEkG|DoGTUrAu@`Ai@h@bE"
+    },
+    "summary": "Semperstra\u00dfe and Glindweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

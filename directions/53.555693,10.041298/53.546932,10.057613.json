@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5555969,
+        "lng": 10.0612619
+      },
+      "southwest": {
+        "lat": 53.5468144,
+        "lng": 10.0412907
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2265
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 479
+        },
+        "end_address": "S\u00fcderstra\u00dfe / Osterbrookplatz, 20537 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5470861,
+          "lng": 10.0576561
+        },
+        "start_address": "U Burgstra\u00dfe, 20537 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5555969,
+          "lng": 10.0412907
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1070
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 208
+            },
+            "end_location": {
+              "lat": 53.5549793,
+              "lng": 10.0574148
+            },
+            "html_instructions": "Head <b>east</b> on <b>Hammer Landstra\u00dfe</b> toward <b>Sievekingdamm</b>",
+            "polyline": {
+              "points": "oa{eIaeh|@@k@@o@@m@@]@]@M@Q@O@U@U@]Bg@FkB@U@S?U?A?U@[?s@?M?cAAsA?iAAsBAmB?oAAy@?w@?gA@}A@s@@w@@iA?s@AcA?k@?i@?k@@g@@a@@a@DaCBiD@m@@q@@s@Bq@Bu@Bu@DaADy@Dy@D{@FcADs@Bo@Bg@@a@@s@@oA"
+            },
+            "start_location": {
+              "lat": 53.5555969,
+              "lng": 10.0412907
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 965
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 233
+            },
+            "end_location": {
+              "lat": 53.5468144,
+              "lng": 10.0610772
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Diagonalstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "s}zeIyik|@XCZAJ?^CB?DIBCjA[dBg@j@OtEoAx@Wj@UZMHB@?@?RGb@I@Aj@KRCb@Mr@UHCJKXI`AQz@UbAYZKVKVONOXa@`@o@j@{@b@u@d@u@HMJOJKHEHCJCFAH@J@H?RBZFh@LVF"
+            },
+            "start_location": {
+              "lat": 53.5549793,
+              "lng": 10.0574148
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 230
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5470861,
+              "lng": 10.0576561
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Osterbrookpl.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qjyeIw`l|@KbBA`@IvAAV?PCd@CD?HAJ@P@`@BZI~AEx@I`BAT"
+            },
+            "start_location": {
+              "lat": 53.5468144,
+              "lng": 10.0610772
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oa{eIaeh|@FgDFmAHqBJkD?wIEkJBqGBcLBcAHkHHeERgFXmFJmD@oAXCf@Ab@CHMrLcDdBm@ZMHBB?v@QdB_@|@YJKXI|Bg@~Ae@n@[h@q@lAkBhAkBT]TQTGP?T@n@J`ATMdCOfDCN?\\D|@OxCKvB"
+    },
+    "summary": "Hammer Landstra\u00dfe and Diagonalstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

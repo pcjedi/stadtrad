@@ -1,0 +1,189 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58384280000001,
+        "lng": 10.0111757
+      },
+      "southwest": {
+        "lat": 53.5803867,
+        "lng": 9.9995614
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1070
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 221
+        },
+        "end_address": "Leinpfad/Fernsicht, 22301 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5804956,
+          "lng": 9.9995614
+        },
+        "start_address": "Goldbekplatz / Semperstra\u00dfe, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58384280000001,
+          "lng": 10.0097747
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.58354060000001,
+              "lng": 10.0097503
+            },
+            "html_instructions": "Head <b>south</b> on <b>Goldbekpl.</b> toward <b>Semperstra\u00dfe</b>",
+            "polyline": {
+              "points": "_r`fIa`b|@TJTBNK"
+            },
+            "start_location": {
+              "lat": 53.58384280000001,
+              "lng": 10.0097747
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 207
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5818822,
+              "lng": 10.0111757
+            },
+            "html_instructions": "Continue onto <b>M\u00fchlenkamp</b>",
+            "polyline": {
+              "points": "cp`fI}_b|@jEsDr@k@jA}@"
+            },
+            "start_location": {
+              "lat": 53.58354060000001,
+              "lng": 10.0097503
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 410
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 105
+            },
+            "end_location": {
+              "lat": 53.580393,
+              "lng": 10.0054972
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Poelchaukamp</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "we`fI{hb|@`@`CNz@^tBL~@|@`Fb@lC~@pFTxAP~@"
+            },
+            "start_location": {
+              "lat": 53.5818822,
+              "lng": 10.0111757
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 156
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5807547,
+              "lng": 10.003225
+            },
+            "html_instructions": "Continue onto <b>Gellertstra\u00dfe</b>",
+            "polyline": {
+              "points": "m|_fIkea|@?P?D?HEb@El@_@rC[~D"
+            },
+            "start_location": {
+              "lat": 53.580393,
+              "lng": 10.0054972
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 245
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.58039369999999,
+              "lng": 9.999753499999999
+            },
+            "html_instructions": "Continue onto <b>Fernsicht</b>",
+            "polyline": {
+              "points": "u~_fIcw`|@Et@Cr@Ez@EjAC~@@~@F~@BV@PHn@Rr@FVJX@BDJVr@"
+            },
+            "start_location": {
+              "lat": 53.5807547,
+              "lng": 10.003225
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5804956,
+              "lng": 9.9995614
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Leinpfad</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m|_fIma`|@Ud@"
+            },
+            "start_location": {
+              "lat": 53.58039369999999,
+              "lng": 9.999753499999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_r`fIa`b|@j@NzE_E~BiBp@|Dl@tD`BnJtAjIPpAK`B_@rC[~DIhBKfCC~@@~@JvAJ`Ah@hB\\~@Ud@"
+    },
+    "summary": "Poelchaukamp",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

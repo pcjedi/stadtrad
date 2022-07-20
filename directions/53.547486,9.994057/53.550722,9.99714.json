@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.550695,
+        "lng": 9.9981303
+      },
+      "southwest": {
+        "lat": 53.54750199999999,
+        "lng": 9.994003000000001
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 552
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 128
+        },
+        "end_address": "U Rathaus / M\u00f6nckebergstra\u00dfe, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5506733,
+          "lng": 9.9971443
+        },
+        "start_address": "Domstra\u00dfe / Willy-Brandt-Stra\u00dfe, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54750199999999,
+          "lng": 9.994003000000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 388
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.54982529999999,
+              "lng": 9.9981303
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Domstra\u00dfe</b> toward <b>Gro\u00dfe Reichenstra\u00dfe</b>",
+            "polyline": {
+              "points": "{nyeIo}~{@SQk@g@oAqAw@w@s@cAe@{@c@iAWm@EKOa@GUS}@YsA?AMo@CKEUG[CYC]"
+            },
+            "start_location": {
+              "lat": 53.54750199999999,
+              "lng": 9.994003000000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "37 m",
+              "value": 37
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5498937,
+              "lng": 9.9976672
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Buceriusstra\u00dfe</b><div style=\"font-size:0.9em\">Continue to follow Speersort</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "m}yeIiw_|@KDDx@CNAJ"
+            },
+            "start_location": {
+              "lat": 53.54982529999999,
+              "lng": 9.9981303
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "89 m",
+              "value": 89
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.550695,
+              "lng": 9.997724999999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kreuslerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "y}yeImt_|@[CGAa@?A?a@Aw@A"
+            },
+            "start_location": {
+              "lat": 53.5498937,
+              "lng": 9.9976672
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "38 m",
+              "value": 38
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5506733,
+              "lng": 9.9971443
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>M\u00f6nckebergstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{bzeIwt_|@@\\@z@@X"
+            },
+            "start_location": {
+              "lat": 53.550695,
+              "lng": 9.997724999999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{nyeIo}~{@_Ay@gCiCs@cAe@{@{@wBUm@[sAk@qCMq@Gw@KDDx@EZc@Ec@?yACBxA@X"
+    },
+    "summary": "Domstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

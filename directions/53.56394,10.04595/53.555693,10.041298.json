@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5640279,
+        "lng": 10.045931
+      },
+      "southwest": {
+        "lat": 53.5555704,
+        "lng": 10.0387006
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1310
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 347
+        },
+        "end_address": "U Burgstra\u00dfe, 20537 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5555969,
+          "lng": 10.0412907
+        },
+        "start_address": "Hasselbrookstra\u00dfe / Ritterstra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5640279,
+          "lng": 10.045931
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 197
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5636301,
+              "lng": 10.0430253
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hasselbrookstra\u00dfe</b> toward <b>Ritterstra\u00dfe</b>",
+            "polyline": {
+              "points": "ev|eIabi|@Bd@DnA@^@RDh@Fz@@PHx@@LDl@Hr@Fd@BVHx@"
+            },
+            "start_location": {
+              "lat": 53.5640279,
+              "lng": 10.045931
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 332
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 95
+            },
+            "end_location": {
+              "lat": 53.56077,
+              "lng": 10.0422066
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hirschgraben</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "us|eI}oh|@nBe@t@APBrAj@`@PTHNDdC~@v@TLXDDBBB@D@FC"
+            },
+            "start_location": {
+              "lat": 53.5636301,
+              "lng": 10.0430253
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 280
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.559394,
+              "lng": 10.0387006
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sievekingsallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ya|eIyjh|@BRHl@DXDXHh@F^H^FVDTJ\\HXBJFLHTL\\P`@LZDHZx@NXN`@\\v@Tr@"
+            },
+            "start_location": {
+              "lat": 53.56077,
+              "lng": 10.0422066
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 442
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 81
+            },
+            "end_location": {
+              "lat": 53.5555704,
+              "lng": 10.0404069
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Burgstra\u00dfe</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ey{eI{tg|@r@U^OlAc@jAc@NGv@WLE@??A@AFKb@OPEvBs@lAa@RCREJC^Sl@]VIFBL?"
+            },
+            "start_location": {
+              "lat": 53.559394,
+              "lng": 10.0387006
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5555969,
+              "lng": 10.0412907
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hammer Landstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ia{eIq_h|@C]AU?oA?M?Y?C"
+            },
+            "start_location": {
+              "lat": 53.5555704,
+              "lng": 10.0404069
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ev|eIabi|@LhDXpDXtCLpAnBe@t@APBrAj@v@ZtCdAv@TLXHHHBFCBRNfA`@bCb@dBb@lA`A`C^z@r@jB`DiA`DiAJOzFkBf@Ij@WdAg@TBEs@?}A?]"
+    },
+    "summary": "Burgstra\u00dfe/B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

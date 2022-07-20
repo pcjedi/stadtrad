@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.46525,
+        "lng": 9.9694133
+      },
+      "southwest": {
+        "lat": 53.4606036,
+        "lng": 9.9634992
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 731
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 111
+        },
+        "end_address": "Denickestra\u00dfe / TUHH, 21073 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4606036,
+          "lng": 9.9694133
+        },
+        "start_address": "S Heimfeld / Alter Postweg, 21075 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.46525,
+          "lng": 9.9634992
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 132
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.4644786,
+              "lng": 9.965010099999999
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Alter Postweg</b> toward <b>Baustra\u00dfe</b>",
+            "polyline": {
+              "points": "ylieI{~x{@n@{AhBqE"
+            },
+            "start_location": {
+              "lat": 53.46525,
+              "lng": 9.9634992
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.4643596,
+              "lng": 9.9649076
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Meyerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_hieIihy{@@@?@?@?@@??@?@@??@@@@@@@@?@@@?@?@?@A"
+            },
+            "start_location": {
+              "lat": 53.4644786,
+              "lng": 9.965010099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.4642983,
+              "lng": 9.9651237
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Meyerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ggieIugy{@@?@A@A?A@??A@A?A?A@??A?A?A@A?A?A?A?A?A?A?A?A?AA??A"
+            },
+            "start_location": {
+              "lat": 53.4643596,
+              "lng": 9.9649076
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 366
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.4611452,
+              "lng": 9.9665683
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gazertstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{fieI_iy{@rD_BbA_@hC}@bCy@dAc@TKJC@@@@@@@@?@"
+            },
+            "start_location": {
+              "lat": 53.4642983,
+              "lng": 9.9651237
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 199
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.4606036,
+              "lng": 9.9694133
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Denickestra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "esheIary{@L[AI@O\\mEHs@R{AN{@Ho@Da@BU"
+            },
+            "start_location": {
+              "lat": 53.4611452,
+              "lng": 9.9665683
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ylieI{~x{@xCmH@B@BBFJDJGDS?IAErD_BbA_@lGwBzAo@LADFL[AI^}Ev@{FHw@"
+    },
+    "summary": "Gazertstra\u00dfe and Denickestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

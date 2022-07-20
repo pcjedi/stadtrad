@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57378989999999,
+        "lng": 9.8930046
+      },
+      "southwest": {
+        "lat": 53.5603942,
+        "lng": 9.8868656
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1604
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 400
+        },
+        "end_address": "Luruper Chauseee / Ebertallee, 22761 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5735648,
+          "lng": 9.8930046
+        },
+        "start_address": "S Othmarschen / Beselerplatz, 22607 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5603942,
+          "lng": 9.8871165
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 221
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.56235460000001,
+              "lng": 9.886978
+            },
+            "html_instructions": "Head <b>north</b> on <b>Beselerpl.</b>/<wbr/><b>D\u00fcrerstra\u00dfe</b> toward <b>Cranachstra\u00dfe</b><div style=\"font-size:0.9em\">Continue to follow D\u00fcrerstra\u00dfe</div>",
+            "polyline": {
+              "points": "m_|eIoaj{@Y@WF_AF}BLyAPW?KAGAQQ"
+            },
+            "start_location": {
+              "lat": 53.5603942,
+              "lng": 9.8871165
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1349
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 317
+            },
+            "end_location": {
+              "lat": 53.57378989999999,
+              "lng": 9.892650699999999
+            },
+            "html_instructions": "Continue onto <b>Ebertallee</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "polyline": {
+              "points": "uk|eIs`j{@KCaAYg@Ii@CU@O?k@A}@AgAOaB[qAYaAYiAc@w@]KEsAg@eA_@ICgAYKCGAu@WKCWKa@M]KoBo@_Bo@OGiAm@sAi@MGu@]eAm@wBcAcCiAmAc@o@UgAi@]Q[O?AAA?AAAAAA??AA?AAA?AAACEKEQG_@GWKa@ISQa@"
+            },
+            "start_location": {
+              "lat": 53.56235460000001,
+              "lng": 9.886978
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.5735648,
+              "lng": 9.8930046
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Luruper Ch</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "es~eIadk{@Ta@P]DE"
+            },
+            "start_location": {
+              "lat": 53.57378989999999,
+              "lng": 9.892650699999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m_|eIoaj{@Y@WF}DTyAPW?SCQQKCaAYg@I_AA{@A}@AgAOsDu@aAYiAc@cAc@yCgAqA]uAa@gEuAoBw@}CwAcAe@}DqBcCiAmAc@wB_A{@e@EEECIQa@kB[u@f@_ADE"
+    },
+    "summary": "Ebertallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

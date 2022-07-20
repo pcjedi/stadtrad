@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6014442,
+        "lng": 10.0624674
+      },
+      "southwest": {
+        "lat": 53.5915371,
+        "lng": 10.0507402
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1665
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 308
+        },
+        "end_address": "U Habichtstra\u00dfe / Steilshooper Stra\u00dfe, 22307 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5937989,
+          "lng": 10.0507402
+        },
+        "start_address": "Fabriciusstra\u00dfe / Buschrosenweg, 22177 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6014442,
+          "lng": 10.0624674
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 872
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 142
+            },
+            "end_location": {
+              "lat": 53.59402600000001,
+              "lng": 10.0595627
+            },
+            "html_instructions": "Head <b>south</b> on <b>Fabriciusstra\u00dfe</b> toward <b>Buschrosenweg</b>",
+            "polyline": {
+              "points": "_`dfImil|@\\JnA^xBl@VHlBf@f@NxAh@~@`@lAn@h@^h@\\~@l@PJd@ZlAn@XNZP\\Rb@XDB\\Rx@f@NHTJZJXHRDJDJDLBNBJ@N?VEPGPGPILGPMXUJSDM"
+            },
+            "start_location": {
+              "lat": 53.6014442,
+              "lng": 10.0624674
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5935011,
+              "lng": 10.0589971
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bramfelder Ch</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uqbfIgwk|@j@v@h@h@DD@@@??AB?DF"
+            },
+            "start_location": {
+              "lat": 53.59402600000001,
+              "lng": 10.0595627
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 302
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5915371,
+              "lng": 10.0558545
+            },
+            "html_instructions": "Continue onto <b>Bramfelder Str.</b>",
+            "polyline": {
+              "points": "knbfIwsk|@f@r@R`@v@vAT^Vf@l@dAFJDHZh@~@dBRn@P\\f@dA"
+            },
+            "start_location": {
+              "lat": 53.5935011,
+              "lng": 10.0589971
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 421
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 83
+            },
+            "end_location": {
+              "lat": 53.5937989,
+              "lng": 10.0507402
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Habichtstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cbbfIa`k|@Ut@a@pAg@|Am@fBEHCNw@|Bg@`B_BnEg@vAYt@Qf@Wn@"
+            },
+            "start_location": {
+              "lat": 53.5915371,
+              "lng": 10.0558545
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_`dfImil|@~FbBtCv@xAh@~@`@vBnAhBjAv@f@fB~@bBbA|BpAtA`@t@Nf@Eb@O^Qj@c@Pa@tA`BHDHFz@tArCdFhBdDd@lAf@dAUt@iAnDs@pB{@lCgCpHkBdF"
+    },
+    "summary": "Fabriciusstra\u00dfe and Habichtstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

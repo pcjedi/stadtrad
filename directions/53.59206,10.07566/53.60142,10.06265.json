@@ -1,0 +1,166 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6015428,
+        "lng": 10.0760606
+      },
+      "southwest": {
+        "lat": 53.59195769999999,
+        "lng": 10.0626604
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1576
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 359
+        },
+        "end_address": "Fabriciusstra\u00dfe / Buschrosenweg, 22177 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.60130220000001,
+          "lng": 10.0626604
+        },
+        "start_address": "U Wandsbek-Gartenstadt / Ostpreu\u00dfenplatz, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.59195769999999,
+          "lng": 10.0757338
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.59203609999999,
+              "lng": 10.0760606
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Ostpreu\u00dfenpl.</b> toward <b>Lesserstra\u00dfe</b>",
+            "polyline": {
+              "points": "wdbfIi|n|@Ga@AGEW"
+            },
+            "start_location": {
+              "lat": 53.59195769999999,
+              "lng": 10.0757338
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 466
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5957938,
+              "lng": 10.0729867
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lesserstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gebfIk~n|@{@pAOTWVYVMHuA`A{CnBgAz@u@d@KFA?mDdC]PWN"
+            },
+            "start_location": {
+              "lat": 53.59203609999999,
+              "lng": 10.0760606
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 670
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 151
+            },
+            "end_location": {
+              "lat": 53.6012943,
+              "lng": 10.0688704
+            },
+            "html_instructions": "Continue onto <b>Werner-Otto-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "u|bfIekn|@YTYT}@p@qA~@]TQLqAz@k@d@[Te@ZeAr@s@h@e@ZYTaAp@k@Zm@\\e@XeAv@[Xu@h@U@C@a@Va@Ve@Z"
+            },
+            "start_location": {
+              "lat": 53.5957938,
+              "lng": 10.0729867
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 128
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.6015045,
+              "lng": 10.0670164
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Moosrosenweg</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "a_dfImqm|@K`@Ej@SbAETCTATA`@HzB"
+            },
+            "start_location": {
+              "lat": 53.6012943,
+              "lng": 10.0688704
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 289
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.60130220000001,
+              "lng": 10.0626604
+            },
+            "html_instructions": "Continue onto <b>Buschrosenweg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "k`dfI{em|@AF?H?D?F@N?X?F?N@J\\~OFxE"
+            },
+            "start_location": {
+              "lat": 53.6015045,
+              "lng": 10.0670164
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wdbfIi|n|@Ii@EW{@pAg@l@g@`@uA`A{CnBgAz@u@d@MFkEvCq@d@wAfAsE~CmBvAyDnCmBlAsAv@aBpAu@h@U@e@XgAr@QlAYxAEj@F|CA^@`A^jPFxE"
+    },
+    "summary": "Lesserstra\u00dfe and Werner-Otto-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

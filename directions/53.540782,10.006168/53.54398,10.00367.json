@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5439527,
+        "lng": 10.0061656
+      },
+      "southwest": {
+        "lat": 53.5407684,
+        "lng": 10.0035406
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.4 km",
+          "value": 446
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 77
+        },
+        "end_address": "Stockmeyerstra\u00dfe / Am Lohsepark, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5439527,
+          "lng": 10.0035406
+        },
+        "start_address": "U HafenCity Universit\u00e4t / Versmannstra\u00dfe, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5407684,
+          "lng": 10.0061656
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5408047,
+              "lng": 10.0055704
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Am Lohsepark</b>",
+            "polyline": {
+              "points": "ydxeIqia|@EvB"
+            },
+            "start_location": {
+              "lat": 53.5407684,
+              "lng": 10.0061656
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 183
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.54232769999999,
+              "lng": 10.0045498
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Am Lohsepark</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_exeIyea|@K?C@EB?@_@TmBlAmC~A"
+            },
+            "start_location": {
+              "lat": 53.5408047,
+              "lng": 10.0055704
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 223
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5439527,
+              "lng": 10.0035406
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Yokohamastra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qnxeIm_a|@Km@q@b@AGMFMDOAMCMCI?O@IBo@~AMRCFC@ABA@GLEDEFEDEDEDEDEBGFGDC@A@EB"
+            },
+            "start_location": {
+              "lat": 53.54232769999999,
+              "lng": 10.0045498
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ydxeIqia|@EvBK?ID{GdEKm@q@b@AGMFMDOA[GY@IBo@~AQZEDU\\WVa@X"
+    },
+    "summary": "Am Lohsepark",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

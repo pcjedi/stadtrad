@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5614356,
+        "lng": 9.9905566
+      },
+      "southwest": {
+        "lat": 53.55608969999999,
+        "lng": 9.9842229
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 920
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 350
+        },
+        "end_address": "U G\u00e4nsemarkt / Caffamacherreihe, 20355 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55608969999999,
+          "lng": 9.9842229
+        },
+        "start_address": "Bahnhof Dammtor / Theodor-Heuss-Platz, 20148 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5614356,
+          "lng": 9.990385300000002
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "47 m",
+              "value": 47
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 89
+            },
+            "end_location": {
+              "lat": 53.56119169999999,
+              "lng": 9.9898095
+            },
+            "html_instructions": "Head <b>southwest</b> toward <b>Rothenbaumchaussee</b>",
+            "polyline": {
+              "points": "_f|eI}f~{@FLDRFLJZNf@"
+            },
+            "start_location": {
+              "lat": 53.5614356,
+              "lng": 9.990385300000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "88 m",
+              "value": 88
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 89
+            },
+            "end_location": {
+              "lat": 53.5605355,
+              "lng": 9.9905566
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Theodor-Heuss-Platz</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "md|eIic~{@\\e@pA_BPO"
+            },
+            "start_location": {
+              "lat": 53.56119169999999,
+              "lng": 9.9898095
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 290
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5581261,
+              "lng": 9.988888399999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Dammtordamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k`|eI_h~{@PPVLHFLJLFLJp@`@ZPPH?@b@TPJ@@VLz@h@NHDBXNBBFBt@j@d@V"
+            },
+            "start_location": {
+              "lat": 53.5605355,
+              "lng": 9.9905566
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 191
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5565041,
+              "lng": 9.9879844
+            },
+            "html_instructions": "Continue onto <b>Dammtorstra\u00dfe</b>",
+            "polyline": {
+              "points": "iq{eIq}}{@NHFBl@Rl@PZLNDD@NDRHLDNLTPZVVPRJ"
+            },
+            "start_location": {
+              "lat": 53.5581261,
+              "lng": 9.988888399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 248
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5565929,
+              "lng": 9.9842371
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Drehbahn</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cg{eI{w}{@CTA\\@lCAx@?VAVA^CjBCbC?nD"
+            },
+            "start_location": {
+              "lat": 53.5565041,
+              "lng": 9.9879844
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.55608969999999,
+              "lng": 9.9842229
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Caffamacherreihe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ug{eIo`}{@d@B|@?"
+            },
+            "start_location": {
+              "lat": 53.5565929,
+              "lng": 9.9842371
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_f|eI}f~{@`@jANf@\\e@pA_BPOh@^VRhBfAlDpBj@Zt@j@d@VVLfCx@h@P\\Rp@h@j@\\Er@?fEAn@EjCCrHbBB"
+    },
+    "summary": "Dammtordamm and Drehbahn",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

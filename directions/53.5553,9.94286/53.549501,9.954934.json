@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5558472,
+        "lng": 9.9556424
+      },
+      "southwest": {
+        "lat": 53.5494121,
+        "lng": 9.942872699999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1415
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 244
+        },
+        "end_address": "S Reeperbahn / K\u00f6nigstra\u00dfe, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5494121,
+          "lng": 9.955059
+        },
+        "start_address": "Chemnitzstra\u00dfe / Max-Brauer-Allee, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5552461,
+          "lng": 9.942872699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 501
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.5558472,
+              "lng": 9.9503716
+            },
+            "html_instructions": "Head <b>east</b> on <b>Chemnitzstra\u00dfe</b> toward <b>Warnholtzstra\u00dfe</b>",
+            "polyline": {
+              "points": "i_{eI}}t{@QeFWuGOyDGuAAKEo@DMEgBOkCCk@UqHCs@"
+            },
+            "start_location": {
+              "lat": 53.5552461,
+              "lng": 9.942872699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 761
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 142
+            },
+            "end_location": {
+              "lat": 53.550183,
+              "lng": 9.9555218
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ac{eIylv{@p@g@\\a@\\e@N_@DKDQp@oALY\\s@hBoDJQ^s@Zm@Tg@Pc@DEZg@N_@LSJSTe@NWVc@n@u@RWD@JAHE~Ac@`@ITAbAE`@@N?r@BH@B?R@XBn@DRB"
+            },
+            "start_location": {
+              "lat": 53.5558472,
+              "lng": 9.9503716
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.550203,
+              "lng": 9.9551433
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Nobistor</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "s_zeI_mw{@A`@Ad@?B"
+            },
+            "start_location": {
+              "lat": 53.550183,
+              "lng": 9.9555218
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 128
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5494121,
+              "lng": 9.955059
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "w_zeIsjw{@L?J{AnBf@F`@J`@"
+            },
+            "start_location": {
+              "lat": 53.550203,
+              "lng": 9.9551433
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i_{eI}}t{@aAkWG{@DMEgBSwDYeJp@g@\\a@l@eAJ]~@iBrDiHhA_CdAoBd@}@Vc@n@u@RWD@TG~Ac@`@IxAGnBF`BJRBA`@Ah@L?J{AnBf@F`@J`@"
+    },
+    "summary": "Chemnitzstra\u00dfe and Holstenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55868659999999,
+        "lng": 9.9556424
+      },
+      "southwest": {
+        "lat": 53.5494121,
+        "lng": 9.9487911
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1275
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 214
+        },
+        "end_address": "S Reeperbahn / K\u00f6nigstra\u00dfe, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5494121,
+          "lng": 9.955059
+        },
+        "start_address": "Max-Brauer-Allee 147, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5585362,
+          "lng": 9.9487911
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.55868659999999,
+              "lng": 9.949256799999999
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Max-Brauer-Allee</b> toward <b>Holstenstra\u00dfe</b>",
+            "polyline": {
+              "points": "{s{eI}bv{@G_@U}@"
+            },
+            "start_location": {
+              "lat": 53.5585362,
+              "lng": 9.9487911
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1087
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 179
+            },
+            "end_location": {
+              "lat": 53.550183,
+              "lng": 9.9555218
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yt{eI{ev{@VIdBe@BCBCFK`@M~CcAf@MbA_@XIHBF@HAXEj@Mp@g@\\a@\\e@N_@DKDQp@oALY\\s@hBoDJQ^s@Zm@Tg@Pc@DEZg@N_@LSJSTe@NWVc@n@u@RWD@JAHE~Ac@`@ITAbAE`@@N?r@BH@B?R@XBn@DRB"
+            },
+            "start_location": {
+              "lat": 53.55868659999999,
+              "lng": 9.949256799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.550203,
+              "lng": 9.9551433
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Nobistor</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "s_zeI_mw{@A`@Ad@?B"
+            },
+            "start_location": {
+              "lat": 53.550183,
+              "lng": 9.9555218
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 128
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5494121,
+              "lng": 9.955059
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "w_zeIsjw{@L?J{AnBf@F`@J`@"
+            },
+            "start_location": {
+              "lat": 53.550203,
+              "lng": 9.9551433
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{s{eI}bv{@]}A|Bo@FGFK`@MfEqA|Ai@PDb@Gj@Mp@g@z@gATk@DQp@oAj@mAtBaEz@aBf@kA`@m@\\s@hAuBbAmAP?hBi@v@KbAE`@@bABz@FbAHCfA?BL?J{AnBf@RbA"
+    },
+    "summary": "Holstenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

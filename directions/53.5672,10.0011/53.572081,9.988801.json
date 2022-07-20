@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57208,
+        "lng": 10.001083
+      },
+      "southwest": {
+        "lat": 53.5663371,
+        "lng": 9.9883943
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1472
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 326
+        },
+        "end_address": "U Hallerstra\u00dfe / Rothenbaumchaussee, 20148 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57208,
+          "lng": 9.988886299999999
+        },
+        "start_address": "Harvestehuder Weg / Alte Rabenstra\u00dfe, 20148 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5672842,
+          "lng": 10.001083
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 342
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.5667701,
+              "lng": 9.995971899999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Alte Rabenstra\u00dfe</b> toward <b>Badestra\u00dfe</b>",
+            "polyline": {
+              "points": "oj}eIwi`|@@XLbEFrAD~@@LJtBLlCDn@?HHpA@XXrE"
+            },
+            "start_location": {
+              "lat": 53.5672842,
+              "lng": 10.001083
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 477
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 114
+            },
+            "end_location": {
+              "lat": 53.5663371,
+              "lng": 9.9887944
+            },
+            "html_instructions": "Continue onto <b>Johnsallee</b>",
+            "polyline": {
+              "points": "ig}eIyi_|@@rBDzB@n@D`BB~@BhAHdC@L?j@F|BBnA@THpBP~FBl@BjA"
+            },
+            "start_location": {
+              "lat": 53.5667701,
+              "lng": 9.995971899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 550
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 129
+            },
+            "end_location": {
+              "lat": 53.57125569999999,
+              "lng": 9.9885807
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rothenbaumchaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sd}eI}|}{@g@JqA\\UFQDc@Jc@F_@@]@WCiAC{@Ae@AE?A?{@Ci@?{@CgCAkCMm@A"
+            },
+            "start_location": {
+              "lat": 53.5663371,
+              "lng": 9.9887944
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 103
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.57208,
+              "lng": 9.988886299999999
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kc~eIs{}{@?OCMAICEACACC?CAG?eCE"
+            },
+            "start_location": {
+              "lat": 53.57125569999999,
+              "lng": 9.9885807
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oj}eIwi`|@\\pJ`@`Id@hIN`KR|GLnGb@jNaDv@gAR}@BcEKmBCcEEyDOIm@KImCE"
+    },
+    "summary": "Johnsallee and Rothenbaumchaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

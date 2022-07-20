@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5786411,
+        "lng": 9.8835637
+      },
+      "southwest": {
+        "lat": 53.5744206,
+        "lng": 9.8785251
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 689
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 135
+        },
+        "end_address": "Flottbeker Drift 56, 22607 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5745236,
+          "lng": 9.8785251
+        },
+        "start_address": "Stra\u00dfe ohne Stra\u00dfennamen, 22607 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5786411,
+          "lng": 9.882819099999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 623
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 123
+            },
+            "end_location": {
+              "lat": 53.5745435,
+              "lng": 9.879508699999999
+            },
+            "html_instructions": "Head <b>east</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "polyline": {
+              "points": "oq_fIsfi{@Js@J]FUDMJKLEJELCLALAL?@@`@PhEpB@?DBpD`Bb@TvBfAHH^lBPv@Pz@XnARhAB^BNWj@"
+            },
+            "start_location": {
+              "lat": 53.5786411,
+              "lng": 9.882819099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "66 m",
+              "value": 66
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5745236,
+              "lng": 9.8785251
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{w~eI}qh{@Fz@?\\CxA?N"
+            },
+            "start_location": {
+              "lat": 53.5745435,
+              "lng": 9.879508699999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oq_fIsfi{@Js@J]Lc@XQXIj@ArFfCtEvBvBfAHHp@dDj@jCVhBBNWj@FxAChB"
+    },
+    "summary": "",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

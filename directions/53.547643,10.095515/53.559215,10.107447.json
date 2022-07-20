@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55901919999999,
+        "lng": 10.1074758
+      },
+      "southwest": {
+        "lat": 53.5476916,
+        "lng": 10.0953175
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1763
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 364
+        },
+        "end_address": "Manshardtstra\u00dfe / Einkaufszentrum Manshardtstra\u00dfe, 22119 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55901919999999,
+          "lng": 10.1074758
+        },
+        "start_address": "U Legienstra\u00dfe / Riedweg, 22111 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5476916,
+          "lng": 10.0956058
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5478342,
+              "lng": 10.0953175
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Riedweg</b> toward <b>Vierbergen</b>",
+            "polyline": {
+              "points": "apyeIqxr|@CDENQb@"
+            },
+            "start_location": {
+              "lat": 53.5476916,
+              "lng": 10.0956058
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 320
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 54
+            },
+            "end_location": {
+              "lat": 53.5501838,
+              "lng": 10.0981138
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Vierbergen</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}pyeIwvr|@U[S[_AsAGI[c@Y]{@gA_AiASWm@q@i@o@i@k@[]"
+            },
+            "start_location": {
+              "lat": 53.5478342,
+              "lng": 10.0953175
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 177
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5495896,
+              "lng": 10.1005985
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hermannstal</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "s_zeIehs|@XkBb@qCFi@TwAXqB"
+            },
+            "start_location": {
+              "lat": 53.5501838,
+              "lng": 10.0981138
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1134
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 217
+            },
+            "end_location": {
+              "lat": 53.5589132,
+              "lng": 10.1058668
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Legienstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}{yeIwws|@YU_Ao@k@k@YUCEmA{@kCsBmDwC{EkEMIoEsDoAcAw@q@s@i@qAaAUQQWOMUKQEWGA?[AYAO?I@o@H{@Nw@Ny@RiAXQDoAX"
+            },
+            "start_location": {
+              "lat": 53.5495896,
+              "lng": 10.1005985
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 107
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.55901919999999,
+              "lng": 10.1074758
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Manshardtstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ev{eIuxt|@KoDEwACy@"
+            },
+            "start_location": {
+              "lat": 53.5589132,
+              "lng": 10.1058668
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "apyeIqxr|@ITQb@U[sAoBc@m@iDgE}CkD|@}F\\aCXqBYU_Ao@k@k@][yEoDiKcJ}E}DgCuBeCkBUQQWe@Yi@M]Ai@Ay@JsB^cCl@aB^QgGCy@"
+    },
+    "summary": "Legienstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

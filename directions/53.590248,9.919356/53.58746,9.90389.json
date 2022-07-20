@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.590463,
+        "lng": 9.919434599999999
+      },
+      "southwest": {
+        "lat": 53.5852871,
+        "lng": 9.9038928
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1441
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 244
+        },
+        "end_address": "Sylvesterallee 1, 22525 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5873839,
+          "lng": 9.9038928
+        },
+        "start_address": "S Stellingen / Randstra\u00dfe, 22525 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.590284,
+          "lng": 9.919434599999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.590463,
+              "lng": 9.9192381
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Randstra\u00dfe</b> toward <b>Volksparkstra\u00dfe</b>",
+            "polyline": {
+              "points": "gzafImkp{@A?a@d@"
+            },
+            "start_location": {
+              "lat": 53.590284,
+              "lng": 9.919434599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 814
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 142
+            },
+            "end_location": {
+              "lat": 53.5867959,
+              "lng": 9.9100412
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Volksparkstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "k{afIgjp{@Nj@DLNf@L\\ZjAPh@Nh@JZJh@BJDVBRJl@@HFx@@??HD^?@@L@P@D@^@@D|@B\\@FDNB\\?HAb@A`A@RDz@?JDn@Bj@PjD@TBd@@J?HDd@BPFd@BP?@HT`@fAz@pB^j@HJ^`@BD`@VhAb@z@Rp@Bd@AP?"
+            },
+            "start_location": {
+              "lat": 53.590463,
+              "lng": 9.9192381
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 313
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5852871,
+              "lng": 9.9061945
+            },
+            "html_instructions": "Slight <b>right</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "odafIwpn{@@?JBJH@?LPJL@BJTNl@F`@Lv@BHFl@Lv@BLHh@DVBJDRBN?@Hb@FVHRBDTl@@?FPHRBF@?BHJXDHVj@FV@J?N"
+            },
+            "start_location": {
+              "lat": 53.5867959,
+              "lng": 9.9100412
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 290
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5873839,
+              "lng": 9.9038928
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a{`fIuxm{@YNk@^QJIFURQP[\\q@~@U\\W^STOH}@n@c@XGBEHEHAJAT@`@"
+            },
+            "start_location": {
+              "lat": 53.5852871,
+              "lng": 9.9061945
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gzafImkp{@c@d@Tx@jAzDj@zBVbBTjCL|BFVBf@CdBFnAZrGFpATnBHV|AxDh@v@b@f@`@VhAb@z@Rp@Bv@ALBLHX^LXVnAf@fDVzARhATp@r@dBh@nAHb@?NYN}@j@_@Zm@n@gA|Ak@t@mAx@k@\\KRC`@@`@"
+    },
+    "summary": "Volksparkstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

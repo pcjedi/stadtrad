@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.560118,
+        "lng": 9.9900314
+      },
+      "southwest": {
+        "lat": 53.5560249,
+        "lng": 9.979715900000002
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 919
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 236
+        },
+        "end_address": "Gorch-Fock-Wall, 20355 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5560249,
+          "lng": 9.979715900000002
+        },
+        "start_address": "Bahnhof Dammtor / Dag-Hammarskj\u00f6ld-Platz, 20354 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.560118,
+          "lng": 9.989424099999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "53 m",
+              "value": 53
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5598177,
+              "lng": 9.9900314
+            },
+            "html_instructions": "Head <b>southeast</b> toward <b>Dammtordamm</b>",
+            "polyline": {
+              "points": "w}{eI{`~{@FGBCDIHMDQHYNi@"
+            },
+            "start_location": {
+              "lat": 53.560118,
+              "lng": 9.989424099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 179
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.55832400000001,
+              "lng": 9.989009
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Dammtordamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{{{eIud~{@ZPPH?@b@TPJ@@VLz@h@NHDBXNBBFBt@j@"
+            },
+            "start_location": {
+              "lat": 53.5598177,
+              "lng": 9.9900314
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 654
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 163
+            },
+            "end_location": {
+              "lat": 53.55614869999999,
+              "lng": 9.9801632
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gorch-Fock-Wall</b>/<wbr/><b>Ring 1</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "or{eIi~}{@?XDpCBf@Dz@Bz@@h@HnBHdCHnBHpADx@F`@@BNbABNPfATdAVjA^nA^lA^fAb@jAf@lAXn@f@bA`@x@"
+            },
+            "start_location": {
+              "lat": 53.55832400000001,
+              "lng": 9.989009
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5560249,
+              "lng": 9.979715900000002
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Gorch-Fock-Wall</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "}d{eI_g|{@@LBLFRBLBLBJ"
+            },
+            "start_location": {
+              "lat": 53.55614869999999,
+              "lng": 9.9801632
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "w}{eI{`~{@JKNWNk@Ni@ZPPJt@`@dBbAj@Zt@j@?XHxDTpGRtFNjC\\xBf@lCv@zC~@tCjAxC`ArB`@x@@LJ`@FZBJ"
+    },
+    "summary": "Gorch-Fock-Wall",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5518621,
+        "lng": 10.0319619
+      },
+      "southwest": {
+        "lat": 53.5420032,
+        "lng": 10.0085288
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.7 km",
+          "value": 2672
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 563
+        },
+        "end_address": "Kurt-Schumacher-Allee / Nagelsweg, 20097 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5516721,
+          "lng": 10.0159264
+        },
+        "start_address": "Heidenkampsweg / R+V Versicherung, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54389880000001,
+          "lng": 10.0314839
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "76 m",
+              "value": 76
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5432784,
+              "lng": 10.0319619
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Heidenkampsweg</b>/<wbr/><b>B75</b> toward <b>Gr\u00fcner Deich</b>",
+            "polyline": {
+              "points": "kxxeIwgf|@ZWDCHGnA{@"
+            },
+            "start_location": {
+              "lat": 53.54389880000001,
+              "lng": 10.0314839
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5425999,
+              "lng": 10.0290247
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gr\u00fcner Deich</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "otxeIwjf|@x@hEn@`ELj@Lt@Jh@?F?HAHAFEN"
+            },
+            "start_location": {
+              "lat": 53.5432784,
+              "lng": 10.0319619
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "77 m",
+              "value": 77
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5420032,
+              "lng": 10.0284435
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Amsinckstra\u00dfe</b>/<wbr/><b>B4</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gpxeIkxe|@vBrB"
+            },
+            "start_location": {
+              "lat": 53.5425999,
+              "lng": 10.0290247
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1407
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 280
+            },
+            "end_location": {
+              "lat": 53.5479891,
+              "lng": 10.0105543
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Amsinckstra\u00dfe</b>/<wbr/><b>B4</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "olxeIwte|@[tAUlACRStAM|@KbASzAAJOv@Gd@G\\OpAKhAIn@ALGb@QrAKn@AJIb@Kl@Mt@GXMj@U~@YfASv@m@`COh@Mf@ENGXi@rBi@rBk@~BUz@q@fCOn@Uj@AFCJEPCFCFOZQXOTGJWf@SNMJs@n@e@`@o@f@]ZSTSXS^Q\\MZKXKZK`@GZABG^G^[pBId@G\\CNAPCLAPAT?LAh@Af@@h@DrA@Z@p@"
+            },
+            "start_location": {
+              "lat": 53.5420032,
+              "lng": 10.0284435
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5480165,
+              "lng": 10.0102897
+            },
+            "html_instructions": "Keep <b>right</b> to continue on <b>Amsinckstra\u00dfe</b>",
+            "maneuver": "keep-right",
+            "polyline": {
+              "points": "}qyeI}db|@C^AR"
+            },
+            "start_location": {
+              "lat": 53.5479891,
+              "lng": 10.0105543
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5496888,
+              "lng": 10.0092438
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schultzweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cryeIicb|@UFK@}@JQVA?{@j@aAn@a@T_@VYX"
+            },
+            "start_location": {
+              "lat": 53.5480165,
+              "lng": 10.0102897
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "45 m",
+              "value": 45
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5499514,
+              "lng": 10.0097709
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>H\u00fchnerposten</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "q|yeIw|a|@EKWo@Um@"
+            },
+            "start_location": {
+              "lat": 53.5496888,
+              "lng": 10.0092438
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 106
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5505296,
+              "lng": 10.0085288
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>M\u00fcnzstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e~yeIa`b|@Wv@Sj@g@jBCJCDCDCDEBID"
+            },
+            "start_location": {
+              "lat": 53.5499514,
+              "lng": 10.0097709
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 135
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5509104,
+              "lng": 10.0104645
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Altmannbr\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yazeIixa|@QeBCSCIAICQCMCQEUCWGa@Eg@Gk@C]"
+            },
+            "start_location": {
+              "lat": 53.5505296,
+              "lng": 10.0085288
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 372
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.5518621,
+              "lng": 10.0158387
+            },
+            "html_instructions": "Continue onto <b>Kurt-Schumacher-Allee</b>",
+            "polyline": {
+              "points": "edzeIkdb|@AQCSAWGaACYAUEc@MkAAm@O}Ae@aDSkAKi@Kw@MiAK}@KyAIuA"
+            },
+            "start_location": {
+              "lat": 53.5509104,
+              "lng": 10.0104645
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5516721,
+              "lng": 10.0159264
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Nagelsweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cjzeI_fc|@F?DABABA@?DEFE"
+            },
+            "start_location": {
+              "lat": 53.5518621,
+              "lng": 10.0158387
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kxxeIwgf|@zB_Bx@hEn@`EZ`BJp@ARGVvBrB[tAY`Ba@rCq@bFObA[zCe@tDc@lCUnAc@jBkBjHeAdE}CvLOn@Uj@ER]|@a@n@_@r@{BlBmAbAg@n@e@|@Yt@a@|Au@vEQlAE~A?pAFnB@p@C^ARUFiALSV_EhCYXEKm@}Ak@bBk@vBQTIDQeBG]M{@WwBQoBOiCSoBQkCy@mFWaBYgCUoDTENK"
+    },
+    "summary": "Amsinckstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55679869999999,
+        "lng": 9.9364796
+      },
+      "southwest": {
+        "lat": 53.550209,
+        "lng": 9.9185787
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1781
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 366
+        },
+        "end_address": "Hohenzollernring / Friedensallee, 22763 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55679869999999,
+          "lng": 9.9185787
+        },
+        "start_address": "Bahnhof Altona Ost/Max-Brauer-Allee, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5520832,
+          "lng": 9.9361967
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5517797,
+              "lng": 9.936314399999999
+            },
+            "html_instructions": "Head <b>south</b>",
+            "polyline": {
+              "points": "okzeIgts{@^LZc@"
+            },
+            "start_location": {
+              "lat": 53.5520832,
+              "lng": 9.9361967
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "12 m",
+              "value": 12
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5517402,
+              "lng": 9.9364796
+            },
+            "html_instructions": "Slight <b>left</b> toward <b>Max-Brauer-Allee</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "sizeI}ts{@Fa@"
+            },
+            "start_location": {
+              "lat": 53.5517797,
+              "lng": 9.936314399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 163
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 54
+            },
+            "end_location": {
+              "lat": 53.5503101,
+              "lng": 9.9360947
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Max-Brauer-Allee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kizeI_vs{@b@XNFPFVH\\HXFB@TB^?lA@"
+            },
+            "start_location": {
+              "lat": 53.5517402,
+              "lng": 9.9364796
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 115
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5502751,
+              "lng": 9.934369499999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Platz d. Republik</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m`zeIqss{@Av@Cv@AJ?b@?F?\\?B@b@@n@Hx@"
+            },
+            "start_location": {
+              "lat": 53.5503101,
+              "lng": 9.9360947
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 95
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.55021439999999,
+              "lng": 9.9329425
+            },
+            "html_instructions": "Continue onto <b>Lobuschstra\u00dfe</b>",
+            "polyline": {
+              "points": "g`zeIyhs{@Bj@DxAB`A@`@Ar@"
+            },
+            "start_location": {
+              "lat": 53.5502751,
+              "lng": 9.934369499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 186
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.550489,
+              "lng": 9.930169
+            },
+            "html_instructions": "Continue onto <b>Klausstra\u00dfe</b>",
+            "polyline": {
+              "points": "y_zeI{_s{@SnCKzBOvDGdB"
+            },
+            "start_location": {
+              "lat": 53.55021439999999,
+              "lng": 9.9329425
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 206
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5523251,
+              "lng": 9.930297
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bahrenfelder Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qazeIqnr{@UB_@@q@AaAIa@EeAIQ?I?E@GHs@O"
+            },
+            "start_location": {
+              "lat": 53.550489,
+              "lng": 9.930169
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 247
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.55412200000001,
+              "lng": 9.928153
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Bahrenfelder Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "amzeIkor{@AHCFGHIFeAt@{@`A[b@q@z@a@`@Q^g@x@Q\\OV"
+            },
+            "start_location": {
+              "lat": 53.5523251,
+              "lng": 9.930297
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 718
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 155
+            },
+            "end_location": {
+              "lat": 53.55679869999999,
+              "lng": 9.9185787
+            },
+            "html_instructions": "Continue onto <b>Friedensallee</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "gxzeI}ar{@u@xAa@t@s@pAS^_@p@Wl@[p@Kp@GRAJCZM~AEp@CXOrBI~@O~BQbCUxCCl@M|@G^]nBOt@w@xE_@lB"
+            },
+            "start_location": {
+              "lat": 53.55412200000001,
+              "lng": 9.928153
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "okzeIgts{@^LZc@Fa@b@X`@Nt@R\\Ht@BlA@Av@EbA?lABrALdBHzC?tA_@jGW|Gu@DsBKcCOMJs@OAHKPoA|@wAdBsA|Ay@xAa@t@_D`Gw@~A[p@Kp@I^QzBc@~F{@jMU|Am@dDwAfI"
+    },
+    "summary": "Friedensallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

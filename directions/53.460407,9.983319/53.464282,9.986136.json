@@ -1,0 +1,216 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4642734,
+        "lng": 9.9861968
+      },
+      "southwest": {
+        "lat": 53.4602126,
+        "lng": 9.9781028
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1318
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 386
+        },
+        "end_address": "Schellerdamm / Hausnummer 22, 21079 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4642734,
+          "lng": 9.9861968
+        },
+        "start_address": "Herbert-Wehner-Platz / Gro\u00dfer Schippsee, 21073 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.460409,
+          "lng": 9.9833138
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.4602126,
+              "lng": 9.9830747
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Gro\u00dfer Schippsee</b> toward <b>Harburger Ring</b>",
+            "polyline": {
+              "points": "qnheIuz|{@FDTZHL"
+            },
+            "start_location": {
+              "lat": 53.460409,
+              "lng": 9.9833138
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 341
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 126
+            },
+            "end_location": {
+              "lat": 53.4608806,
+              "lng": 9.9781028
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Harburger Ring</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "imheIey|{@K`@Qr@EPG\\E`@G`A?@IfAMfBMnBANIfAGfAIrA?FC`@E|@@n@@d@AP?P"
+            },
+            "start_location": {
+              "lat": 53.4602126,
+              "lng": 9.9830747
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 345
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.4636512,
+              "lng": 9.980355099999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Neue Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oqheIcz{{@MIGKGI_@m@[c@KOIKYWECgAq@OKa@UuAy@_BcAiBgA"
+            },
+            "start_location": {
+              "lat": 53.4608806,
+              "lng": 9.9781028
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 170
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.4640466,
+              "lng": 9.982291
+            },
+            "html_instructions": "Slight <b>right</b> at <b>L\u00e4mmertwiete</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ybieIgh|{@COEICECECCEEECHYBS@C?E@CACUQCCGIGIACAAEEQ]A?AECCGSEM?CAC?A?A?O@OBQBIBS@I@I@EDKDK"
+            },
+            "start_location": {
+              "lat": 53.4636512,
+              "lng": 9.980355099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.4639445,
+              "lng": 9.9822075
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Harburger Schlo\u00dfstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ieieIit|{@TN"
+            },
+            "start_location": {
+              "lat": 53.4640466,
+              "lng": 9.982291
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 248
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.4628044,
+              "lng": 9.985401999999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Karnapp</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sdieIys|{@L{@f@_CZ{Al@iCT{@Ru@JWRe@JWLS"
+            },
+            "start_location": {
+              "lat": 53.4639445,
+              "lng": 9.9822075
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 174
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.4642734,
+              "lng": 9.9861968
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schellerdamm</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o}heIwg}{@IQEKEECEECOKQMKEQE{A_@iBk@"
+            },
+            "start_location": {
+              "lat": 53.4628044,
+              "lng": 9.985401999999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qnheIuz|{@\\`@HLK`@WdAM~@_@rFa@nGSzDBtAAb@UUg@w@g@s@c@c@_CwAuD}BiBgACOIOGIKILm@@QYUOS[i@O]GW?QDa@Jq@FQDKTNt@{DhAeFh@qB^}@Xk@O]_@[]SmBe@iBk@"
+    },
+    "summary": "Harburger Ring and Neue Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

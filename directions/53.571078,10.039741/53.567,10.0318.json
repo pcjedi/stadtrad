@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5710752,
+        "lng": 10.0397503
+      },
+      "southwest": {
+        "lat": 53.5670015,
+        "lng": 10.031798
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 698
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 143
+        },
+        "end_address": "Lerchenfeld / Uferstra\u00dfe, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5670015,
+          "lng": 10.031798
+        },
+        "start_address": "Uferstra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5710752,
+          "lng": 10.0397317
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "3 m",
+              "value": 3
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 0
+            },
+            "end_location": {
+              "lat": 53.571053,
+              "lng": 10.0397503
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Wagnerstra\u00dfe</b> toward <b>Uferstra\u00dfe</b>",
+            "polyline": {
+              "points": "gb~eIi{g|@DC"
+            },
+            "start_location": {
+              "lat": 53.5710752,
+              "lng": 10.0397317
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 695
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 143
+            },
+            "end_location": {
+              "lat": 53.5670015,
+              "lng": 10.031798
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Uferstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ab~eIm{g|@Nd@Z~@\\`ANb@DJf@jAFNfAfCvBtF`@dAPb@\\z@v@hBFNdAjBVf@Nf@Lf@B?D@DBDFfAlCDJTl@x@vBVp@"
+            },
+            "start_location": {
+              "lat": 53.571053,
+              "lng": 10.0397503
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gb~eIi{g|@DCNd@x@`CdAjC~D|Jr@hBtAdDlAzBf@nALf@B?JDlAtClBbF"
+    },
+    "summary": "Uferstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

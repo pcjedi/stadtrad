@@ -1,0 +1,72 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58585129999999,
+        "lng": 10.0679991
+      },
+      "southwest": {
+        "lat": 53.5817957,
+        "lng": 10.0653471
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 486
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 116
+        },
+        "end_address": "U Stra\u00dfburger Stra\u00dfe / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5817957,
+          "lng": 10.0679991
+        },
+        "start_address": "U Alter Teichweg / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58585129999999,
+          "lng": 10.0653471
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 486
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 116
+            },
+            "end_location": {
+              "lat": 53.5817957,
+              "lng": 10.0679991
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Nordschleswiger Str.</b> toward <b>Dulsberg-Nord</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "q~`fIm{l|@~@y@hA}@`BiAVQn@a@^Sb@Un@]|@a@z@_@VKf@SlAUVMt@u@TGTO"
+            },
+            "start_location": {
+              "lat": 53.58585129999999,
+              "lng": 10.0653471
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "q~`fIm{l|@hCwBxB{AnAu@rAs@xDaBlAUVMt@u@TGTO"
+    },
+    "summary": "Nordschleswiger Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

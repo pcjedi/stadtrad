@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5269522,
+        "lng": 10.0980711
+      },
+      "southwest": {
+        "lat": 53.5162493,
+        "lng": 10.0793807
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1924
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 383
+        },
+        "end_address": "Bredowstra\u00dfe / Pinkertweg, 22113 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5269522,
+          "lng": 10.0793807
+        },
+        "start_address": "Alter Landweg 40, 22113 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5163603,
+          "lng": 10.0963195
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 366
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.51855380000001,
+              "lng": 10.0980711
+            },
+            "html_instructions": "Head <b>west</b>",
+            "polyline": {
+              "points": "glseI_}r|@AD?@?DBF@DFX?@HNUj@CJWj@EJA@CBA?C?AAAACGACOUKMAAYe@[g@S[_AwA[e@[e@[e@aCqD"
+            },
+            "start_location": {
+              "lat": 53.5163603,
+              "lng": 10.0963195
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.6 km",
+              "value": 1558
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 281
+            },
+            "end_location": {
+              "lat": 53.5269522,
+              "lng": 10.0793807
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bredowstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}yseI}gs|@i@xAo@hBM`@Un@_@fAk@hB]|@CFK\\k@bBa@xAi@hBe@zA[dAU|@Ob@W~@GPSr@c@zAe@~Ao@zBk@pBiAxDGRe@~Aq@vBm@rBm@pBg@fBc@|AOh@Kh@Y~@[`Aa@nAa@pAk@lB_@dAa@jAa@~@c@`Aa@z@c@x@U^[f@w@tASZAB_@j@k@v@KHWVEFEB"
+            },
+            "start_location": {
+              "lat": 53.51855380000001,
+              "lng": 10.0980711
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "glseI_}r|@AFBLH^HPq@bBKPICa@o@_FuHaCqDi@xA}@jC_C~G}AbFaChIiFrQiDdLgDjL[rAu@`CoCtIcAjCeA|BmCvEaBbCo@l@"
+    },
+    "summary": "Bredowstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5781544,
+        "lng": 9.9788309
+      },
+      "southwest": {
+        "lat": 53.5745464,
+        "lng": 9.975954999999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 731
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 154
+        },
+        "end_address": "Grindelberg / Bezirksamt Eimsb\u00fcttel, 20144 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5754933,
+          "lng": 9.9779035
+        },
+        "start_address": "U Hoheluftbr\u00fccke / Kaiser-Friedrich-Ufer, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780879,
+          "lng": 9.975954999999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "html_instructions": "Head <b>northeast</b>",
+            "polyline": {
+              "points": "an_fIul{{@KU"
+            },
+            "start_location": {
+              "lat": 53.5780879,
+              "lng": 9.975954999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5781257,
+              "lng": 9.976353
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Grindelberg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mn_fIkm{{@Ne@@A?C?A?AAA?A?AA??AC?EA"
+            },
+            "start_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 438
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.5745687,
+              "lng": 9.977266799999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Grindelberg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "in_fIeo{{@^w@Xi@FKBIFKFILORSVa@DIR_@PSNKRMVOVGPATDVBt@ZvAb@bBh@dCX"
+            },
+            "start_location": {
+              "lat": 53.5781257,
+              "lng": 9.976353
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 100
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.57460159999999,
+              "lng": 9.9787687
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Grindelberg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ax~eI}t{{@@[@U@]AQASAY?k@AK?E?O?m@?I?KCI"
+            },
+            "start_location": {
+              "lat": 53.5745687,
+              "lng": 9.977266799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 156
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5754933,
+              "lng": 9.9779035
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Grindelberg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gx~eIi~{{@CCCCICKAO?O@Q?K?SA[@Q?GDE@?@ABAH?L?F?D?D?b@Ax@?X?F"
+            },
+            "start_location": {
+              "lat": 53.57460159999999,
+              "lng": 9.9787687
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "an_fIul{{@KUNe@@A?GCECAEA^w@`@u@JUTYj@u@Xi@`@_@j@]VGPAl@Ht@ZvAb@bBh@dCXBq@C}AAmA?w@CUCCMG}@?mA?OLAd@AdC"
+    },
+    "summary": "Grindelberg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

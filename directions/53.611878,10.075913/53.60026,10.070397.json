@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6119902,
+        "lng": 10.0759136
+      },
+      "southwest": {
+        "lat": 53.6003639,
+        "lng": 10.0687011
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1530
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 449
+        },
+        "end_address": "Werner-Otto-Stra\u00dfe / OTTO Group, 22179 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.60042259999999,
+          "lng": 10.0703664
+        },
+        "start_address": "Herthastra\u00dfe / Bramfelder Chaussee, 22179 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.61183219999999,
+          "lng": 10.0759136
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 98
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.6119902,
+              "lng": 10.0744742
+            },
+            "html_instructions": "Head <b>west</b> on <b>Herthastra\u00dfe</b> toward <b>Bramfelder Ch</b>",
+            "polyline": {
+              "points": "}`ffIm}n|@?JAp@?D?h@El@E~@?@Id@GZ"
+            },
+            "start_location": {
+              "lat": 53.61183219999999,
+              "lng": 10.0759136
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1249
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 328
+            },
+            "end_location": {
+              "lat": 53.6013455,
+              "lng": 10.0687011
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bramfelder Ch</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}affImtn|@\\V`@Ln@f@bA^f@Nh@Ht@V~@X^L\\LLFZRLJRVXVbB|ALHHHRPVNXPRH\\HjAf@`@PtBz@xAb@j@NbBf@PF`Bh@h@P~Ah@ZJ?@^LjA^DBRFDBTF`@L`@\\nAb@d@N@@\\NZL^T\\Pv@f@dAt@"
+            },
+            "start_location": {
+              "lat": 53.6119902,
+              "lng": 10.0744742
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 124
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Moosrosenweg</b>/<wbr/><b>Werner-Otto-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "m_dfIkpm|@Ja@d@[`@W`@WBATAt@i@"
+            },
+            "start_location": {
+              "lat": 53.6013455,
+              "lng": 10.0687011
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.60042259999999,
+              "lng": 10.0703664
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Restricted usage road</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gycfIgum|@KqD"
+            },
+            "start_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}`ffIm}n|@AlBKlBIf@GZ\\V`@Ln@f@bA^f@N~A`@~Af@j@Th@^l@n@nCbCp@`@p@RlBx@tBz@xAb@nCv@rBp@dDhAdCx@ZJ`@L`@\\tBr@^Pz@b@tAx@dAt@Ja@fAs@d@YTAt@i@KqD"
+    },
+    "summary": "Bramfelder Ch",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

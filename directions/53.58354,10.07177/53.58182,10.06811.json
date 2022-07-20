@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5835523,
+        "lng": 10.0719805
+      },
+      "southwest": {
+        "lat": 53.5817957,
+        "lng": 10.0675389
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.4 km",
+          "value": 419
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 164
+        },
+        "end_address": "U Stra\u00dfburger Stra\u00dfe / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5817957,
+          "lng": 10.0679991
+        },
+        "start_address": "Eulenkamp / Stra\u00dfburger Stieg, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5834823,
+          "lng": 10.0718035
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5835523,
+              "lng": 10.0719805
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Stra\u00dfburger Stieg</b> toward <b>Eulenkamp</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "wo`fIwcn|@AEEOEM"
+            },
+            "start_location": {
+              "lat": 53.5834823,
+              "lng": 10.0718035
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "44 m",
+              "value": 44
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5832099,
+              "lng": 10.0716399
+            },
+            "html_instructions": "Sharp <b>right</b> onto <b>Eulenkamp</b>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "ep`fI{dn|@bAbA"
+            },
+            "start_location": {
+              "lat": 53.5835523,
+              "lng": 10.0719805
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 285
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.58241,
+              "lng": 10.0675389
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Stra\u00dfburger Str.</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "an`fIwbn|@Jz@b@fDDR^tCXlC@HFh@N~AP`BB`@"
+            },
+            "start_location": {
+              "lat": 53.5832099,
+              "lng": 10.0716399
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "76 m",
+              "value": 76
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5817957,
+              "lng": 10.0679991
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Nordschleswiger Str.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ai`fIcim|@VMRONGP]TGTO"
+            },
+            "start_location": {
+              "lat": 53.58241,
+              "lng": 10.0675389
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wo`fIwcn|@GUEMbAbAn@bFd@hDr@`HTbCj@]NGP]j@W"
+    },
+    "summary": "Stra\u00dfburger Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

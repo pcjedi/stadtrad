@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6009992,
+        "lng": 10.0445087
+      },
+      "southwest": {
+        "lat": 53.5914673,
+        "lng": 10.040986
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1100
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 227
+        },
+        "end_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hartzloh, 22307 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6009992,
+          "lng": 10.040986
+        },
+        "start_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hellbrookstra\u00dfe, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5914673,
+          "lng": 10.0445087
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "5 m",
+              "value": 5
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5914703,
+              "lng": 10.044426
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hellbrookstra\u00dfe</b> toward <b>Fuhlsb\u00fcttler Str.</b>",
+            "polyline": {
+              "points": "uabfIeyh|@?N"
+            },
+            "start_location": {
+              "lat": 53.5914673,
+              "lng": 10.0445087
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1095
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 226
+            },
+            "end_location": {
+              "lat": 53.6009992,
+              "lng": 10.040986
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Fuhlsb\u00fcttler Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uabfIuxh|@k@T}@PW?_@?kAG[AWCW?cABUBYBU@c@Bs@NkAX}Cr@i@NkDfA_@JkAj@w@b@}CrB[PWNSJYRCBMHKHCD[PGBIFSJMJUPoAb@{ARoALaBLK@"
+            },
+            "start_location": {
+              "lat": 53.5914703,
+              "lng": 10.044426
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "uabfIeyh|@?Nk@T}@PW?kBGs@E{ABo@Fy@D_Ch@gEbAkErAcCnAyDdCiAr@YR_@Vs@b@UPoAb@kD`@mBN"
+    },
+    "summary": "Fuhlsb\u00fcttler Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

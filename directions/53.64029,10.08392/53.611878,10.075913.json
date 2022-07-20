@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6404084,
+        "lng": 10.0943896
+      },
+      "southwest": {
+        "lat": 53.61183219999999,
+        "lng": 10.0744742
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.1 km",
+          "value": 4105
+        },
+        "duration": {
+          "text": "13 mins",
+          "value": 785
+        },
+        "end_address": "Herthastra\u00dfe / Bramfelder Chaussee, 22179 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.61183219999999,
+          "lng": 10.0759136
+        },
+        "start_address": "S Wellingsb\u00fcttel / Rolfinckstra\u00dfe, 22391 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6404084,
+          "lng": 10.083994
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 580
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 104
+            },
+            "end_location": {
+              "lat": 53.6391222,
+              "lng": 10.0924865
+            },
+            "html_instructions": "Head <b>east</b> on <b>Rolfinckstra\u00dfe</b> toward <b>Rabenhorst</b>",
+            "polyline": {
+              "points": "qskfI}op|@Ho@Hm@ZkCJmAFq@^mDBULeALqAp@_H?ABONeBB]@MJiA@WVgDDu@@c@Bi@@u@?_@AQ?c@"
+            },
+            "start_location": {
+              "lat": 53.6404084,
+              "lng": 10.083994
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.6386218,
+              "lng": 10.0943896
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Rolfinckstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "okkfIaer|@DABCJQBSBKBW@Q@CB_@@OF{@Dc@?M@IF}@@M@EBE@EFGLG"
+            },
+            "start_location": {
+              "lat": 53.6391222,
+              "lng": 10.0924865
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 641
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 137
+            },
+            "end_location": {
+              "lat": 53.63340849999999,
+              "lng": 10.0903288
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Saseler Chaussee</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "khkfI}pr|@\\D`Ar@TNt@j@f@^`@XHFn@d@^XhBnAtBzAhAr@hA`Ad@d@JLR\\\\\\XTZVTBtAx@fAt@"
+            },
+            "start_location": {
+              "lat": 53.6386218,
+              "lng": 10.0943896
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.6 km",
+              "value": 2641
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 443
+            },
+            "end_location": {
+              "lat": 53.6119902,
+              "lng": 10.0744742
+            },
+            "html_instructions": "Continue onto <b>Bramfelder Ch</b>",
+            "polyline": {
+              "points": "ygjfIqwq|@ZTr@j@v@j@^VVPFDXPHF`@\\J\\pAdAVFd@`@~AnAlCzBf@`@fAz@~@t@VTPZ\\VRRb@`@d@`@XTZRZNZJNDZHx@LjBZnBVlARz@LpATRBRF^F`@HdAPB@l@PNFjAl@n@f@@@x@l@fAv@l@`@RFr@j@dAz@ZVzBfBt@l@b@^PLTTNNzBtB\\XJ^LPf@l@PVTVLPTZb@z@\\p@`@t@f@r@Z\\t@~@`@h@Z^Xb@V`@b@j@NNB@@@@?FALNh@j@VTFDXTd@Xh@VTJRHb@Nb@FH@v@D`@Fr@JB@VR\\PtC`BpBhA\\VNHr@f@~@t@"
+            },
+            "start_location": {
+              "lat": 53.63340849999999,
+              "lng": 10.0903288
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 98
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.61183219999999,
+              "lng": 10.0759136
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Herthastra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}affImtn|@F[He@?AD_ADm@?i@?E@q@?K"
+            },
+            "start_location": {
+              "lat": 53.6119902,
+              "lng": 10.0744742
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qskfI}op|@R}Af@yEx@{HbAcK`@{EX_EFyABqC?c@DANULiA^iFH_@TO\\D`Ar@jAz@hAx@bEvC~DnCnBfB^j@v@r@ZVTB|CnBfDdCbAp@`@\\J\\pAdAVFdCpBtD|CfCpBVTPZp@j@hAbAt@h@v@Zj@NdDh@|Dj@lCb@hB\\hAR|@XjAl@n@f@z@n@tBxARFr@j@`BrApDtCzArAxCnCJ^LPx@dAb@h@x@vA~@fBzCzDpBpCVRFALN`A`A`@ZnAp@h@TfAV`AFtARZTrDrBnC`BbAp@~@t@F[Hg@J}C@}@"
+    },
+    "summary": "Bramfelder Ch",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

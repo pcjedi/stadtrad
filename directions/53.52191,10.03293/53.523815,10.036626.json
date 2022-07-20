@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.52659629999999,
+        "lng": 10.0366711
+      },
+      "southwest": {
+        "lat": 53.5218538,
+        "lng": 10.0260545
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1462
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 281
+        },
+        "end_address": "Peutestra\u00dfe / Hatraco, 20539 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5238634,
+          "lng": 10.0366711
+        },
+        "start_address": "Hovestra\u00dfe / Aurubis, 20539 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5218538,
+          "lng": 10.0328782
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 521
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 90
+            },
+            "end_location": {
+              "lat": 53.52415629999999,
+              "lng": 10.0260545
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Hovestra\u00dfe</b> toward <b>Zweite Peuter Br\u00fccke</b>",
+            "polyline": {
+              "points": "qnteIopf|@oBvISt@o@pCCJSr@i@nBMh@[r@Qt@]tAQt@U`AIh@YpBQjA_@z@"
+            },
+            "start_location": {
+              "lat": 53.5218538,
+              "lng": 10.0328782
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 308
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.52659629999999,
+              "lng": 10.0282683
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Oberwerder Damm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_}teIyee|@uCkCaByAiEuDe@_@"
+            },
+            "start_location": {
+              "lat": 53.52415629999999,
+              "lng": 10.0260545
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 633
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 136
+            },
+            "end_location": {
+              "lat": 53.5238634,
+              "lng": 10.0366711
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Peutestra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "glueIuse|@Lo@@InAgF^iB^}Ah@cCXqAxBqJbAsEPu@z@yDHYh@_C"
+            },
+            "start_location": {
+              "lat": 53.52659629999999,
+              "lng": 10.0282683
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qnteIopf|@wDjP}@bDMh@[r@o@jCg@vBc@zCQjA_@z@wFeFoFuENy@nBqI|EeTzC}Mh@_C"
+    },
+    "summary": "Hovestra\u00dfe and Peutestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

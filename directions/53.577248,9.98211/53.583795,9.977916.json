@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.583875,
+        "lng": 9.9821098
+      },
+      "southwest": {
+        "lat": 53.5772339,
+        "lng": 9.9779957
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 964
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 201
+        },
+        "end_address": "L\u00f6wenstra\u00dfe / Eppendorfer Weg, 20251 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.583875,
+          "lng": 9.9779957
+        },
+        "start_address": "Innocentiapark / Oberstra\u00dfe, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5772437,
+          "lng": 9.9821098
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5772339,
+              "lng": 9.981892799999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Oberstra\u00dfe</b> toward <b>Brahmsallee</b>",
+            "polyline": {
+              "points": "wh_fIes|{@AXBP"
+            },
+            "start_location": {
+              "lat": 53.5772437,
+              "lng": 9.9821098
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 185
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5788215,
+              "lng": 9.9815186
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Brahmsallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uh_fIyq|{@G?C@A@A@CB?@ILQZCDEDQFqF?"
+            },
+            "start_location": {
+              "lat": 53.5772339,
+              "lng": 9.981892799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 115
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.57880919999999,
+              "lng": 9.979770199999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Innocentiastra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sr_fIoo|{@@bH?x@"
+            },
+            "start_location": {
+              "lat": 53.5788215,
+              "lng": 9.9815186
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 303
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5814536,
+              "lng": 9.9795169
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Klosterallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qr_fIqd|{@aCAg@KeAGk@Bs@FOBCHo@CY@I?W?K@IAG?C?C@C@GLM\\"
+            },
+            "start_location": {
+              "lat": 53.57880919999999,
+              "lng": 9.979770199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 171
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5829408,
+              "lng": 9.980139000000001
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lehmweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ac`fI_c|{@_@MIE]OUIcBk@o@Ow@Q"
+            },
+            "start_location": {
+              "lat": 53.5814536,
+              "lng": 9.9795169
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 176
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.583875,
+              "lng": 9.9779957
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>L\u00f6wenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kl`fI{f|{@Mj@EHOb@[`AGRWn@a@fAKZQf@ITGPIV"
+            },
+            "start_location": {
+              "lat": 53.5829408,
+              "lng": 9.980139000000001
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh_fIes|{@@j@K@GHe@t@QFqF?@|IaCAg@KeAGk@BcAJCHo@CY@a@?a@?GBUj@}Am@cBk@o@Ow@QMj@Ul@c@tAwAzD[~@"
+    },
+    "summary": "Klosterallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

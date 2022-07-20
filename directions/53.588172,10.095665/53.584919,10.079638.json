@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5882436,
+        "lng": 10.0956792
+      },
+      "southwest": {
+        "lat": 53.5849762,
+        "lng": 10.0796015
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1148
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 336
+        },
+        "end_address": "Friedrich-Ebert-Damm / Lomerstra\u00dfe, 22047 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5849762,
+          "lng": 10.0796015
+        },
+        "start_address": "Friedrich-Ebert-Damm / Helbingtwiete, 22047 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5881481,
+          "lng": 10.0956792
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5880479,
+              "lng": 10.0951918
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Helbingtwiete</b>",
+            "polyline": {
+              "points": "}lafI_yr|@Ff@Jx@"
+            },
+            "start_location": {
+              "lat": 53.5881481,
+              "lng": 10.0956792
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1085
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 264
+            },
+            "end_location": {
+              "lat": 53.5851343,
+              "lng": 10.0798759
+            },
+            "html_instructions": "Take the crosswalk",
+            "polyline": {
+              "points": "ilafI}ur|@UJOHZfCRbBJt@NjAb@zCJhADRJdAJv@Fh@Fj@Fh@Hh@TjBPtA\\tCJt@Hz@PzARzAT~AL|@NbALhALpAHl@ThB\\lCt@nGDb@X|BLjAFd@NjAFh@RdBHh@"
+            },
+            "start_location": {
+              "lat": 53.5880479,
+              "lng": 10.0951918
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5850251,
+              "lng": 10.0798233
+            },
+            "html_instructions": "Turn <b>left</b> at <b>Schneegl\u00f6ckchenweg</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "az`fIgvo|@RJ"
+            },
+            "start_location": {
+              "lat": 53.5851343,
+              "lng": 10.0798759
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5849762,
+              "lng": 10.0796015
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedrich-Ebert-Damm</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "my`fI{uo|@DTBT"
+            },
+            "start_location": {
+              "lat": 53.5850251,
+              "lng": 10.0798233
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}lafI_yr|@R`Be@TjAlJn@dFPxAb@vDnA`KTpBd@vD`AjHV~Br@vFbB|Nr@`GHh@RJHj@"
+    },
+    "summary": "Friedrich-Ebert-Damm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4909468,
+        "lng": 10.2110124
+      },
+      "southwest": {
+        "lat": 53.4884484,
+        "lng": 10.2062681
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 480
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 103
+        },
+        "end_address": "Bahnhof Bergedorf / Johann-Meyer-Stra\u00dfe, 21031 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.49035019999999,
+          "lng": 10.2062681
+        },
+        "start_address": "Vierlandenstra\u00dfe / Johann-Adolf-Hasse-Platz, 21029 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4884484,
+          "lng": 10.210975
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.488606,
+              "lng": 10.2110124
+            },
+            "html_instructions": "Head <b>north</b> on <b>Vierlandenstra\u00dfe</b> toward <b>Bergedorfer Schlo\u00dfstra\u00dfe</b>",
+            "polyline": {
+              "points": "y}meIsii}@E?G?EAKC"
+            },
+            "start_location": {
+              "lat": 53.4884484,
+              "lng": 10.210975
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.48876970000001,
+              "lng": 10.2107734
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Johann-Adolf-Hasse-Platz</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "y~meIyii}@_@n@"
+            },
+            "start_location": {
+              "lat": 53.488606,
+              "lng": 10.2110124
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 318
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 75
+            },
+            "end_location": {
+              "lat": 53.4909483,
+              "lng": 10.2077778
+            },
+            "html_instructions": "Continue onto <b>Alte Holstenstra\u00dfe</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "polyline": {
+              "points": "y_neIihi}@W\\MTMTINYh@CDW^[d@QXc@l@EFEFILCDADAFA?A??AA?A??@A?A@?@A??@A??@?@?@?@A??@?@?@?@@??@?@?@MLIFGFMLY\\QVORMPEHINU`@GJQVGF"
+            },
+            "start_location": {
+              "lat": 53.48876970000001,
+              "lng": 10.2107734
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 120
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.49035019999999,
+              "lng": 10.2062681
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mmneIsuh}@?@j@jBz@tCNh@"
+            },
+            "start_location": {
+              "lat": 53.4909483,
+              "lng": 10.2077778
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "y}meIsii}@M?QEsAxB_A~AwAtBU`@CFAAC@C@EL@FMPy@z@u@fAy@tAGHfB`GNh@"
+    },
+    "summary": "Alte Holstenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5636566,
+        "lng": 10.0339528
+      },
+      "southwest": {
+        "lat": 53.5589683,
+        "lng": 10.02211
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1278
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 309
+        },
+        "end_address": "Alsterschwimmhalle / Ifflandstra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5615383,
+          "lng": 10.02211
+        },
+        "start_address": "U Wartenau / L\u00fcbecker Stra\u00dfe, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5636566,
+          "lng": 10.0339528
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 757
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 194
+            },
+            "end_location": {
+              "lat": 53.5589683,
+              "lng": 10.025994
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b> toward <b>Freiligrathstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "{s|eIewf|@h@j@FZPNh@f@RRNNZZTTXd@LLfAbAh@d@FDPRHJJLRXJPNZLXHNXr@BDBFNh@Ph@Rh@Vr@Nd@BFBDBB@BHBj@bBZ|@LX^fAl@bBVr@Zz@Ph@BFRh@Dj@@JX~@V|@"
+            },
+            "start_location": {
+              "lat": 53.5636566,
+              "lng": 10.0339528
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 261
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.5612679,
+              "lng": 10.0252739
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>M\u00fchlendamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qv{eImee|@[FYFYHa@JWHWP]FoARi@JcAPw@LUD"
+            },
+            "start_location": {
+              "lat": 53.5589683,
+              "lng": 10.025994
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5610169,
+              "lng": 10.0222675
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hohenfelder Terrasse</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}d|eI}`e|@DhABd@LfDBh@RlF@f@"
+            },
+            "start_location": {
+              "lat": 53.5612679,
+              "lng": 10.0252739
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5615383,
+              "lng": 10.02211
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ifflandstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kc|eIend|@SDsAX"
+            },
+            "start_location": {
+              "lat": 53.5610169,
+              "lng": 10.0222675
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{s|eIewf|@h@j@FZz@v@tAtAf@r@pBhBn@r@^j@\\t@j@pAlApDZv@JFfA`DrBxFdAvCFv@p@|BqBd@WHWPmBZ{Dp@Z`ITtGgB^"
+    },
+    "summary": "L\u00fcbecker Str./B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

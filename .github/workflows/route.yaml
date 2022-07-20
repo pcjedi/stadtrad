@@ -1,0 +1,32 @@
+name: Stadtrad
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/route.yaml"
+      - "traveling-salesman/*"
+
+env:
+  GMAPSKEY: ${{ secrets.GMAPSKEY }}
+
+jobs:
+  j1:
+    runs-on: ubuntu-latest
+    container: python:slim
+    steps:
+      - run: apt-get update
+      - run: apt-get -y install git
+      - uses: actions/checkout@main
+      - run: pip install -r traveling-salesman/requirements.txt
+      - run: python traveling-salesman/solve-route.py
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git config pull.rebase true
+          git add directions/*
+          git commit -a --allow-empty-message -m '' || exit 0
+          git pull && git push

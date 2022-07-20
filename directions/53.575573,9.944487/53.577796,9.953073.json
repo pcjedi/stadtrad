@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57784299999999,
+        "lng": 9.9530023
+      },
+      "southwest": {
+        "lat": 53.5743573,
+        "lng": 9.9445511
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 921
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 227
+        },
+        "end_address": "Heu\u00dfweg / Wiesenstra\u00dfe, 20255 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57784299999999,
+          "lng": 9.9530023
+        },
+        "start_address": "Lappenbergsallee / Bei der Apostelkirche, 20257 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5756317,
+          "lng": 9.9445511
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 144
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5749073,
+              "lng": 9.9463578
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Lappenbergsallee</b> toward <b>Faberstra\u00dfe</b>",
+            "polyline": {
+              "points": "u~~eImhu{@FSb@oAFQFWDKlAoE"
+            },
+            "start_location": {
+              "lat": 53.5756317,
+              "lng": 9.9445511
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 102
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.575491,
+              "lng": 9.9475426
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schwenckestra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ez~eIwsu{@sBkF"
+            },
+            "start_location": {
+              "lat": 53.5749073,
+              "lng": 9.9463578
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 208
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5744373,
+              "lng": 9.9501402
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sillemstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "y}~eIc{u{@h@mB@Ed@}APk@XaAPq@h@kBDKDO@ABCDG"
+            },
+            "start_location": {
+              "lat": 53.575491,
+              "lng": 9.9475426
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 467
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 127
+            },
+            "end_location": {
+              "lat": 53.57784299999999,
+              "lng": 9.9530023
+            },
+            "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>Heu\u00dfweg</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "gw~eIkkv{@@?@?@?@?@??A@??A@A?A@??A?A?A?A@??A?A?A?A?A?AA??A?A?AA??A?AA??AA??AA??AA?A?A?A@A?O[OWS]Y_@Y_@CC}@_Ai@OEAe@OC?aAWYIA?EDc@GGAC?[IA?EAk@MMEAAm@K?A@??A?A?A?A?A?A?A?A?AA??AA??AA?A?A?A@?@A??@UUCCYc@EKMYGKO]EKMY"
+            },
+            "start_location": {
+              "lat": 53.5744373,
+              "lng": 9.9501402
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "u~~eImhu{@z@mCrA{EsBkFh@mBf@cBj@mBfAyDLMB?BADG?SGKEAC@_@s@gA}AaAcAo@QeCq@A?EDc@GKA]IaAWm@M@??C?C?GGEEBUS]g@k@oASe@"
+    },
+    "summary": "Heu\u00dfweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

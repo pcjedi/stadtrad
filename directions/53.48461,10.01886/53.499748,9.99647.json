@@ -1,0 +1,142 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4994931,
+        "lng": 10.0198591
+      },
+      "southwest": {
+        "lat": 53.4845732,
+        "lng": 9.996277500000001
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.7 km",
+          "value": 2717
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 519
+        },
+        "end_address": "Ursula-Falke-Terrassen, Rathaus, 21107 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4994931,
+          "lng": 9.996277500000001
+        },
+        "start_address": "Karl-Arnold-Ring / Dahlgr\u00fcnring, 21109 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4845732,
+          "lng": 10.0187882
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 202
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.4859927,
+              "lng": 10.0168813
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Karl-Arnold-Ring</b> toward <b>Ottensweide</b>",
+            "polyline": {
+              "points": "qemeImxc|@GHCDs@`AU\\oBtCOTA@QZQX_@h@"
+            },
+            "start_location": {
+              "lat": 53.4845732,
+              "lng": 10.0187882
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 695
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 148
+            },
+            "end_location": {
+              "lat": 53.4913709,
+              "lng": 10.0185684
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Otto-Brenner-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mnmeIolc|@[_AoA_DIUKSM[AC]s@Yk@o@}@U]_@a@QOWMQIUACA]KYGYCUCYA]Ae@@g@BWB]Fo@R]L{@XQHWJ_@LWJIB]LgA`@KHGFA@CBADCFENGX"
+            },
+            "start_location": {
+              "lat": 53.4859927,
+              "lng": 10.0168813
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.6 km",
+              "value": 1619
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 280
+            },
+            "end_location": {
+              "lat": 53.49874459999999,
+              "lng": 9.9990338
+            },
+            "html_instructions": "Continue onto <b>Neuenfelder Str.</b>",
+            "polyline": {
+              "points": "apneIawc|@QrCI`A?LCZO|BKnAIr@Gh@Gl@EREZWhAK\\M^M^QZMVQRWX[X_@ZUNi@d@YXEHMJKNS^A@ORQXGHINY\\[\\WZWPQLa@VCBgBdA_Aj@MFQP]XKJKLIRMXITIX?@I^K\\Kr@ALIp@OnCGnAC^Ip@C^Ij@Gd@WpBKv@]~C[nCEZGl@Mr@I`@EZg@lDOx@Mp@Q~@SdAEVWvAGRKf@Qz@GVUnAU~@U`AMp@Kt@E^"
+            },
+            "start_location": {
+              "lat": 53.4913709,
+              "lng": 10.0185684
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.4994931,
+              "lng": 9.996277500000001
+            },
+            "html_instructions": "Continue onto <b>Mengestra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "c~oeI}|_|@QnAIj@Mz@Q~@AFAFMl@Qr@Ol@WtAMv@"
+            },
+            "start_location": {
+              "lat": 53.49874459999999,
+              "lng": 9.9990338
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qemeImxc|@uAnBsChEq@bA[_AoA_DUi@O_@w@_BeA{Aq@q@i@WYCw@SgBKmADu@JiCz@aBn@g@PsAj@ORIVGXQrCInASxCe@zEKn@c@fB[~@_@r@i@l@{@t@_At@_@b@o@|@s@fAu@z@o@l@_DnBmAr@o@j@WXWl@]pAWpAK~@W~EMpAm@bFkAbKe@~Cw@fF_@pBy@hE{@jEk@`CYfBo@vEc@|Ba@`Be@lC"
+    },
+    "summary": "Otto-Brenner-Stra\u00dfe and Neuenfelder Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

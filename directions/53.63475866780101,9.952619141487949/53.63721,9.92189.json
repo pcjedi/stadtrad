@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6397864,
+        "lng": 9.9527026
+      },
+      "southwest": {
+        "lat": 53.63476929999999,
+        "lng": 9.9218419
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.4 km",
+          "value": 2390
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 548
+        },
+        "end_address": "Modering / Oldesloer Stra\u00dfe, 22457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6373096,
+          "lng": 9.9218419
+        },
+        "start_address": "U Schippelsweg / Paul-Sorge-Stra\u00dfe, 22455 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.63476929999999,
+          "lng": 9.9527026
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 227
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.6367643,
+              "lng": 9.9519593
+            },
+            "html_instructions": "Head <b>north</b> on <b>Paul-Sorge-Stra\u00dfe</b> toward <b>Schippelsweg</b>",
+            "polyline": {
+              "points": "ipjfIk{v{@C?s@R{@X[HMBWFODcAVg@P{A^"
+            },
+            "start_location": {
+              "lat": 53.63476929999999,
+              "lng": 9.9527026
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.0 km",
+              "value": 1965
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 389
+            },
+            "end_location": {
+              "lat": 53.6384404,
+              "lng": 9.9235484
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Vielohweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "w|jfIwvv{@D\\?D?B?FKrAOtCQzDEz@ABGhAC\\Ix@SvAc@hBe@nBADSz@Wv@WbAI\\W`A_@~AERSv@ELo@pC[vAEPCJAJIn@QnBE`@m@dF]bDGd@UfCEX?D?B?BEhA?lC@l@AdB?HAj@E|AA^AR?FGhBABClAEdA?f@Ah@?J?F@T@RPvBDf@Fn@Db@Fn@LbAJx@H|@LjAPvAD\\H|@B\\BVD`@TvBFp@N~AD\\LnA@FBPJpA@F@FLzA@JDv@Bf@@b@?TBhA?J?L@F?N?@@pAHxF?J?N?d@ANCLAHCH"
+            },
+            "start_location": {
+              "lat": 53.6367643,
+              "lng": 9.9519593
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "50 m",
+              "value": 50
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.63821549999999,
+              "lng": 9.9228954
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Oldesloer Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ggkfIeeq{@L`@Rz@Hb@"
+            },
+            "start_location": {
+              "lat": 53.6384404,
+              "lng": 9.9235484
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 148
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.6373096,
+              "lng": 9.9218419
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Modering</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{ekfIcaq{@xAUH?D@@@DBDFDPLf@ThAN`ABR"
+            },
+            "start_location": {
+              "lat": 53.63821549999999,
+              "lng": 9.9228954
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ipjfIk{v{@oCv@yBh@cCp@Db@[tFa@dIMvASvAc@hBg@tBk@rByAbGoAjFg@`C[~Cs@fGaAjJEvA?jHY`KGbDThDZjDp@fGlAtLx@hIXfEDnCL~J?t@E\\ER`@|AHb@xAUN@FDJXb@pBRtA"
+    },
+    "summary": "Vielohweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

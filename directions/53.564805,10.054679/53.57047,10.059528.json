@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57029319999999,
+        "lng": 10.0596417
+      },
+      "southwest": {
+        "lat": 53.5648518,
+        "lng": 10.0547035
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 843
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 229
+        },
+        "end_address": "S+U Wandsbeker Chaussee / B\u00f6rnestra\u00dfe, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57029319999999,
+          "lng": 10.0596417
+        },
+        "start_address": "S Hasselbrook / Papenstra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5648518,
+          "lng": 10.0548182
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "html_instructions": "Head <b>northwest</b> toward <b>Hasselbrookstra\u00dfe</b>",
+            "polyline": {
+              "points": "i{|eIsyj|@WV"
+            },
+            "start_location": {
+              "lat": 53.5648518,
+              "lng": 10.0548182
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.56595060000001,
+              "lng": 10.057231
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hasselbrookstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a||eI{xj|@EUUeAIc@WiAEYOq@[cAACc@_Am@{A"
+            },
+            "start_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 395
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 97
+            },
+            "end_location": {
+              "lat": 53.5694627,
+              "lng": 10.0564265
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hammer Steindamm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "eb}eIuhk|@}@HQ@cAFw@JiANOBSBgAJQ@_D`@}@PA?SDKDGBGDCBC@QH"
+            },
+            "start_location": {
+              "lat": 53.56595060000001,
+              "lng": 10.057231
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 232
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.57029319999999,
+              "lng": 10.0596417
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wandsbeker Chaussee</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cx}eIuck|@S}@e@mCEUCOYiBSuAKk@SiAE[M}@"
+            },
+            "start_location": {
+              "lat": 53.5694627,
+              "lng": 10.0564265
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i{|eIsyj|@WVEU_@iB]cBk@uBe@cAm@{A}@HuAHaCZ}BT_D`@}@PUD_@RUJy@kEw@eFs@oE"
+    },
+    "summary": "Hammer Steindamm and Wandsbeker Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

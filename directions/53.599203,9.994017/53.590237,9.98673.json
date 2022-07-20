@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5992293,
+        "lng": 9.9940108
+      },
+      "southwest": {
+        "lat": 53.59028679999999,
+        "lng": 9.9867416
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1279
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 311
+        },
+        "end_address": "K\u00fcmmellstra\u00dfe / Robert-Koch-Stra\u00dfe, 20249 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5903244,
+          "lng": 9.9867416
+        },
+        "start_address": "U Lattenkamp / Bebelallee, 20249 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5992293,
+          "lng": 9.9940108
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 344
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 86
+            },
+            "end_location": {
+              "lat": 53.597942,
+              "lng": 9.989379099999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Meenkwiese</b> toward <b>Bebelallee</b>",
+            "polyline": {
+              "points": "ercfIq}~{@@X@ZBd@@b@L~BLbA?DD^DVLt@DTBLh@tBzAtEXlADHDJBFFH"
+            },
+            "start_location": {
+              "lat": 53.5992293,
+              "lng": 9.9940108
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 660
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 175
+            },
+            "end_location": {
+              "lat": 53.592295,
+              "lng": 9.9883787
+            },
+            "html_instructions": "Continue onto <b>Eppendorfer Landstra\u00dfe</b>",
+            "polyline": {
+              "points": "cjcfIs`~{@RJTFH@`@FTTRXLPJPLTBDRXLPd@`@XTLHRLp@Ph@LJ@P@PAb@IFALG\\OJETKFARCF@D?P?f@?X@POnACdDSTAJ?j@Ed@AFCNG^P"
+            },
+            "start_location": {
+              "lat": 53.597942,
+              "lng": 9.989379099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 257
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.59028679999999,
+              "lng": 9.98701
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Eppendorfer Landstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{fbfIkz}{@BXBPBH@FDLBFBDDBZVf@^f@Z`A\\p@T^J@?B??A@?@C@C@Gp@Xn@V"
+            },
+            "start_location": {
+              "lat": 53.592295,
+              "lng": 9.9883787
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5903244,
+              "lng": 9.9867416
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>K\u00fcmmellstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "izafIyq}{@ALANAT?@"
+            },
+            "start_location": {
+              "lat": 53.59028679999999,
+              "lng": 9.98701
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ercfIq}~{@H~BL~BLbADd@\\pBh@tBzAtE^vAHRFHRJ^H`@FTT`@j@Xf@V^r@r@f@^RLp@Pt@Nb@?j@Kj@W`@QZEL@x@?X@POtFWrBIVK^PBXFZFTFL`@ZnAz@rBr@`@JBAFO`Bp@C\\AV"
+    },
+    "summary": "Meenkwiese and Eppendorfer Landstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

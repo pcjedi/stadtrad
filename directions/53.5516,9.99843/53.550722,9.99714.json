@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.551652,
+        "lng": 9.9983423
+      },
+      "southwest": {
+        "lat": 53.5506733,
+        "lng": 9.9971443
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.1 km",
+          "value": 144
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 25
+        },
+        "end_address": "U Rathaus / M\u00f6nckebergstra\u00dfe, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5506733,
+          "lng": 9.9971443
+        },
+        "start_address": "Kleine Rosenstra\u00dfe / Gerhart-Hauptmann-Platz, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.551652,
+          "lng": 9.9983423
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.55067709999999,
+              "lng": 9.9972657
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Kleine Rosenstra\u00dfe</b> toward <b>Europa Passage</b>",
+            "polyline": {
+              "points": "yhzeIsx_|@`@v@j@hABFLRLPZd@`@?T?"
+            },
+            "start_location": {
+              "lat": 53.551652,
+              "lng": 9.9983423
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5506733,
+              "lng": 9.9971443
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>M\u00f6nckebergstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wbzeI}q_|@@X"
+            },
+            "start_location": {
+              "lat": 53.55067709999999,
+              "lng": 9.9972657
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "yhzeIsx_|@~A|Ch@v@v@?@X"
+    },
+    "summary": "Kleine Rosenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5815336,
+        "lng": 9.9385069
+      },
+      "southwest": {
+        "lat": 53.5796193,
+        "lng": 9.9323815
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 513
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 142
+        },
+        "end_address": "H\u00f6genstra\u00dfe, 22525 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5808111,
+          "lng": 9.9385069
+        },
+        "start_address": "S Langenfelde / F\u00f6rsterweg, 22525 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5796193,
+          "lng": 9.9323815
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "46 m",
+              "value": 46
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5798335,
+              "lng": 9.9329561
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>F\u00f6rsterweg</b>",
+            "polyline": {
+              "points": "sw_fIk|r{@?KAKW{@GSGK"
+            },
+            "start_location": {
+              "lat": 53.5796193,
+              "lng": 9.9323815
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.57979839999999,
+              "lng": 9.933157099999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>F\u00f6rsterweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}x_fI_`s{@Dg@"
+            },
+            "start_location": {
+              "lat": 53.5798335,
+              "lng": 9.9329561
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 133
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5805562,
+              "lng": 9.9346959
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>F\u00f6rsterweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wx_fIgas{@MMEGGKmBuFM["
+            },
+            "start_location": {
+              "lat": 53.57979839999999,
+              "lng": 9.933157099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 217
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.5815336,
+              "lng": 9.937539899999999
+            },
+            "html_instructions": "Continue onto <b>Arminiusstra\u00dfe</b>",
+            "polyline": {
+              "points": "o}_fI{js{@WcAG[YoAc@qBcBuG"
+            },
+            "start_location": {
+              "lat": 53.5805562,
+              "lng": 9.9346959
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 103
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5808111,
+              "lng": 9.9385069
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Langenfelder Damm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qc`fIs|s{@r@gA|@sA\\e@"
+            },
+            "start_location": {
+              "lat": 53.5815336,
+              "lng": 9.937539899999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sw_fIk|r{@AW_@oAGKDg@SUuBaGe@_Ba@kBc@qBcBuGpB{C\\e@"
+    },
+    "summary": "F\u00f6rsterweg and Arminiusstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

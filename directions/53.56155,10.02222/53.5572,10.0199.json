@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5628456,
+        "lng": 10.0228384
+      },
+      "southwest": {
+        "lat": 53.5571443,
+        "lng": 10.0165432
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1382
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 240
+        },
+        "end_address": "U Lohm\u00fchlenstra\u00dfe / Steindamm, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5571758,
+          "lng": 10.0199453
+        },
+        "start_address": "Alsterschwimmhalle / Ifflandstra\u00dfe, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5615573,
+          "lng": 10.0221042
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5610982,
+              "lng": 10.0189769
+            },
+            "html_instructions": "Head <b>west</b> on <b>Ekhofstra\u00dfe</b> toward <b>Ackermannstra\u00dfe</b>",
+            "polyline": {
+              "points": "wf|eIcmd|@B`@P|BFh@Fd@T`D^|E"
+            },
+            "start_location": {
+              "lat": 53.5615573,
+              "lng": 10.0221042
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 205
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5628456,
+              "lng": 10.018111
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ackermannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{c|eIsyc|@UR]NkCfAaAb@cAd@G?GAGE"
+            },
+            "start_location": {
+              "lat": 53.5610982,
+              "lng": 10.0189769
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 130
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5621558,
+              "lng": 10.0165432
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Barcastra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yn|eIetc|@F\\F^H\\JZLXFHp@`BZz@"
+            },
+            "start_location": {
+              "lat": 53.5628456,
+              "lng": 10.018111
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 588
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 112
+            },
+            "end_location": {
+              "lat": 53.5584399,
+              "lng": 10.0228384
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sechslingspforte</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oj|eIkjc|@NYb@_ABEDE@ADA`CoEdAcCj@sATi@PQ^s@rAcDxAkDLUVi@Zi@x@yA\\k@JQPW"
+            },
+            "start_location": {
+              "lat": 53.5621558,
+              "lng": 10.0165432
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 233
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5571443,
+              "lng": 10.020079
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>L\u00fcbeckertordamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gs{eIwqd|@FPLVPZLVNX@DP`@JVRl@n@pB|@lCJ`@N^"
+            },
+            "start_location": {
+              "lat": 53.5584399,
+              "lng": 10.0228384
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5571758,
+              "lng": 10.0199453
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ck{eIo`d|@KPBF"
+            },
+            "start_location": {
+              "lat": 53.5571443,
+              "lng": 10.020079
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wf|eIcmd|@T~CNnAt@~JUR]NmEjBkAd@OGN|@Tx@Tb@lA|Cr@yAHKFC`CoEdAcC`A}BPQ^s@lDoIzBcEh@}@PWFP^r@\\p@r@lBhC`IKPBF"
+    },
+    "summary": "Sechslingspforte",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

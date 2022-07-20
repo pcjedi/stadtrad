@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5399525,
+        "lng": 10.0232613
+      },
+      "southwest": {
+        "lat": 53.5365043,
+        "lng": 10.0134686
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 861
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 154
+        },
+        "end_address": "Amerigo-Vespucci-Platz / Baakenwerder Stra\u00dfe, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5365043,
+          "lng": 10.0223617
+        },
+        "start_address": "Versmannstra\u00dfe / Gerda-Gmelin Platz, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5399525,
+          "lng": 10.0134686
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 697
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 119
+            },
+            "end_location": {
+              "lat": 53.5378785,
+              "lng": 10.0232613
+            },
+            "html_instructions": "Head <b>east</b> on <b>Versmannstra\u00dfe</b> toward <b>Gerda-Gmelin-Platz</b>",
+            "polyline": {
+              "points": "u_xeIewb|@Dg@@Ir@kJx@{Ip@cHFw@B[B[RuBl@cGVcCHGNa@@ANe@LWF_@V{@DIN]Zk@"
+            },
+            "start_location": {
+              "lat": 53.5399525,
+              "lng": 10.0134686
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 164
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5365043,
+              "lng": 10.0223617
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Baakenwerder Str.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wrweIktd|@`Aj@h@ZZP`@VlAp@HDPH"
+            },
+            "start_location": {
+              "lat": 53.5378785,
+              "lng": 10.0232613
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "u_xeIewb|@Fq@r@kJx@{Ix@{IFw@`AyJVcCHGPc@\\}@^{ATg@Zk@`Aj@dAl@jCxA"
+    },
+    "summary": "Versmannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

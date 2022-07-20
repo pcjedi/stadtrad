@@ -1,0 +1,263 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4906947,
+        "lng": 10.2346267
+      },
+      "southwest": {
+        "lat": 53.4860671,
+        "lng": 10.1821982
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.0 km",
+          "value": 3959
+        },
+        "duration": {
+          "text": "14 mins",
+          "value": 839
+        },
+        "end_address": "S Nettelnburg / Friedrich-Frank-Bogen, 21033 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.48851579999999,
+          "lng": 10.1821982
+        },
+        "start_address": "Glindersweg / Bethesda-Krankenhaus, 21029 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.48654459999999,
+          "lng": 10.2346267
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 720
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 105
+            },
+            "end_location": {
+              "lat": 53.4873348,
+              "lng": 10.2238896
+            },
+            "html_instructions": "Head <b>west</b> on <b>Glindersweg</b> toward <b>Justus-Brinckmann-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "{qmeIm}m}@?@GnBCtAC`BCvAAVE~BClACdA?l@?z@?zA?|@?r@@rC?pA?nACh@?XCVCZC\\Ed@Gv@E\\IbAAJAPIz@CTYbDM|AMhAEt@"
+            },
+            "start_location": {
+              "lat": 53.48654459999999,
+              "lng": 10.2346267
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "54 m",
+              "value": 54
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.4878177,
+              "lng": 10.2238936
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Saarstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yvmeIizk}@c@@}@A"
+            },
+            "start_location": {
+              "lat": 53.4873348,
+              "lng": 10.2238896
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 582
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 103
+            },
+            "end_location": {
+              "lat": 53.48621250000001,
+              "lng": 10.2156886
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wentorfer Str.</b>/<wbr/><b>B207</b><div style=\"font-size:0.9em\">Continue to follow B207</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{ymeIizk}@JzDBrABr@@^HzCHnAFx@Dx@Fr@Hz@Hz@Fd@BRHv@DTD\\?BDNHn@Jt@@JBHTfABJLd@Pt@Pn@FTFTBLFZFNHRFT\\x@HV"
+            },
+            "start_location": {
+              "lat": 53.4878177,
+              "lng": 10.2238936
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 899
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 167
+            },
+            "end_location": {
+              "lat": 53.4889995,
+              "lng": 10.2036329
+            },
+            "html_instructions": "Continue onto <b>Bergedorfer Str.</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "yomeIagj}@FVF`@FX?BBP?P?l@CRAPCX@N@DEXEXIb@E\\A@?@EToAzEOp@gAlEK^Qr@Wv@GRETABIXAFGXAFKb@On@o@nEAJGb@ILIX?@ETCRCXCNCR?DEb@C^AT?`@Ap@?j@?Z?Z?^?pEAb@APIn@INKNABGPW^GJGJQTKNMNKF"
+            },
+            "start_location": {
+              "lat": 53.48621250000001,
+              "lng": 10.2156886
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1154
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 259
+            },
+            "end_location": {
+              "lat": 53.4906666,
+              "lng": 10.1868202
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kurt-A.-K\u00f6rber-Chaussee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ganeIu{g}@Bl@?lA?zB?V?lAANBtA@h@?j@@d@?z@?zB?~@?F@`@@Z?J@vD?hA?zC?jA@~B?fB@J?LAd@?V?N?h@?J?NAv@ANEn@Cf@C^Gh@EXE`@ETABE\\I`@Y~AIh@YjBGZERo@pDWzACPQfAGZEZW`BETA@UvASfAMt@ENI\\CXCP@P?HBJ"
+            },
+            "start_location": {
+              "lat": 53.4889995,
+              "lng": 10.2036329
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 178
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.4891193,
+              "lng": 10.1861622
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Oberer Landweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ukneIsrd}@BDDDVJt@R@?VJf@L?@\\HD@b@P`ATPF"
+            },
+            "start_location": {
+              "lat": 53.4906666,
+              "lng": 10.1868202
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 133
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.48966979999999,
+              "lng": 10.1844221
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ladenbeker Furtweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_bneIond}@M`BKp@GZGb@[x@Yx@MR"
+            },
+            "start_location": {
+              "lat": 53.4891193,
+              "lng": 10.1861622
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 219
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.4885184,
+              "lng": 10.1825071
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Friedrich-Frank-Bogen</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "meneIscd}@LVH`@Lt@AVG|B?H?D@JDJFFHDNF~Af@B@z@N"
+            },
+            "start_location": {
+              "lat": 53.48966979999999,
+              "lng": 10.1844221
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.48851579999999,
+              "lng": 10.1821982
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Friedrich-Frank-Bogen</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g~meIuwc}@?|@"
+            },
+            "start_location": {
+              "lat": 53.4885184,
+              "lng": 10.1825071
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{qmeIm}m}@_@fRCjG@vICxBCp@UvCiArMS~BaB?TbJRjFLrBb@pEt@xF^hBx@`DJb@Nj@Ph@f@pAVvABb@C`AEj@BT[tBmEhQg@dBUbA[rAq@zEGb@ILIZMbAMlAGhC?bCAtFK`A_@t@y@lAY^KFBl@?hE?dBBzD@|GBpADjVEzEU`DStAkCvO{AfJ}@dFI\\CXAb@BTHJfBj@jAZb@P`ATPFM`BSlAGb@[x@Yx@MRLVH`@Lt@AVGfC@PLRXLbBh@z@N?|@"
+    },
+    "summary": "Kurt-A.-K\u00f6rber-Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

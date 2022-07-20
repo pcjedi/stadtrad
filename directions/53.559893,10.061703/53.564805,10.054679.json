@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5649721,
+        "lng": 10.0616215
+      },
+      "southwest": {
+        "lat": 53.55988989999999,
+        "lng": 10.0507264
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1376
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 251
+        },
+        "end_address": "S Hasselbrook / Papenstra\u00dfe, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5648518,
+          "lng": 10.0548182
+        },
+        "start_address": "Caspar-Voght-Stra\u00dfe / Sievekingsallee, 20535 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55988989999999,
+          "lng": 10.0616215
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "50 m",
+              "value": 50
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5603377,
+              "lng": 10.0615435
+            },
+            "html_instructions": "Head <b>north</b> on <b>Caspar-Voght-Stra\u00dfe</b> toward <b>Sievekingsallee</b>",
+            "polyline": {
+              "points": "i|{eIcdl|@K?u@FWF"
+            },
+            "start_location": {
+              "lat": 53.55988989999999,
+              "lng": 10.0616215
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 720
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 118
+            },
+            "end_location": {
+              "lat": 53.5611213,
+              "lng": 10.0507468
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sievekingsallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "c_|eIscl|@Eb@En@Gz@MpB]zFUpDEx@Ct@Cl@Cr@Ct@Al@Ah@Az@An@Ar@?n@CfCElBEvBAP?BCz@E|CAx@AbAEpD"
+            },
+            "start_location": {
+              "lat": 53.5603377,
+              "lng": 10.0615435
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 373
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.564424,
+              "lng": 10.0515532
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Peterskampweg</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_d|eIe`j|@YCE?A@GDKCo@KqBQiCUm@Ec@McA[KCGCIAKCeA[IEa@K"
+            },
+            "start_location": {
+              "lat": 53.5611213,
+              "lng": 10.0507468
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 218
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hasselbrookstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sx|eIeej|@Ew@IcBSsCIw@K}@Im@OaAY_B"
+            },
+            "start_location": {
+              "lat": 53.564424,
+              "lng": 10.0515532
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5648518,
+              "lng": 10.0548182
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a||eI{xj|@VW"
+            },
+            "start_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i|{eIcdl|@aAFWFEb@MjBk@lJ[jFGbBK`EEnEItFGhCKvGGtF_@CIF{@O{Fg@m@Ec@MoA_@QE}Bq@O{C]kEUkBi@aDVW"
+    },
+    "summary": "Sievekingsallee and Peterskampweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

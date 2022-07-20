@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58243350000001,
+        "lng": 10.0679991
+      },
+      "southwest": {
+        "lat": 53.5762157,
+        "lng": 10.0571502
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1277
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 274
+        },
+        "end_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "start_address": "U Stra\u00dfburger Stra\u00dfe / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5817957,
+          "lng": 10.0679991
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "74 m",
+              "value": 74
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.58243350000001,
+              "lng": 10.0677086
+            },
+            "html_instructions": "Head <b>north</b> on <b>Nordschleswiger Str.</b> toward <b>Stra\u00dfburger Str.</b>",
+            "polyline": {
+              "points": "ge`fI_lm|@UNUF{@TUJ"
+            },
+            "start_location": {
+              "lat": 53.5817957,
+              "lng": 10.0679991
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 751
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 154
+            },
+            "end_location": {
+              "lat": 53.5801493,
+              "lng": 10.0571502
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Stra\u00dfburger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ei`fIejm|@B`@LpAJbA?FHv@NpAXrCp@hGHt@Hz@D\\BPJXLTJNBDPRJN?@BD@HBJBL@LDh@LnABTHv@F`@d@`EL|@X|Bb@tDDVJ`A?HDVLxAJ\\"
+            },
+            "start_location": {
+              "lat": 53.58243350000001,
+              "lng": 10.0677086
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 452
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 107
+            },
+            "end_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Krausestra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}z_fIehk|@\\Mx@a@l@WnEqBnA]ZIp@Kf@Kp@GVCNC`AEHAD?NCTNHDPHFB"
+            },
+            "start_location": {
+              "lat": 53.5801493,
+              "lng": 10.0571502
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ge`fI_lm|@k@V{@TUJPrBJjAdBfP\\`DXn@NT`@j@Jp@`@fEl@bFf@zDh@lEJjARpBJ\\\\MfBy@nEqBnA]lAUxASrBOTC^TXL"
+    },
+    "summary": "Stra\u00dfburger Str. and Krausestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

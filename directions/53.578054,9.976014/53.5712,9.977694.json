@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5782311,
+        "lng": 9.9777496
+      },
+      "southwest": {
+        "lat": 53.5712433,
+        "lng": 9.970594499999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1165
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 254
+        },
+        "end_address": "Bogenstra\u00dfe / Grindelallee, 20144 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5712433,
+          "lng": 9.9777496
+        },
+        "start_address": "U Hoheluftbr\u00fccke / Kaiser-Friedrich-Ufer, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780879,
+          "lng": 9.975954999999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "html_instructions": "Head <b>northeast</b>",
+            "polyline": {
+              "points": "an_fIul{{@KU"
+            },
+            "start_location": {
+              "lat": 53.5780879,
+              "lng": 9.975954999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5782311,
+              "lng": 9.975965
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mn_fIkm{{@OR"
+            },
+            "start_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 436
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.5759529,
+              "lng": 9.970594499999999
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}n_fIwl{{@^x@Rb@V|@b@nAZdAj@fBVt@j@lBv@hCBJb@pAl@lBj@pBPj@"
+            },
+            "start_location": {
+              "lat": 53.5782311,
+              "lng": 9.975965
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 680
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 148
+            },
+            "end_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bogenstra\u00dfe</b>/<wbr/><b>Mansteinbr\u00fccke</b><div style=\"font-size:0.9em\">Continue to follow Bogenstra\u00dfe</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "u`_fIekz{@NYh@{@Xg@x@wARe@^q@R_@BCHOHMFO@?R_@`@q@`@q@\\o@^u@BGXm@DIZq@^o@Xi@Xi@@CNYHQ`@q@FMVc@h@w@BCb@g@HK\\]Z_@\\g@NYFITg@Vk@RQ"
+            },
+            "start_location": {
+              "lat": 53.5759529,
+              "lng": 9.970594499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5712433,
+              "lng": 9.9777496
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Beim Schlump</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "gd~eIyu{{@J[Rg@"
+            },
+            "start_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "an_fIul{{@KUOR^x@Rb@V|@~@tCbA|CbBvFf@|AxA~EPj@NYbAcBx@wARe@r@qA^q@xAcCzA{C`@{@x@yAt@yAh@_A`A{AnAuAZ_@\\g@Vc@l@sARQJ[Rg@"
+    },
+    "summary": "Bogenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

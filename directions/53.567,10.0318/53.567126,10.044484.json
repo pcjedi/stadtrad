@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.571053,
+        "lng": 10.0449291
+      },
+      "southwest": {
+        "lat": 53.5670015,
+        "lng": 10.031798
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1302
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 362
+        },
+        "end_address": "U Ritterstra\u00dfe / Wandsbeker Chaussee, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5671046,
+          "lng": 10.0444917
+        },
+        "start_address": "Lerchenfeld / Uferstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5670015,
+          "lng": 10.031798
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 695
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 145
+            },
+            "end_location": {
+              "lat": 53.571053,
+              "lng": 10.0397503
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Uferstra\u00dfe</b> toward <b>Finkenau</b>",
+            "polyline": {
+              "points": "wh}eIwif|@Wq@y@wBUm@EKgAmCEGECEAC?Mg@Og@Wg@eAkBGOw@iB]{@Qc@a@eAwBuFgAgCGOg@kAEKOc@]aA[_AOe@"
+            },
+            "start_location": {
+              "lat": 53.5670015,
+              "lng": 10.031798
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 502
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 156
+            },
+            "end_location": {
+              "lat": 53.56778329999999,
+              "lng": 10.0445938
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wagnerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ab~eIm{g|@FGDEfA{@tA}@vBcBFEDGBGBI@SJeAFk@DWHWFSHQ|AeCx@oARi@bAmCVs@FMBGFG"
+            },
+            "start_location": {
+              "lat": 53.571053,
+              "lng": 10.0397503
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "76 m",
+              "value": 76
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "html_instructions": "Continue onto <b>Ritterstra\u00dfe</b>",
+            "polyline": {
+              "points": "sm}eIuyh|@JIf@ODAXKRKXO"
+            },
+            "start_location": {
+              "lat": 53.56778329999999,
+              "lng": 10.0445938
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "29 m",
+              "value": 29
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5671046,
+              "lng": 10.0444917
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qi}eIy{h|@?T?J@TB^"
+            },
+            "start_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh}eIwif|@mBcFmAuCKEC?Mg@g@oAmA{BuAeDs@iB_E}JeAkCy@aCOe@FGlAaAtA}@vBcBLMFQZ}CPk@fBwCx@oARi@zAaEJURQzAi@XO?T@`@B^"
+    },
+    "summary": "Uferstra\u00dfe and Wagnerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5838204,
+        "lng": 9.9995614
+      },
+      "southwest": {
+        "lat": 53.57639529999999,
+        "lng": 9.9932834
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1401
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 245
+        },
+        "end_address": "Leinpfad/Fernsicht, 22301 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5804956,
+          "lng": 9.9995614
+        },
+        "start_address": "Mittelweg / Sophienterrasse, 20149 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57639529999999,
+          "lng": 9.9932834
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 359
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.579589,
+              "lng": 9.994005999999999
+            },
+            "html_instructions": "Head <b>north</b> on <b>Mittelweg</b> toward <b>Oberstra\u00dfe</b>",
+            "polyline": {
+              "points": "oc_fI_y~{@aAU}@QKCKCYKQCcAKw@I_@E}AQOCkAMWAk@CGEICGAE?"
+            },
+            "start_location": {
+              "lat": 53.57639529999999,
+              "lng": 9.9932834
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 232
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5816002,
+              "lng": 9.9947237
+            },
+            "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Frauenthal</b>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "mw_fIq}~{@?AAA?A?AA??AAA?AAAAA?AA??AAAA?AAA?AAA?A?A?A??@A?A?A@A@QCO?IAk@QCAYKcBc@o@Q]KICSGSCQ?"
+            },
+            "start_location": {
+              "lat": 53.579589,
+              "lng": 9.994005999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 187
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5831824,
+              "lng": 9.993879
+            },
+            "html_instructions": "Continue onto <b>Heilwigstra\u00dfe</b>",
+            "polyline": {
+              "points": "_d`fI_b_|@K@IDGBIHKJe@`@QLSLa@TKFQJo@Rm@@]F"
+            },
+            "start_location": {
+              "lat": 53.5816002,
+              "lng": 9.9947237
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 150
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5838204,
+              "lng": 9.995866000000001
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>St. Benedictstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{m`fIw|~{@c@sBKOOy@S_AMq@I_@S}@"
+            },
+            "start_location": {
+              "lat": 53.5831824,
+              "lng": 9.993879
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 473
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 81
+            },
+            "end_location": {
+              "lat": 53.5804956,
+              "lng": 9.9995614
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Leinpfad</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{q`fIei_|@X@v@B~@?l@GVEBAZGXKJKNSZk@l@sAt@oBz@eBhAmCjAoCVo@"
+            },
+            "start_location": {
+              "lat": 53.5838204,
+              "lng": 9.995866000000001
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oc_fI_y~{@wCo@k@O{BUyEi@cAEQIMA?AAEGIIGK?C@m@CmDcAkBi@e@CUFQLq@l@sAx@aA^m@@]Fc@sBKOc@yBWqAS}@X@vBBdAM^IXKJKj@_AbBcEz@eBhAmCbB_E"
+    },
+    "summary": "Mittelweg and Leinpfad",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

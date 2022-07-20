@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6099255,
+        "lng": 10.0122895
+      },
+      "southwest": {
+        "lat": 53.5992188,
+        "lng": 9.9938744
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2256
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 467
+        },
+        "end_address": "U Alsterdorf / Hindenburgstra\u00dfe, 22297 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.60618299999999,
+          "lng": 10.0122895
+        },
+        "start_address": "U Lattenkamp / Bebelallee, 20249 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5992293,
+          "lng": 9.9940108
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "html_instructions": "Head <b>west</b> on <b>Meenkwiese</b> toward <b>Bebelallee</b>",
+            "polyline": {
+              "points": "ercfIq}~{@@X"
+            },
+            "start_location": {
+              "lat": 53.5992293,
+              "lng": 9.9940108
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.8 km",
+              "value": 1822
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 373
+            },
+            "end_location": {
+              "lat": 53.6099255,
+              "lng": 10.0111435
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bebelallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "crcfIw|~{@c@Ai@?g@@a@@eAGmAQUEy@MICKE_@Ga@MMWACkAg@]Wg@_@WSGIQSIEOEMS]c@q@u@GIQQMMOSMKQSe@g@MM_@a@]]i@g@W[o@k@Y]MKe@c@k@s@[a@q@s@aAeAgAmAq@w@EGy@eAs@eAg@y@KOs@yAe@gA]u@Y{@q@oBe@aB_@qAWu@Km@Ku@KeAEuAEwA?G?qCA{ACgAGq@COIs@MiBEg@]yDW{CE]Ee@AS?WOoB"
+            },
+            "start_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 426
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.60618299999999,
+              "lng": 10.0122895
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hindenburgstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "auefIshb|@DGNIPMFAr@SBA`@K\\AP?z@GlBSpAQ`AKVEFCRMr@e@FCRGRCRCJC|@O"
+            },
+            "start_location": {
+              "lat": 53.6099255,
+              "lng": 10.0111435
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ercfIq}~{@@Xc@AqA@a@@eAGcBWcAQk@Ma@MMWmAk@eBuA[YOEMSoAyAY[}@aAqBuBkCmCs@o@gAuA{DgEw@_AmBkCs@iAyAaDw@qBwAqEw@gCWcBKeAEuAE_BAmFKyBMcASqCaAyKAk@OoBDG`@Wz@Ud@Mn@AhD[rC]^IfAs@ZKf@GhAS"
+    },
+    "summary": "Bebelallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

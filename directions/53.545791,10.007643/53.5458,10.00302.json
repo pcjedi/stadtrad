@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5466369,
+        "lng": 10.0078714
+      },
+      "southwest": {
+        "lat": 53.54581959999999,
+        "lng": 10.0029255
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 495
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 123
+        },
+        "end_address": "Oberbaumbr\u00fccke / Ericusspitze, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5458414,
+          "lng": 10.0029255
+        },
+        "start_address": "Stadtdeich / Hammerbrooklyn, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5458457,
+          "lng": 10.0075556
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "44 m",
+              "value": 44
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5461891,
+              "lng": 10.0078714
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Oberhafenstra\u00dfe</b> toward <b>Banksstra\u00dfe</b>",
+            "polyline": {
+              "points": "qdyeIgra|@EE}@w@"
+            },
+            "start_location": {
+              "lat": 53.5458457,
+              "lng": 10.0075556
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5464153,
+              "lng": 10.0071277
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Banksstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ufyeIeta|@Kf@Ot@Qt@"
+            },
+            "start_location": {
+              "lat": 53.5461891,
+              "lng": 10.0078714
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5458412,
+              "lng": 10.0069737
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Altl\u00e4nder Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "chyeIqoa|@PD|AX@?@?"
+            },
+            "start_location": {
+              "lat": 53.5464153,
+              "lng": 10.0071277
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.5466369,
+              "lng": 10.0040961
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "odyeIqna|@B^KtA?DQj@Qt@EPKh@{@zDQf@S~@"
+            },
+            "start_location": {
+              "lat": 53.5458412,
+              "lng": 10.0069737
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 118
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5458414,
+              "lng": 10.0029255
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Oberbaumbr\u00fccke</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oiyeIs|`|@`AdBXh@HLHLZd@RV"
+            },
+            "start_location": {
+              "lat": 53.5466369,
+              "lng": 10.0040961
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qdyeIgra|@EE}@w@Kf@a@jBnB^@?D^KzAc@`BQz@{@zDQf@S~@`AdBb@v@x@jA"
+    },
+    "summary": "Oberbaumbr\u00fccke",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

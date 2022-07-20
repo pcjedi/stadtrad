@@ -1,0 +1,237 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5460207,
+        "lng": 9.9899229
+      },
+      "southwest": {
+        "lat": 53.5437577,
+        "lng": 9.9805668
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 909
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 236
+        },
+        "end_address": "Auf dem Sande / Kehrwieder / Miniatur Wunderland, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5437577,
+          "lng": 9.989686899999999
+        },
+        "start_address": "U Baumwall / Elbphilharmonie, 20459 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54434149999999,
+          "lng": 9.980907600000002
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5443669,
+              "lng": 9.9805668
+            },
+            "html_instructions": "Head <b>west</b> on <b>Baumwall</b> toward <b>Stubbenhuk</b>",
+            "polyline": {
+              "points": "c{xeIuk|{@A\\Cd@"
+            },
+            "start_location": {
+              "lat": 53.54434149999999,
+              "lng": 9.980907600000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 195
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5460207,
+              "lng": 9.9814039
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Stubbenhuk</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i{xeIqi|{@Y?KAG?E@I?C?IAg@Ue@UmBu@IEA?EEIGe@m@"
+            },
+            "start_location": {
+              "lat": 53.5443669,
+              "lng": 9.9805668
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 203
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5453573,
+              "lng": 9.9842446
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schaarsteinwegsbr\u00fccke</b>/<wbr/><b>Schaartor</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "seyeIwn|{@Fw@F{@Da@@MDMHi@F]Pq@Fi@Hi@F_@Jq@DYF]Lm@"
+            },
+            "start_location": {
+              "lat": 53.5460207,
+              "lng": 9.9814039
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 174
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.5448977,
+              "lng": 9.9867428
+            },
+            "html_instructions": "Continue onto <b>Kajen</b>",
+            "polyline": {
+              "points": "oayeIo`}{@N{@TcBL{@Lu@Ju@Fe@?K?YBgA@W"
+            },
+            "start_location": {
+              "lat": 53.5453573,
+              "lng": 9.9842446
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5447999,
+              "lng": 9.988163499999999
+            },
+            "html_instructions": "Continue onto <b>Hohe Br\u00fccke</b>",
+            "polyline": {
+              "points": "s~xeIcp}{@?GBg@FwBFsB"
+            },
+            "start_location": {
+              "lat": 53.5448977,
+              "lng": 9.9867428
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 97
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5447223,
+              "lng": 9.9896166
+            },
+            "html_instructions": "Continue onto <b>b. dem Neuen Krahn</b>",
+            "polyline": {
+              "points": "_~xeI_y}{@?yANiE"
+            },
+            "start_location": {
+              "lat": 53.5447999,
+              "lng": 9.988163499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 107
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.543777,
+              "lng": 9.9899229
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Auf dem Sande</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o}xeIcb~{@FAFAb@Ml@O\\ILCl@K"
+            },
+            "start_location": {
+              "lat": 53.5447223,
+              "lng": 9.9896166
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5437577,
+              "lng": 9.989686899999999
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "swxeI_d~{@Bl@"
+            },
+            "start_location": {
+              "lat": 53.543777,
+              "lng": 9.9899229
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "c{xeIuk|{@EbAe@A[@eEcB[Se@m@Fw@L}AXcBX{APiAPkATkAd@_DZqBR{A?e@HoCNkF?yANiENCpA]j@Ml@KBl@"
+    },
+    "summary": "Stubbenhuk",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

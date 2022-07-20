@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5461652,
+        "lng": 9.9508909
+      },
+      "southwest": {
+        "lat": 53.54393959999999,
+        "lng": 9.942412899999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 714
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 149
+        },
+        "end_address": "Fischmarkt / Breite Stra\u00dfe, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5461652,
+          "lng": 9.9508909
+        },
+        "start_address": "Van-der-Smissen-Stra\u00dfe / Gro\u00dfe Elbstra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54393959999999,
+          "lng": 9.942412899999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "53 m",
+              "value": 53
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.544398,
+              "lng": 9.9425612
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Van-der-Smissen-Stra\u00dfe</b> toward <b>Gro\u00dfe Elbstra\u00dfe</b>",
+            "polyline": {
+              "points": "sxxeIa{t{@AEEGEEGAGA}@E"
+            },
+            "start_location": {
+              "lat": 53.54393959999999,
+              "lng": 9.942412899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 249
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.5443035,
+              "lng": 9.946298299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00dfe Elbstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o{xeI_|t{@Aw@GOHsD@iAFeD?YD{B?OByA"
+            },
+            "start_location": {
+              "lat": 53.544398,
+              "lng": 9.9425612
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5446547,
+              "lng": 9.9463191
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Carsten-Rehder-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{zxeIksu{@eAC"
+            },
+            "start_location": {
+              "lat": 53.5443035,
+              "lng": 9.946298299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 351
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 90
+            },
+            "end_location": {
+              "lat": 53.5460928,
+              "lng": 9.950574099999999
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Carsten-Rehder-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a}xeIosu{@?{@@{@@gB@s@?Y?SAOEQCSGMGSIMQ_@c@Qc@o@O]Sa@Uo@KYe@wACEi@_ACECICO"
+            },
+            "start_location": {
+              "lat": 53.5446547,
+              "lng": 9.9463191
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5461652,
+              "lng": 9.9508909
+            },
+            "html_instructions": "Continue onto <b>Fischmarkt</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "afyeIanv{@CQG]AIAE"
+            },
+            "start_location": {
+              "lat": 53.5460928,
+              "lng": 9.950574099999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sxxeIa{t{@GMMGeAGAw@GOJ}FF_EDkCByAeAC@wBB{C?m@Ga@Su@[m@c@Qc@o@c@_Aa@iAi@}Am@eASiACO"
+    },
+    "summary": "Gro\u00dfe Elbstra\u00dfe and Carsten-Rehder-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,480 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5590944,
+        "lng": 9.9535892
+      },
+      "southwest": {
+        "lat": 53.5461659,
+        "lng": 9.9487911
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2071
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 501
+        },
+        "end_address": "Max-Brauer-Allee 147, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5585362,
+          "lng": 9.9487911
+        },
+        "start_address": "Fischmarkt / Breite Stra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5461659,
+          "lng": 9.9509475
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "37 m",
+              "value": 37
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5462505,
+              "lng": 9.9514962
+            },
+            "html_instructions": "Head <b>east</b>",
+            "polyline": {
+              "points": "qfyeImpv{@Gq@G{@"
+            },
+            "start_location": {
+              "lat": 53.5461659,
+              "lng": 9.9509475
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 135
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.54674,
+              "lng": 9.952482999999999
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "agyeI{sv{@K@_@Da@DSBC?C?ECDG@GBM@W@Y?W?e@Ac@?]?A"
+            },
+            "start_location": {
+              "lat": 53.5462505,
+              "lng": 9.9514962
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "62 m",
+              "value": 62
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.54721199999999,
+              "lng": 9.9520871
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cjyeI_zv{@?@GTOHUF]NQN?B"
+            },
+            "start_location": {
+              "lat": 53.54674,
+              "lng": 9.952482999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "44 m",
+              "value": 44
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5472215,
+              "lng": 9.9514164
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "amyeIqwv{@AbC?@"
+            },
+            "start_location": {
+              "lat": 53.54721199999999,
+              "lng": 9.9520871
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 108
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5481874,
+              "lng": 9.951389599999999
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cmyeIksv{@A?C?E@E?EBUHE?C@A?GAKAIAs@GKAG?I?I?G@E@"
+            },
+            "start_location": {
+              "lat": 53.5472215,
+              "lng": 9.9514164
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 212
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5499324,
+              "lng": 9.9521383
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "esyeIesv{@GUGQKSIKKKAAMIm@]MGQEUA[A[DQBA?C?I@KDKBIGO?K?GAGCEEGG"
+            },
+            "start_location": {
+              "lat": 53.5481874,
+              "lng": 9.951389599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "4 m",
+              "value": 4
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.54996389999999,
+              "lng": 9.9521011
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Louise-Schroeder-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "a~yeI{wv{@EF"
+            },
+            "start_location": {
+              "lat": 53.5499324,
+              "lng": 9.9521383
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "51 m",
+              "value": 51
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5499569,
+              "lng": 9.951325899999999
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Louise-Schroeder-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g~yeIswv{@?xC"
+            },
+            "start_location": {
+              "lat": 53.54996389999999,
+              "lng": 9.9521011
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 102
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5508499,
+              "lng": 9.9510585
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Louise-Schroeder-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g~yeIyrv{@i@Pc@FOAID_@Xi@A"
+            },
+            "start_location": {
+              "lat": 53.5499569,
+              "lng": 9.951325899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 129
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5510503,
+              "lng": 9.9529661
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Louise-Schroeder-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yczeIcqv{@?I@}@Co@Cs@Cu@Gs@Io@Gg@CO"
+            },
+            "start_location": {
+              "lat": 53.5508499,
+              "lng": 9.9510585
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.55126989999999,
+              "lng": 9.9528565
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "aezeIa}v{@k@T"
+            },
+            "start_location": {
+              "lat": 53.5510503,
+              "lng": 9.9529661
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5512679,
+              "lng": 9.9527554
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mfzeIk|v{@?B?N"
+            },
+            "start_location": {
+              "lat": 53.55126989999999,
+              "lng": 9.9528565
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 564
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 111
+            },
+            "end_location": {
+              "lat": 53.556155,
+              "lng": 9.9535892
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mfzeIw{v{@m@Bk@DWSMMGGUQOIAAKEMAK?M@MF]NSLMFIDs@^MFKBI@A?K?cABM@G@C?E?GAGCOG]OCAEAQIKEa@QA?MEGCu@[OGsAYcBk@m@S"
+            },
+            "start_location": {
+              "lat": 53.5512679,
+              "lng": 9.9527554
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.55701029999999,
+              "lng": 9.95202
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Norderreihe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_e{eI}`w{@C^CLELGJKLONUNONOT_@nAGRQj@GL"
+            },
+            "start_location": {
+              "lat": 53.556155,
+              "lng": 9.9535892
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5570764,
+              "lng": 9.9520532
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Norderreihe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ij{eIcwv{@ME"
+            },
+            "start_location": {
+              "lat": 53.55701029999999,
+              "lng": 9.95202
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5570722,
+              "lng": 9.9517177
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Norderreihe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wj{eIiwv{@@`A"
+            },
+            "start_location": {
+              "lat": 53.5570764,
+              "lng": 9.9520532
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 183
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.5587009,
+              "lng": 9.9518738
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uj{eIguv{@k@@A@A@q@E]CyA@K?g@MQAUAOI"
+            },
+            "start_location": {
+              "lat": 53.5570722,
+              "lng": 9.9517177
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 233
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 112
+            },
+            "end_location": {
+              "lat": 53.5585362,
+              "lng": 9.9487911
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Max-Brauer-Allee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{t{eIevv{@QTIN[jAE^EJCHALCdAFR@L@JF^f@xBLh@DZT|@F^"
+            },
+            "start_location": {
+              "lat": 53.5587009,
+              "lng": 9.9518738
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qfyeImpv{@OmBK@yANICFODe@@q@AiBGVe@P]NQNAfCKBg@LYAqAKa@BOg@U_@MM{@g@_@Mq@Co@He@JIGO?SAUQEF?xCi@Pc@FOAID_@Xi@A@gAGcBKiBQwACOk@T?B?Nm@Bk@DWSUUe@[MGYA[Hq@\\yAt@c@D}AFMAWKy@]}@]mAg@sAYcBk@m@SC^IZSXe@^_@d@aA|CME@`Am@Bs@C]CyA@s@Mg@COIQTIN[jAKj@EVCdAFRBXbA~E\\|A"
+    },
+    "summary": "Max-Brauer-Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

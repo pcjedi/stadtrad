@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55901919999999,
+        "lng": 10.1074758
+      },
+      "southwest": {
+        "lat": 53.5465749,
+        "lng": 10.0956058
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1824
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 378
+        },
+        "end_address": "U Legienstra\u00dfe / Riedweg, 22111 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5476916,
+          "lng": 10.0956058
+        },
+        "start_address": "Manshardtstra\u00dfe / Einkaufszentrum Manshardtstra\u00dfe, 22119 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55901919999999,
+          "lng": 10.1074758
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 107
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5589132,
+              "lng": 10.1058668
+            },
+            "html_instructions": "Head <b>west</b> on <b>Manshardtstra\u00dfe</b> toward <b>Gra\u00dfmannweg</b>",
+            "polyline": {
+              "points": "{v{eIwbu|@Bx@DvAD~ADnA"
+            },
+            "start_location": {
+              "lat": 53.55901919999999,
+              "lng": 10.1074758
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.5 km",
+              "value": 1506
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 324
+            },
+            "end_location": {
+              "lat": 53.5465749,
+              "lng": 10.0981723
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Legienstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ev{eIuxt|@nAYPEhAYx@Sv@S^GZCPGHCL?P?J?X?X@H@RFLBDBPH@?@@LJPVTPz@n@TPr@h@v@p@nAbAn@h@~ChCLHzEjElDvCjCrBjA`ABBZRj@h@`An@VT`Ar@x@h@`CfBpA`Ar@h@hBvAfBvADB"
+            },
+            "start_location": {
+              "lat": 53.5589132,
+              "lng": 10.1058668
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 211
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5476916,
+              "lng": 10.0956058
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Riedweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aiyeIqhs|@mA~DMb@U`Ae@pAk@zAQZIN"
+            },
+            "start_location": {
+              "lat": 53.5465749,
+              "lng": 10.0981723
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{v{eIwbu|@T`IdFmAvA[l@KVC\\?r@@\\Hf@PNLPVTPpA`AjBzAlH`GhKbJvEtD^Vj@h@`An@xAhAzDpCdCjBpEnDDBmA~Dc@dBqAlD[j@"
+    },
+    "summary": "Legienstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

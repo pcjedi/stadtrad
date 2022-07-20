@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55784800000001,
+        "lng": 9.9185787
+      },
+      "southwest": {
+        "lat": 53.5540339,
+        "lng": 9.9007626
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1635
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 402
+        },
+        "end_address": "Hohenzollernring / Friedensallee, 22763 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55679869999999,
+          "lng": 9.9185787
+        },
+        "start_address": "Paul-Ehrlich-Stra\u00dfe / Asklepios-Klinik Altona, 22763 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5544005,
+          "lng": 9.9007626
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 323
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5550583,
+              "lng": 9.904723
+            },
+            "html_instructions": "Head <b>east</b>",
+            "polyline": {
+              "points": "_zzeIwvl{@Ca@?CAAACAAME?KAMCKAECCIKOOOMAAII?AEGCGCKCSC[Es@E{@EcAGy@AUAKAMCMEI?CCECMAMGqAC_@Eo@Ca@t@O"
+            },
+            "start_location": {
+              "lat": 53.5544005,
+              "lng": 9.9007626
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5550902,
+              "lng": 9.9050003
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Stiegkamp</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "c~zeIoom{@Ew@"
+            },
+            "start_location": {
+              "lat": 53.5550583,
+              "lng": 9.904723
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5554454,
+              "lng": 9.905032499999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Stiegkamp</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "i~zeIgqm{@a@AS?QC"
+            },
+            "start_location": {
+              "lat": 53.5550902,
+              "lng": 9.9050003
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 530
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 152
+            },
+            "end_location": {
+              "lat": 53.5540339,
+              "lng": 9.912581999999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Behringstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "q`{eImqm{@`@sA\\iA?CB_@VeBRiAJm@T{ATaBNkBBIBG@I@I@MBU?GBMNyAFk@Bg@LoB?YCW@W@ODw@D{@LsC@c@?AFU"
+            },
+            "start_location": {
+              "lat": 53.5554454,
+              "lng": 9.905032499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 453
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 94
+            },
+            "end_location": {
+              "lat": 53.55784800000001,
+              "lng": 9.9148911
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Gr\u00fcnebergstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uwzeIs`o{@c@Oa@KWIcBi@OGo@UmAk@kAg@_@Wk@[[]UI}@o@iAs@y@g@_@c@"
+            },
+            "start_location": {
+              "lat": 53.5540339,
+              "lng": 9.912581999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 270
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 97
+            },
+            "end_location": {
+              "lat": 53.55679869999999,
+              "lng": 9.9185787
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedensallee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qo{eIaoo{@FYHa@^mBDWZ_BHa@^kBNy@^sBLo@Hg@Jk@"
+            },
+            "start_location": {
+              "lat": 53.55784800000001,
+              "lng": 9.9148911
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_zzeIwvl{@Gk@OGAYEQMOk@i@M]Go@KoBQ_DKi@GSI_BIoACa@t@OEw@a@Ae@C~@}CBc@lAyHd@mEFQHw@Z{CPwCCq@N{CNwDFWaEoA_A]yCsAkAs@[]UIgCcBy@g@_@c@P{@d@eCtAgHbAwF"
+    },
+    "summary": "Behringstra\u00dfe and Gr\u00fcnebergstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

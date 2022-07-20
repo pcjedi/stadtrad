@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58195869999999,
+        "lng": 10.0204471
+      },
+      "southwest": {
+        "lat": 53.5745979,
+        "lng": 10.011922
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1333
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 265
+        },
+        "end_address": "Gertigstra\u00dfe / For\u00dfmannstra\u00dfe, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58195869999999,
+          "lng": 10.0147472
+        },
+        "start_address": "Winterhuder Weg / Zimmerstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5750772,
+          "lng": 10.0204471
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 368
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "html_instructions": "Head <b>west</b> on <b>Zimmerstra\u00dfe</b> toward <b>Stormsweg</b>",
+            "polyline": {
+              "points": "g{~eIybd|@@XB^?B@RFhAP`FJdBPvGPxDBb@HrB"
+            },
+            "start_location": {
+              "lat": 53.5750772,
+              "lng": 10.0204471
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 536
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 134
+            },
+            "end_location": {
+              "lat": 53.5792888,
+              "lng": 10.0133533
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hofweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gx~eIk`c|@MDI@GBYBeALiC\\sBViBTcALa@FI@q@HUDWBI@KBKBOHKDQJMHGDKFUNKH]VQLm@h@"
+            },
+            "start_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 217
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.5810437,
+              "lng": 10.011922
+            },
+            "html_instructions": "Continue onto <b>M\u00fchlenkamp</b>/<wbr/><b>M\u00fchlenkampbr\u00fccke</b><div style=\"font-size:0.9em\">Continue to follow M\u00fchlenkamp</div>",
+            "polyline": {
+              "points": "qu_fImvb|@}@r@g@^y@l@YTs@n@MHaBjA"
+            },
+            "start_location": {
+              "lat": 53.5792888,
+              "lng": 10.0133533
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 212
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.58195869999999,
+              "lng": 10.0147472
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gertigstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o``fIomb|@c@iBIc@EOSw@y@qDu@mD"
+            },
+            "start_location": {
+              "lat": 53.5810437,
+              "lng": 10.011922
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g{~eIybd|@FpAXjHJdBPvGT|EHrBMDQD_BPkLxAsBXy@L{@d@u@f@{CbCaBlAmAdAoBtAm@mCiCgL"
+    },
+    "summary": "Zimmerstra\u00dfe and Hofweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

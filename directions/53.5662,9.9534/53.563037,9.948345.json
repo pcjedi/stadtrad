@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5670511,
+        "lng": 9.953386700000001
+      },
+      "southwest": {
+        "lat": 53.56237590000001,
+        "lng": 9.9482448
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 785
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 240
+        },
+        "end_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "start_address": "Eimsb\u00fctteler Stra\u00dfe / Waterloostra\u00dfe, 22769 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5661845,
+          "lng": 9.953386700000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 144
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5670511,
+              "lng": 9.951878899999999
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Eimsb\u00fctteler Str.</b> toward <b>Waterloostra\u00dfe</b>",
+            "polyline": {
+              "points": "sc}eIu_w{@UfAEXCHEXIZKVOVaAt@_@d@"
+            },
+            "start_location": {
+              "lat": 53.5661845,
+              "lng": 9.953386700000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 91
+            },
+            "end_location": {
+              "lat": 53.5662657,
+              "lng": 9.951350000000001
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alsenpl.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ai}eIgvv{@l@Zr@b@x@h@"
+            },
+            "start_location": {
+              "lat": 53.5670511,
+              "lng": 9.951878899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 469
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "html_instructions": "Continue onto <b>Alsenstra\u00dfe</b>",
+            "polyline": {
+              "points": "ed}eI}rv{@f@XZNb@T\\PTJxAz@r@b@`@TjAt@dAl@HBNJ~@l@VPVRPL\\X`@\\NHd@^XP"
+            },
+            "start_location": {
+              "lat": 53.5662657,
+              "lng": 9.951350000000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>D\u00fcppelstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{k|eI_bv{@INKJCBGF}@X_@L"
+            },
+            "start_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sc}eIu_w{@e@dCUr@OVaAt@_@d@l@ZlBlAdCpAdE`CjDrB`C`BtB`BXPINONeA`@_@L"
+    },
+    "summary": "Alsenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

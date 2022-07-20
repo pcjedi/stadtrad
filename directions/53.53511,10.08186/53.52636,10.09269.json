@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5350003,
+        "lng": 10.0961442
+      },
+      "southwest": {
+        "lat": 53.52624290000001,
+        "lng": 10.0819062
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1723
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 393
+        },
+        "end_address": "Moorfleeter Stra\u00dfe / Pinkertweg, 22113 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.52627709999999,
+          "lng": 10.0926439
+        },
+        "start_address": "Liebigstra\u00dfe / W\u00f6hlerstra\u00dfe, 22113 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5350003,
+          "lng": 10.0819062
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 982
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 216
+            },
+            "end_location": {
+              "lat": 53.5324859,
+              "lng": 10.0961442
+            },
+            "html_instructions": "Head <b>east</b> on <b>Liebigstra\u00dfe</b> toward <b>W\u00f6hlerstra\u00dfe</b>",
+            "polyline": {
+              "points": "w`weI}bp|@LkA@MDg@BOLmAd@iFDa@BWdAmK^qDz@kIBYzAqMfA}KXyC\\{DZmD"
+            },
+            "start_location": {
+              "lat": 53.5350003,
+              "lng": 10.0819062
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 729
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 167
+            },
+            "end_location": {
+              "lat": 53.52624290000001,
+              "lng": 10.0928179
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Moorfleeter Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aqveI{{r|@^Rn@X~Ax@D@`@RLFBBN?B@VNj@ZHF^Rb@RfCdAVL~@b@D@pBz@@?XLxAj@v@ZVJPHnAh@LFz@ZZLb@LfAb@"
+            },
+            "start_location": {
+              "lat": 53.5324859,
+              "lng": 10.0961442
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "12 m",
+              "value": 12
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.52627709999999,
+              "lng": 10.0926439
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Pinkertweg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_jueIcgr|@Gb@"
+            },
+            "start_location": {
+              "lat": 53.52624290000001,
+              "lng": 10.0928179
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "w`weI}bp|@vAcOdDe\\zAqMfA}Kv@uIZmD^RnCrAx@`@R@bAj@h@ZjDxAnEnBlDtAfCfAbEzAGb@"
+    },
+    "summary": "Liebigstra\u00dfe and Moorfleeter Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

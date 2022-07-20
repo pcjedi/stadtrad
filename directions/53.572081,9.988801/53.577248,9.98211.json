@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5772437,
+        "lng": 9.988886299999999
+      },
+      "southwest": {
+        "lat": 53.57208,
+        "lng": 9.9821098
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1016
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 229
+        },
+        "end_address": "Innocentiapark / Oberstra\u00dfe, 20144 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5772437,
+          "lng": 9.9821098
+        },
+        "start_address": "U Hallerstra\u00dfe / Rothenbaumchaussee, 20148 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57208,
+          "lng": 9.988886299999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.57228689999999,
+              "lng": 9.9886328
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Rothenbaumchaussee</b>",
+            "polyline": {
+              "points": "oh~eIq}}{@M?C@C@CDA@EFCHAHAJ"
+            },
+            "start_location": {
+              "lat": 53.57208,
+              "lng": 9.988886299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5726717,
+              "lng": 9.988641099999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rothenbaumchaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yi~eI}{}{@QAy@?"
+            },
+            "start_location": {
+              "lat": 53.57228689999999,
+              "lng": 9.9886328
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 306
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 90
+            },
+            "end_location": {
+              "lat": 53.57255,
+              "lng": 9.9840144
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hallerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "el~eI_|}{@?j@@x@?z@?fA@?@nAD|DJdL"
+            },
+            "start_location": {
+              "lat": 53.5726717,
+              "lng": 9.988641099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 522
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.5772215,
+              "lng": 9.9838145
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Parkallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mk~eIa_}{@sB?aFA}GF}GLG@EFEH"
+            },
+            "start_location": {
+              "lat": 53.57255,
+              "lng": 9.9840144
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 113
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5772437,
+              "lng": 9.9821098
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Oberstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sh_fIy}|{@?j@CfH"
+            },
+            "start_location": {
+              "lat": 53.5772215,
+              "lng": 9.9838145
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oh~eIq}}{@Q@GFGHERAJQAy@??j@@tB@fAFlGJdLsB?_ODeHNKPCrI"
+    },
+    "summary": "Hallerstra\u00dfe and Parkallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

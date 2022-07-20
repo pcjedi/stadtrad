@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5862484,
+        "lng": 9.9779957
+      },
+      "southwest": {
+        "lat": 53.5819911,
+        "lng": 9.957495699999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1824
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 444
+        },
+        "end_address": "Troplowitzstra\u00dfe 21, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58278319999999,
+          "lng": 9.957519699999999
+        },
+        "start_address": "L\u00f6wenstra\u00dfe / Eppendorfer Weg, 20251 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.583875,
+          "lng": 9.9779957
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.58391779999999,
+              "lng": 9.9778737
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>L\u00f6wenstra\u00dfe</b> toward <b>Eppendorfer Weg</b>",
+            "polyline": {
+              "points": "gr`fIoy{{@GX"
+            },
+            "start_location": {
+              "lat": 53.583875,
+              "lng": 9.9779957
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 441
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 79
+            },
+            "end_location": {
+              "lat": 53.5819911,
+              "lng": 9.9720426
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eppendorfer Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "or`fIux{{@Jh@\\`B`AbEx@pDZnARx@DNd@jBx@vDl@fCVdA"
+            },
+            "start_location": {
+              "lat": 53.58391779999999,
+              "lng": 9.9778737
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 531
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 152
+            },
+            "end_location": {
+              "lat": 53.5862484,
+              "lng": 9.9686538
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hoheluftchaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mf`fIgtz{@]h@q@x@}@dAg@p@_@`@iApAMB_@b@]\\m@l@WTUR[POHQLWNSJ]PWHYH]J{@Vm@Lu@RSD"
+            },
+            "start_location": {
+              "lat": 53.5819911,
+              "lng": 9.9720426
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 836
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 189
+            },
+            "end_location": {
+              "lat": 53.5828475,
+              "lng": 9.957495699999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Troplowitzstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "aaafIa_z{@FVBRZbBNx@Zt@L`@HVNh@HRZtAh@|BT~@Lh@ZtANl@Vv@Nr@Nj@Jd@Nd@d@bBZhAh@pBXdALf@BHL^`@zANd@Lj@Hb@Fj@@JNtB^lFBb@B`@Dj@"
+            },
+            "start_location": {
+              "lat": 53.5862484,
+              "lng": 9.9686538
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.58278319999999,
+              "lng": 9.957519699999999
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yk`fIkyw{@LC"
+            },
+            "start_location": {
+              "lat": 53.5828475,
+              "lng": 9.957495699999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gr`fIoy{{@GXJh@~AdHnBjIdDpNoAbBeBvBiBrBMB_@b@kAjAm@h@uAx@q@\\q@RyAb@cB`@SDFV^vBNx@Zt@Vx@X|@dArEnAlFf@jBZpAzBdIx@vCp@`CVnAHv@n@bJFdADj@LC"
+    },
+    "summary": "Hoheluftchaussee and Troplowitzstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

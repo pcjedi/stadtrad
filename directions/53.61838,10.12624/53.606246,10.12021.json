@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6185277,
+        "lng": 10.1262806
+      },
+      "southwest": {
+        "lat": 53.6061883,
+        "lng": 10.1196783
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1581
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 385
+        },
+        "end_address": "U Farmsen / Rahlstedter Weg, 22159 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6061883,
+          "lng": 10.1201609
+        },
+        "start_address": "U Oldenfelde / Busbrookh\u00f6he, 22159 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6183978,
+          "lng": 10.1262806
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.6185277,
+              "lng": 10.1260968
+            },
+            "html_instructions": "Head <b>northwest</b> toward <b>Am Knill</b>",
+            "polyline": {
+              "points": "_jgfIgxx|@GHEFKP"
+            },
+            "start_location": {
+              "lat": 53.6183978,
+              "lng": 10.1262806
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 106
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.6183887,
+              "lng": 10.1245343
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Busbrookh\u00f6he</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yjgfIcwx|@H`AHh@Fl@BZBX?R?VALAPC\\"
+            },
+            "start_location": {
+              "lat": 53.6185277,
+              "lng": 10.1260968
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1420
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 325
+            },
+            "end_location": {
+              "lat": 53.60633439999999,
+              "lng": 10.1196783
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Berner Heerweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}igfIimx|@\\LnE~APF^Nh@R\\LZJ\\LVFXD\\FTD`@D`@B^@j@?TI^ATARCNC^G`@ILCHCJCXKp@Yr@Yj@YZGRCP?\\?b@B\\F^Ff@Nr@Xj@\\n@d@dAn@~AbALH`An@\\TZRLJDBDBRLp@d@dD`Cv@h@?@ZRj@^VVZV^XfBlA@H?@@B@B\\V`Ap@"
+            },
+            "start_location": {
+              "lat": 53.6183887,
+              "lng": 10.1245343
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.6061883,
+              "lng": 10.1201609
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Rahlstedter Weg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q~dfI_ow|@H_@P_A"
+            },
+            "start_location": {
+              "lat": 53.60633439999999,
+              "lng": 10.1196783
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_jgfIgxx|@MPKPH`APvAFt@CjAC\\\\L`FfBbC|@t@Tv@Lv@J`ADj@?TIt@Cb@G`AQ|@WdBs@j@YZGd@C`AB|@NzAh@`GvDvDdCnGrE~AjAz@p@fBlA@H@D^Z`Ap@H_@P_A"
+    },
+    "summary": "Berner Heerweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

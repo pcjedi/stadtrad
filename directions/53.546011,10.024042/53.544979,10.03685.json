@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5460564,
+        "lng": 10.036939
+      },
+      "southwest": {
+        "lat": 53.5432784,
+        "lng": 10.0242074
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1208
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 308
+        },
+        "end_address": "Bullerdeich / Stadtreinigung Hamburg, 20537 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5448336,
+          "lng": 10.036939
+        },
+        "start_address": "S Hammerbrook / Sachsenfeld, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5460564,
+          "lng": 10.0242074
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 262
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5440165,
+              "lng": 10.0261075
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Hammerbrookstra\u00dfe</b> toward <b>Sachsenfeld</b>",
+            "polyline": {
+              "points": "{eyeIizd|@d@[TQVSfAu@@ADMJIzBeBNKh@c@LOHKJULa@"
+            },
+            "start_location": {
+              "lat": 53.5460564,
+              "lng": 10.0242074
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 321
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.5452224,
+              "lng": 10.0304471
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>S\u00fcderstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cyxeIefe|@EUa@qBG_@CCIKOw@ACMo@]gBAIAGCGKi@Ig@CIAICQKk@I]Ga@ACG]UqABU?A?C?CQeA"
+            },
+            "start_location": {
+              "lat": 53.5440165,
+              "lng": 10.0261075
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 238
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.5432784,
+              "lng": 10.0319619
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Heidenkampsweg</b>/<wbr/><b>B75</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "s`yeIiaf|@jBqAb@[FGjCoBDCHGnA{@"
+            },
+            "start_location": {
+              "lat": 53.5452224,
+              "lng": 10.0304471
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 340
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 105
+            },
+            "end_location": {
+              "lat": 53.5446062,
+              "lng": 10.0366016
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bullerdeich</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "otxeIwjf|@GYEWOu@Ou@Kc@Mu@UqAOw@Mq@?CGWUsAIg@ESEOGYCKIa@{@oEGW"
+            },
+            "start_location": {
+              "lat": 53.5432784,
+              "lng": 10.0319619
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.54473369999999,
+              "lng": 10.0364975
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Bullerdeich</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "y|xeIwgg|@WR"
+            },
+            "start_location": {
+              "lat": 53.5446062,
+              "lng": 10.0366016
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "31 m",
+              "value": 31
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5448336,
+              "lng": 10.036939
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "q}xeIcgg|@Ic@Is@"
+            },
+            "start_location": {
+              "lat": 53.54473369999999,
+              "lng": 10.0364975
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{eyeIizd|@zCwB@ADMJIjCqBv@s@Ta@La@EUi@qCMO}@sEg@qC_@oB]oBBW?GQeAjBqAj@c@pCsBxAcAMq@k@oCiBiKWiAeAqFGWWRSwA"
+    },
+    "summary": "S\u00fcderstra\u00dfe and Bullerdeich",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

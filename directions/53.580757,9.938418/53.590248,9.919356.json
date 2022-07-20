@@ -1,0 +1,215 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.590284,
+        "lng": 9.9385069
+      },
+      "southwest": {
+        "lat": 53.5808111,
+        "lng": 9.919434599999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1690
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 346
+        },
+        "end_address": "S Stellingen / Randstra\u00dfe, 22525 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.590284,
+          "lng": 9.919434599999999
+        },
+        "start_address": "H\u00f6genstra\u00dfe, 22525 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5808111,
+          "lng": 9.9385069
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 437
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 103
+            },
+            "end_location": {
+              "lat": 53.5833718,
+              "lng": 9.9336203
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Langenfelder Damm</b> toward <b>H\u00f6genstra\u00dfe</b>",
+            "polyline": {
+              "points": "a_`fIubt{@]d@}@rAs@fAcAlBQPGLi@~@Cj@Sd@Ul@w@lBI\\ENm@~AUn@GPOn@Mn@Gb@"
+            },
+            "start_location": {
+              "lat": 53.5808111,
+              "lng": 9.9385069
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 359
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 107
+            },
+            "end_location": {
+              "lat": 53.58515569999999,
+              "lng": 9.9294498
+            },
+            "html_instructions": "Continue onto <b>Warnstedtstra\u00dfe</b>",
+            "polyline": {
+              "points": "ao`fIcds{@ShBKn@ET?BCLEZE^EZCXShBI~@I`@If@Up@GJKLILMPi@f@A@OLWTm@l@CDQPYX"
+            },
+            "start_location": {
+              "lat": 53.5833718,
+              "lng": 9.9336203
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5851345,
+              "lng": 9.92929
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Randstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gz`fIajr{@BZ@B"
+            },
+            "start_location": {
+              "lat": 53.58515569999999,
+              "lng": 9.9294498
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 215
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5861587,
+              "lng": 9.9265897
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Randstra\u00dfe</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "az`fIair{@?J?H?H?DADCHMb@Of@e@|AQn@i@~BMJCDCHY`AIVCFIL"
+            },
+            "start_location": {
+              "lat": 53.5851345,
+              "lng": 9.92929
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 165
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5872563,
+              "lng": 9.9249155
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Randstra\u00dfe</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "o`afIexq{@e@j@uD`H"
+            },
+            "start_location": {
+              "lat": 53.5861587,
+              "lng": 9.9265897
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.58720899999999,
+              "lng": 9.9247628
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Gutenbergstra\u00dfe</b>/<wbr/><b>Randstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kgafIwmq{@H^"
+            },
+            "start_location": {
+              "lat": 53.5872563,
+              "lng": 9.9249155
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 492
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 71
+            },
+            "end_location": {
+              "lat": 53.590284,
+              "lng": 9.919434599999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Randstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "agafIwlq{@Yd@g@hACFc@dAWh@CB_@l@c@x@e@p@U`@ILg@`ACFq@rAqAdDCHi@~AgBnDOT"
+            },
+            "start_location": {
+              "lat": 53.58720899999999,
+              "lng": 9.9247628
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "a_`fIubt{@{AxBs@fAcAlBY^i@~@Cj@i@rAaAjCqApD]~A[lCUvAUpB]hDShA]|@UZw@x@QN{AzAYXBZ@NA^gArD{@nDQPk@jBo@x@uD`HH^aAnBg@lA[l@cAfB{@rAq@nAu@zAuAnDi@~AgBnDOT"
+    },
+    "summary": "Langenfelder Damm and Randstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

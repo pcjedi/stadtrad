@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.56412419999999,
+        "lng": 10.0412907
+      },
+      "southwest": {
+        "lat": 53.5555704,
+        "lng": 10.0339528
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1162
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 275
+        },
+        "end_address": "U Burgstra\u00dfe, 20537 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5555969,
+          "lng": 10.0412907
+        },
+        "start_address": "U Wartenau / L\u00fcbecker Stra\u00dfe, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5636566,
+          "lng": 10.0339528
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "64 m",
+              "value": 64
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.56412419999999,
+              "lng": 10.0345047
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b> toward <b>Landwehr</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "{s|eIewf|@IK]a@SYGGIKMQ"
+            },
+            "start_location": {
+              "lat": 53.5636566,
+              "lng": 10.0339528
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1039
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 213
+            },
+            "end_location": {
+              "lat": 53.5555704,
+              "lng": 10.0404069
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Landwehr</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wv|eIszf|@bAoA\\e@f@k@RWl@k@x@q@fAaA\\]dAcAx@o@NKn@i@`@Y|@{@z@u@DCBCHEHEJEJGVQPMHGPKHERK`@STKB?RQr@U^OlAc@jAc@NGv@WLE@??A@AFKb@MPGvBs@lAa@RCREJC^Sl@]VIFBL?"
+            },
+            "start_location": {
+              "lat": 53.56412419999999,
+              "lng": 10.0345047
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5555969,
+              "lng": 10.0412907
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hammer Landstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ia{eIq_h|@C]AU?oA?M?Y?C"
+            },
+            "start_location": {
+              "lat": 53.5555704,
+              "lng": 10.0404069
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{s|eIewf|@cAoAW]`BuBz@cAfB}AdB_BdAcAx@o@~@u@~AuA`Ay@LIx@e@v@g@nAk@RQr@U^O`FgBPIFKb@MhC{@lAa@RC^IlAq@VIFBL?C]AeB?k@"
+    },
+    "summary": "Landwehr/B5 and B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

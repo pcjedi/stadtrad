@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5736657,
+        "lng": 10.0596417
+      },
+      "southwest": {
+        "lat": 53.5683872,
+        "lng": 10.0469677
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1413
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 287
+        },
+        "end_address": "Lortzingstra\u00dfe / Friedrichsberger Stra\u00dfe, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5736657,
+          "lng": 10.0495178
+        },
+        "start_address": "S+U Wandsbeker Chaussee / B\u00f6rnestra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57029319999999,
+          "lng": 10.0596417
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 673
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 123
+            },
+            "end_location": {
+              "lat": 53.5683872,
+              "lng": 10.0500488
+            },
+            "html_instructions": "Head <b>west</b> on <b>Wandsbeker Chaussee</b>/<wbr/><b>Wandsbeker Chausseebr\u00fccke</b> toward <b>B\u00f6rnestra\u00dfe</b><div style=\"font-size:0.9em\">Continue to follow Wandsbeker Chaussee</div>",
+            "polyline": {
+              "points": "i}}eIwwk|@L|@DZRhAJj@RtAXhBBNDTd@lCR|@BRJn@b@tCF\\BP@^ZrBTjANjADZBLJv@Fr@H|AHdB@TNhC@l@F`BBz@"
+            },
+            "start_location": {
+              "lat": 53.57029319999999,
+              "lng": 10.0596417
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 556
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 131
+            },
+            "end_location": {
+              "lat": 53.57301349999999,
+              "lng": 10.0469677
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Maxstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mq}eIy{i|@u@PI@WBQBc@Ri@^qAjAyEdEk@X{Av@gClAkAr@KFWLa@RUF"
+            },
+            "start_location": {
+              "lat": 53.5683872,
+              "lng": 10.0500488
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 184
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5736657,
+              "lng": 10.0495178
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lortzingstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "in~eIqhi|@O{AWsA}@yEW}AEU"
+            },
+            "start_location": {
+              "lat": 53.57301349999999,
+              "lng": 10.0469677
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i}}eIwwk|@jBtLx@jENbAj@rDDp@p@~DTfBNdAPpC\\rHJ|C_ARi@FmAr@kHpGgCpAgClAkAr@c@Tw@ZO{AWsAuAwHEU"
+    },
+    "summary": "Wandsbeker Chaussee and Maxstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

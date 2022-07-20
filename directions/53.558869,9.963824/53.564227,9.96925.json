@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5642903,
+        "lng": 9.969241799999999
+      },
+      "southwest": {
+        "lat": 53.5588828,
+        "lng": 9.9637698
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 894
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 197
+        },
+        "end_address": "S+U Sternschanze / D\u00e4nenweg, 20357 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5642903,
+          "lng": 9.969241799999999
+        },
+        "start_address": "Neuer Pferdemarkt / Beim Gr\u00fcnen J\u00e4ger, 20359 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5588828,
+          "lng": 9.9637698
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>Schulterblatt</b>",
+            "polyline": {
+              "points": "_v{eIq`y{@OICECEY_@"
+            },
+            "start_location": {
+              "lat": 53.5588828,
+              "lng": 9.9637698
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5590231,
+              "lng": 9.964179699999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schulterblatt</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qw{eIgby{@LMFM"
+            },
+            "start_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 600
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 140
+            },
+            "end_location": {
+              "lat": 53.56411869999999,
+              "lng": 9.9655639
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schanzenstra\u00dfe</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{v{eIccy{@YGYICAc@OICG?YUkA{@[Se@YGCc@Yu@[CAqAi@q@Ys@[MGCCCAGCEAA?EAEAA?O@CECCC?AA?A?AA??A?AA??AAAAAA??AA?A?A??@A?A??@A??@A??@A@?@?@A??@?@?@?@?@?@A??@@??@]Nm@VOFWJMBKBKBm@FO?]@E?[?c@EGAUE"
+            },
+            "start_location": {
+              "lat": 53.5590231,
+              "lng": 9.964179699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 245
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.5642903,
+              "lng": 9.969241799999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sternschanze</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wv|eIwky{@@w@?u@CgAAe@AQAMCKCa@Ck@A{DAW?a@?O?G?W?K?G?GAGEWAU?Q"
+            },
+            "start_location": {
+              "lat": 53.56411869999999,
+              "lng": 9.9655639
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_v{eIq`y{@SO]e@LMFMs@Qy@UeBqAaAm@k@]y@]eEgBUKOCO@CEGCACAEGEG?GFAJ?DkAh@g@RYFy@Jm@@a@?k@GUE@w@C}BCw@EYGmACsE?qAAc@G_A"
+    },
+    "summary": "Schanzenstra\u00dfe and Sternschanze",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

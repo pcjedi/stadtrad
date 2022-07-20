@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5716167,
+        "lng": 10.0685945
+      },
+      "southwest": {
+        "lat": 53.57029319999999,
+        "lng": 10.0596417
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 620
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 147
+        },
+        "end_address": "Schlo\u00dfstra\u00dfe 40, 22041 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5716167,
+          "lng": 10.0685945
+        },
+        "start_address": "S+U Wandsbeker Chaussee / B\u00f6rnestra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57029319999999,
+          "lng": 10.0596417
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "html_instructions": "Head <b>east</b> on <b>Wandsbeker Chaussee</b>/<wbr/><b>Wandsbeker Chausseebr\u00fccke</b> toward <b>Brauhausstra\u00dfe</b>",
+            "polyline": {
+              "points": "i}}eIwwk|@AGM{@c@}C"
+            },
+            "start_location": {
+              "lat": 53.57029319999999,
+              "lng": 10.0596417
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 276
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5713512,
+              "lng": 10.0647251
+            },
+            "html_instructions": "Continue onto <b>Wandsbeker Marktstra\u00dfe</b>",
+            "polyline": {
+              "points": "}~}eIy~k|@]uCCSW}BIk@OuAIo@[iCKw@Gc@QwA"
+            },
+            "start_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 265
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5716167,
+              "lng": 10.0685945
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Schlo\u00dfstra\u00dfe</b> (signs for <b>Bergedorf</b>/<wbr/><b>Horn</b>)",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "}c~eIqwl|@@K@G?G@IASKo@?IAM?OBSDQ@IF_@?C@K@K?OAYCe@Cc@?AKYKcCEc@MwBMuA"
+            },
+            "start_location": {
+              "lat": 53.5713512,
+              "lng": 10.0647251
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i}}eIwwk|@qAwJu@sGy@uGQwA@K@O?]Ky@A]He@Jy@@[E_ACc@K[QgD[mE"
+    },
+    "summary": "Wandsbeker Marktstra\u00dfe and Schlo\u00dfstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

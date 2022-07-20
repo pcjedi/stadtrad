@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.589206,
+        "lng": 9.9718161
+      },
+      "southwest": {
+        "lat": 53.58171979999999,
+        "lng": 9.9647275
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1035
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 221
+        },
+        "end_address": "Eppendorfer Weg / Hoheluftchaussee, 20253 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58171979999999,
+          "lng": 9.971383999999999
+        },
+        "start_address": "Grandweg / Veilchenweg, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.589206,
+          "lng": 9.9647275
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 425
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5858751,
+              "lng": 9.9676996
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Grandweg</b> toward <b>Veilchenweg</b>",
+            "polyline": {
+              "points": "qsafIqfy{@\\e@^i@b@s@`@i@\\g@p@_ANWPSJMRUBCLMDELK\\ULKLG|@a@^OLGn@Yd@UFCn@WVKPK"
+            },
+            "start_location": {
+              "lat": 53.589206,
+              "lng": 9.9647275
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5860664,
+              "lng": 9.968472
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Troplowitzstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "w~`fIcyy{@Ii@Ky@Ou@"
+            },
+            "start_location": {
+              "lat": 53.5858751,
+              "lng": 9.9676996
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 519
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.58191470000001,
+              "lng": 9.9718161
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hoheluftchaussee</b>/<wbr/><b>B447</b><div style=\"font-size:0.9em\">Continue to follow Hoheluftchaussee</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}_afI}}y{@ZIl@Mf@M^Kl@Qj@Uh@WVOHGz@i@PKXI`@[`@c@j@o@f@o@`@k@HKHI\\c@Z]VUVYLMJOh@o@b@q@"
+            },
+            "start_location": {
+              "lat": 53.5860664,
+              "lng": 9.968472
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.58171979999999,
+              "lng": 9.971383999999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eppendorfer Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}e`fI{rz{@d@vA"
+            },
+            "start_location": {
+              "lat": 53.58191470000001,
+              "lng": 9.9718161
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qsafIqfy{@bCmDpBsCp@u@~@s@fGmCh@WUcBOu@ZItA[lA]tAm@nBmAXI`@[lAsA|AqBhBqBX]lAaBd@vA"
+    },
+    "summary": "Grandweg and Hoheluftchaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

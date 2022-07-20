@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5671329,
+        "lng": 10.0548182
+      },
+      "southwest": {
+        "lat": 53.5640132,
+        "lng": 10.0444917
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1000
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 236
+        },
+        "end_address": "U Ritterstra\u00dfe / Wandsbeker Chaussee, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5671046,
+          "lng": 10.0444917
+        },
+        "start_address": "S Hasselbrook / Papenstra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5648518,
+          "lng": 10.0548182
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "html_instructions": "Head <b>northwest</b> toward <b>Hasselbrookstra\u00dfe</b>",
+            "polyline": {
+              "points": "i{|eIsyj|@WV"
+            },
+            "start_location": {
+              "lat": 53.5648518,
+              "lng": 10.0548182
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 605
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 130
+            },
+            "end_location": {
+              "lat": 53.5640132,
+              "lng": 10.0457379
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hasselbrookstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "a||eI{xj|@X~AN`AHl@J|@Hv@RrCHbBDv@JvCNvEFhCJrDB`AFlBFxBLpD"
+            },
+            "start_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 351
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ritterstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "av|eI{`i|@oEt@gAVkDh@]DI@E?C@QBKBYD{@NE@"
+            },
+            "start_location": {
+              "lat": 53.5640132,
+              "lng": 10.0457379
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "29 m",
+              "value": 29
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5671046,
+              "lng": 10.0444917
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qi}eIy{h|@?T?J@TB^"
+            },
+            "start_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i{|eIsyj|@WVX~AXnBTtB\\vFPnEV`J^|MLpDoEt@gAVkDh@g@FI@sB\\E@?T@`@B^"
+    },
+    "summary": "Hasselbrookstra\u00dfe and Ritterstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.60618299999999,
+        "lng": 10.0130545
+      },
+      "southwest": {
+        "lat": 53.5992188,
+        "lng": 9.9938744
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2172
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 430
+        },
+        "end_address": "U Lattenkamp / Bebelallee, 20249 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5992293,
+          "lng": 9.9940108
+        },
+        "start_address": "U Alsterdorf / Hindenburgstra\u00dfe, 22297 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.60618299999999,
+          "lng": 10.0122895
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 441
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.6022477,
+              "lng": 10.0130545
+            },
+            "html_instructions": "Head <b>south</b> on <b>Hindenburgstra\u00dfe</b> toward <b>Sydneystra\u00dfe</b>",
+            "polyline": {
+              "points": "s}dfIyob|@dAQ`@IFAd@GB?tAMNCt@Gn@Eb@CtAO`Gs@n@I"
+            },
+            "start_location": {
+              "lat": 53.60618299999999,
+              "lng": 10.0122895
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 208
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.60201199999999,
+              "lng": 10.009929
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aedfIqtb|@@T@TB~@`@~LDbA"
+            },
+            "start_location": {
+              "lat": 53.6022477,
+              "lng": 10.0130545
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 165
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.6031827,
+              "lng": 10.008398
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Carl-Cohn-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qcdfIaab|@[h@y@vAQXgAjAy@hA"
+            },
+            "start_location": {
+              "lat": 53.60201199999999,
+              "lng": 10.009929
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 479
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.6010244,
+              "lng": 10.0023137
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Krochmannstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{jdfIowa|@~@tFbBlJ^pBDR\\jBBXBNN~@DR@DDLN\\Xb@DLP`@f@x@v@l@"
+            },
+            "start_location": {
+              "lat": 53.6031827,
+              "lng": 10.008398
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 318
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.6020196,
+              "lng": 9.9978414
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Braamkamp</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k}cfImq`|@Mj@?D?B@PShASfAERM|@EZUzAMjAAHEXQtACPAJEb@MfAAHGx@EBABADAFCLG`@"
+            },
+            "start_location": {
+              "lat": 53.6010244,
+              "lng": 10.0023137
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 221
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.6021638,
+              "lng": 9.9945124
+            },
+            "html_instructions": "Keep <b>left</b> to stay on <b>Braamkamp</b>",
+            "maneuver": "keep-left",
+            "polyline": {
+              "points": "scdfIou_|@MvCEhBAr@Az@?XAb@CjC?r@@h@"
+            },
+            "start_location": {
+              "lat": 53.6020196,
+              "lng": 9.9978414
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 332
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 79
+            },
+            "end_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bebelallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oddfIu`_|@\\Pl@RTLTA`@L^FJDHBx@LTDlAPdAF`@Af@Ah@?b@@"
+            },
+            "start_location": {
+              "lat": 53.6021638,
+              "lng": 9.9945124
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5992293,
+              "lng": 9.9940108
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Meenkwiese</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "crcfIw|~{@AY"
+            },
+            "start_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "s}dfIyob|@tCe@~CYrAIvIcAn@I@TDtAf@bOuA`CyAdBy@hA~@tFbC~Mb@~BFh@TrAFRh@`AVn@f@x@v@l@Mp@@T{@bFk@lE]lC]nDGFCLKn@MvCEhBCnBA|@C~D@h@\\PbA`@TA`@Lj@LbAPbBVdAF`@ApAAb@@AY"
+    },
+    "summary": "Braamkamp",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

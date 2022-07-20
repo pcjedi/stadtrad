@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6062842,
+        "lng": 10.1201609
+      },
+      "southwest": {
+        "lat": 53.5974567,
+        "lng": 10.1014753
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1763
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 427
+        },
+        "end_address": "U Farmsen / Rahlstedter Weg, 22159 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6061883,
+          "lng": 10.1201609
+        },
+        "start_address": "U Trabrennbahn / Traberweg, 22159 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5980208,
+          "lng": 10.1014753
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "67 m",
+              "value": 67
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5974567,
+              "lng": 10.1018199
+            },
+            "html_instructions": "Head <b>south</b> on <b>Traberweg</b> toward <b>Eckerkoppel</b>",
+            "polyline": {
+              "points": "sjcfIg}s|@RKJGXMt@a@"
+            },
+            "start_location": {
+              "lat": 53.5980208,
+              "lng": 10.1014753
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 815
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 155
+            },
+            "end_location": {
+              "lat": 53.59965580000001,
+              "lng": 10.1134649
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eckerkoppel</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cgcfIk_t|@QaBCMQkACSKq@OcAMq@G[SgAc@gCi@cCWcA_@_BaAgEYcGE}@Q_Dg@mKEgAAACaACc@?A?EGuAEa@Ec@"
+            },
+            "start_location": {
+              "lat": 53.5974567,
+              "lng": 10.1018199
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 716
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 212
+            },
+            "end_location": {
+              "lat": 53.60514879999999,
+              "lng": 10.1188844
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Friedrich-Ebert-Damm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{tcfIchv|@wAk@g@Sc@SEAa@Sa@S[Qc@Wi@[s@e@m@e@k@e@g@i@UWCCQUm@u@SWU[Y_@MOaAqAY]EGW]e@o@a@k@SYY_@W]MUQYqA}BUW"
+            },
+            "start_location": {
+              "lat": 53.59965580000001,
+              "lng": 10.1134649
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 141
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.6062842,
+              "lng": 10.1198405
+            },
+            "html_instructions": "Continue onto <b>Berner Heerweg</b>",
+            "polyline": {
+              "points": "ewdfI_jw|@IMWUGIUSEC_Aq@{AgA"
+            },
+            "start_location": {
+              "lat": 53.60514879999999,
+              "lng": 10.1188844
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.6061883,
+              "lng": 10.1201609
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rahlstedter Weg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g~dfI_pw|@P_A"
+            },
+            "start_location": {
+              "lat": 53.6062842,
+              "lng": 10.1198405
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sjcfIg}s|@nBcAk@oEq@cEw@oEaAgEaBgH_@aIaAwRGmBMwBEc@wAk@kAg@g@UkCyAaBkAsAoAyAgBsD{EsBsCqAmBqA}BUWa@c@cBsA{AgAP_A"
+    },
+    "summary": "Eckerkoppel and Friedrich-Ebert-Damm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

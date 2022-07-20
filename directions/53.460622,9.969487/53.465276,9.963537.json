@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.46525,
+        "lng": 9.9694133
+      },
+      "southwest": {
+        "lat": 53.4606036,
+        "lng": 9.962729
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.8 km",
+          "value": 850
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 229
+        },
+        "end_address": "S Heimfeld / Alter Postweg, 21075 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.46525,
+          "lng": 9.9634992
+        },
+        "start_address": "Denickestra\u00dfe / TUHH, 21073 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4606036,
+          "lng": 9.9694133
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 199
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.4611452,
+              "lng": 9.9665683
+            },
+            "html_instructions": "Head <b>west</b> on <b>Denickestra\u00dfe</b> toward <b>Gazertstra\u00dfe</b>",
+            "polyline": {
+              "points": "woheIycz{@CTE`@In@Oz@SzAIr@]lEAN@HMZ"
+            },
+            "start_location": {
+              "lat": 53.4606036,
+              "lng": 9.9694133
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 172
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.4614449,
+              "lng": 9.964037099999999
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Denickestra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "esheIary{@@B@@?D?DYbDGbAGz@CXAPEn@E~@Af@"
+            },
+            "start_location": {
+              "lat": 53.4611452,
+              "lng": 9.9665683
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 312
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 101
+            },
+            "end_location": {
+              "lat": 53.4641357,
+              "lng": 9.962729
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wattenbergstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_uheIgby{@QDA@UFo@XIBeAd@_A`@IDcAb@eEzA]H"
+            },
+            "start_location": {
+              "lat": 53.4614449,
+              "lng": 9.964037099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 127
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.4650147,
+              "lng": 9.9639559
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Baustra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{eieIazx{@KUi@w@wBgD"
+            },
+            "start_location": {
+              "lat": 53.4641357,
+              "lng": 9.962729
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.46525,
+              "lng": 9.9634992
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alter Postweg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ikieIway{@o@zA"
+            },
+            "start_location": {
+              "lat": 53.4650147,
+              "lng": 9.9639559
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "woheIycz{@Iv@YjB]nC_@|E@HMZBD?Ja@fFSvCGfBSFeA`@oAh@iAf@cAb@eEzA]HKUaD_Fo@zA"
+    },
+    "summary": "Denickestra\u00dfe and Wattenbergstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

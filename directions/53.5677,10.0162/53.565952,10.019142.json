@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5676611,
+        "lng": 10.0191388
+      },
+      "southwest": {
+        "lat": 53.5656797,
+        "lng": 10.0161122
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.4 km",
+          "value": 414
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 101
+        },
+        "end_address": "Mundsburger Br\u00fccke / Papenhuder Stra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5660107,
+          "lng": 10.0191388
+        },
+        "start_address": "Eduard-Rhein-Ufer / Schwanenwik, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5676611,
+          "lng": 10.0161122
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Eduard-Rhein-Ufer</b> toward <b>Schwanenwik</b>",
+            "polyline": {
+              "points": "{l}eIugc|@DGHQH_@"
+            },
+            "start_location": {
+              "lat": 53.5676611,
+              "lng": 10.0161122
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 134
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 54
+            },
+            "end_location": {
+              "lat": 53.5663354,
+              "lng": 10.0166453
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schwanenwik</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "al}eIoic|@b@GfAOb@G|@K^E"
+            },
+            "start_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5662746,
+              "lng": 10.0164265
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Hartwicusstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sd}eIakc|@Lj@"
+            },
+            "start_location": {
+              "lat": 53.5663354,
+              "lng": 10.0166453
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "68 m",
+              "value": 68
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5656797,
+              "lng": 10.0166672
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Hartwicusstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ed}eIuic|@`@Kf@Qj@Q"
+            },
+            "start_location": {
+              "lat": 53.5662746,
+              "lng": 10.0164265
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5659687,
+              "lng": 10.0179536
+            },
+            "html_instructions": "Take the pedestrian tunnel",
+            "polyline": {
+              "points": "o`}eIekc|@AOAa@AEAMEMIQCy@Go@EWOW"
+            },
+            "start_location": {
+              "lat": 53.5656797,
+              "lng": 10.0166672
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5660107,
+              "lng": 10.0191388
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Hartwicusstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ib}eIesc|@?[G{D?U"
+            },
+            "start_location": {
+              "lat": 53.5659687,
+              "lng": 10.0179536
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{l}eIugc|@NYH_@b@GjBW|AQLj@`@KrAc@GeAO_@KiBEWOWGwE?U"
+    },
+    "summary": "Schwanenwik",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

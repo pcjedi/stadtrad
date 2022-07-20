@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5507114,
+        "lng": 10.0090382
+      },
+      "southwest": {
+        "lat": 53.550096,
+        "lng": 10.0016302
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 594
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 208
+        },
+        "end_address": "Jakobikirchhhof / Steinstra\u00dfe, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5503043,
+          "lng": 10.0016302
+        },
+        "start_address": "Zentralbibliothek / M\u00fcnzstra\u00dfe, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5503258,
+          "lng": 10.0088424
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5505296,
+              "lng": 10.0085288
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>M\u00fcnzstra\u00dfe</b> toward <b>Altmannbr\u00fccke</b>",
+            "polyline": {
+              "points": "q`zeIgza|@GTCJCDCDCDEBID"
+            },
+            "start_location": {
+              "lat": 53.5503258,
+              "lng": 10.0088424
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.55062419999999,
+              "lng": 10.0090382
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Altmannbr\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yazeIixa|@QeB"
+            },
+            "start_location": {
+              "lat": 53.5505296,
+              "lng": 10.0085288
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 178
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5502437,
+              "lng": 10.0065681
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Julius-Kobler-Weg</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "kbzeIo{a|@QHF\\Db@DXBPBTPxA@PHt@BPBR?FZnC"
+            },
+            "start_location": {
+              "lat": 53.55062419999999,
+              "lng": 10.0090382
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 326
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.550096,
+              "lng": 10.0016495
+            },
+            "html_instructions": "Continue onto <b>Steinstra\u00dfe</b>",
+            "polyline": {
+              "points": "_`zeIala|@@LBX@R@^@nACj@Bt@?`@BvD@vC?TB~B?J@b@@v@@xA"
+            },
+            "start_location": {
+              "lat": 53.5502437,
+              "lng": 10.0065681
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5503043,
+              "lng": 10.0016302
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Jakobikirchhof</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "c_zeIim`|@g@B"
+            },
+            "start_location": {
+              "lat": 53.550096,
+              "lng": 10.0016495
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "q`zeIgza|@Sl@IHIDQeBQHF\\J|@ZrCPbBb@jEBnB?`BDfKFfF@xAg@B"
+    },
+    "summary": "Altmannbr\u00fccke and Steinstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

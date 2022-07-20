@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5077934,
+        "lng": 10.1905072
+      },
+      "southwest": {
+        "lat": 53.48851579999999,
+        "lng": 10.1798001
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.0 km",
+          "value": 3002
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 573
+        },
+        "end_address": "S Nettelnburg / Friedrich-Frank-Bogen, 21033 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.48851579999999,
+          "lng": 10.1821982
+        },
+        "start_address": "Lohbr\u00fcgger Landstra\u00dfe / BG Klinikum, 21031 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5077934,
+          "lng": 10.1799997
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 339
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.5061447,
+              "lng": 10.1841885
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Lohbr\u00fcgger Landstra\u00dfe</b> toward <b>Bodestra\u00dfe</b>",
+            "polyline": {
+              "points": "uvqeI_hc}@F[^wA\\oA`@cBLi@Rs@@EVgAXqAh@aCVeATq@BGBEFIDCLCNE"
+            },
+            "start_location": {
+              "lat": 53.5077934,
+              "lng": 10.1799997
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 483
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 110
+            },
+            "end_location": {
+              "lat": 53.5040377,
+              "lng": 10.1905072
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Lohbr\u00fcgger Landstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "klqeIebd}@?m@@S@OFe@@C?E?C?GDUFWH]XcAb@iBz@gD`A{Dd@uBb@yAf@{BJc@Vq@@AHW^gA"
+            },
+            "start_location": {
+              "lat": 53.5061447,
+              "lng": 10.1841885
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.9 km",
+              "value": 1941
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 349
+            },
+            "end_location": {
+              "lat": 53.48966979999999,
+              "lng": 10.1844221
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ladenbeker Furtweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g_qeIuie}@R^FJZb@@BXZ^Z\\ZrAtAjAhAp@p@l@h@r@r@h@h@VXp@p@JLJJ`@^^^ZVLNBBZ`@@BZb@NTFHFPLVLZJVJZVp@\\bAVv@L^Nh@^jAFRb@vADLVx@@DBFN`@LZNXPZHJNTT\\@@T\\T\\BBR^NZPb@P^d@dABHVf@l@|@JLLb@NLDBFDJHNHLDNDNBL@PBr@EdAa@BALMXIjDaBr@e@h@Yl@_@f@a@j@g@p@o@JKb@a@ZULILILG\\ERAPARCb@[HGLKRYPSl@o@X[l@i@d@g@^a@JILCNOLKNMZUVMTMFEJIZW"
+            },
+            "start_location": {
+              "lat": 53.5040377,
+              "lng": 10.1905072
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 219
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.4885184,
+              "lng": 10.1825071
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedrich-Frank-Bogen</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "meneIscd}@LVH`@Lt@AVG|B?H?D@JDJFFHDNF~Af@B@z@N"
+            },
+            "start_location": {
+              "lat": 53.48966979999999,
+              "lng": 10.1844221
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.48851579999999,
+              "lng": 10.1821982
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Friedrich-Frank-Bogen</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g~meIuwc}@?|@"
+            },
+            "start_location": {
+              "lat": 53.4885184,
+              "lng": 10.1825071
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "uvqeI_hc}@bDsMbAsEVeATq@FMLM\\I@aAJ_A?KLm@b@aB~AqGfBqHjAuEn@oB^gAR^b@n@xAvA~C~C~AzAfDhDxAxAh@f@^d@t@fAn@|AxAhE|@tChArDb@jAz@vAbAzAVb@`@~@rAvCx@jALb@NLLHZR\\J\\DPBr@EhAc@LMXIjDaBr@e@vAy@rAiA|BsBZSj@Md@CRCb@[VSd@m@zC}Cj@k@LCNO\\Yr@c@\\Sf@a@LVH`@Lt@AVGfC@PLRXLbBh@z@N?|@"
+    },
+    "summary": "Lohbr\u00fcgger Landstra\u00dfe and Ladenbeker Furtweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

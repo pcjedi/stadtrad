@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5554178,
+        "lng": 10.0081746
+      },
+      "southwest": {
+        "lat": 53.5542148,
+        "lng": 10.007836
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.2 km",
+          "value": 177
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 122
+        },
+        "end_address": "Hauptbahnhof / Heidi-Kabel-Platz, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5542148,
+          "lng": 10.0080233
+        },
+        "start_address": "Lange Reihe / Kirchenallee, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55528,
+          "lng": 10.0081746
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5552612,
+              "lng": 10.0080073
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Lange Reihe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "o_{eIava|@B^"
+            },
+            "start_location": {
+              "lat": 53.55528,
+              "lng": 10.0081746
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5554178,
+              "lng": 10.0079739
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lange Reihe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k_{eIaua|@A?EAGCGDGF"
+            },
+            "start_location": {
+              "lat": 53.5552612,
+              "lng": 10.0080073
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5546152,
+              "lng": 10.008049
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kirchenallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "k`{eIyta|@FLFFDBH?TA`@I\\Kh@Q"
+            },
+            "start_location": {
+              "lat": 53.5554178,
+              "lng": 10.0079739
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "26 m",
+              "value": 26
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.55444439999999,
+              "lng": 10.0078844
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k{zeIiua|@BPBF@D@?B@D@FAD?"
+            },
+            "start_location": {
+              "lat": 53.5546152,
+              "lng": 10.008049
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5542148,
+              "lng": 10.0080233
+            },
+            "html_instructions": "Take the pedestrian tunnel<div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "gzzeIgta|@DADADCFABCBA?ABCDC@A"
+            },
+            "start_location": {
+              "lat": 53.55444439999999,
+              "lng": 10.0078844
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "o_{eIava|@@^MEOLNTNBv@KfA]FXBDHBXETKJK"
+    },
+    "summary": "Kirchenallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

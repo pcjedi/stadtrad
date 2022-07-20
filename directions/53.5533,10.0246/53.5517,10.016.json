@@ -1,0 +1,190 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5536165,
+        "lng": 10.0246707
+      },
+      "southwest": {
+        "lat": 53.5516721,
+        "lng": 10.0158387
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 700
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 202
+        },
+        "end_address": "Kurt-Schumacher-Allee / Nagelsweg, 20097 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5516721,
+          "lng": 10.0159264
+        },
+        "start_address": "S+U Berliner Tor / Beim Strohhause, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5533318,
+          "lng": 10.0245827
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>Berlinertordamm</b>",
+            "polyline": {
+              "points": "iszeIs|d|@OQS@"
+            },
+            "start_location": {
+              "lat": 53.5533318,
+              "lng": 10.0245827
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5534932,
+              "lng": 10.0245305
+            },
+            "html_instructions": "Take the crosswalk",
+            "polyline": {
+              "points": "mtzeIc}d|@UDTE@N@H"
+            },
+            "start_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.55360229999999,
+              "lng": 10.0244569
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Berliner Tor</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "itzeIi|d|@UL"
+            },
+            "start_location": {
+              "lat": 53.5534932,
+              "lng": 10.0245305
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 378
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.55268,
+              "lng": 10.0189586
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Beim Strohhause</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_uzeI{{d|@Bd@JbBDt@LhBFv@PnBFv@Dn@Dp@Fp@D`@BVF`@Ff@@HZzBL`AJp@Jn@"
+            },
+            "start_location": {
+              "lat": 53.55360229999999,
+              "lng": 10.0244569
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 218
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5519836,
+              "lng": 10.0158875
+            },
+            "html_instructions": "Continue onto <b>Kurt-Schumacher-Allee</b>",
+            "polyline": {
+              "points": "gozeIoyc|@BRRhAFZBJBHBHBLLt@N`ANx@Fn@Hv@PpBBXDV"
+            },
+            "start_location": {
+              "lat": 53.55268,
+              "lng": 10.0189586
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5516721,
+              "lng": 10.0159264
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Nagelsweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{jzeIifc|@VHF?DABABA@?DEFE"
+            },
+            "start_location": {
+              "lat": 53.5519836,
+              "lng": 10.0158875
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "iszeIs|d|@OQS@UDTEBXULBd@PxCT`Dd@hGXlCr@nFn@~DRz@p@~Df@rFDVVHLANIFE"
+    },
+    "summary": "Beim Strohhause and Kurt-Schumacher-Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

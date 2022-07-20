@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6091351,
+        "lng": 10.025011
+      },
+      "southwest": {
+        "lat": 53.6016195,
+        "lng": 10.0215646
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1045
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 195
+        },
+        "end_address": "\u00dcberseering 4, 22297 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6016195,
+          "lng": 10.0247865
+        },
+        "start_address": "U Sengelmannstra\u00dfe / Djakartaweg, 22297 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6091351,
+          "lng": 10.022705
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.6089509,
+              "lng": 10.0223485
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Djakartaweg</b> toward <b>Halifaxweg</b>",
+            "polyline": {
+              "points": "cpefI}pd|@DVBL@F@DBB@BB@LH"
+            },
+            "start_location": {
+              "lat": 53.6091351,
+              "lng": 10.022705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.6084697,
+              "lng": 10.0215646
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Halifaxweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}nefIund|@@I@GBC@CBADADADDDDBJFXFVBHJh@H^J^"
+            },
+            "start_location": {
+              "lat": 53.6089509,
+              "lng": 10.0223485
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 169
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.6069475,
+              "lng": 10.0216088
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Halifaxweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}kefIwid|@l@?|@?r@AdBAJA\\C"
+            },
+            "start_location": {
+              "lat": 53.6084697,
+              "lng": 10.0215646
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 717
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 144
+            },
+            "end_location": {
+              "lat": 53.6017868,
+              "lng": 10.0250006
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>\u00dcberseering</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mbefIajd|@CwCDs@FgADm@Jm@Lk@Ng@P_@`@i@^c@LM@A|@g@B?ZOJBRI\\KNGZCD?h@EhCIzA@jBAt@?l@?@?p@?fC@"
+            },
+            "start_location": {
+              "lat": 53.6069475,
+              "lng": 10.0216088
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.601781,
+              "lng": 10.024783
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Mexikoring</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ebdfIg_e|@@j@"
+            },
+            "start_location": {
+              "lat": 53.6017868,
+              "lng": 10.0250006
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.6016195,
+              "lng": 10.0247865
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cbdfI{}d|@ZAB?"
+            },
+            "start_location": {
+              "lat": 53.601781,
+              "lng": 10.024783
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cpefI}pd|@Lr@DFPJHYHCJBHPNp@d@rBdGCh@ECwCDs@LuBXyANg@P_@`AmANO`Ag@ZOJBp@Uj@Kn@EhCIzA@`DA`B?fC@@j@^A"
+    },
+    "summary": "Halifaxweg and \u00dcberseering",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

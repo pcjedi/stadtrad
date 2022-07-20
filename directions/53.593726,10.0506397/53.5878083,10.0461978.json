@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5941377,
+        "lng": 10.0506643
+      },
+      "southwest": {
+        "lat": 53.5878428,
+        "lng": 10.0458035
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1101
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 299
+        },
+        "end_address": "S+U Barmbek / Piazzetta-Ralph-Giordano, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5878428,
+          "lng": 10.0460319
+        },
+        "start_address": "U Habichtstra\u00dfe / Steilshooper Stra\u00dfe, 22307 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5938358,
+          "lng": 10.0506643
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "53 m",
+              "value": 53
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5941377,
+              "lng": 10.0500396
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Habichtstra\u00dfe</b> toward <b>Heidh\u00f6rn</b>",
+            "polyline": {
+              "points": "opbfIs_j|@Qd@i@tA"
+            },
+            "start_location": {
+              "lat": 53.5938358,
+              "lng": 10.0506643
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 701
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 166
+            },
+            "end_location": {
+              "lat": 53.5879102,
+              "lng": 10.0495778
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Steilshooper Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "krbfIw{i|@d@@l@@d@BD?L?N?D@XCpACtA?X?L?J@F@NBXHPFPFRJNDx@Tf@?VARCLC`AONCbB[l@G@?h@Af@?N?\\Bn@JF@RDTHh@NVLB@^P"
+            },
+            "start_location": {
+              "lat": 53.5941377,
+              "lng": 10.0500396
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 263
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.5885815,
+              "lng": 10.0458035
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Drosselstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mkafI{xi|@g@xBE`@ERGb@AN]tDI`AC`@ENGb@Et@Ct@CtA"
+            },
+            "start_location": {
+              "lat": 53.5879102,
+              "lng": 10.0495778
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "84 m",
+              "value": 84
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5878428,
+              "lng": 10.0460319
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fuhlsb\u00fcttler Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "soafIgai|@PAb@OLGl@M`@E"
+            },
+            "start_location": {
+              "lat": 53.5885815,
+              "lng": 10.0458035
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "opbfIs_j|@{@zBrABhABfEEz@Bh@Lb@Nb@Px@Tf@?j@EnASrB_@n@GpAAl@B`B\\`A\\b@Rg@xBE`@Mv@m@hHMr@IjBCtAPAp@WnAS"
+    },
+    "summary": "Steilshooper Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

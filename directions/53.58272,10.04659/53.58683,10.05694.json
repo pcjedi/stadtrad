@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58689589999999,
+        "lng": 10.0573427
+      },
+      "southwest": {
+        "lat": 53.5827975,
+        "lng": 10.0465235
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 932
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 258
+        },
+        "end_address": "L\u00e4mmersieth / Wachtelstra\u00dfe, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58689589999999,
+          "lng": 10.056994
+        },
+        "start_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Pfenningsbusch</b> toward <b>Bramfelder Str.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ok`fI}fi|@Ud@"
+            },
+            "start_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 111
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.5837946,
+              "lng": 10.0472915
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bramfelder Br\u00fccke</b>/<wbr/><b>Bramfelder Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "el`fIwei|@OW]_@OOOIg@_@YQ_@U"
+            },
+            "start_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 777
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 190
+            },
+            "end_location": {
+              "lat": 53.58678880000001,
+              "lng": 10.0573427
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>L\u00e4mmersieth</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uq`fIqji|@@K@IBU\\gC@[?K?GCe@EYCQMo@s@}Eu@qFOiAg@gDGYIk@Ki@Kg@wAuDMWgAoCu@eBm@yAq@}Aq@aBa@{@"
+            },
+            "start_location": {
+              "lat": 53.5837946,
+              "lng": 10.0472915
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "26 m",
+              "value": 26
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.58689589999999,
+              "lng": 10.056994
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wachtelstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mdafIkik|@On@ET"
+            },
+            "start_location": {
+              "lat": 53.58678880000001,
+              "lng": 10.0573427
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ok`fI}fi|@Ud@OW]_@_@YaAq@_@U@KD_@\\gC@[?SI_AQaAaDaUi@wCeBmE}BuFsDuIUdA"
+    },
+    "summary": "L\u00e4mmersieth",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

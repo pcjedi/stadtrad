@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5914703,
+        "lng": 10.0445087
+      },
+      "southwest": {
+        "lat": 53.5878301,
+        "lng": 10.0329376
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1235
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 362
+        },
+        "end_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hellbrookstra\u00dfe, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5914673,
+          "lng": 10.0445087
+        },
+        "start_address": "U Saarlandstra\u00dfe / Wiesendamm, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5887523,
+          "lng": 10.0330194
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 100
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5878571,
+              "lng": 10.0331338
+            },
+            "html_instructions": "Head <b>south</b> on <b>Saarlandstra\u00dfe</b> toward <b>Wiesendamm</b>",
+            "polyline": {
+              "points": "upafIkqf|@TCdAIn@Gd@?"
+            },
+            "start_location": {
+              "lat": 53.5887523,
+              "lng": 10.0330194
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 354
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 82
+            },
+            "end_location": {
+              "lat": 53.5908299,
+              "lng": 10.0329376
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Wiesendamm</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "ckafIarf|@Dy@g@B}C\\c@Bg@Bo@BQ@}@Fm@DC?}@LuAR"
+            },
+            "start_location": {
+              "lat": 53.5878571,
+              "lng": 10.0331338
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 766
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 231
+            },
+            "end_location": {
+              "lat": 53.59138009999999,
+              "lng": 10.0444576
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hellbrookstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "u}afI{pf|@IiBC[Ac@GqAAWQ{C?EImBKwBIsB?CASCg@AWCa@A[IaBEu@?CCk@?e@?aBE_IAmC?s@A{D?{AB]FkBAeB"
+            },
+            "start_location": {
+              "lat": 53.5908299,
+              "lng": 10.0329376
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5914703,
+              "lng": 10.044426
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fuhlsb\u00fcttler Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cabfI{xh|@QD"
+            },
+            "start_location": {
+              "lat": 53.59138009999999,
+              "lng": 10.0444576
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "5 m",
+              "value": 5
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5914673,
+              "lng": 10.0445087
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hellbrookstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uabfIuxh|@?O"
+            },
+            "start_location": {
+              "lat": 53.5914703,
+              "lng": 10.044426
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "upafIkqf|@zAMtAGDy@g@BaE`@gDPq@DsC`@W{FSsDIsBWcGK}BSgEGuQAoF?{AB]FkBAeBQD?O"
+    },
+    "summary": "Saarlandstra\u00dfe and Hellbrookstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

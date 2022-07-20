@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5417116,
+        "lng": 9.9965313
+      },
+      "southwest": {
+        "lat": 53.5397256,
+        "lng": 9.9928786
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 455
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 82
+        },
+        "end_address": "U \u00dcberseequartier / Grasbrookpark, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5402017,
+          "lng": 9.9964579
+        },
+        "start_address": "Am Kaiserkai 2, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5416811,
+          "lng": 9.9928786
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5417116,
+              "lng": 9.993478999999999
+            },
+            "html_instructions": "Head <b>east</b> on <b>Am Kaiserkai</b> toward <b>Gro\u00dfer Grasbrook</b>",
+            "polyline": {
+              "points": "ojxeIov~{@EwB"
+            },
+            "start_location": {
+              "lat": 53.5416811,
+              "lng": 9.9928786
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 222
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5397256,
+              "lng": 9.9938625
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00dfer Grasbrook</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ujxeIgz~{@x@Iv@IfAMhBU\\EHA~@K"
+            },
+            "start_location": {
+              "lat": 53.5417116,
+              "lng": 9.993478999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 181
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5400997,
+              "lng": 9.9965313
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>H\u00fcbenerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "i~weIs|~{@C[K{AS_COcBSaDAW"
+            },
+            "start_location": {
+              "lat": 53.5397256,
+              "lng": 9.9938625
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "12 m",
+              "value": 12
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5402017,
+              "lng": 9.9964579
+            },
+            "html_instructions": "Turn <b>left</b> at <b>Chicagostra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "s`xeIim_|@SL"
+            },
+            "start_location": {
+              "lat": 53.5400997,
+              "lng": 9.9965313
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ojxeIov~{@EwBx@I~BWpEi@s@{IUyDSL"
+    },
+    "summary": "Gro\u00dfer Grasbrook and H\u00fcbenerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

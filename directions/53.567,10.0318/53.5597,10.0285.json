@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5670015,
+        "lng": 10.0344171
+      },
+      "southwest": {
+        "lat": 53.5598849,
+        "lng": 10.0282665
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1033
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 243
+        },
+        "end_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "start_address": "Lerchenfeld / Uferstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5670015,
+          "lng": 10.031798
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5668266,
+              "lng": 10.0313309
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Uferstra\u00dfe</b> toward <b>Lerchenfeld</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "wh}eIwif|@BHRr@H^"
+            },
+            "start_location": {
+              "lat": 53.5670015,
+              "lng": 10.031798
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 355
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 100
+            },
+            "end_location": {
+              "lat": 53.5642125,
+              "lng": 10.0344171
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lerchenfeld</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ug}eIyff|@RWp@w@PUrAeBLMh@i@hA{A~@sAtAcBRU`@g@PS"
+            },
+            "start_location": {
+              "lat": 53.5668266,
+              "lng": 10.0313309
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 642
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 133
+            },
+            "end_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "iw|eIczf|@RZLNX^XZPRNPRRRBPNh@f@RRNNZZTTXd@LLfAbAh@d@FDPRHJJLRXJPNZLXHNXr@BDBFNh@Ph@Rh@Vr@Nd@BFBDBB@BHBj@bBZ|@LX^fAN\\"
+            },
+            "start_location": {
+              "lat": 53.5642125,
+              "lng": 10.0344171
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh}eIwif|@V|@H^RWbAmA`BsBh@i@hA{A~@sAtAcBt@}@PSRZf@n@j@n@b@d@RB~AzAp@p@f@r@jCbCt@dA`AxBh@`B~@jCFHJFtBbGN\\"
+    },
+    "summary": "B5 and L\u00fcbecker Str./B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

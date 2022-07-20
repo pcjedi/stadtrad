@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57208,
+        "lng": 9.990385300000002
+      },
+      "southwest": {
+        "lat": 53.5613664,
+        "lng": 9.9883943
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1228
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 253
+        },
+        "end_address": "U Hallerstra\u00dfe / Rothenbaumchaussee, 20148 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57208,
+          "lng": 9.988886299999999
+        },
+        "start_address": "Bahnhof Dammtor / Theodor-Heuss-Platz, 20148 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5614356,
+          "lng": 9.990385300000002
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5613664,
+              "lng": 9.990222400000002
+            },
+            "html_instructions": "Head <b>southwest</b> toward <b>Rothenbaumchaussee</b>",
+            "polyline": {
+              "points": "_f|eI}f~{@FLDR"
+            },
+            "start_location": {
+              "lat": 53.5614356,
+              "lng": 9.990385300000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1112
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 233
+            },
+            "end_location": {
+              "lat": 53.57125569999999,
+              "lng": 9.9885807
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rothenbaumchaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qe|eI{e~{@IJGHGDk@L[BE?W@IDoAJSDQD_@Hg@Hk@PeB^[Hw@Na@FqCf@gDj@cALSDg@JqA\\UFQDc@He@H]@]@WCiAC{@Ae@AE?A?{@Ci@?{@CgCAkCMm@A"
+            },
+            "start_location": {
+              "lat": 53.5613664,
+              "lng": 9.990222400000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 103
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.57208,
+              "lng": 9.988886299999999
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kc~eIs{}{@?OCMAICEACACC?CAG?eCE"
+            },
+            "start_location": {
+              "lat": 53.57125569999999,
+              "lng": 9.9885807
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_f|eI}f~{@L`@QTs@Ra@BW@IDcBPq@NsAZaCh@yAVyHrAwARaDv@iAR{@BcEKmBCcEEyDOIm@KImCE"
+    },
+    "summary": "Rothenbaumchaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5600426,
+        "lng": 10.0149604
+      },
+      "southwest": {
+        "lat": 53.55528,
+        "lng": 10.0081746
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 713
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 135
+        },
+        "end_address": "Lange Reihe / Lohm\u00fchlenpark, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5599819,
+          "lng": 10.0149604
+        },
+        "start_address": "Lange Reihe / Kirchenallee, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55528,
+          "lng": 10.0081746
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "45 m",
+              "value": 45
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.55553070000001,
+              "lng": 10.0086179
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Lange Reihe</b>",
+            "polyline": {
+              "points": "o_{eIava|@AQCWAKEKGIIEGEIA"
+            },
+            "start_location": {
+              "lat": 53.55528,
+              "lng": 10.0081746
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 651
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 97
+            },
+            "end_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lange Reihe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aa{eI{xa|@GWEYKOIEEECECEACIOq@}@OSCEQYYg@U]_@m@k@w@OMEGgAyA{@uAW_@u@cAy@qAe@q@S[KKQUMg@W}@KQIM]e@g@s@]e@Y]IECCOKQIOI"
+            },
+            "start_location": {
+              "lat": 53.55553070000001,
+              "lng": 10.0086179
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.5599819,
+              "lng": 10.0149604
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g}{eIa_c|@@KHa@"
+            },
+            "start_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "o_{eIava|@Ei@GWQOQGMq@UUIKEIoAgBaBmC{@eAmAaBsAuBoBuCwAoBe@eBU_@}B}Co@_@OI@KHa@"
+    },
+    "summary": "Lange Reihe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

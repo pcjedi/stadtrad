@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5705476,
+        "lng": 10.0617385
+      },
+      "southwest": {
+        "lat": 53.5640279,
+        "lng": 10.045931
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1507
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 289
+        },
+        "end_address": "Hasselbrookstra\u00dfe / Ritterstra\u00dfe, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5640279,
+          "lng": 10.045931
+        },
+        "start_address": "S+U Wandsbeker Chaussee / B\u00f6rnestra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57029319999999,
+          "lng": 10.0596417
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "html_instructions": "Head <b>east</b> on <b>Wandsbeker Chaussee</b>/<wbr/><b>Wandsbeker Chausseebr\u00fccke</b> toward <b>Brauhausstra\u00dfe</b>",
+            "polyline": {
+              "points": "i}}eIwwk|@AGM{@c@}C"
+            },
+            "start_location": {
+              "lat": 53.57029319999999,
+              "lng": 10.0596417
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 122
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.569533,
+              "lng": 10.0614636
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hammer Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}~}eIy~k|@h@Yj@]HGbAo@f@Y"
+            },
+            "start_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "60 m",
+              "value": 60
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5690249,
+              "lng": 10.0617385
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Hammer Str.</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "qx}eIccl|@TEHGh@YZO"
+            },
+            "start_location": {
+              "lat": 53.569533,
+              "lng": 10.0614636
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 454
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.56595060000001,
+              "lng": 10.057231
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Pappelallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ku}eI{dl|@Z^FLT\\T`@FJVd@BFHLJR^p@bBhCZf@Zf@l@bAT\\nApBHNjArBJRh@bA"
+            },
+            "start_location": {
+              "lat": 53.5690249,
+              "lng": 10.0617385
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 792
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 143
+            },
+            "end_location": {
+              "lat": 53.5640279,
+              "lng": 10.045931
+            },
+            "html_instructions": "Continue onto <b>Hasselbrookstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "eb}eIuhk|@l@zAb@~@@BZbANp@DXVhAHb@TdADTX~AN`AHl@J|@Hv@RrCHbBDv@JvCNvEFhCJrDB`AFlBFxBHjC"
+            },
+            "start_location": {
+              "lat": 53.56595060000001,
+              "lng": 10.057231
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i}}eIwwk|@OcAc@}Ch@Yt@e@jBiA^MdAi@b@l@j@~@l@fAj@dA~BpDnDzFjCzEpAzC\\fAv@xDZzAh@`DTjB\\jENzCZnJ^lNPdG"
+    },
+    "summary": "Pappelallee and Hasselbrookstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

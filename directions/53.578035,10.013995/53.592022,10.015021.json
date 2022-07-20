@@ -1,0 +1,240 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.592036,
+        "lng": 10.0199524
+      },
+      "southwest": {
+        "lat": 53.5780356,
+        "lng": 10.0134121
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2061
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 499
+        },
+        "end_address": "Borgweg / Stadtpark, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.592036,
+          "lng": 10.0150622
+        },
+        "start_address": "Hofweg / Am Langenzug, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780356,
+          "lng": 10.0139947
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.578076,
+              "lng": 10.0141883
+            },
+            "html_instructions": "Head <b>east</b> on <b>Am Langenzug</b> toward <b>Hofweg</b>",
+            "polyline": {
+              "points": "wm_fImzb|@Gg@"
+            },
+            "start_location": {
+              "lat": 53.5780356,
+              "lng": 10.0139947
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5782472,
+              "lng": 10.01414
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hofweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_n_fIu{b|@I@KBKB"
+            },
+            "start_location": {
+              "lat": 53.578076,
+              "lng": 10.0141883
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 413
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.5804375,
+              "lng": 10.019121
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Grillparzerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ao_fIk{b|@Me@i@uAoAiDCIaBiEuAkDu@yB[w@Qi@CMCMCOAQ?Q?Q"
+            },
+            "start_location": {
+              "lat": 53.5782472,
+              "lng": 10.01414
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1198
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 258
+            },
+            "end_location": {
+              "lat": 53.589946,
+              "lng": 10.0134121
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Herderstra\u00dfe</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "w|_fIozc|@UOMKKGQK[]{@cAKMCAEAEAC?E?E?E?E?E@G@GBGBIDKHQHIDMD}@ZQDOBUBg@Fg@HI@OBUFw@Ni@L[FSDWFKBIBMD_@LQHq@VuAt@KFUJ}@f@o@ZKF_@P]L]NSJOHa@Vg@^C@yA`AOLOPu@d@g@ZOJOLQNOPKJGFSVQT_@j@[h@KPYn@MXKVKTIXUn@Uj@c@tAKXMb@EJ"
+            },
+            "start_location": {
+              "lat": 53.5804375,
+              "lng": 10.019121
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 160
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.5899738,
+              "lng": 10.0158306
+            },
+            "html_instructions": "Sharp <b>right</b> onto <b>Wiesendamm</b>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "exafIyvb|@@i@?g@?GGoH?u@@c@"
+            },
+            "start_location": {
+              "lat": 53.589946,
+              "lng": 10.0134121
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 214
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 68
+            },
+            "end_location": {
+              "lat": 53.5918929,
+              "lng": 10.0156036
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Borgweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ixafI}ec|@WBkAB_@BUBK@c@DK@gAJQ@W@w@B"
+            },
+            "start_location": {
+              "lat": 53.5899738,
+              "lng": 10.0158306
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5919348,
+              "lng": 10.0151494
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>S\u00fcdring</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "idbfIodc|@Cn@Ch@"
+            },
+            "start_location": {
+              "lat": 53.5918929,
+              "lng": 10.0156036
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.592036,
+              "lng": 10.0150622
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Grasweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qdbfIuac|@OJED"
+            },
+            "start_location": {
+              "lat": 53.5919348,
+              "lng": 10.0151494
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wm_fImzb|@Gg@I@WFw@{BsAsDwDuJqAqDUw@G]Ac@?QUOYSQK[]gAqAICUAYBe@V[NkA`@a@H}@JwAVqCj@{@Tq@VgClAoCvAgBv@c@TiAv@}AbA_@^}BzAu@t@e@l@{@tA_ArBaAjCcA~CEiK@yAcBFeBN}BPw@BCn@Ch@OJED"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

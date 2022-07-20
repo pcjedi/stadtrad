@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5761452,
+        "lng": 10.0366016
+      },
+      "southwest": {
+        "lat": 53.5739306,
+        "lng": 10.0295188
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 717
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 157
+        },
+        "end_address": "Bartholom\u00e4usstra\u00dfe / Beim Alten Sch\u00fctzenhof, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5757268,
+          "lng": 10.0295188
+        },
+        "start_address": "U Hamburger Stra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5745222,
+          "lng": 10.0366016
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5744808,
+              "lng": 10.0365244
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Holsteinischer Kamp</b> toward <b>Wagnerstra\u00dfe</b>",
+            "polyline": {
+              "points": "ww~eIwgg|@FN"
+            },
+            "start_location": {
+              "lat": 53.5745222,
+              "lng": 10.0366016
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 102
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.57512759999999,
+              "lng": 10.0354389
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wagnerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ow~eIggg|@ITUj@A@STILO^GJQZWf@"
+            },
+            "start_location": {
+              "lat": 53.5744808,
+              "lng": 10.0365244
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 194
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5739306,
+              "lng": 10.0333138
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hamburger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q{~eIo`g|@Pb@Tf@N\\FLj@hAXj@@@l@nA`@|@HPDFFP"
+            },
+            "start_location": {
+              "lat": 53.57512759999999,
+              "lng": 10.0354389
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 279
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Heitmannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "at~eIesf|@oAvBU`@q@^}@h@i@V}A|@}Az@"
+            },
+            "start_location": {
+              "lat": 53.5739306,
+              "lng": 10.0333138
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 135
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5757268,
+              "lng": 10.0295188
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Beim Alten Sch\u00fctzenhof</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}a_fIogf|@RhB@FLfAn@dE"
+            },
+            "start_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ww~eIwgg|@FNITWl@]b@Wj@i@bAf@jA|A`DzA`DLXeBxCwF~C}Az@RhBNnAn@dE"
+    },
+    "summary": "Hamburger Str. and Heitmannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

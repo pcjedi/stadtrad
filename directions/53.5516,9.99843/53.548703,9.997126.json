@@ -1,0 +1,239 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.551652,
+        "lng": 9.9983423
+      },
+      "southwest": {
+        "lat": 53.5486982,
+        "lng": 9.9969249
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.4 km",
+          "value": 440
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 131
+        },
+        "end_address": "Schopenstehl / Alter Fischmarkt, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5486982,
+          "lng": 9.9972342
+        },
+        "start_address": "Kleine Rosenstra\u00dfe / Gerhart-Hauptmann-Platz, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.551652,
+          "lng": 9.9983423
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.55067709999999,
+              "lng": 9.9972657
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Kleine Rosenstra\u00dfe</b> toward <b>Europa Passage</b>",
+            "polyline": {
+              "points": "yhzeIsx_|@`@v@j@hABFLRLPZd@`@?T?"
+            },
+            "start_location": {
+              "lat": 53.551652,
+              "lng": 9.9983423
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "86 m",
+              "value": 86
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5499519,
+              "lng": 9.997055699999999
+            },
+            "html_instructions": "Continue onto <b>b. d. Petrikirche</b>",
+            "polyline": {
+              "points": "wbzeI}q_|@j@E@?D?B?L?D@DDDD@@FDDFBD?@@D@@B@@?Z?"
+            },
+            "start_location": {
+              "lat": 53.55067709999999,
+              "lng": 9.9972657
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.549926,
+              "lng": 9.9974212
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Speersort</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e~yeIsp_|@B{@?K"
+            },
+            "start_location": {
+              "lat": 53.5499519,
+              "lng": 9.997055699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "46 m",
+              "value": 46
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5495757,
+              "lng": 9.9977852
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Schopenstehl</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a~yeI{r_|@ZQLQV_@BE"
+            },
+            "start_location": {
+              "lat": 53.549926,
+              "lng": 9.9974212
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "62 m",
+              "value": 62
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5493447,
+              "lng": 9.9969249
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Schopenstehl</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{{yeIeu_|@^rBNx@"
+            },
+            "start_location": {
+              "lat": 53.5495757,
+              "lng": 9.9977852
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "66 m",
+              "value": 66
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5488051,
+              "lng": 9.997353
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Schopenstehl</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kzyeIwo_|@BEd@a@f@YLKHG"
+            },
+            "start_location": {
+              "lat": 53.5493447,
+              "lng": 9.9969249
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.548812,
+              "lng": 9.997248599999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schopenstehl</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "awyeImr_|@?R"
+            },
+            "start_location": {
+              "lat": 53.5488051,
+              "lng": 9.997353
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5486982,
+              "lng": 9.9972342
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "awyeIyq_|@TB"
+            },
+            "start_location": {
+              "lat": 53.548812,
+              "lng": 9.997248599999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "yhzeIsx_|@~A|Ch@v@v@?v@ER@JJRTFJ\\?BgAZQLQZe@n@lDh@g@~@m@?RTB"
+    },
+    "summary": "Kleine Rosenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

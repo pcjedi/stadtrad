@@ -1,0 +1,190 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57781809999999,
+        "lng": 10.1179625
+      },
+      "southwest": {
+        "lat": 53.5590111,
+        "lng": 10.1050421
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.6 km",
+          "value": 2649
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 550
+        },
+        "end_address": "Kuehnstra\u00dfe / Albert-Schweitzer-Ring, 22045 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57781809999999,
+          "lng": 10.1178705
+        },
+        "start_address": "Manshardtstra\u00dfe / Einkaufszentrum Manshardtstra\u00dfe, 22119 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55901919999999,
+          "lng": 10.1074758
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "74 m",
+              "value": 74
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5590111,
+              "lng": 10.1085907
+            },
+            "html_instructions": "Head <b>east</b> on <b>Manshardtstra\u00dfe</b> toward <b>Dannerallee</b>",
+            "polyline": {
+              "points": "{v{eIwbu|@Ak@AO?qBBM@a@"
+            },
+            "start_location": {
+              "lat": 53.55901919999999,
+              "lng": 10.1074758
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 756
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 168
+            },
+            "end_location": {
+              "lat": 53.56566979999999,
+              "lng": 10.1074233
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Dannerallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yv{eIuiu|@OCiACM?g@@uB?aHDgB@sBAo@?QAIAMDGBKFOHIHIFCFCDEJ[b@k@PuAZkCj@WDKBA?KBA?KBe@T"
+            },
+            "start_location": {
+              "lat": 53.5590111,
+              "lng": 10.1085907
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 746
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 161
+            },
+            "end_location": {
+              "lat": 53.5721901,
+              "lng": 10.1050421
+            },
+            "html_instructions": "Continue onto <b>Holstenhofweg</b>",
+            "polyline": {
+              "points": "m`}eIkbu|@]J_AZu@VyAd@ODMDYFu@Ro@Pg@NuA^G@E@OD]Hs@Pu@Rw@XG@IBe@P]HOEA?A?mBb@QDk@NYJG@CBQPE@A?}@ZYHe@LKKA?A?kAR"
+            },
+            "start_location": {
+              "lat": 53.56566979999999,
+              "lng": 10.1074233
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 753
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 133
+            },
+            "end_location": {
+              "lat": 53.5764874,
+              "lng": 10.1138026
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schimmelmannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ei~eIost|@S_BAIIUEMOYIQUe@GQq@eBi@oAyAsDsAeDQc@mAqC]y@GO]y@aA_CKUKUq@{AUi@Q_@cAeC[}@{@eC"
+            },
+            "start_location": {
+              "lat": 53.5721901,
+              "lng": 10.1050421
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 306
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5777006,
+              "lng": 10.1179625
+            },
+            "html_instructions": "Continue onto <b>Kuehnstra\u00dfe</b>",
+            "polyline": {
+              "points": "ad_fIgjv|@c@_CIa@i@{Cc@_CESg@cCMo@Ki@Oo@Kc@AIOq@"
+            },
+            "start_location": {
+              "lat": 53.5764874,
+              "lng": 10.1138026
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.57781809999999,
+              "lng": 10.1178705
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Albert-Schweitzer-Ring</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sk_fIgdw|@WP"
+            },
+            "start_location": {
+              "lat": 53.5777006,
+              "lng": 10.1179625
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{v{eIwbu|@C{@B_C@a@OCwACgPH_EEUH[P[^a@n@aCl@oDt@[FcA`@uBr@qCx@cFtA{@RiD`Ao@T]HOEC?_Ch@qA`@WR_AZ_AVMKmARUiBi@oAyBmFmGoOeCcG_BqDuAeDwAcE{B}LgAqFm@oCWP"
+    },
+    "summary": "Dannerallee, Holstenhofweg and Schimmelmannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

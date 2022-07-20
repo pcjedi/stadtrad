@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5535058,
+        "lng": 10.0322074
+      },
+      "southwest": {
+        "lat": 53.5432784,
+        "lng": 10.0191559
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2176
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 523
+        },
+        "end_address": "S+U Berliner Tor / Beim Strohhause, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5533318,
+          "lng": 10.0245827
+        },
+        "start_address": "Heidenkampsweg / R+V Versicherung, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54389880000001,
+          "lng": 10.0314839
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "76 m",
+              "value": 76
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5432784,
+              "lng": 10.0319619
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Heidenkampsweg</b>/<wbr/><b>B75</b> toward <b>Gr\u00fcner Deich</b>",
+            "polyline": {
+              "points": "kxxeIwgf|@ZWDCHGnA{@"
+            },
+            "start_location": {
+              "lat": 53.54389880000001,
+              "lng": 10.0314839
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1056
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 260
+            },
+            "end_location": {
+              "lat": 53.5519038,
+              "lng": 10.0260817
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Gr\u00fcner Deich</b><div style=\"font-size:0.9em\">Continue to follow B75</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "otxeIwjf|@GYEW[T}@n@[REDyCvBA@kBrAQLa@ZqBzAIFi@\\cEjC]VOLu@l@YReChB_Ap@s@d@k@`@CBYTk@\\_@TWLMHMFMFOFG@KBUDC@[FE@I@c@LWD]Fc@Lc@XABSRMRKN"
+            },
+            "start_location": {
+              "lat": 53.5432784,
+              "lng": 10.0319619
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 384
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 81
+            },
+            "end_location": {
+              "lat": 53.5504754,
+              "lng": 10.0208023
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Spaldingstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kjzeI_fe|@Dd@Fl@ZfBJf@BL@HJf@Jj@RdANt@BHN|@X~ADPP~@ZbBJd@Jn@N|@VtA@J"
+            },
+            "start_location": {
+              "lat": 53.5519038,
+              "lng": 10.0260817
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 266
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.55263739999999,
+              "lng": 10.0192161
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hammerbrookstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oazeI_ed|@]\\OJQNC@SPKFQLMJKHMJOLGDKHMJaAt@KHs@d@WNIFa@XYK"
+            },
+            "start_location": {
+              "lat": 53.5504754,
+              "lng": 10.0208023
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 373
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 95
+            },
+            "end_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Beim Strohhause</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_ozeIc{c|@Mq@Mu@AI[_CGq@Ca@?EE[KqASmCCWQgCAMKoBUwCAGA_@AIAO"
+            },
+            "start_location": {
+              "lat": 53.55263739999999,
+              "lng": 10.0192161
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5533318,
+              "lng": 10.0245827
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mtzeIc}d|@RANP"
+            },
+            "start_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kxxeIwgf|@zB_BMq@yAdA}DrCqGxEuGhEeFxDcD|BeAr@w@b@i@Xy@RiCh@c@Lc@XUVYb@LrAl@fDz@nExBrLf@rC@J]\\a@ZWRw@j@q@h@oA`A_An@a@Va@XYK[gB]iCQuBu@_Ke@}GCi@AORANP"
+    },
+    "summary": "B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

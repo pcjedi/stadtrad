@@ -1,0 +1,95 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5558973,
+        "lng": 9.950681099999999
+      },
+      "southwest": {
+        "lat": 53.5552461,
+        "lng": 9.942872699999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 523
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 133
+        },
+        "end_address": "Holstenstra\u00dfe / Thadenstra\u00dfe, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5558973,
+          "lng": 9.950681099999999
+        },
+        "start_address": "Chemnitzstra\u00dfe / Max-Brauer-Allee, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5552461,
+          "lng": 9.942872699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 514
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 75
+            },
+            "end_location": {
+              "lat": 53.5558796,
+              "lng": 9.9505503
+            },
+            "html_instructions": "Head <b>east</b> on <b>Chemnitzstra\u00dfe</b> toward <b>Warnholtzstra\u00dfe</b>",
+            "polyline": {
+              "points": "i_{eI}}t{@QeFWuGOyDGuAAKEo@DMEgBOkCCk@UqHCs@Ec@"
+            },
+            "start_location": {
+              "lat": 53.5552461,
+              "lng": 9.942872699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.5558973,
+              "lng": 9.950681099999999
+            },
+            "html_instructions": "Continue onto <b>Thadenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "gc{eI}mv{@CY"
+            },
+            "start_location": {
+              "lat": 53.5558796,
+              "lng": 9.9505503
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i_{eI}}t{@aAkWG{@DMEgBSwDYeJI}@"
+    },
+    "summary": "Chemnitzstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6091351,
+        "lng": 10.022705
+      },
+      "southwest": {
+        "lat": 53.60618299999999,
+        "lng": 10.0117192
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1113
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 245
+        },
+        "end_address": "U Alsterdorf / Hindenburgstra\u00dfe, 22297 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.60618299999999,
+          "lng": 10.0122895
+        },
+        "start_address": "U Sengelmannstra\u00dfe / Djakartaweg, 22297 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6091351,
+          "lng": 10.022705
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.6089509,
+              "lng": 10.0223485
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Djakartaweg</b> toward <b>Halifaxweg</b>",
+            "polyline": {
+              "points": "cpefI}pd|@DVBL@F@DBB@BB@LH"
+            },
+            "start_location": {
+              "lat": 53.6091351,
+              "lng": 10.022705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.6087985,
+              "lng": 10.0216806
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Halifaxweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}nefIund|@?H?F@HFd@RbA"
+            },
+            "start_location": {
+              "lat": 53.6089509,
+              "lng": 10.0223485
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 666
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 110
+            },
+            "end_location": {
+              "lat": 53.6064071,
+              "lng": 10.0125416
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Djakartaweg</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "_nefIojd|@CR?L?L@J`@dCVtAR`AJj@R`AHh@v@dEr@xD@H?B?@AD?DAH@FBPl@hDLv@BLl@~C?BB@B?@@@@RlAJh@DR\\lBNv@Lt@ZnB"
+            },
+            "start_location": {
+              "lat": 53.6087985,
+              "lng": 10.0216806
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 188
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.60773510000001,
+              "lng": 10.0117192
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hindenburgstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a_efIkqb|@oAL]DgBRc@JMLADCBADCDAFAD?B?B?B?F?@?D@D@F@DFL"
+            },
+            "start_location": {
+              "lat": 53.6064071,
+              "lng": 10.0125416
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 178
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.60618299999999,
+              "lng": 10.0122895
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Hindenburgstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kgefIglb|@`AKVEFCRMr@e@FCRGRCRCJC|@O"
+            },
+            "start_location": {
+              "lat": 53.60773510000001,
+              "lng": 10.0117192
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cpefI}pd|@Lr@DFPJ?PHn@RbACR?Zb@pCj@vC`B|It@bE?DA\\bA`Gl@bDF@b@zB`AnFZnBmBRgBRc@JORKVAP@TBLFL`AK^IfAs@ZKf@GhAS"
+    },
+    "summary": "Djakartaweg and Hindenburgstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

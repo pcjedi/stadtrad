@@ -1,0 +1,216 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58312189999999,
+        "lng": 10.0508442
+      },
+      "southwest": {
+        "lat": 53.5736657,
+        "lng": 10.0463452
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1373
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 369
+        },
+        "end_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "start_address": "Lortzingstra\u00dfe / Friedrichsberger Stra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5736657,
+          "lng": 10.0495178
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "93 m",
+              "value": 93
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5739412,
+              "lng": 10.0508442
+            },
+            "html_instructions": "Head <b>east</b> on <b>Lortzingstra\u00dfe</b> toward <b>Friedrichsberger Str.</b>",
+            "polyline": {
+              "points": "mr~eIoxi|@Ik@k@{E"
+            },
+            "start_location": {
+              "lat": 53.5736657,
+              "lng": 10.0495178
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "77 m",
+              "value": 77
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5737166,
+              "lng": 10.049741
+            },
+            "html_instructions": "Make a <b>U-turn</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "ct~eIw`j|@j@zE"
+            },
+            "start_location": {
+              "lat": 53.5739412,
+              "lng": 10.0508442
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 563
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 125
+            },
+            "end_location": {
+              "lat": 53.5786717,
+              "lng": 10.0489654
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedrichsberger Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wr~eI{yi|@gBp@_A`@m@TSH{@Zy@V_AXe@Ji@Lq@Ji@Bm@B[?Y?UAmASuAUOEYGQGq@OEC"
+            },
+            "start_location": {
+              "lat": 53.5737166,
+              "lng": 10.049741
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5786752,
+              "lng": 10.0493055
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Dehnhaide</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uq_fIaui|@?UAm@"
+            },
+            "start_location": {
+              "lat": 53.5786717,
+              "lng": 10.0489654
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5793642,
+              "lng": 10.0494771
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Friedrichsberger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wq_fIewi|@QAMEUESA_@I]G"
+            },
+            "start_location": {
+              "lat": 53.5786752,
+              "lng": 10.0493055
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 492
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 76
+            },
+            "end_location": {
+              "lat": 53.58312189999999,
+              "lng": 10.0464437
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Pfenningsbusch</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_v_fIgxi|@AKAGACCCIGWBU?]D_@B[D]Hc@J]Jc@Ra@R[P[RWRSPk@l@STq@~@o@|@]h@Ub@GJELCDCJSb@INe@`AGNQV"
+            },
+            "start_location": {
+              "lat": 53.5793642,
+              "lng": 10.0494771
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Bramfelder Str.</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "om`fIgei|@LPTUDKTe@"
+            },
+            "start_location": {
+              "lat": 53.58312189999999,
+              "lng": 10.0464437
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "mr~eIoxi|@u@gGj@zEgBp@mBv@oAd@yBp@oAX{ANiABo@AcDi@mBe@EC?UAm@QAc@Ks@K]GAKCKMKm@B}@Hy@NaAVeAf@w@d@k@d@_AbAaB|Bs@lAMXe@dAm@pAQVLPZa@Te@"
+    },
+    "summary": "Friedrichsberger Str. and Pfenningsbusch",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

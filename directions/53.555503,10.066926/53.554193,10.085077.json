@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5555049,
+        "lng": 10.0848046
+      },
+      "southwest": {
+        "lat": 53.5542016,
+        "lng": 10.0669316
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1242
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 233
+        },
+        "end_address": "U Horner Rennbahn / Meurerweg, 22111 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5542035,
+          "lng": 10.0848046
+        },
+        "start_address": "U Rauhes Haus / Horner Weg, 20535 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5554624,
+          "lng": 10.0669316
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1069
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 191
+            },
+            "end_location": {
+              "lat": 53.5547992,
+              "lng": 10.0828187
+            },
+            "html_instructions": "Head <b>east</b> on <b>Horner Weg</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "polyline": {
+              "points": "s`{eIiem|@Cy@Aa@?EAw@@mA?s@@[@]Dk@De@NmAf@wEBQBgA@gBBoABgBFaCFoBPcF@@@?@??A@?@A?A@??A?A@??A?A?A?A?A?A?A?AAA?A?AA??AA??AA?A?A?FaK?C@cCDaIA}@?gDDmHBoC?UCUGM"
+            },
+            "start_location": {
+              "lat": 53.5554624,
+              "lng": 10.0669316
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "91 m",
+              "value": 91
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5542381,
+              "lng": 10.0836034
+            },
+            "html_instructions": "Slight <b>right</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "o|zeIshp|@BK?G?O?O?QBCDIDIDIDGNETMh@W"
+            },
+            "start_location": {
+              "lat": 53.5547992,
+              "lng": 10.0828187
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "82 m",
+              "value": 82
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5542035,
+              "lng": 10.0848046
+            },
+            "html_instructions": "Take the pedestrian tunnel<div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "_yzeIomp|@IcAHm@?AF_@?U?C?w@?E?C"
+            },
+            "start_location": {
+              "lat": 53.5542381,
+              "lng": 10.0836034
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "s`{eIiem|@GyCD{DbAwJFyADwDJiFXsIB@BA@CBKAKGEDeKFeMAeFH}LCk@GMBK?W?a@HMP[d@Sh@WIcAHo@Fu@?eA"
+    },
+    "summary": "Horner Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

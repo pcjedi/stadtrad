@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5832328,
+        "lng": 9.987691
+      },
+      "southwest": {
+        "lat": 53.5780591,
+        "lng": 9.975954999999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1096
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 271
+        },
+        "end_address": "\u1e60 Haspa, Eppendorfer Baum, 20149 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5820614,
+          "lng": 9.987691
+        },
+        "start_address": "U Hoheluftbr\u00fccke / Kaiser-Friedrich-Ufer, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780879,
+          "lng": 9.975954999999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "html_instructions": "Head <b>northeast</b>",
+            "polyline": {
+              "points": "an_fIul{{@KU"
+            },
+            "start_location": {
+              "lat": 53.5780879,
+              "lng": 9.975954999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "87 m",
+              "value": 87
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 66
+            },
+            "end_location": {
+              "lat": 53.5780591,
+              "lng": 9.9770886
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Isestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mn_fIkm{{@Ne@@A?C?A?AAA?A?AA??AC?EAEOCCGQAEAA?A?A?ABI@I?G@E@I@C@CTk@"
+            },
+            "start_location": {
+              "lat": 53.5781544,
+              "lng": 9.9760633
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 779
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 136
+            },
+            "end_location": {
+              "lat": 53.5832328,
+              "lng": 9.985016
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Isestra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{m_fIys{{@qAwB{AaCmCeEy@sAOY_@s@]m@e@y@kAwB[g@QYEGYg@s@qA{C_GIQcAuBi@_AGKa@m@GKAAI["
+            },
+            "start_location": {
+              "lat": 53.5780591,
+              "lng": 9.9770886
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.58217730000001,
+              "lng": 9.9874893
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eppendorfer Baum</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "en`fIke}{@JYl@mBNe@\\iAr@{Bt@yB"
+            },
+            "start_location": {
+              "lat": 53.5832328,
+              "lng": 9.985016
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5820614,
+              "lng": 9.987691
+            },
+            "html_instructions": "Keep <b>right</b> to stay on <b>Eppendorfer Baum</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "keep-right",
+            "polyline": {
+              "points": "sg`fIyt}{@DGHOFO"
+            },
+            "start_location": {
+              "lat": 53.58217730000001,
+              "lng": 9.9874893
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "an_fIul{{@KUNe@@A?GCECAKQO]BODa@BGTk@qAwBiFgIiAmBoDsGmAqBoEqImAgCsAyBIMI[JY|@sCpAeEz@aCP_@"
+    },
+    "summary": "Isestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

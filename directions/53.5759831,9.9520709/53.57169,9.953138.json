@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.576037,
+        "lng": 9.9552345
+      },
+      "southwest": {
+        "lat": 53.5716654,
+        "lng": 9.9520903
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 669
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 104
+        },
+        "end_address": "U Emilienstra\u00dfe / Fruchtallee, 20259 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5716654,
+          "lng": 9.953128399999999
+        },
+        "start_address": "Osterstra\u00dfe 121, 20255 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.576037,
+          "lng": 9.9520903
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 219
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5754029,
+              "lng": 9.9552345
+            },
+            "html_instructions": "Head <b>east</b> on <b>Osterstra\u00dfe</b> toward <b>Emilienstra\u00dfe</b>",
+            "polyline": {
+              "points": "ga_fIqwv{@?AHgA@C@QLgATcBR}AHe@RaBZaC"
+            },
+            "start_location": {
+              "lat": 53.576037,
+              "lng": 9.9520903
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 440
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.5716855,
+              "lng": 9.9529823
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Emilienstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g}~eIekw{@n@ZXLrBhAfAp@dAl@^Tn@^n@^ZPLF|A|@|@b@FBTLF@D@F@H@T@"
+            },
+            "start_location": {
+              "lat": 53.5754029,
+              "lng": 9.9552345
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5716654,
+              "lng": 9.953128399999999
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "af~eIc}v{@B]"
+            },
+            "start_location": {
+              "lat": 53.5716855,
+              "lng": 9.9529823
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ga_fIqwv{@L_B`AoHn@cFhAh@`H~DhCxAzC`B\\P^FT@B]"
+    },
+    "summary": "Osterstra\u00dfe and Emilienstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.60042259999999,
+        "lng": 10.0760606
+      },
+      "southwest": {
+        "lat": 53.59195769999999,
+        "lng": 10.0694818
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1107
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 226
+        },
+        "end_address": "U Wandsbek-Gartenstadt / Ostpreu\u00dfenplatz, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.59195769999999,
+          "lng": 10.0757338
+        },
+        "start_address": "Werner-Otto-Stra\u00dfe / OTTO Group, 22179 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.60042259999999,
+          "lng": 10.0703664
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Werner-Otto-Stra\u00dfe</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "polyline": {
+              "points": "sycfIyzm|@JpD"
+            },
+            "start_location": {
+              "lat": 53.60042259999999,
+              "lng": 10.0703664
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 559
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 128
+            },
+            "end_location": {
+              "lat": 53.5957938,
+              "lng": 10.0729867
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Werner-Otto-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gycfIgum|@ZYdAw@d@Yl@]j@[`Aq@XUd@[r@i@dAs@d@[ZUj@e@pA{@PM\\UpA_A|@q@XUXU"
+            },
+            "start_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 466
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.59203609999999,
+              "lng": 10.0760606
+            },
+            "html_instructions": "Continue onto <b>Lesserstra\u00dfe</b>",
+            "polyline": {
+              "points": "u|bfIekn|@VO\\QlDeC@?JGt@e@fA{@zCoBtAaALIXWVWNUz@qA"
+            },
+            "start_location": {
+              "lat": 53.5957938,
+              "lng": 10.0729867
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.59195769999999,
+              "lng": 10.0757338
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ostpreu\u00dfenpl.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gebfIk~n|@DV@FF`@"
+            },
+            "start_location": {
+              "lat": 53.59203609999999,
+              "lng": 10.0760606
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sycfIyzm|@JpDZYjBqAxAy@zAgA~CyB`Aq@j@e@pA{@n@c@nCqBr@k@t@a@pFsDfA{@zCoBbBkAp@o@jAgBN`A"
+    },
+    "summary": "Werner-Otto-Stra\u00dfe and Lesserstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

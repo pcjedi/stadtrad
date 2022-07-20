@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5672842,
+        "lng": 10.001083
+      },
+      "southwest": {
+        "lat": 53.5601737,
+        "lng": 9.9890992
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1371
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 295
+        },
+        "end_address": "Harvestehuder Weg / Alte Rabenstra\u00dfe, 20148 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5672842,
+          "lng": 10.001083
+        },
+        "start_address": "Bahnhof Dammtor / Dag-Hammarskj\u00f6ld-Platz, 20354 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5601737,
+          "lng": 9.9894056
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "54 m",
+              "value": 54
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5606143,
+              "lng": 9.9890992
+            },
+            "html_instructions": "Head <b>north</b> on <b>Dag-Hammarskj\u00f6ld-Platz</b>",
+            "polyline": {
+              "points": "a~{eIy`~{@GBUBQLg@f@"
+            },
+            "start_location": {
+              "lat": 53.5601737,
+              "lng": 9.9894056
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "76 m",
+              "value": 76
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5610395,
+              "lng": 9.990004599999999
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Theodor-Heuss-Platz</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "y`|eI{~}{@IS_@cA_@cAKW"
+            },
+            "start_location": {
+              "lat": 53.5606143,
+              "lng": 9.9890992
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "82 m",
+              "value": 82
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5604275,
+              "lng": 9.9907042
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Theodor-Heuss-Platz</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oc|eIod~{@pA_BPOT["
+            },
+            "start_location": {
+              "lat": 53.5610395,
+              "lng": 9.990004599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 817
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 180
+            },
+            "end_location": {
+              "lat": 53.5667701,
+              "lng": 9.995971899999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Mittelweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "u_|eI{h~{@KSEI_@m@c@e@MQEIMUMWkAkBmAwB_@s@COAEaAgBk@_AEECCA?AAC?G@MSAA[WQIMEWEw@Ie@Ay@C{ACi@CG?UEMGOCQMOMIIUQ_BkA_Ak@qA}@s@e@"
+            },
+            "start_location": {
+              "lat": 53.5604275,
+              "lng": 9.9907042
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 342
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5672842,
+              "lng": 10.001083
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alte Rabenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ig}eIyi_|@YsEAYIqA?IEo@MmCKuBAME_AGsAMcEAY"
+            },
+            "start_location": {
+              "lat": 53.5667701,
+              "lng": 9.995971899999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "a~{eIy`~{@]Fy@t@uAsDpA_BPOT[KSe@w@q@w@mBcDmBkDEUmBgDIIO?OUm@a@e@K}AKgEKc@MOCQMYWuB}AqCiBs@e@YsEKkBEy@a@qIWqH"
+    },
+    "summary": "Mittelweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

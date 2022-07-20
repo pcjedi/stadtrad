@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6014442,
+        "lng": 10.0625012
+      },
+      "southwest": {
+        "lat": 53.5970575,
+        "lng": 10.0603272
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 636
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 132
+        },
+        "end_address": "Fabriciusstra\u00dfe / Buschrosenweg, 22177 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6014442,
+          "lng": 10.0624674
+        },
+        "start_address": "Hellbrookkamp / Novomind AG, 22177 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5970575,
+          "lng": 10.0625012
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.59722619999999,
+              "lng": 10.0603272
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hellbrookkamp</b> toward <b>Fabriciusstra\u00dfe</b>",
+            "polyline": {
+              "points": "sdcfIsil|@EhAS|FGhB"
+            },
+            "start_location": {
+              "lat": 53.5970575,
+              "lng": 10.0625012
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 491
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 113
+            },
+            "end_location": {
+              "lat": 53.6014442,
+              "lng": 10.0624674
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Fabriciusstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uecfIa|k|@e@[QK_Am@i@]i@_@mAo@_Aa@yAi@g@OmBg@WIyBm@oA_@]K"
+            },
+            "start_location": {
+              "lat": 53.59722619999999,
+              "lng": 10.0603272
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sdcfIsil|@YfIGhBe@[qAy@sA}@mCqAaCy@oI_C]K"
+    },
+    "summary": "Fabriciusstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

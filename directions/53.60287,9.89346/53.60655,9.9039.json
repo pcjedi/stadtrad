@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6066099,
+        "lng": 9.9039364
+      },
+      "southwest": {
+        "lat": 53.6029797,
+        "lng": 9.8931243
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.9 km",
+          "value": 894
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 221
+        },
+        "end_address": "Eidelstedt-Center / Elbgaustra\u00dfe, 22523 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6065654,
+          "lng": 9.903887899999999
+        },
+        "start_address": "S Elbgaustra\u00dfe / Weidplan, 22523 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6029797,
+          "lng": 9.8934172
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.6031239,
+              "lng": 9.8936417
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>Weidplan</b>",
+            "polyline": {
+              "points": "sidfI{hk{@AKCICGAAAAMI"
+            },
+            "start_location": {
+              "lat": 53.6029797,
+              "lng": 9.8934172
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "46 m",
+              "value": 46
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.6033947,
+              "lng": 9.8931243
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Weidplan</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ojdfIgjk{@GNCJQ`@?@MTCDEJ"
+            },
+            "start_location": {
+              "lat": 53.6031239,
+              "lng": 9.8936417
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 818
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 166
+            },
+            "end_location": {
+              "lat": 53.6065142,
+              "lng": 9.9039364
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Elbgaustra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "eldfI_gk{@Qu@CM]gBCGa@gBI[GSKQ?Am@gB{@mCq@qB}A{EOe@ACIYQk@m@iBKQEK]{@GSCKEQOiAOiAAICY]gC[iCE[Iu@AYAe@?W@YDq@JsA@_AAU"
+            },
+            "start_location": {
+              "lat": 53.6033947,
+              "lng": 9.8931243
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.6065654,
+              "lng": 9.903887899999999
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "u_efIsjm{@EDEB"
+            },
+            "start_location": {
+              "lat": 53.6065142,
+              "lng": 9.9039364
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sidfI{hk{@EUEIOKKZc@~@EJQu@a@uBw@_DKSiBuFaDwJ[eAy@{Bc@gAK_@g@oDcAgIKoAA}@FkAJsA@_AAUEDEB"
+    },
+    "summary": "Elbgaustra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

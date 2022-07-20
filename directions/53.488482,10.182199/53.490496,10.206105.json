@@ -1,0 +1,264 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4906236,
+        "lng": 10.2062681
+      },
+      "southwest": {
+        "lat": 53.4884494,
+        "lng": 10.1821982
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 2038
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 442
+        },
+        "end_address": "Bahnhof Bergedorf / Johann-Meyer-Stra\u00dfe, 21031 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.49035019999999,
+          "lng": 10.2062681
+        },
+        "start_address": "S Nettelnburg / Friedrich-Frank-Bogen, 21033 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.48851579999999,
+          "lng": 10.1821982
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 215
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.48947829999999,
+              "lng": 10.1838564
+            },
+            "html_instructions": "Head <b>east</b> on <b>Friedrich-Frank-Bogen</b>",
+            "polyline": {
+              "points": "g~meIwuc}@?}@@QDi@@_ABa@@_@AI?EAGGQIQA?MAG@OGsA[c@IYX"
+            },
+            "start_location": {
+              "lat": 53.48851579999999,
+              "lng": 10.1821982
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "44 m",
+              "value": 44
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.48966979999999,
+              "lng": 10.1844221
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Friedrich-Frank-Bogen</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gdneIc`d}@Mu@Ia@MW"
+            },
+            "start_location": {
+              "lat": 53.48947829999999,
+              "lng": 10.1838564
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 143
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.48910129999999,
+              "lng": 10.1863139
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ladenbeker Furtweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "meneIscd}@LSXy@Zy@Fc@F[Jq@LaBB]"
+            },
+            "start_location": {
+              "lat": 53.48966979999999,
+              "lng": 10.1844221
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 172
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.49060369999999,
+              "lng": 10.1869138
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Oberer Landweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{aneImod}@QCaAWc@Oe@QQIWIeAW]M"
+            },
+            "start_location": {
+              "lat": 53.48910129999999,
+              "lng": 10.1863139
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1145
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 252
+            },
+            "end_location": {
+              "lat": 53.4889995,
+              "lng": 10.2036329
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kurt-A.-K\u00f6rber-Chaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gkneIesd}@CUAK@K@Q?_@DOLu@RgATwA@ADUVaBD[F[PgABQV{An@qDDSF[XkBHi@X_BHa@D]@CDUDa@DYFi@B_@Bg@Do@@O@w@?O?K?i@?O?W@e@?MAK?gBA_C?kA?{C?iAAwD?KA[Aa@?G?_A?{B?{@Ae@?k@Ai@CuA@O?mA?W?{B?mACm@"
+            },
+            "start_location": {
+              "lat": 53.49060369999999,
+              "lng": 10.1869138
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.4896908,
+              "lng": 10.2034452
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bergedorfer Str.</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ganeIu{g}@g@VSLMA_A?"
+            },
+            "start_location": {
+              "lat": 53.4889995,
+              "lng": 10.2036329
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 160
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.4904312,
+              "lng": 10.2053986
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Johann-Meyer-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qeneIqzg}@?cBI[Og@AAO[EMYs@gA}B"
+            },
+            "start_location": {
+              "lat": 53.4896908,
+              "lng": 10.2034452
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.490148,
+              "lng": 10.2057578
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Johann-Meyer-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ejneIwfh}@Zc@Zc@"
+            },
+            "start_location": {
+              "lat": 53.4904312,
+              "lng": 10.2053986
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.49035019999999,
+              "lng": 10.2062681
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mhneI_ih}@Og@W}@"
+            },
+            "start_location": {
+              "lat": 53.490148,
+              "lng": 10.2057578
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g~meIwuc}@@oAFiBBqAIYKQU?cBc@c@IYXWwAMWLSt@sBN_AXsCB]QCeBg@w@[}Aa@]MCU?W@q@ReAp@wDv@aFpAsH|AkJVeCHwABgA?uA?wAAoMAaGAg@AeFCwDAkE?iECm@g@VSLMA_A??cBYcAQ]_@aAgA}BZc@Zc@Og@W}@"
+    },
+    "summary": "Kurt-A.-K\u00f6rber-Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

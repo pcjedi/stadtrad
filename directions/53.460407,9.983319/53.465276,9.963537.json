@@ -1,0 +1,166 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.46525,
+        "lng": 9.9833138
+      },
+      "southwest": {
+        "lat": 53.4602126,
+        "lng": 9.9634992
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1482
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 417
+        },
+        "end_address": "S Heimfeld / Alter Postweg, 21075 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.46525,
+          "lng": 9.9634992
+        },
+        "start_address": "Herbert-Wehner-Platz / Gro\u00dfer Schippsee, 21073 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.460409,
+          "lng": 9.9833138
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.4602126,
+              "lng": 9.9830747
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Gro\u00dfer Schippsee</b> toward <b>Harburger Ring</b>",
+            "polyline": {
+              "points": "qnheIuz|{@FDTZHL"
+            },
+            "start_location": {
+              "lat": 53.460409,
+              "lng": 9.9833138
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 350
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 127
+            },
+            "end_location": {
+              "lat": 53.4608797,
+              "lng": 9.977969
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Harburger Ring</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "imheIey|{@K`@Qr@EPCJ?DADADE`@G`A?@Gt@ARCXIjAEt@Gx@AN[`FAHC`@A\\A^Bn@?d@AP?P?V?@"
+            },
+            "start_location": {
+              "lat": 53.4602126,
+              "lng": 9.9830747
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 553
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 199
+            },
+            "end_location": {
+              "lat": 53.46361,
+              "lng": 9.9711719
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schwarzenbergstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oqheIiy{{@CNALANAJ?HALCFCHCFCFQPEBCBGHSl@CFUh@[z@Qb@EL]z@e@nAcAlCELCJO^ENEJc@dAYx@IVEPGRA@GHEHKRMd@AFMh@?BG^ETAHIn@EXMbASfB"
+            },
+            "start_location": {
+              "lat": 53.4608797,
+              "lng": 9.977969
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 195
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.46400800000001,
+              "lng": 9.968303899999999
+            },
+            "html_instructions": "Continue onto <b>Am Schwarzenberg-Campus</b>",
+            "polyline": {
+              "points": "qbieIynz{@MzAGf@CRAP?REn@O|AEp@APCX?DEl@K~A"
+            },
+            "start_location": {
+              "lat": 53.46361,
+              "lng": 9.9711719
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 357
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.46525,
+              "lng": 9.9634992
+            },
+            "html_instructions": "Continue onto <b>Alter Postweg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "aeieI{|y{@SxBInAEj@QlBCd@C\\GhAI|AE\\CDABAD?@AB@B?B?DiBpEo@zA"
+            },
+            "start_location": {
+              "lat": 53.46400800000001,
+              "lng": 9.968303899999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qnheIuz|{@\\`@HLK`@WdACPQnBMdB{@xMC|@BtAA|@Ix@Ih@GNWTKLWt@iAvCmCfH_@fAmAhDITMRYx@Op@ObAq@tF[hDEbAUnCK~Ao@tIUrCKfBOzBEHAN?HyClH"
+    },
+    "summary": "Schwarzenbergstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

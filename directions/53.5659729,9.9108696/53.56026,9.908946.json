@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.56585099999999,
+        "lng": 9.9118677
+      },
+      "southwest": {
+        "lat": 53.5602301,
+        "lng": 9.904275
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1257
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 282
+        },
+        "end_address": "S Bahrenfeld / Friedensallee, 22761 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5602301,
+          "lng": 9.9090419
+        },
+        "start_address": "Bahrenfelder Chaussee / Von-Sauer-Stra\u00dfe, 22761 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.56585099999999,
+          "lng": 9.9107609
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.56555549999999,
+              "lng": 9.9118481
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Bahrenfelder Chaussee</b> toward <b>Von-Sauer-Stra\u00dfe</b>/<wbr/><b>B431</b>",
+            "polyline": {
+              "points": "qa}eIgun{@F[b@_CHg@BU"
+            },
+            "start_location": {
+              "lat": 53.56585099999999,
+              "lng": 9.9107609
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 203
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.5637439,
+              "lng": 9.9118677
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Woyrschweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w_}eIa|n{@XNVDhAFlA?l@ErB["
+            },
+            "start_location": {
+              "lat": 53.56555549999999,
+              "lng": 9.9118481
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 518
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 88
+            },
+            "end_location": {
+              "lat": 53.5630882,
+              "lng": 9.904275
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Mendelssohnstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kt|eIe|n{@AX?JOtEAZ?RI|C?PCd@?H?H?H?TBpA@v@PlDHlA@VH`ANlALbA|@xEJj@D\\F`@"
+            },
+            "start_location": {
+              "lat": 53.5637439,
+              "lng": 9.9118677
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 447
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 108
+            },
+            "end_location": {
+              "lat": 53.5603096,
+              "lng": 9.9091123
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Friedensallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ip|eIwlm{@N[FODIl@iAJSBEf@eAb@u@j@_AX_@f@q@n@aAh@}@r@}An@kBTo@H[Ts@J_@Ts@"
+            },
+            "start_location": {
+              "lat": 53.5630882,
+              "lng": 9.904275
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5602301,
+              "lng": 9.9090419
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}~{eI}jn{@NL"
+            },
+            "start_location": {
+              "lat": 53.5603096,
+              "lng": 9.9091123
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qa}eIgun{@x@yEXNVDhAFlA?`Da@Ad@QpFIpDCjADhDZzFJxA\\pChAdGL~@Vk@bAmBjA{BdA_BvAsB|A{CdBkF`@sANL"
+    },
+    "summary": "Mendelssohnstra\u00dfe and Friedensallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

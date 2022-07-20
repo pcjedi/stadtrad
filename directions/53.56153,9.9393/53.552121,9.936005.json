@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.561498,
+        "lng": 9.9420548
+      },
+      "southwest": {
+        "lat": 53.5517402,
+        "lng": 9.9360281
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1720
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 381
+        },
+        "end_address": "Bahnhof Altona Ost/Max-Brauer-Allee, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5520832,
+          "lng": 9.9361967
+        },
+        "start_address": "Mariannenruhplatz / Eva-R\u00fchmkorf-Stra\u00dfe, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.561498,
+          "lng": 9.939385399999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 175
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5602398,
+              "lng": 9.9379365
+            },
+            "html_instructions": "Head <b>south</b> on <b>Domenica-Niehoff-Twiete</b> toward <b>Eva-R\u00fchmkorf-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "kf|eIeht{@HHrBx@dAxBr@|ABD"
+            },
+            "start_location": {
+              "lat": 53.561498,
+              "lng": 9.939385399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 251
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.55802260000001,
+              "lng": 9.938028300000001
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Felicitas-Kukuck-Stra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "o~{eIc_t{@fABjA?lDDbB@DCBA@CBEDM"
+            },
+            "start_location": {
+              "lat": 53.5602398,
+              "lng": 9.9379365
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 298
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.55573769999999,
+              "lng": 9.9360281
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Harkortstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sp{eIu_t{@LZLVPXt@~@d@j@PRFFDBD@LBf@BVBLDHBRVZh@BDFL?@FNDJBFJJFDLBp@FNB"
+            },
+            "start_location": {
+              "lat": 53.55802260000001,
+              "lng": 9.938028300000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 402
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5552752,
+              "lng": 9.9420548
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Julius-Leber-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kb{eIess{@F}@B]@U?E?K@o@D_B?IBo@@a@Dq@HmA?OHiCJ}DNgE?QHqC"
+            },
+            "start_location": {
+              "lat": 53.55573769999999,
+              "lng": 9.9360281
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 544
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 113
+            },
+            "end_location": {
+              "lat": 53.5517402,
+              "lng": 9.9364796
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Max-Brauer-Allee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o_{eIyxt{@rApCDJv@tBXp@rA`Db@dAl@lAf@fAR^Rf@P\\NX|@xALTBHPPJLFFHHd@f@b@Zt@d@"
+            },
+            "start_location": {
+              "lat": 53.5552752,
+              "lng": 9.9420548
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "50 m",
+              "value": 50
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5520832,
+              "lng": 9.9361967
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Neue Gro\u00dfe Bergstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kizeI_vs{@G`@[b@_@M"
+            },
+            "start_location": {
+              "lat": 53.5517402,
+              "lng": 9.9364796
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kf|eIeht{@HHrBx@xBvEBDfABxFDhBADEHSLZ^p@zAjB^^RD~@FVHn@`ARd@HRRP~@JNBF}@Ds@?QJiEPqDd@aPHqCrApC|@`ClBrEpArC`BlD~ArCn@p@d@f@b@Zt@d@G`@[b@_@M"
+    },
+    "summary": "Max-Brauer-Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

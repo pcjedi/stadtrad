@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.63476929999999,
+        "lng": 9.9528073
+      },
+      "southwest": {
+        "lat": 53.6191505,
+        "lng": 9.9496368
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1837
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 345
+        },
+        "end_address": "U Niendorf Markt / Tibarg, 22459 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6191505,
+          "lng": 9.95121
+        },
+        "start_address": "U Schippelsweg / Paul-Sorge-Stra\u00dfe, 22455 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.63476929999999,
+          "lng": 9.9527026
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1426
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 270
+            },
+            "end_location": {
+              "lat": 53.6225171,
+              "lng": 9.9514385
+            },
+            "html_instructions": "Head <b>south</b> on <b>Paul-Sorge-Stra\u00dfe</b> toward <b>Kr\u00e4henweg</b>",
+            "polyline": {
+              "points": "ipjfIk{v{@LELCHALCFAL?^CJ?P@P@P?D@D?PBRBH@D@^P~@d@r@b@d@ZrAdAl@h@n@h@^\\HFh@j@ZVRP^ZXXBBdA|@x@v@n@^LDL@P@J@JAXE`@GHCXOv@]XKLGNGt@]l@]JIFENIZQRI^OBAZKTEZARAT?h@Ap@@bAIl@CXCREn@GlAOnAMTCr@Kl@ElAOl@EHARCNAr@EF?NARDN@"
+            },
+            "start_location": {
+              "lat": 53.63476929999999,
+              "lng": 9.9527026
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "88 m",
+              "value": 88
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.6219633,
+              "lng": 9.952382
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Tibarg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wchfIosv{@NYhAaCLUFI"
+            },
+            "start_location": {
+              "lat": 53.6225171,
+              "lng": 9.9514385
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 323
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.6191505,
+              "lng": 9.95121
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Tibarg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g`hfIkyv{@d@BNFv@X@?NFjBh@LDPDNDn@RZJjBj@|Ar@"
+            },
+            "start_location": {
+              "lat": 53.6219633,
+              "lng": 9.952382
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ipjfIk{v{@r@O`AEz@Dt@Hd@RrBhAxB`B|ArAnBhBpAjA~BtB|@d@^BV?z@Mb@S~Aq@dAe@x@g@fAk@b@Qp@QnBEp@@bAIfAG`Fk@dEe@jAKzAIb@FxA{CT_@d@BNFx@XzBp@~Ad@fCv@|Ar@"
+    },
+    "summary": "Paul-Sorge-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

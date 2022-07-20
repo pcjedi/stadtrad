@@ -1,0 +1,216 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5919088,
+        "lng": 10.0347509
+      },
+      "southwest": {
+        "lat": 53.5845287,
+        "lng": 10.0302287
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1156
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 388
+        },
+        "end_address": "S\u00fcdring / Stadthallenbr\u00fccke, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.591482,
+          "lng": 10.0302287
+        },
+        "start_address": "Schleidenstra\u00dfe / Osterbekstra\u00dfe, 22083 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5845858,
+          "lng": 10.0336959
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "72 m",
+              "value": 72
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5845773,
+              "lng": 10.0347509
+            },
+            "html_instructions": "Head <b>east</b> on <b>Osterbekstra\u00dfe</b> toward <b>Saarlandstra\u00dfe</b>/<wbr/><b>Schleidenbr\u00fccke</b>",
+            "polyline": {
+              "points": "uv`fIsuf|@HO@mAIsB"
+            },
+            "start_location": {
+              "lat": 53.5845858,
+              "lng": 10.0336959
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.5845404,
+              "lng": 10.0337797
+            },
+            "html_instructions": "Make a <b>U-turn</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "sv`fIe|f|@HrBAlA"
+            },
+            "start_location": {
+              "lat": 53.5845773,
+              "lng": 10.0347509
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 702
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 148
+            },
+            "end_location": {
+              "lat": 53.5908299,
+              "lng": 10.0329376
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Saarlandstra\u00dfe</b>/<wbr/><b>Schleidenbr\u00fccke</b><div style=\"font-size:0.9em\">Continue to follow Saarlandstra\u00dfe</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kv`fIcvf|@{A?k@@e@?_ABA@aCNo@F_@Bw@Lg@BU?aAJWDg@B}C\\c@Bg@Bo@BQ@}@Fm@DC?}@LuAR"
+            },
+            "start_location": {
+              "lat": 53.5845404,
+              "lng": 10.0337797
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "52 m",
+              "value": 52
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5905865,
+              "lng": 10.0322992
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hellbrookstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "u}afI{pf|@@l@l@pA"
+            },
+            "start_location": {
+              "lat": 53.5908299,
+              "lng": 10.0329376
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 110
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5915579,
+              "lng": 10.0320003
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Stadthallenbr\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "e|afI{lf|@o@PkBf@I@I?Q?"
+            },
+            "start_location": {
+              "lat": 53.5905865,
+              "lng": 10.0322992
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 102
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5919088,
+              "lng": 10.0305743
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Stadthallenbr\u00fccke</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gbbfI_kf|@Mz@[vB[hB"
+            },
+            "start_location": {
+              "lat": 53.5915579,
+              "lng": 10.0320003
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "53 m",
+              "value": 53
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.591482,
+              "lng": 10.0302287
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>S\u00fcdring</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mdbfIabf|@t@f@?@\\V@@"
+            },
+            "start_location": {
+              "lat": 53.5919088,
+              "lng": 10.0305743
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "uv`fIsuf|@HO@mAIsBHrBAlA{A?qA@aADqDVwAP}@ByAPeE`@mCLkBLaALuAR@l@l@pAo@PuBh@[?i@rD[hBt@f@\\X@@"
+    },
+    "summary": "Saarlandstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

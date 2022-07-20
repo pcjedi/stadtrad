@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5507315,
+        "lng": 10.0050674
+      },
+      "southwest": {
+        "lat": 53.5485456,
+        "lng": 10.0016018
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.5 km",
+          "value": 527
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 138
+        },
+        "end_address": "U Steinstra\u00dfe / Deichtorplatz, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5485482,
+          "lng": 10.0043699
+        },
+        "start_address": "Jakobikirchhhof / Steinstra\u00dfe, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5503043,
+          "lng": 10.0016302
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5506111,
+              "lng": 10.0016018
+            },
+            "html_instructions": "Head <b>north</b> on <b>Jakobikirchhof</b> toward <b>Bugenhagenstra\u00dfe</b>",
+            "polyline": {
+              "points": "k`zeIem`|@}@D"
+            },
+            "start_location": {
+              "lat": 53.5503043,
+              "lng": 10.0016302
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 228
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.550721,
+              "lng": 10.005013
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bugenhagenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ibzeI_m`|@GMAIAKAu@?}@?[?E@E@K?S@S?SAK?KEwAEqAA}A?aA@_A"
+            },
+            "start_location": {
+              "lat": 53.5506111,
+              "lng": 10.0016018
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "73 m",
+              "value": 73
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5500674,
+              "lng": 10.0050674
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lange M\u00fchren</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_czeIiba|@pAEPAF?TC"
+            },
+            "start_location": {
+              "lat": 53.550721,
+              "lng": 10.005013
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 174
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 76
+            },
+            "end_location": {
+              "lat": 53.5485456,
+              "lng": 10.0046463
+            },
+            "html_instructions": "Continue onto <b>Johanniswall</b>",
+            "polyline": {
+              "points": "}~yeIuba|@TBL?f@?TB`@BN@\\DL@T@PDb@XTTLD"
+            },
+            "start_location": {
+              "lat": 53.5500674,
+              "lng": 10.0050674
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5485482,
+              "lng": 10.0043699
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Burchardstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "muyeIa`a|@AX@\\"
+            },
+            "start_location": {
+              "lat": 53.5485456,
+              "lng": 10.0046463
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "k`zeIem`|@}@DGMCUAuCDy@GcCGoD@aC`CK`BF|ALf@Fb@XTTLDAX@\\"
+    },
+    "summary": "Bugenhagenstra\u00dfe and Johanniswall",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

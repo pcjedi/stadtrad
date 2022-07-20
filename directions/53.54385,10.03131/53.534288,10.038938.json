@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.54389880000001,
+        "lng": 10.0390067
+      },
+      "southwest": {
+        "lat": 53.5342819,
+        "lng": 10.029524
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1638
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 300
+        },
+        "end_address": "Rothenburgsorter Marktplatz / Lindleystra\u00dfe, 20539 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5342819,
+          "lng": 10.0389246
+        },
+        "start_address": "Heidenkampsweg / R+V Versicherung, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54389880000001,
+          "lng": 10.0314839
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 370
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.5408263,
+              "lng": 10.0328461
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Heidenkampsweg</b>/<wbr/><b>B75</b> toward <b>Gr\u00fcner Deich</b><div style=\"font-size:0.9em\">Continue to follow B75</div>",
+            "polyline": {
+              "points": "kxxeIwgf|@ZWDCHGnA{@h@_@tAeA~@s@l@e@FCZWTKRCLCN?R?P@h@FJDJDRRRR"
+            },
+            "start_location": {
+              "lat": 53.54389880000001,
+              "lng": 10.0314839
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 305
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.5383589,
+              "lng": 10.0308944
+            },
+            "html_instructions": "Keep <b>left</b> to continue on <b>Billhorner Br\u00fcckenstra\u00dfe</b>/<wbr/><b>B75</b>",
+            "maneuver": "keep-left",
+            "polyline": {
+              "points": "eexeIipf|@tAzA^d@v@v@XPVP~A`A\\NRLFDXNb@Vj@VHB"
+            },
+            "start_location": {
+              "lat": 53.5408263,
+              "lng": 10.0328461
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 169
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5388629,
+              "lng": 10.0300964
+            },
+            "html_instructions": "Take the exit toward <b>Holiday Inn Hotel</b>/<wbr/><b>Rothenburgsort</b>",
+            "maneuver": "ramp-right",
+            "polyline": {
+              "points": "wuweIadf|@N^@DDZ@L?F?HAJAPADAFAHGRIPGPKTKPEHGDIDIBA?GCECAAEEEKEOAG?CAE?I@KD_@"
+            },
+            "start_location": {
+              "lat": 53.5383589,
+              "lng": 10.0308944
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 774
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 141
+            },
+            "end_location": {
+              "lat": 53.5344345,
+              "lng": 10.0390067
+            },
+            "html_instructions": "Merge onto <b>Billhorner R\u00f6hrendamm</b>",
+            "maneuver": "merge",
+            "polyline": {
+              "points": "{xweIc_f|@l@oBt@gCPq@T{@FK^kAHUBEFMPe@FOLUHSNWLOLO^c@DG\\[BG@CRa@@E@ETi@Ro@DOHYDSbAgCPa@FKBIZu@N_@f@oABGJWBE~@_CFKBGJUPa@Ri@JG@CHU?Av@{BRy@"
+            },
+            "start_location": {
+              "lat": 53.5388629,
+              "lng": 10.0300964
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lindleystra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "e}veIyvg|@TX"
+            },
+            "start_location": {
+              "lat": 53.5344345,
+              "lng": 10.0390067
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "5 m",
+              "value": 5
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5342819,
+              "lng": 10.0389246
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Rothenburgsorter Marktpl.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o|veI_vg|@FG"
+            },
+            "start_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kxxeIwgf|@zB_BlF_Eb@[h@O\\Cd@@h@FJD^X`ElEp@b@~A`A\\NZR|@f@t@ZPd@Fh@?PGj@[`AWf@MNSHICGEKQIa@@UD_@l@oBfAyD\\gAh@aBJSp@_B\\g@l@s@b@c@DKTg@Vo@X_ANm@`B_EvAmDlCsGLKHWv@{BRy@TXFG"
+    },
+    "summary": "B75 and Billhorner R\u00f6hrendamm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

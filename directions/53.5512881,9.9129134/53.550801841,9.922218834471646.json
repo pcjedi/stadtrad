@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5511636,
+        "lng": 9.9221659
+      },
+      "southwest": {
+        "lat": 53.5507021,
+        "lng": 9.9127108
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.7 km",
+          "value": 657
+        },
+        "duration": {
+          "text": "2 mins",
+          "value": 129
+        },
+        "end_address": "Fischersallee / Bleickenallee, 22763 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5507021,
+          "lng": 9.9221659
+        },
+        "start_address": "Bleickenallee / Kinderkrankenhaus Altona, 22763 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5511636,
+          "lng": 9.9129357
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5511501,
+              "lng": 9.912721699999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Bleickenallee</b> toward <b>Am Rathenaupark</b>",
+            "polyline": {
+              "points": "wezeI{bo{@@j@"
+            },
+            "start_location": {
+              "lat": 53.5511636,
+              "lng": 9.9129357
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 643
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 126
+            },
+            "end_location": {
+              "lat": 53.5507021,
+              "lng": 9.9221659
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Am Rathenaupark</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "uezeIoao{@V@GaBIoCAuAAgA?sBAe@@gCBsA?m@?Q@gA@kA@s@Dq@BoAH}CBiA?ODeBDqABYNmCDg@NsA"
+            },
+            "start_location": {
+              "lat": 53.5511501,
+              "lng": 9.912721699999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wezeI{bo{@@j@V@QqFEwHD{GBsCFeBPgIJwDRgDT{B"
+    },
+    "summary": "Bleickenallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

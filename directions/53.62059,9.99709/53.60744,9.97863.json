@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6204869,
+        "lng": 9.997181999999999
+      },
+      "southwest": {
+        "lat": 53.6074236,
+        "lng": 9.9786599
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2201
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 364
+        },
+        "end_address": "Borsteler Chaussee / K\u00f6ppenstra\u00dfe, 22453 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6074236,
+          "lng": 9.9786599
+        },
+        "start_address": "Weg beim J\u00e4ger / Lufthansa 2, 22335 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6204869,
+          "lng": 9.997181999999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.5 km",
+              "value": 1464
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 255
+            },
+            "end_location": {
+              "lat": 53.612373,
+              "lng": 9.979956699999999
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Weg beim J\u00e4ger</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "polyline": {
+              "points": "awgfIkq_|@Pv@Jd@Pv@`AlE@HFXNn@ZzAT`ADNDPFPDNHRDJHTNZN^Rb@FPVh@DFXr@Vn@\\t@FNHR\\nAzAzE`AjDRn@Rn@HVZbA\\~@`@~@\\x@xA|C~@dBDHv@|AjA|BR^dAnBv@fB`@p@^p@Rb@DHHRLXJXHV?BFf@@@@?@@@@@@@@@@@B@@@B@@?B@B?B?B@B?@?B?DRVJJBD@@@DFPf@zAf@xATj@Tt@BJXr@LVFF"
+            },
+            "start_location": {
+              "lat": 53.6204869,
+              "lng": 9.997181999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 356
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.6097402,
+              "lng": 9.9829195
+            },
+            "html_instructions": "<b>Weg beim J\u00e4ger</b> turns slightly <b>left</b> and becomes <b>Klotzenmoor</b>",
+            "polyline": {
+              "points": "idffIwe|{@J@D?FCHEVQDC|@w@|@{@^q@d@o@Z_@HMR]V_@f@u@FM~AyBNSV]"
+            },
+            "start_location": {
+              "lat": 53.612373,
+              "lng": 9.979956699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 381
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 66
+            },
+            "end_location": {
+              "lat": 53.6074236,
+              "lng": 9.9786599
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>K\u00f6ppenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{sefIgx|{@Tn@p@~Ab@~@|@nBn@tAj@zA`@p@fAdCnApCFJFJ"
+            },
+            "start_location": {
+              "lat": 53.6097402,
+              "lng": 9.9829195
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "awgfIkq_|@fDrOh@tB^dAjCfGd@dAf@bBdEfNd@zA~@~B\\x@xCbG|CdG|BvE`AbBp@zATp@Fj@FDFHHZ?D?DRVNPBFvAfEj@`B\\~@T^P@PI\\UzBsBdAaBd@m@j@}@~CqEV]Tn@tA~ClBdEj@zA`@p@vCvGNV"
+    },
+    "summary": "Weg beim J\u00e4ger",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

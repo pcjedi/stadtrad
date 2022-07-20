@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5865374,
+        "lng": 10.0653471
+      },
+      "southwest": {
+        "lat": 53.5819953,
+        "lng": 10.0467149
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1468
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 364
+        },
+        "end_address": "U Alter Teichweg / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58585129999999,
+          "lng": 10.0653471
+        },
+        "start_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.58253,
+              "lng": 10.0471297
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Pfenningsbusch</b> toward <b>Langenrehm</b>",
+            "polyline": {
+              "points": "ok`fI}fi|@\\m@Ve@"
+            },
+            "start_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1340
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 318
+            },
+            "end_location": {
+              "lat": 53.5865374,
+              "lng": 10.0646704
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Alter Teichweg</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "yi`fIqii|@@S?K?MAGAIE[Ig@AY@W?Cl@cIb@aFPcCJiADo@Bg@?C@y@@q@A}@CwAGqACWESGg@EWACCQGUEMM]]_AUk@w@wBa@cAa@kAaAyBGe@G?EK?OMI?A?AGO?A?QG@A?GSO{@a@aAi@uAe@kA]{@EOi@wAg@wAWw@Y}@]gA_@sAQo@YcAYeAYcAQs@Ka@I_@Oo@Q{@CO"
+            },
+            "start_location": {
+              "lat": 53.58253,
+              "lng": 10.0471297
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "88 m",
+              "value": 88
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.58585129999999,
+              "lng": 10.0653471
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Nordschleswiger Str.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{bafIewl|@bBcBd@c@"
+            },
+            "start_location": {
+              "lat": 53.5865374,
+              "lng": 10.0646704
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ok`fI}fi|@t@sA@_@AUGe@KaA@[nBsVJuC?oBKiDWkBSy@yBaGcAoCaAyBGe@G?EK?OMKGQ?SI@GSO{@a@aAoAaDc@kAcCeHiBoGqA_Fo@{ChCgC"
+    },
+    "summary": "Alter Teichweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5630237,
+        "lng": 9.9637698
+      },
+      "southwest": {
+        "lat": 53.5582433,
+        "lng": 9.9482448
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1271
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 276
+        },
+        "end_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "start_address": "Neuer Pferdemarkt / Beim Gr\u00fcnen J\u00e4ger, 20359 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5588828,
+          "lng": 9.9637698
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "72 m",
+              "value": 72
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5582891,
+              "lng": 9.963706499999999
+            },
+            "html_instructions": "Head <b>southwest</b>",
+            "polyline": {
+              "points": "_v{eIq`y{@f@\\f@JF?FABAFGHQ"
+            },
+            "start_location": {
+              "lat": 53.5588828,
+              "lng": 9.9637698
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5582433,
+              "lng": 9.9636418
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Neuer Pferdemarkt</b>/<wbr/><b>Stresemannstra\u00dfe</b>/<wbr/><b>B4</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ir{eIe`y{@HL"
+            },
+            "start_location": {
+              "lat": 53.5582891,
+              "lng": 9.963706499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1114
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 232
+            },
+            "end_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Neuer Pferdemarkt</b>/<wbr/><b>Stresemannstra\u00dfe</b>/<wbr/><b>B4</b><div style=\"font-size:0.9em\">Continue to follow Stresemannstra\u00dfe/<wbr/>B4</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_r{eIw_y{@Wf@Wf@MXMZO`@EJQb@O\\aAtBU`@s@vAMVGRA@GRK\\Qh@Qp@ADM`@GRADERA@ETI^I`@Qt@C^CPI\\I\\ETEVEVGf@Il@[hC[jCYbCKx@M|@?BCNStAKj@Kr@Kn@KXCLEVG\\QrACTCTAREh@YfEUtDShDIx@Eh@C^CXCVE^"
+            },
+            "start_location": {
+              "lat": 53.5582433,
+              "lng": 9.9636418
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>D\u00fcppelstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "{k|eI_bv{@INKJCBGF}@X_@L"
+            },
+            "start_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_v{eIq`y{@f@\\f@JNAJIHQHLo@nA[t@w@nByCfG]fAeArDk@lCGp@Sz@YlB{AfM]jCw@dFOf@Mt@[rCiApQW|CIv@UZKJ}Af@"
+    },
+    "summary": "Stresemannstra\u00dfe/B4",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

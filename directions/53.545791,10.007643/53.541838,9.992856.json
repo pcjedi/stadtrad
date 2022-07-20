@@ -1,0 +1,334 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5466369,
+        "lng": 10.0078714
+      },
+      "southwest": {
+        "lat": 53.5412621,
+        "lng": 9.9928786
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1715
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 357
+        },
+        "end_address": "Am Kaiserkai 2, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5416811,
+          "lng": 9.9928786
+        },
+        "start_address": "Stadtdeich / Hammerbrooklyn, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5458457,
+          "lng": 10.0075556
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "44 m",
+              "value": 44
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5461891,
+              "lng": 10.0078714
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Oberhafenstra\u00dfe</b> toward <b>Banksstra\u00dfe</b>",
+            "polyline": {
+              "points": "qdyeIgra|@EE}@w@"
+            },
+            "start_location": {
+              "lat": 53.5458457,
+              "lng": 10.0075556
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5464153,
+              "lng": 10.0071277
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Banksstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ufyeIeta|@Kf@Ot@Qt@"
+            },
+            "start_location": {
+              "lat": 53.5461891,
+              "lng": 10.0078714
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5458412,
+              "lng": 10.0069737
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Altl\u00e4nder Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "chyeIqoa|@PD|AX@?@?"
+            },
+            "start_location": {
+              "lat": 53.5464153,
+              "lng": 10.0071277
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.5466369,
+              "lng": 10.0040961
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "odyeIqna|@B^KtA?DQj@Qt@EPKh@{@zDQf@S~@"
+            },
+            "start_location": {
+              "lat": 53.5458412,
+              "lng": 10.0069737
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 134
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.5457216,
+              "lng": 10.0027706
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Oberbaumbr\u00fccke</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oiyeIs|`|@Xf@f@|@Xh@HLHLZd@^f@JN"
+            },
+            "start_location": {
+              "lat": 53.5466369,
+              "lng": 10.0040961
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5455979,
+              "lng": 10.002478
+            },
+            "html_instructions": "Keep <b>right</b> to stay on <b>Oberbaumbr\u00fccke</b>",
+            "maneuver": "keep-right",
+            "polyline": {
+              "points": "wcyeIit`|@FVN`@"
+            },
+            "start_location": {
+              "lat": 53.5457216,
+              "lng": 10.0027706
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 353
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5441757,
+              "lng": 9.9977128
+            },
+            "html_instructions": "Continue onto <b>Brooktorkai</b>",
+            "polyline": {
+              "points": "_cyeIor`|@JZ@BL\\Jl@VrA`@pBJd@f@hCH`@j@bDFZXxAH`@Z|AFZ"
+            },
+            "start_location": {
+              "lat": 53.5455979,
+              "lng": 10.002478
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 348
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.5412621,
+              "lng": 9.999625199999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Osakaallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "czxeIut_|@ZMr@]`@Ux@g@l@]`@WTO^W`@WtA_A`@Sb@WJGv@_@RK"
+            },
+            "start_location": {
+              "lat": 53.5441757,
+              "lng": 9.9977128
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 218
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.5415889,
+              "lng": 9.9963784
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>\u00dcberseeallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{gxeIu``|@Cd@[vGOhCQdD?Z"
+            },
+            "start_location": {
+              "lat": 53.5412621,
+              "lng": 9.999625199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 180
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.54142940000001,
+              "lng": 9.9936663
+            },
+            "html_instructions": "Continue onto <b>Am Dalmannkai</b>",
+            "polyline": {
+              "points": "}ixeIkl_|@HxAHbFJlE?P"
+            },
+            "start_location": {
+              "lat": 53.5415889,
+              "lng": 9.9963784
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5417156,
+              "lng": 9.993622499999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00dfer Grasbrook</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}hxeIm{~{@y@H"
+            },
+            "start_location": {
+              "lat": 53.54142940000001,
+              "lng": 9.9936663
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "49 m",
+              "value": 49
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5416811,
+              "lng": 9.9928786
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Am Kaiserkai</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wjxeIc{~{@@ZDvB"
+            },
+            "start_location": {
+              "lat": 53.5417156,
+              "lng": 9.993622499999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qdyeIgra|@EE}@w@Kf@a@jBnB^@?D^KzAc@`BQz@{@zDQf@S~@Xf@`AfBnAhBJNFVZ|@N`@b@`C~AbIvAzHb@xBnAk@jDsBlD_CdAk@bAg@RKCd@k@`LQ`EHxAHbFJ~Ey@H@ZDvB"
+    },
+    "summary": "Brooktorkai",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

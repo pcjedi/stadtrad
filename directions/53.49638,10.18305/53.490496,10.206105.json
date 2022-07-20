@@ -1,0 +1,240 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4966361,
+        "lng": 10.2062681
+      },
+      "southwest": {
+        "lat": 53.4889071,
+        "lng": 10.1827172
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2263
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 542
+        },
+        "end_address": "Bahnhof Bergedorf / Johann-Meyer-Stra\u00dfe, 21031 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.49035019999999,
+          "lng": 10.2062681
+        },
+        "start_address": "Billwerder Billdeich / TSG Sportforum, 21033 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4963851,
+          "lng": 10.1830106
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.4965778,
+              "lng": 10.1830787
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Billwerder Billdeich</b>",
+            "polyline": {
+              "points": "mooeIyzc}@a@MC?"
+            },
+            "start_location": {
+              "lat": 53.4963851,
+              "lng": 10.1830106
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "58 m",
+              "value": 58
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.4962662,
+              "lng": 10.1827172
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Billwerder Billdeich</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "spoeIg{c}@C@CBA@AB?B?@?D@B?B@BB@@@j@NHBBBBD@@"
+            },
+            "start_location": {
+              "lat": 53.4965778,
+              "lng": 10.1830787
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 719
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 123
+            },
+            "end_location": {
+              "lat": 53.49060369999999,
+              "lng": 10.1869138
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Billwerder Billdeich</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "unoeI_yc}@BM?ADQD}@D[FUFQNSj@Q\\KBANMj@m@FINKLMLMRMLIPKLO`@ORI`@O^M^I\\Eh@M`@Eb@ED?^IPEVCRELILIRGREROPONORSFIHG`@g@\\[NSPOLKLEHCB?JAP?HAHEJGLIPKHKJSLQ"
+            },
+            "start_location": {
+              "lat": 53.4962662,
+              "lng": 10.1827172
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1145
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 317
+            },
+            "end_location": {
+              "lat": 53.4889995,
+              "lng": 10.2036329
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kurt-A.-K\u00f6rber-Chaussee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gkneIesd}@CUAK@K@Q?_@DOLu@RgATwA@ADUVaBD[F[PgABQV{An@qDDSF[XkBHi@X_BHa@D]@CDUDa@DYFi@B_@Bg@Do@@O@w@?O?K?i@?O?W@e@?MAK?gBA_C?kA?{C?iAAwD?KA[Aa@?G?_A?{B?{@Ae@?k@Ai@CuA@O?mA?W?{B?mACm@"
+            },
+            "start_location": {
+              "lat": 53.49060369999999,
+              "lng": 10.1869138
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.4896908,
+              "lng": 10.2034452
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bergedorfer Str.</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ganeIu{g}@g@VSLMA_A?"
+            },
+            "start_location": {
+              "lat": 53.4889995,
+              "lng": 10.2036329
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 160
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.4904312,
+              "lng": 10.2053986
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Johann-Meyer-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qeneIqzg}@?cBI[Og@AAO[EMYs@gA}B"
+            },
+            "start_location": {
+              "lat": 53.4896908,
+              "lng": 10.2034452
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.490148,
+              "lng": 10.2057578
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Johann-Meyer-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ejneIwfh}@Zc@Zc@"
+            },
+            "start_location": {
+              "lat": 53.4904312,
+              "lng": 10.2053986
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.49035019999999,
+              "lng": 10.2062681
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mhneI_ih}@Og@W}@"
+            },
+            "start_location": {
+              "lat": 53.490148,
+              "lng": 10.2057578
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "mooeIyzc}@e@MC@GL@NDDl@PRNBOJoALq@FQNShA]ROr@w@\\Y`Aq@LO`@Ot@Y~@WfASdAKd@Ih@IRELI`@QRERO`@_@Z]j@o@l@o@^[VIj@Ct@c@b@q@Ea@B]Do@`@}Bt@qEb@qCtA}HzAqJTkCF_A@gA?}A?gDAqLAcEC}@?_GGqE@qFC{B{@d@mAA?cBI[Qi@Ui@aBqDv@gAg@eB"
+    },
+    "summary": "Billwerder Billdeich and Kurt-A.-K\u00f6rber-Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

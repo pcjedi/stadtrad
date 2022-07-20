@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5661845,
+        "lng": 9.9640367
+      },
+      "southwest": {
+        "lat": 53.5542418,
+        "lng": 9.953386700000001
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1701
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 403
+        },
+        "end_address": "Paulinenplatz / Wohlwillstra\u00dfe, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5542418,
+          "lng": 9.9622488
+        },
+        "start_address": "Eimsb\u00fctteler Stra\u00dfe / Waterloostra\u00dfe, 22769 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5661845,
+          "lng": 9.953386700000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 476
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5643415,
+              "lng": 9.9596438
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Eimsb\u00fctteler Str.</b> toward <b>Nagels Allee</b>",
+            "polyline": {
+              "points": "sc}eIu_w{@DSrAiGd@wBvAmG|@oDT}@v@wBJSNi@BK@E?E?E?E?C?EACEg@M_A"
+            },
+            "start_location": {
+              "lat": 53.5661845,
+              "lng": 9.953386700000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 650
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 144
+            },
+            "end_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schulterblatt</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cx|eIwfx{@\\SFCLIROHGf@_@z@y@ZUTQ`@i@VSZ]v@y@`@c@`@e@r@s@TWZa@d@a@hA_Al@g@FEPOrAaAlAo@RMbCeA"
+            },
+            "start_location": {
+              "lat": 53.5643415,
+              "lng": 9.9596438
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 105
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5582891,
+              "lng": 9.963706499999999
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Schanzenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qw{eIgby{@X^BDBDv@f@f@JF?FABAFGHQ"
+            },
+            "start_location": {
+              "lat": 53.5591337,
+              "lng": 9.9640367
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "44 m",
+              "value": 44
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.557959,
+              "lng": 9.9633647
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Beim Gr\u00fcnen J\u00e4ger</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ir{eIe`y{@HLJNFFLL@@@@@B@@FBDB"
+            },
+            "start_location": {
+              "lat": 53.5582891,
+              "lng": 9.963706499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 183
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5563874,
+              "lng": 9.9628924
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Beim Gr\u00fcnen J\u00e4ger</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "gp{eI_~x{@@A?A@?@A?A@?@?@?@?@?@@@?@@@BBB@@@B@B?B@FLDZFt@Jx@Ld@JP@b@F^D"
+            },
+            "start_location": {
+              "lat": 53.557959,
+              "lng": 9.9633647
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 243
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5542418,
+              "lng": 9.9622488
+            },
+            "html_instructions": "Continue onto <b>Wohlwillstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "mf{eIa{x{@P@pANh@Hn@Jt@PPD^Fj@HH@p@X^P"
+            },
+            "start_location": {
+              "lat": 53.5563874,
+              "lng": 9.9628924
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sc}eIu_w{@vEcTrAmFbAkCRu@@K?UGk@M_A\\STM\\Wf@_@z@y@p@g@`@i@VSrAwAlCuC`AcAvBgBXUrAaAlAo@vCsA\\d@z@l@n@JJCPYj@r@FHLF@CDCF?FFHL@Jh@LfDf@fD^xATfAVjAPz@Z^P"
+    },
+    "summary": "Eimsb\u00fctteler Str. and Schulterblatt",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

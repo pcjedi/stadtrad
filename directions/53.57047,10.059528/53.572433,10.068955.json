@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57281339999999,
+        "lng": 10.0698562
+      },
+      "southwest": {
+        "lat": 53.57029319999999,
+        "lng": 10.0596417
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1039
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 229
+        },
+        "end_address": "U Wandsbek Markt / Wandsbeker Marktstra\u00dfe, 22041 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5723543,
+          "lng": 10.0690082
+        },
+        "start_address": "S+U Wandsbeker Chaussee / B\u00f6rnestra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57029319999999,
+          "lng": 10.0596417
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "html_instructions": "Head <b>east</b> on <b>Wandsbeker Chaussee</b>/<wbr/><b>Wandsbeker Chausseebr\u00fccke</b> toward <b>Brauhausstra\u00dfe</b>",
+            "polyline": {
+              "points": "i}}eIwwk|@AGM{@c@}C"
+            },
+            "start_location": {
+              "lat": 53.57029319999999,
+              "lng": 10.0596417
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 636
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 159
+            },
+            "end_location": {
+              "lat": 53.57281339999999,
+              "lng": 10.069573
+            },
+            "html_instructions": "Continue onto <b>Wandsbeker Marktstra\u00dfe</b>",
+            "polyline": {
+              "points": "}~}eIy~k|@]uCCSW}BIk@OuAIo@[iCKw@Gc@QwAAACWIa@]eBOk@Oq@{@_EEO?ACKCMGSYkAu@iDCMWiA?WCQI]CUE["
+            },
+            "start_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "73 m",
+              "value": 73
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5722178,
+              "lng": 10.0698493
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "am~eIyum|@b@GHAJAB?F?N?BI?CFKHKHE"
+            },
+            "start_location": {
+              "lat": 53.57281339999999,
+              "lng": 10.069573
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 251
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5723543,
+              "lng": 10.0690082
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ki~eIqwm|@FAD@BFBJ@VB\\@@Nt@BLN|@Hr@D`@?FBT@Z?H?BAJCHCBEDE@A?E@EAECIIEMGSCQAGI]EWOu@?CIk@"
+            },
+            "start_location": {
+              "lat": 53.5722178,
+              "lng": 10.0698493
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i}}eIwwk|@qAwJu@sGy@uGa@sCgCoL{AwGWiA?WMo@Iq@b@G`@CN?BIFORQFAHHDb@XbBXpBDh@D~@ETIHG@K?OMMa@UoAYeB"
+    },
+    "summary": "Wandsbeker Marktstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

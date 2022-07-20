@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5571695,
+        "lng": 9.962884299999999
+      },
+      "southwest": {
+        "lat": 53.5542418,
+        "lng": 9.942872699999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1613
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 301
+        },
+        "end_address": "Paulinenplatz / Wohlwillstra\u00dfe, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5542418,
+          "lng": 9.9622488
+        },
+        "start_address": "Chemnitzstra\u00dfe / Max-Brauer-Allee, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5552461,
+          "lng": 9.942872699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 514
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 75
+            },
+            "end_location": {
+              "lat": 53.5558819,
+              "lng": 9.9505561
+            },
+            "html_instructions": "Head <b>east</b> on <b>Chemnitzstra\u00dfe</b> toward <b>Warnholtzstra\u00dfe</b>",
+            "polyline": {
+              "points": "i_{eI}}t{@QeFWuGOyDGuAAKEo@DMEgBOkCCk@UqHCs@Ee@"
+            },
+            "start_location": {
+              "lat": 53.5552461,
+              "lng": 9.942872699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 866
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 190
+            },
+            "end_location": {
+              "lat": 53.5562955,
+              "lng": 9.962884299999999
+            },
+            "html_instructions": "Continue onto <b>Thadenstra\u00dfe</b>",
+            "polyline": {
+              "points": "gc{eI_nv{@Em@Gi@Ks@UmAEQMc@ACQe@Uk@Sa@Wm@EKAASc@EMGOEMCIWoAQ}A?IG}@AYBwABy@JuF@k@@k@DuAFoAL_BNsCLaBViDJmAAQ`@iEVaE"
+            },
+            "start_location": {
+              "lat": 53.5558819,
+              "lng": 9.9505561
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 233
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5542418,
+              "lng": 9.9622488
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wohlwillstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{e{eI_{x{@pANh@Hn@Jt@PPD^Fj@HH@p@X^P"
+            },
+            "start_location": {
+              "lat": 53.5562955,
+              "lng": 9.962884299999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i_{eI}}t{@aAkWG{@DMEgBSwDYeJKsAS}Ak@gCsAaDa@_AM][yAQgBIwAFqCLaHFaCToD\\uFb@wFAQ`@iEVaEpANxATfAVjAPz@Z^P"
+    },
+    "summary": "Chemnitzstra\u00dfe and Thadenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

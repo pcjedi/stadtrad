@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57099909999999,
+        "lng": 10.1086269
+      },
+      "southwest": {
+        "lat": 53.5465749,
+        "lng": 10.0956058
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.3 km",
+          "value": 3335
+        },
+        "duration": {
+          "text": "12 mins",
+          "value": 723
+        },
+        "end_address": "U Legienstra\u00dfe / Riedweg, 22111 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5476916,
+          "lng": 10.0956058
+        },
+        "start_address": "Rodigallee 85, 22043 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5705488,
+          "lng": 10.104921
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.57099909999999,
+              "lng": 10.1053403
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Holstenhofweg</b>",
+            "polyline": {
+              "points": "}~}eIwrt|@SFQFWHE@A?AAAAAC?GGm@Eq@"
+            },
+            "start_location": {
+              "lat": 53.5705488,
+              "lng": 10.104921
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 610
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 180
+            },
+            "end_location": {
+              "lat": 53.56566979999999,
+              "lng": 10.1074233
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenhofweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wa~eIkut|@L@@?r@OVEPCnBo@BA@CFK\\Id@QHCFAv@Yt@Sr@Q\\INEDAFAtA_@f@On@Qt@SXGLENExAe@t@W~@[\\K"
+            },
+            "start_location": {
+              "lat": 53.57099909999999,
+              "lng": 10.1053403
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 747
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 122
+            },
+            "end_location": {
+              "lat": 53.5590867,
+              "lng": 10.1086078
+            },
+            "html_instructions": "Continue onto <b>Dannerallee</b>",
+            "polyline": {
+              "points": "m`}eIkbu|@d@UJC@?JC@?JCVEjCk@tA[j@QZc@DKBEBGHGHINIJGFCLEH@P@n@?rB@fBA`HEtB?f@AL?hAB"
+            },
+            "start_location": {
+              "lat": 53.56566979999999,
+              "lng": 10.1074233
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 183
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.5589132,
+              "lng": 10.1058668
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Manshardtstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "iw{eIyiu|@B^?BDN?pB@NDdBDvAJnD"
+            },
+            "start_location": {
+              "lat": 53.5590867,
+              "lng": 10.1086078
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.5 km",
+              "value": 1505
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 326
+            },
+            "end_location": {
+              "lat": 53.5465749,
+              "lng": 10.0981723
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Legienstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ev{eIuxt|@nAYPEhAYx@Sv@Oz@On@IHAN?X@Z@@?VFPDTJNLPVTPpA`Ar@h@v@p@nAbAnErDLHzEjElDvCjCrBlAz@BDXTj@j@~@n@XTzB|A`ChBdChBhBvAfBvADB"
+            },
+            "start_location": {
+              "lat": 53.5589132,
+              "lng": 10.1058668
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 211
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5476916,
+              "lng": 10.0956058
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Riedweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aiyeIqhs|@mA~DMb@U`Ae@pAk@zAQZIN"
+            },
+            "start_location": {
+              "lat": 53.5465749,
+              "lng": 10.0981723
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}~}eIwrt|@cAZGGGu@Eq@L@t@Oh@IrBq@HOtAa@lBm@pA[rBi@fD}@lDiA|Ag@p@YNCdGqAj@QZc@HQLOXSRKVC`A@zE?lMGhABB^DR@`CJ|DJnDnAYzA_@pBc@jBYXAt@BXFf@P`@d@fBrAjKrIhFtElDvCjCrBpA`AdA`AvIlG|I|G{AbFU`Ae@pAk@zAQZIN"
+    },
+    "summary": "Legienstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

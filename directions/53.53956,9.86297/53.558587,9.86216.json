@@ -1,0 +1,216 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.559123,
+        "lng": 9.865194899999999
+      },
+      "southwest": {
+        "lat": 53.5395987,
+        "lng": 9.862121
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2465
+        },
+        "duration": {
+          "text": "15 mins",
+          "value": 871
+        },
+        "end_address": "S Klein Flottbek / Ohnhorststra\u00dfe, 22609 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5586242,
+          "lng": 9.862121
+        },
+        "start_address": "F\u00e4hre R\u00fcschpark / Hein-Sa\u00df-Weg, 21129 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5395987,
+          "lng": 9.8629302
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "49 m",
+              "value": 49
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5398377,
+              "lng": 9.8635516
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Hein-Sa\u00df-Weg</b>",
+            "polyline": {
+              "points": "o}weIije{@Su@[eA"
+            },
+            "start_location": {
+              "lat": 53.5395987,
+              "lng": 9.8629302
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 189
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5412542,
+              "lng": 9.8632455
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Hein-Sa\u00df-Weg</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "__xeIene{@q@QQCsA[CAm@UUAI@OFEFGLQfB"
+            },
+            "start_location": {
+              "lat": 53.5398377,
+              "lng": 9.8635516
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 576
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 336
+            },
+            "end_location": {
+              "lat": 53.5463973,
+              "lng": 9.8631397
+            },
+            "html_instructions": "Take the <b>R\u00fcschpark - Teufelsbr\u00fcck</b> ferry to Hamburg<div style=\"font-size:0.9em\">Toll road</div>",
+            "maneuver": "ferry",
+            "polyline": {
+              "points": "ygxeIile{@YImBKo@E{@DoAHmC`@cC\\wCVaAGw@G}Ce@"
+            },
+            "start_location": {
+              "lat": 53.5412542,
+              "lng": 9.8632455
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 101
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5472859,
+              "lng": 9.8633545
+            },
+            "html_instructions": "Continue straight<div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "straight",
+            "polyline": {
+              "points": "_hyeIske{@GEWGi@M[Ic@Ic@DC?"
+            },
+            "start_location": {
+              "lat": 53.5463973,
+              "lng": 9.8631397
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "80 m",
+              "value": 80
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5475782,
+              "lng": 9.864431999999999
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Teufelsbr\u00fcck</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qmyeI}le{@Ai@Ck@Qu@a@kA"
+            },
+            "start_location": {
+              "lat": 53.5472859,
+              "lng": 9.8633545
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1304
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 310
+            },
+            "end_location": {
+              "lat": 53.559123,
+              "lng": 9.8644874
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Baron-Voght-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "koyeIuse{@STs@Le@AI@M@_@FYNe@LWBE?g@?MCKAE?EAk@Ck@F}@Hq@B[Ca@IA?a@IWEKAWCs@Ic@Ki@OeAQw@Mu@W{@UYMaA_@ECMEQG[MYAMB_ANe@@UCSCi@QWEYAU@I?Y?C?Q?e@DY@m@@aABI@kBFc@By@BQ@G@K?gADc@DG@[?U@KDSHc@XYPOHYP"
+            },
+            "start_location": {
+              "lat": 53.5475782,
+              "lng": 9.864431999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 166
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5586242,
+              "lng": 9.862121
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ohnhorststra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ow{eIate{@Hx@BVBR@LJ`AFl@BVNjANjABNBHBLJ\\"
+            },
+            "start_location": {
+              "lat": 53.559123,
+              "lng": 9.8644874
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "o}weIije{@o@{BcAUwA]m@UUAI@OFMTQfBYI}CQkCNqG~@wCVaAGw@G}Ce@_@MeAWc@Ic@DC?Ai@Ck@Qu@a@kASTs@Le@AWB_@FYN}@PgAEKAk@Ck@F}@Hq@B}@MgAQkAMmA[}B_@qBm@oBw@m@Ug@@_ANe@@i@GaAWo@?y@?_AFoBDsEPmBH}AH_@N}@j@i@ZLpAXpCf@~DRt@"
+    },
+    "summary": "Baron-Voght-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

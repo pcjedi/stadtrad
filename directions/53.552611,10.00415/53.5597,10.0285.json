@@ -1,0 +1,283 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5598849,
+        "lng": 10.0282665
+      },
+      "southwest": {
+        "lat": 53.55165419999999,
+        "lng": 10.0040435
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2069
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 435
+        },
+        "end_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "start_address": "Kurze M\u00fchren / Spitalerstra\u00dfe, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5525459,
+          "lng": 10.0040435
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5524298,
+              "lng": 10.0042445
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Kurze M\u00fchren</b> toward <b>Spitalerstra\u00dfe</b>",
+            "polyline": {
+              "points": "mnzeIg|`|@Vg@"
+            },
+            "start_location": {
+              "lat": 53.5525459,
+              "lng": 10.0040435
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "91 m",
+              "value": 91
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.55165419999999,
+              "lng": 10.0046975
+            },
+            "html_instructions": "Continue onto <b>Lange M\u00fchren</b>",
+            "polyline": {
+              "points": "umzeIo}`|@\\W@ALGLEFCJGTIDCn@Y"
+            },
+            "start_location": {
+              "lat": 53.5524298,
+              "lng": 10.0042445
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "60 m",
+              "value": 60
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5517534,
+              "lng": 10.0055856
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>M\u00f6nckebergstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yhzeIk`a|@Eu@Eo@G{@?O"
+            },
+            "start_location": {
+              "lat": 53.55165419999999,
+              "lng": 10.0046975
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 215
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.5520478,
+              "lng": 10.0087758
+            },
+            "html_instructions": "Continue onto <b>Steintorbr\u00fccke</b>/<wbr/><b>Steintordamm</b>",
+            "polyline": {
+              "points": "mizeI}ea|@B]@k@EcAAKMuBKoA?CMqBEm@?MAO?OIkA"
+            },
+            "start_location": {
+              "lat": 53.5517534,
+              "lng": 10.0055856
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5521691,
+              "lng": 10.0099383
+            },
+            "html_instructions": "Continue onto <b>Steintorpl.</b>",
+            "polyline": {
+              "points": "ikzeI{ya|@A[MyBGqA"
+            },
+            "start_location": {
+              "lat": 53.5520478,
+              "lng": 10.0087758
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 236
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5523836,
+              "lng": 10.0134923
+            },
+            "html_instructions": "Continue onto <b>Adenauerallee</b>",
+            "polyline": {
+              "points": "alzeIcab|@K}BIkC?ACeA?]C_AEgCCaBAk@"
+            },
+            "start_location": {
+              "lat": 53.5521691,
+              "lng": 10.0099383
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 184
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5539901,
+              "lng": 10.0135636
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kreuzweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kmzeIiwb|@_@BYHQBs@La@JUBQAUAIAICMCQISKYY"
+            },
+            "start_location": {
+              "lat": 53.5523836,
+              "lng": 10.0134923
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 583
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 98
+            },
+            "end_location": {
+              "lat": 53.5572084,
+              "lng": 10.0205089
+            },
+            "html_instructions": "Continue straight onto <b>Steindamm</b>",
+            "maneuver": "straight",
+            "polyline": {
+              "points": "mwzeIwwb|@GGSc@Ui@[}@Sk@Qk@Wq@c@kAi@uAEII[IYc@mAGU[}@CIy@}BUk@a@aAkBaGQg@Q]CECIGQEQM[Q]K_@"
+            },
+            "start_location": {
+              "lat": 53.5539901,
+              "lng": 10.0135636
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 242
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.558373,
+              "lng": 10.023576
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>L\u00fcbeckertordamm</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "qk{eIecd|@y@_CmAkDGQQk@G]CIG]Os@O}@Mq@CQ"
+            },
+            "start_location": {
+              "lat": 53.5572084,
+              "lng": 10.0205089
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 361
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "html_instructions": "Continue onto <b>L\u00fcbecker Str.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "yr{eIkvd|@Ic@a@aD_@wDIaAAWAICSGWGQEUUk@Oa@GKGCGCSi@CGQi@[{@Ws@]eA"
+            },
+            "start_location": {
+              "lat": 53.558373,
+              "lng": 10.023576
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "mnzeIg|`|@Vg@\\WNIv@[t@]KeBGkADiAGoAYeESqDMgCk@uMGeDIiFAk@_@Bk@LuAXg@@_@CWGe@Ua@a@i@mAyAgE}AgEqA{DuBuF}BiHUc@_@iA]}@gCkHe@eBu@aEMu@aAyIQwBOi@[aAWm@OGeAwCu@yB"
+    },
+    "summary": "Steindamm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

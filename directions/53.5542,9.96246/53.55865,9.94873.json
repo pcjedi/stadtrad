@@ -1,0 +1,239 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5590944,
+        "lng": 9.9624164
+      },
+      "southwest": {
+        "lat": 53.5540701,
+        "lng": 9.9487911
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1298
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 317
+        },
+        "end_address": "Max-Brauer-Allee 147, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5585362,
+          "lng": 9.9487911
+        },
+        "start_address": "Paulinenplatz / Wohlwillstra\u00dfe, 20359 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5540701,
+          "lng": 9.9624164
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 125
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5542555,
+              "lng": 9.9605572
+            },
+            "html_instructions": "Head <b>west</b> on <b>Brigittenstra\u00dfe</b> toward <b>Wohlwillstra\u00dfe</b>",
+            "polyline": {
+              "points": "}wzeIcxx{@Et@MjCQpD"
+            },
+            "start_location": {
+              "lat": 53.5540701,
+              "lng": 9.9624164
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 499
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5554316,
+              "lng": 9.9532694
+            },
+            "html_instructions": "Continue onto <b>Gilbertstra\u00dfe</b>",
+            "polyline": {
+              "points": "cyzeIolx{@cAjLSlCIz@Y|CANMpA[hCa@`E]pE?NAL"
+            },
+            "start_location": {
+              "lat": 53.5542555,
+              "lng": 9.9605572
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "83 m",
+              "value": 83
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.556155,
+              "lng": 9.9535892
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m`{eI}~v{@cBk@m@S"
+            },
+            "start_location": {
+              "lat": 53.5554316,
+              "lng": 9.9532694
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.55701029999999,
+              "lng": 9.95202
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Norderreihe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_e{eI}`w{@C^CLELGJKLONUNONOT_@nAGRQj@GL"
+            },
+            "start_location": {
+              "lat": 53.556155,
+              "lng": 9.9535892
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5570764,
+              "lng": 9.9520532
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Norderreihe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ij{eIcwv{@ME"
+            },
+            "start_location": {
+              "lat": 53.55701029999999,
+              "lng": 9.95202
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5570722,
+              "lng": 9.9517177
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Norderreihe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wj{eIiwv{@@`A"
+            },
+            "start_location": {
+              "lat": 53.5570764,
+              "lng": 9.9520532
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 183
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.5587009,
+              "lng": 9.9518738
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uj{eIguv{@k@@A@A@q@E]CyA@K?g@MQAUAOI"
+            },
+            "start_location": {
+              "lat": 53.5570722,
+              "lng": 9.9517177
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 233
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 113
+            },
+            "end_location": {
+              "lat": 53.5585362,
+              "lng": 9.9487911
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Max-Brauer-Allee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{t{eIevv{@QTIN[jAE^EJCHALCdAFR@L@JF^f@xBLh@DZT|@F^"
+            },
+            "start_location": {
+              "lat": 53.5587009,
+              "lng": 9.9518738
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}wzeIcxx{@S`EQpDcAjL]hE[lDkA|K]`FALcBk@m@SC^IZSXe@^_@d@g@bBYx@ME@`Am@Bs@C]CyA@s@Mg@COIQTIN[jAKj@EVCdAFRBXn@xCp@bD"
+    },
+    "summary": "Gilbertstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

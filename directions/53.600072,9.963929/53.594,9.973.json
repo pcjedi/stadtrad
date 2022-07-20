@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6000295,
+        "lng": 9.9746162
+      },
+      "southwest": {
+        "lat": 53.5940743,
+        "lng": 9.963823099999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1287
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 284
+        },
+        "end_address": "S\u00fcderfeldstra\u00dfe / Universit\u00e4tsklinikum Eppendorf, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5940743,
+          "lng": 9.972965
+        },
+        "start_address": "Siemersplatz / Kollaustra\u00dfe, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6000295,
+          "lng": 9.963823099999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.59976589999999,
+              "lng": 9.9640433
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Kollaustra\u00dfe</b>/<wbr/><b>B447</b> toward <b>Osterfeldstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "ewcfI{`y{@BCXUTQ"
+            },
+            "start_location": {
+              "lat": 53.6000295,
+              "lng": 9.963823099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 724
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 159
+            },
+            "end_location": {
+              "lat": 53.59823189999999,
+              "lng": 9.9746162
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Osterfeldstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qucfIgby{@?EB[@M?KBODQ@C?ABKFWDOHU@G@CDMBGFQDOH_@B_@@Q?UAODi@LmBVaEFaA^_GPgC?CReDNiBFoAFgABc@Dq@F}@@KH}@HaAJuBLsB"
+            },
+            "start_location": {
+              "lat": 53.59976589999999,
+              "lng": 9.9640433
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 440
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.59428029999999,
+              "lng": 9.9742871
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>M\u00fcnsterstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}kcfIkd{{@bCNdCFv@B\\@r@DvDJlADtAHd@@"
+            },
+            "start_location": {
+              "lat": 53.59823189999999,
+              "lng": 9.9746162
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "90 m",
+              "value": 90
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5940743,
+              "lng": 9.972965
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>S\u00fcderfeldstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gsbfIib{{@PjBP`CDZ"
+            },
+            "start_location": {
+              "lat": 53.59428029999999,
+              "lng": 9.9742871
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ewcfI{`y{@\\YTQ?EDi@B[Jc@XeARk@No@Dq@Ae@RwCpAkSdA_Q`@aGLsBbCN|DJvIXzBJb@lFDZ"
+    },
+    "summary": "Osterfeldstra\u00dfe and M\u00fcnsterstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

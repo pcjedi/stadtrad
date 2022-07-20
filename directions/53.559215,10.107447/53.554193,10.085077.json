@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55901919999999,
+        "lng": 10.1074758
+      },
+      "southwest": {
+        "lat": 53.5541153,
+        "lng": 10.0843468
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1782
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 437
+        },
+        "end_address": "U Horner Rennbahn / Meurerweg, 22111 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5542035,
+          "lng": 10.0848046
+        },
+        "start_address": "Manshardtstra\u00dfe / Einkaufszentrum Manshardtstra\u00dfe, 22119 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55901919999999,
+          "lng": 10.1074758
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1287
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 234
+            },
+            "end_location": {
+              "lat": 53.5541153,
+              "lng": 10.0899915
+            },
+            "html_instructions": "Head <b>west</b> on <b>Manshardtstra\u00dfe</b> toward <b>Gra\u00dfmannweg</b>",
+            "polyline": {
+              "points": "{v{eIwbu|@Bx@DvAD~ADnAD~@Fn@BP@RFn@LhAFn@PnADZBLNz@^tB@@Px@VpAZvAJf@b@jBFT?Dz@vDh@`CDLHb@Pv@j@dCl@rCH`@Lp@RbAj@fC`AjEr@~CT~@r@~Cd@xBt@|CZzATv@DNHVf@fB"
+            },
+            "start_location": {
+              "lat": 53.55901919999999,
+              "lng": 10.1074758
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 401
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 88
+            },
+            "end_location": {
+              "lat": 53.5548319,
+              "lng": 10.0843468
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hermannstal</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gxzeImuq|@s@lCQ`@Yv@CFKXGVERO`AELCJABCRCZ?bA?Z@b@@`@HnCDhB@p@@F@~@?VAR?L?BAb@Ad@"
+            },
+            "start_location": {
+              "lat": 53.5541153,
+              "lng": 10.0899915
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.5546999,
+              "lng": 10.0847373
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Rennbahnstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "u|zeIerp|@FEFCFADAAk@AS"
+            },
+            "start_location": {
+              "lat": 53.5548319,
+              "lng": 10.0843468
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5542035,
+              "lng": 10.0848046
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{{zeIstp|@P?RCb@EXA"
+            },
+            "start_location": {
+              "lat": 53.5546999,
+              "lng": 10.0847373
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{v{eIwbu|@T`IRtCn@xFx@zERz@r@hDv@nDjF~U`@tBlBrIbDxNpAxFZfAp@~Bs@lCQ`@]~@Sp@UtAIXEVC~ALpFJbFA|@ChANILCC_AbBK"
+    },
+    "summary": "Manshardtstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

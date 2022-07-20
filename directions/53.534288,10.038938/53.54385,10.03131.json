@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5453813,
+        "lng": 10.0390522
+      },
+      "southwest": {
+        "lat": 53.5342819,
+        "lng": 10.0303835
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1669
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 328
+        },
+        "end_address": "Heidenkampsweg / R+V Versicherung, 20097 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.54389880000001,
+          "lng": 10.0314839
+        },
+        "start_address": "Rothenburgsorter Marktplatz / Lindleystra\u00dfe, 20539 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5342819,
+          "lng": 10.0389246
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "5 m",
+              "value": 5
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Rothenburgsorter Marktpl.</b> toward <b>Lindleystra\u00dfe</b>",
+            "polyline": {
+              "points": "g|veIgvg|@GF"
+            },
+            "start_location": {
+              "lat": 53.5342819,
+              "lng": 10.0389246
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5345056,
+              "lng": 10.0390522
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lindleystra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o|veI_vg|@UYOG"
+            },
+            "start_location": {
+              "lat": 53.5343199,
+              "lng": 10.038876
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 442
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 110
+            },
+            "end_location": {
+              "lat": 53.537062,
+              "lng": 10.033966
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Billhorner R\u00f6hrendamm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "u}veIawg|@Ot@?BSx@Ul@ELM\\ERSh@Q`@KTCFs@bBUj@A@KVk@vAO^[t@CHYn@cAbC?@KJUb@Yb@]n@GN"
+            },
+            "start_location": {
+              "lat": 53.5345056,
+              "lng": 10.0390522
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 266
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.5392385,
+              "lng": 10.0324121
+            },
+            "html_instructions": "Take the ramp to <b>Flensburg</b>/<wbr/><b>A7</b>/<wbr/><b>Centrum</b>",
+            "maneuver": "ramp-right",
+            "polyline": {
+              "points": "smweIiwf|@eAbAA?gBx@m@Xs@^GBYNABG?GBGFEFCBGLMTMPSPOBCBE?E?C?"
+            },
+            "start_location": {
+              "lat": 53.537062,
+              "lng": 10.033966
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 741
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 124
+            },
+            "end_location": {
+              "lat": 53.5453813,
+              "lng": 10.0306289
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Billhorner Br\u00fcckenstra\u00dfe</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Continue to follow B75</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g{weIqmf|@CCIGSSYQMIWMc@Sq@a@m@WGCa@UWMCAOK]MMEIA[C_@GK@M@KBMBG@QHOJa@^SPcAr@o@d@mA|@CBm@d@[T}@n@[REDyCvBA@kBrAQL"
+            },
+            "start_location": {
+              "lat": 53.5392385,
+              "lng": 10.0324121
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 191
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.54389880000001,
+              "lng": 10.0314839
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>S\u00fcderstra\u00dfe</b> (signs for <b>A1</b>/<wbr/><b>Elbbr\u00fccken</b>)<div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "sayeImbf|@Lp@PMjBqAb@[FGnBwA"
+            },
+            "start_location": {
+              "lat": 53.5453813,
+              "lng": 10.0306289
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g|veIgvg|@GFUYOGOt@S|@[z@Sp@e@jAyAlDgEdK{@tAe@~@gAbAqEvB[ROBY`@[f@SPOBIBI?{@q@{BmAu@[y@c@SMk@Se@Ek@Eo@Ja@Tu@p@eEzCcD~BmGrEQLLp@|B_BzC{B"
+    },
+    "summary": "Billhorner R\u00f6hrendamm and B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

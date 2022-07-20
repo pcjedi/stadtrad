@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.60362319999999,
+        "lng": 10.0247865
+      },
+      "southwest": {
+        "lat": 53.6006884,
+        "lng": 10.0178269
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 962
+        },
+        "duration": {
+          "text": "3 mins",
+          "value": 175
+        },
+        "end_address": "\u00dcberseering / New-York-Ring, 22297 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.60362319999999,
+          "lng": 10.0194576
+        },
+        "start_address": "\u00dcberseering 4, 22297 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6016195,
+          "lng": 10.0247865
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "90 m",
+              "value": 90
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.600815,
+              "lng": 10.0247397
+            },
+            "html_instructions": "Head <b>south</b>",
+            "polyline": {
+              "points": "cadfI}}d|@x@At@Bn@F"
+            },
+            "start_location": {
+              "lat": 53.6016195,
+              "lng": 10.0247865
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 443
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 89
+            },
+            "end_location": {
+              "lat": 53.6007116,
+              "lng": 10.0181593
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "c|cfIs}d|@?^A~IA~@?L@@?BBBBB@@BBBBBDBB@B?B?T?BAx@ApC?nBAbB?H@D@D?F?b@?xB?d@AvA?v@"
+            },
+            "start_location": {
+              "lat": 53.600815,
+              "lng": 10.0247397
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 429
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.60362319999999,
+              "lng": 10.0194576
+            },
+            "html_instructions": "Take the pedestrian overpass<div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "m{cfIotc|@I@W~@cC@kAAEIW?]A?E?E?OCkA?[?k@AQ?i@AMACAKCKCIGOGGCCKGKCSAM?uACs@?K?GBG@EBEB?@CB"
+            },
+            "start_location": {
+              "lat": 53.6007116,
+              "lng": 10.0181593
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cadfI}}d|@nB@n@FClMHLLNDF?XC~H@xB?jEAnCI@W~@oE?EIW?]A?E?UEeDEgAGUOWOK_@EwCCSBMDIH"
+    },
+    "summary": "New-York-Ring",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
