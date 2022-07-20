@@ -64,5 +64,6 @@ while not_loaded > 0 and (datetime.datetime.now() - start).seconds < 3600 * 5:
                 not_loaded = 0
                 print("breaking ..")
                 break
+    print(not_loaded)
 
 print(permutation2)
