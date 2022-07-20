@@ -2,7 +2,6 @@ from glob import glob
 import pandas as pd
 from scipy.spatial import distance_matrix
 import numpy as np
-from tqdm import tqdm
 import json
 import os
 from python_tsp.heuristics import solve_tsp_simulated_annealing
@@ -31,11 +30,11 @@ while not_loaded > 0:
             )
             ** (1 / 2)
         )
-        for d in tqdm(glob("directions/*/*.json"))
+        for d in glob("directions/*/*.json")
     ]
     duration_matrix = dm * np.mean(values)
 
-    for d in tqdm(glob("directions/*/*.json")):
+    for d in glob("directions/*/*.json"):
         origin = d.split("/")[-2]
         destination = d.split("/")[-1][:-5]
         duration = json.load(open(d))[0]["legs"][0]["duration"]["value"]
