@@ -20,22 +20,24 @@ stations = {f"{lat},{lng}": i for i, (lat, lng) in positions.iterrows()}
 not_loaded = 1
 start = datetime.datetime.now()
 while not_loaded > 0 and (datetime.datetime.now() - start).seconds < 3600 * 5:
-    values = [
-        json.load(open(d))[0]["legs"][0]["duration"]["value"] / dm[stations[d.split("/")[-2]], stations[d.split("/")[-1]][:-5]]
-        for d in glob("directions/*/*.json")
-    ]
-    duration_matrix = dm * np.mean(values)
-
+    duration_matrix = np.empty_like(dm)
+    duration_matrix.fill(np.nan)
+    values = []
     for d in glob("directions/*/*.json"):
         origin = d.split("/")[-2]
         destination = d.split("/")[-1][:-5]
-        duration = json.load(open(d))[0]["legs"][0]["duration"]["value"]
         try:
-            duration_matrix[stations[origin], stations[destination]] = duration
-            if not os.path.exists(f"directions/{destination}/{origin}.json"):
-                duration_matrix[stations[destination], stations[origin]] = duration
+            ix_origion = stations[origin]
+            ix_destination = stations[destination]
         except KeyError:
-            pass
+            continue
+        duration = json.load(open(d))[0]["legs"][0]["duration"]["value"]
+        values.append(duration / dm[ix_origion, ix_destination])
+        duration_matrix[ix_origion, ix_destination] = duration
+        if not os.path.exists(f"directions/{destination}/{origin}.json"):
+            duration_matrix[ix_destination, ix_origion] = duration
+
+    duration_matrix[np.isnan(duration_matrix)] = dm[np.isnan(duration_matrix)] * np.mean(values)
 
     permutation2, distance2 = solve_tsp_simulated_annealing(
         distance_matrix=duration_matrix,
