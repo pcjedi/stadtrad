@@ -21,18 +21,7 @@ not_loaded = 1
 start = datetime.datetime.now()
 while not_loaded > 0 and (datetime.datetime.now() - start).seconds < 3600 * 5:
     values = [
-        json.load(open(d))[0]["legs"][0]["duration"]["value"]
-        / (
-            sum(
-                [
-                    (s - d) ** 2
-                    for s, d in zip(
-                        [float(v) for v in d.split("/")[-2].split(",")], [float(v) for v in d.split("/")[-1][:-5].split(",")]
-                    )
-                ]
-            )
-            ** (1 / 2)
-        )
+        json.load(open(d))[0]["legs"][0]["duration"]["value"] / dm[stations[d.split("/")[-2]], stations[d.split("/")[-1]][:-5]]
         for d in glob("directions/*/*.json")
     ]
     duration_matrix = dm * np.mean(values)

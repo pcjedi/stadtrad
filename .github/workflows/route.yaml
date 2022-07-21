@@ -4,10 +4,6 @@ on:
   schedule:
     - cron: "0 5 * * *"
   workflow_dispatch:
-  push:
-    paths:
-      - ".github/workflows/route.yaml"
-      - "traveling-salesman/*"
 
 env:
   GMAPSKEY: ${{ secrets.GMAPSKEY }}
