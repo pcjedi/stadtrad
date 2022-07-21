@@ -27,15 +27,15 @@ while not_loaded > 0 and (datetime.datetime.now() - start).seconds < 3600 * 5:
         origin = d.split("/")[-2]
         destination = d.split("/")[-1][:-5]
         try:
-            ix_origion = stations[origin]
+            ix_origin = stations[origin]
             ix_destination = stations[destination]
         except KeyError:
             continue
         duration = json.load(open(d))[0]["legs"][0]["duration"]["value"]
-        values.append(duration / dm[ix_origion, ix_destination])
-        duration_matrix[ix_origion, ix_destination] = duration
+        values.append(duration / dm[ix_origin, ix_destination])
+        duration_matrix[ix_origin, ix_destination] = duration
         if not os.path.exists(f"directions/{destination}/{origin}.json"):
-            duration_matrix[ix_destination, ix_origion] = duration
+            duration_matrix[ix_destination, ix_origin] = duration
 
     duration_matrix[np.isnan(duration_matrix)] = dm[np.isnan(duration_matrix)] * np.mean(values)
 
