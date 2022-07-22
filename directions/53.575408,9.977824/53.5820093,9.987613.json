@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5832328,
+        "lng": 9.987691
+      },
+      "southwest": {
+        "lat": 53.57542549999999,
+        "lng": 9.9769961
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1321
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 258
+        },
+        "end_address": "\u1e60 Haspa, Eppendorfer Baum, 20149 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5820614,
+          "lng": 9.987691
+        },
+        "start_address": "Grindelberg / Bezirksamt Eimsb\u00fcttel, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57542549999999,
+          "lng": 9.9776705
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 306
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.57791959999999,
+              "lng": 9.9769961
+            },
+            "html_instructions": "Head <b>north</b> on <b>Grindelberg</b> toward <b>Oberstra\u00dfe</b>",
+            "polyline": {
+              "points": "m}~eImw{{@MCw@Um@Qk@O[M]KMCQAM@Q@SFQFIDc@\\]VSFMNMRM\\QZKTGRA@"
+            },
+            "start_location": {
+              "lat": 53.57542549999999,
+              "lng": 9.9776705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 795
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 139
+            },
+            "end_location": {
+              "lat": 53.5832328,
+              "lng": 9.985016
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Isestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_m_fIgs{{@KCCACEGEqAwB{AaCmCeEy@sAOY_@s@]m@e@y@kAwB[g@QYEGYg@s@qA{C_GIQcAuBi@_AGKa@m@GKAAI["
+            },
+            "start_location": {
+              "lat": 53.57791959999999,
+              "lng": 9.9769961
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.58217730000001,
+              "lng": 9.9874893
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eppendorfer Baum</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "en`fIke}{@JYl@mBNe@\\iAr@{Bt@yB"
+            },
+            "start_location": {
+              "lat": 53.5832328,
+              "lng": 9.985016
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5820614,
+              "lng": 9.987691
+            },
+            "html_instructions": "Keep <b>right</b> to stay on <b>Eppendorfer Baum</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "keep-right",
+            "polyline": {
+              "points": "sg`fIyt}{@DGHOFO"
+            },
+            "start_location": {
+              "lat": 53.58217730000001,
+              "lng": 9.9874893
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m}~eImw{{@sBk@gA]k@O_@?e@H[LaAt@SFMN[p@]p@IT[QuJsOsBuD_CaEsFkKcAuBi@_AGKi@y@K]fBwFhBuFNWFO"
+    },
+    "summary": "Isestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

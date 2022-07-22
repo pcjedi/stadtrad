@@ -1,0 +1,166 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5597632,
+        "lng": 9.9842371
+      },
+      "southwest": {
+        "lat": 53.55608969999999,
+        "lng": 9.9691691
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1451
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 345
+        },
+        "end_address": "U Feld Street, Feldstra\u00dfe, 20357 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.557364,
+          "lng": 9.9691691
+        },
+        "start_address": "U G\u00e4nsemarkt / Caffamacherreihe, 20355 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55608969999999,
+          "lng": 9.9842229
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 110
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5570816,
+              "lng": 9.984179300000001
+            },
+            "html_instructions": "Head <b>north</b> on <b>Caffamacherreihe</b> toward <b>Drehbahn</b>",
+            "polyline": {
+              "points": "qd{eIk`}{@}@?e@Cg@By@F"
+            },
+            "start_location": {
+              "lat": 53.55608969999999,
+              "lng": 9.9842229
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 330
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 97
+            },
+            "end_location": {
+              "lat": 53.5597632,
+              "lng": 9.9820563
+            },
+            "html_instructions": "Continue onto <b>Jungiusstra\u00dfe</b>",
+            "polyline": {
+              "points": "wj{eIc`}{@[R}@p@OHYRe@ZSLGFGDSPUP[VKHm@`@m@d@EBmAz@OJKHWVSN"
+            },
+            "start_location": {
+              "lat": 53.5570816,
+              "lng": 9.984179300000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 227
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5588643,
+              "lng": 9.978993299999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>b. den Kirchh\u00f6fen</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o{{eI{r|{@f@jCL\\BLTpAXhB\\vBFZF\\HXPd@"
+            },
+            "start_location": {
+              "lat": 53.5597632,
+              "lng": 9.9820563
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 368
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5564677,
+              "lng": 9.9752305
+            },
+            "html_instructions": "Continue onto <b>Holstenglacis</b>",
+            "polyline": {
+              "points": "{u{eIu_|{@NXj@z@\\j@P`@b@`ADJDJ^~@HN@V?B@BBDHRFJ@BBJJZHP`@f@@BRTLP@BLL@BPRRXJLl@~@h@v@"
+            },
+            "start_location": {
+              "lat": 53.5588643,
+              "lng": 9.978993299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 416
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 87
+            },
+            "end_location": {
+              "lat": 53.557364,
+              "lng": 9.9691691
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Feldstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}f{eIeh{{@?NAPARCPCTGPEPIh@?DEPCLG\\EVIj@A`@Ir@EXCVIr@Gh@ARALCPATAJCVC`@Er@K~ACz@APCh@Cd@Ad@A\\?RAVEZA`@A`@?N"
+            },
+            "start_location": {
+              "lat": 53.5564677,
+              "lng": 9.9752305
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qd{eIk`}{@cBCaBJcCbBiAv@eAz@wEfDk@f@f@jCL\\X~Av@`FNx@Z~@z@tAn@lAnAxCHN@V@FVh@Nf@HP`@f@TXNTt@~@x@lAh@v@?NCd@Gf@WrAWtAIj@A`@OlAWhCc@nGM|CEnBG|@Ap@"
+    },
+    "summary": "Holstenglacis and Feldstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

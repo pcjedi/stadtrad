@@ -1,0 +1,240 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5603175,
+        "lng": 10.0202366
+      },
+      "southwest": {
+        "lat": 53.5536256,
+        "lng": 10.0039789
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1628
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 293
+        },
+        "end_address": "U Lohm\u00fchlenstra\u00dfe / Steindamm, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5571758,
+          "lng": 10.0199453
+        },
+        "start_address": "Hauptbahnhof / Glockengie\u00dferwall, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5536256,
+          "lng": 10.0044325
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "52 m",
+              "value": 52
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5540081,
+              "lng": 10.0039789
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Glockengie\u00dferwall</b> toward <b>Ernst-Merck-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "euzeIu~`|@u@~@A@SV"
+            },
+            "start_location": {
+              "lat": 53.5536256,
+              "lng": 10.0044325
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 303
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.55511689999999,
+              "lng": 10.0080552
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ernst-Merck-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qwzeI{{`|@Ke@YeAAIMk@EOQy@Q[G]I]EQKa@Ic@CQAOE[KwA[}E[_@"
+            },
+            "start_location": {
+              "lat": 53.5540081,
+              "lng": 10.0039789
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5553394,
+              "lng": 10.008038
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lange Reihe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o~zeIkua|@OHE?E?A?EAGC"
+            },
+            "start_location": {
+              "lat": 53.55511689999999,
+              "lng": 10.0080552
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 727
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 108
+            },
+            "end_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Lange Reihe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{_{eIgua|@Me@WmAGWEYKOIEEECECEACIOq@}@OSCEQYYg@U]_@m@k@w@OMEGgAyA{@uAW_@u@cAy@qAe@q@S[KKQUMg@W}@KQIM]e@g@s@]e@Y]IECCOKQIOI[O[M"
+            },
+            "start_location": {
+              "lat": 53.5553394,
+              "lng": 10.008038
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 465
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5574161,
+              "lng": 10.0199371
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lohm\u00fchlenstra\u00dfe</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "__|eI_`c|@JKHOTYbBoDXk@p@uAHQVk@Xk@Tg@bBmDXi@~@qBBIPa@N_@FODMRe@N_@"
+            },
+            "start_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5572185,
+              "lng": 10.0202366
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Lohm\u00fchlenstra\u00dfe</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "{l{eIs_d|@FE^u@"
+            },
+            "start_location": {
+              "lat": 53.5574161,
+              "lng": 10.0199371
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5571443,
+              "lng": 10.020079
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Steindamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sk{eIoad|@N^"
+            },
+            "start_location": {
+              "lat": 53.5572185,
+              "lng": 10.0202366
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5571758,
+              "lng": 10.0199453
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ck{eIo`d|@KPBF"
+            },
+            "start_location": {
+              "lat": 53.5571443,
+              "lng": 10.020079
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "euzeIu~`|@w@`ASVKe@[oAS{@Qy@Q[Q{@_@iBo@aJ[_@OHK?GAGCMe@_@eBEYKOOKGKmAeBeAeBkAeBUUgAyA{@uAmAcB_BcC_@g@QUMg@c@oAmBmCc@c@SOyAq@T[TYbBoDjAaC`@}@lDkHbA{B`@aAp@cBf@{@N^KPBF"
+    },
+    "summary": "Lange Reihe and Lohm\u00fchlenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

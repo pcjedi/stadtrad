@@ -1,0 +1,264 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5603175,
+        "lng": 10.0192845
+      },
+      "southwest": {
+        "lat": 53.5516721,
+        "lng": 10.0127479
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1447
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 368
+        },
+        "end_address": "Kurt-Schumacher-Allee / Nagelsweg, 20097 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5516721,
+          "lng": 10.0159264
+        },
+        "start_address": "Lange Reihe / Lohm\u00fchlenpark, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5599819,
+          "lng": 10.0149604
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "html_instructions": "Head <b>northwest</b> toward <b>Lange Reihe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "{|{eIo`c|@I`@AJ"
+            },
+            "start_location": {
+              "lat": 53.5599819,
+              "lng": 10.0149604
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lange Reihe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g}{eIa_c|@[O[M"
+            },
+            "start_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 408
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 75
+            },
+            "end_location": {
+              "lat": 53.5577479,
+              "lng": 10.0192845
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lohm\u00fchlenstra\u00dfe</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "__|eI_`c|@JKHOTYbBoDXk@p@uAHQVk@Xk@Tg@bBmDXi@~@qBBIPa@"
+            },
+            "start_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 559
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.55455689999999,
+              "lng": 10.0127479
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Brennerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}n{eIo{c|@DHBHDJ^|@L\\BFHPXp@t@jBn@tApAjDd@dA`@|@|@rB`@lAf@xAPf@nAlDXx@?@DJLd@"
+            },
+            "start_location": {
+              "lat": 53.5577479,
+              "lng": 10.0192845
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5540835,
+              "lng": 10.0133102
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Stralsunder Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_{zeIurb|@XQb@o@`@m@"
+            },
+            "start_location": {
+              "lat": 53.55455689999999,
+              "lng": 10.0127479
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 226
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 66
+            },
+            "end_location": {
+              "lat": 53.5527861,
+              "lng": 10.0158713
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Pulverteich</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "_xzeIevb|@BMLc@Po@LWn@uAz@cCr@uBHUJQBEBCPC"
+            },
+            "start_location": {
+              "lat": 53.5540835,
+              "lng": 10.0133102
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.55248959999999,
+              "lng": 10.0156447
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Adenauerallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}ozeIefc|@HTDJ@DDBD@\\?"
+            },
+            "start_location": {
+              "lat": 53.5527861,
+              "lng": 10.0158713
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5524256,
+              "lng": 10.015814
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Adenauerallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "anzeIwdc|@@I?GBGDG"
+            },
+            "start_location": {
+              "lat": 53.55248959999999,
+              "lng": 10.0156447
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "86 m",
+              "value": 86
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.5516721,
+              "lng": 10.0159264
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Nagelsweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "umzeIyec|@FC\\AVCZEVHF?DABABA@?DEFE"
+            },
+            "start_location": {
+              "lat": 53.5524256,
+              "lng": 10.015814
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{|{eIo`c|@Kl@w@]T[TYbBoDjAaC`@}@lDkHbA{BPa@DHHT^|@t@hBdB`EvBpF~ApDhAfDzBpGRp@XQb@o@`@m@BM^sA|@mBnByF\\q@PCHTFPJD\\?@IBOLKt@EZEVHLAFCNK"
+    },
+    "summary": "Lohm\u00fchlenstra\u00dfe and Brennerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

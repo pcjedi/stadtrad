@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5751648,
+        "lng": 10.0270773
+      },
+      "southwest": {
+        "lat": 53.5695893,
+        "lng": 10.0080497
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1623
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 376
+        },
+        "end_address": "U Mundsburg / Sch\u00fcrbeker Stra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5695893,
+          "lng": 10.0270773
+        },
+        "start_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57402099999999,
+          "lng": 10.0080497
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 459
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "html_instructions": "Head <b>east</b> on <b>Karlstra\u00dfe</b> toward <b>Am Feenteich</b>",
+            "polyline": {
+              "points": "st~eIiua|@Ci@UmFY}HEo@OkDQoGIgBCu@Ci@Aq@Ce@"
+            },
+            "start_location": {
+              "lat": 53.57402099999999,
+              "lng": 10.0080497
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 417
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 101
+            },
+            "end_location": {
+              "lat": 53.5751648,
+              "lng": 10.0211868
+            },
+            "html_instructions": "Continue onto <b>Zimmerstra\u00dfe</b>",
+            "polyline": {
+              "points": "gx~eIk`c|@IsBCc@MmCCk@A[KkDAYCq@GuAASQaFGiAAS?CC_@AY?CAQM}B"
+            },
+            "start_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 726
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 165
+            },
+            "end_location": {
+              "lat": 53.56973439999999,
+              "lng": 10.0268829
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Winterhuder Weg</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w{~eImgd|@jA_BBIDKd@o@^e@j@o@NSV[`AoAn@w@|@iAPULMh@s@FIRYBALQ^e@b@i@^i@x@cAxAeBLQTWj@u@FCFCHMx@aA@ADGFEFCFCFALAH?L@N@NDZH"
+            },
+            "start_location": {
+              "lat": 53.5751648,
+              "lng": 10.0211868
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5695893,
+              "lng": 10.0270773
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yy}eI_ke|@Zg@"
+            },
+            "start_location": {
+              "lat": 53.56973439999999,
+              "lng": 10.0268829
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "st~eIiua|@y@eSa@{LM}CSuFWyFYmI]sIEaAOoCnAiBDKd@o@jAuAxCwDtDyE|C}DhDeENGbAoAVSNEVA\\Bj@NZg@"
+    },
+    "summary": "Karlstra\u00dfe, Zimmerstra\u00dfe and B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6119478,
+        "lng": 10.0760606
+      },
+      "southwest": {
+        "lat": 53.59195769999999,
+        "lng": 10.0688704
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2500
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 545
+        },
+        "end_address": "Herthastra\u00dfe / Bramfelder Chaussee, 22179 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.61183219999999,
+          "lng": 10.0759136
+        },
+        "start_address": "U Wandsbek-Gartenstadt / Ostpreu\u00dfenplatz, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.59195769999999,
+          "lng": 10.0757338
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.59203609999999,
+              "lng": 10.0760606
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Ostpreu\u00dfenpl.</b> toward <b>Lesserstra\u00dfe</b>",
+            "polyline": {
+              "points": "wdbfIi|n|@Ga@AGEW"
+            },
+            "start_location": {
+              "lat": 53.59195769999999,
+              "lng": 10.0757338
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 466
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5957938,
+              "lng": 10.0729867
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lesserstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gebfIk~n|@{@pAqAdAkAz@IFOHcAt@eAv@EDaAr@u@f@KFA?mDdC]PWN"
+            },
+            "start_location": {
+              "lat": 53.59203609999999,
+              "lng": 10.0760606
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 670
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 151
+            },
+            "end_location": {
+              "lat": 53.6012943,
+              "lng": 10.0688704
+            },
+            "html_instructions": "Continue onto <b>Werner-Otto-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "u|bfIekn|@YTYT}@p@qA~@]TWPc@Xg@\\k@d@[Te@Z_@Ve@Zs@h@e@ZYTaAp@C@g@Xm@\\oAx@[V[Xu@h@U@C@a@Va@Ve@Z"
+            },
+            "start_location": {
+              "lat": 53.5957938,
+              "lng": 10.0729867
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1253
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 269
+            },
+            "end_location": {
+              "lat": 53.6119478,
+              "lng": 10.074608
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bramfelder Ch</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a_dfImqm|@eAq@wBmA}@_@yBs@e@Aa@MUGECSGECCCgA[_@M?A[K_Bg@k@SoAa@OGQGmC{@{Ae@uBs@a@SkAi@MYKGi@c@c@[IGGIKIIIoByAKGE?O@KK]SMI]O_@M}@Ww@Ug@KSGKCKCOEq@Wo@g@U_@GGYY"
+            },
+            "start_location": {
+              "lat": 53.6012943,
+              "lng": 10.0688704
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "88 m",
+              "value": 88
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.61183219999999,
+              "lng": 10.0759136
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Herthastra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uaffIiun|@He@?AD_ADm@?i@?E@q@?K"
+            },
+            "start_location": {
+              "lat": 53.6119478,
+              "lng": 10.074608
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wdbfIi|n|@Ii@EW{@pA}C`CYPqEfDqFtDu@`@s@j@eExCkAv@gAz@kBnAuDlCiDrBw@p@u@h@U@e@XgAr@}D_C}@_@yBs@e@Aa@M[KeBk@{CcA}CeAiFaBuBs@a@SkAi@MYKG_BqAUS{BaBU@i@_@k@Y}Ae@_Cm@[Iq@Wo@g@]g@YYHe@DaADwA@cA"
+    },
+    "summary": "Bramfelder Ch",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

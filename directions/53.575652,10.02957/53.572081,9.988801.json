@@ -1,0 +1,330 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5761452,
+        "lng": 10.0331166
+      },
+      "southwest": {
+        "lat": 53.5572888,
+        "lng": 9.9883943
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "5.4 km",
+          "value": 5419
+        },
+        "duration": {
+          "text": "17 mins",
+          "value": 1046
+        },
+        "end_address": "U Hallerstra\u00dfe / Rothenbaumchaussee, 20148 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57208,
+          "lng": 9.988886299999999
+        },
+        "start_address": "Bartholom\u00e4usstra\u00dfe / Beim Alten Sch\u00fctzenhof, 22083 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5757268,
+          "lng": 10.0295188
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 135
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "html_instructions": "Head <b>east</b> on <b>Beim Alten Sch\u00fctzenhof</b> toward <b>Framheinstra\u00dfe</b>",
+            "polyline": {
+              "points": "i__fIo{e|@o@eEMgAAGSiB"
+            },
+            "start_location": {
+              "lat": 53.5757268,
+              "lng": 10.0295188
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 286
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.5738151,
+              "lng": 10.0331166
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Heitmannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}a_fIogf|@|A{@|A}@h@W|@i@p@_@\\ENCLEj@aARa@"
+            },
+            "start_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 570
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 122
+            },
+            "end_location": {
+              "lat": 53.5702179,
+              "lng": 10.026969
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hamburger Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ks~eI_rf|@`@x@Vf@FNZj@d@`AfBvDDF\\p@Zl@`@x@Xl@Xh@DHLZHLn@rAPXPZZj@^r@BDFJ@Db@z@b@|@@BDLXl@HRJTHPFN"
+            },
+            "start_location": {
+              "lat": 53.5738151,
+              "lng": 10.0331166
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 673
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 166
+            },
+            "end_location": {
+              "lat": 53.56578409999999,
+              "lng": 10.0200476
+            },
+            "html_instructions": "Continue onto <b>Mundsburger Damm</b>",
+            "polyline": {
+              "points": "{|}eIqke|@^x@Tj@Th@NXHRBBLVXd@t@tAZh@BDV`@PZn@`AFFFDNVLTNXhAlBx@xAXh@Xf@`@r@dAfBBBb@`AfAhBPZN\\Xf@@DPZHLLR"
+            },
+            "start_location": {
+              "lat": 53.5702179,
+              "lng": 10.026969
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 217
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5643409,
+              "lng": 10.0178602
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Mundsburger Damm</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ca}eIi`d|@J^NVPXJPFHt@rAJPRNJRt@pAdAjB"
+            },
+            "start_location": {
+              "lat": 53.56578409999999,
+              "lng": 10.0200476
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 385
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.56174859999999,
+              "lng": 10.0141735
+            },
+            "html_instructions": "Continue onto <b>Schwanenwik</b>",
+            "polyline": {
+              "points": "cx|eIsrc|@H\\DL?@J\\DTL`@Lb@HTDN@@FPFJJTHLHLJNJNdAbBr@hAV^LRHJDDDHHHJJHHNJNHJHLJTPZZLRHHRJ"
+            },
+            "start_location": {
+              "lat": 53.5643409,
+              "lng": 10.0178602
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 868
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 151
+            },
+            "end_location": {
+              "lat": 53.5573606,
+              "lng": 10.0035151
+            },
+            "html_instructions": "Continue onto <b>An d. Alster</b>",
+            "polyline": {
+              "points": "}g|eIq{b|@^f@@Bv@lAHJFHJPT^RXt@jA`@dAXz@Jd@F\\Jd@Z|AF\\BJRbANv@@FLb@@FTt@Nd@FPVp@JXd@pALX@DPj@@DXx@HZj@rBFRNj@n@lCBH`@hBJb@BFNn@@DBLL`@DPN`@HTJVHn@LbABLDd@"
+            },
+            "start_location": {
+              "lat": 53.56174859999999,
+              "lng": 10.0141735
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 665
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.5587873,
+              "lng": 9.9939752
+            },
+            "html_instructions": "Continue onto <b>Kennedybr\u00fccke</b>",
+            "polyline": {
+              "points": "ol{eI_y`|@Bn@?P@l@?L?nC@fB?hB@RBX?nBCbAALEdACZEZ_@rBQz@Gj@Oz@Kt@Kj@O`AOx@a@zBAHUpAUrAEHELO`AIn@CLGb@QfA"
+            },
+            "start_location": {
+              "lat": 53.5573606,
+              "lng": 10.0035151
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 315
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.560668,
+              "lng": 9.9907954
+            },
+            "html_instructions": "Continue onto <b>Alsterglacis</b>",
+            "polyline": {
+              "points": "mu{eIk}~{@EXEREXIjAE^EZEVI^K^M^GPEJKVWf@OVKPMPYZmAbASLA@QJQLIDODMB"
+            },
+            "start_location": {
+              "lat": 53.5587873,
+              "lng": 9.9939752
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "53 m",
+              "value": 53
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5610921,
+              "lng": 9.9904792
+            },
+            "html_instructions": "Continue onto <b>Theodor-Heuss-Platz</b>",
+            "polyline": {
+              "points": "ea|eIoi~{@UDKDID[\\KN"
+            },
+            "start_location": {
+              "lat": 53.560668,
+              "lng": 9.9907954
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1149
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 213
+            },
+            "end_location": {
+              "lat": 53.57125569999999,
+              "lng": 9.9885807
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Rothenbaumchaussee</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "yc|eIog~{@GAE?EDED]h@IJGHGDk@L[BE?W@IDoAJSDQD_@Hg@Hk@PeB^[Hw@Na@FqCf@gDj@cALSDg@JqA\\UFQDc@He@H]@]@WCiAC{@Ae@AE?A?{@Ci@?{@CgCAkCMm@A"
+            },
+            "start_location": {
+              "lat": 53.5610921,
+              "lng": 9.9904792
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 103
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.57208,
+              "lng": 9.988886299999999
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kc~eIs{}{@?OCMAICEACACC?CAG?eCE"
+            },
+            "start_location": {
+              "lat": 53.57125569999999,
+              "lng": 9.9885807
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i__fIo{e|@}@mGUqBbH{Dp@_@\\E\\I~@cBx@`BpDtH`B`DfA|B|AvCrCtF|BlFr@zAxB|D|AdCNL\\l@lDjGdCfEb@`AfAhB`@x@v@vAXr@`@p@tA`CRNJRzB|DZjAj@pBVn@hE~Gb@n@n@j@~@p@h@n@HHRJ`@j@`AxA|@tAt@jA`@dAd@`Bv@~Dh@nCt@fCtB`GvA|EdBlH`@`Bf@bBTl@VrBHr@B`ABrH@|BBX?nBEpAI`Be@nCYfBw@~EiApG[|AUnAg@hDKl@OdBKz@Ov@g@|Ac@~@[h@g@l@aBpAo@`@]Ha@Je@b@KNGAKDc@n@QTs@Ra@BW@IDcBPq@NuEdAsKjBwARyBh@qB`@{@BaBGiBCiHIyDOC]IWGAmCE"
+    },
+    "summary": "Rothenbaumchaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

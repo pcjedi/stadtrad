@@ -1,0 +1,285 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5847339,
+        "lng": 10.0583551
+      },
+      "southwest": {
+        "lat": 53.5737166,
+        "lng": 10.0337007
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.8 km",
+          "value": 2755
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 628
+        },
+        "end_address": "Schleidenstra\u00dfe / Osterbekstra\u00dfe, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5845882,
+          "lng": 10.0337007
+        },
+        "start_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "html_instructions": "Head <b>south</b> on <b>Krausestra\u00dfe</b> toward <b>Eilbektal</b>",
+            "polyline": {
+              "points": "kb_fIwok|@NFTH"
+            },
+            "start_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 217
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5748006,
+              "lng": 10.0561189
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eilbektal</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ea_fIeok|@RvB@XDh@@JBL@JBPBHDFBD@@@@BBr@PTJNHNJPPNPPVJRJR@@"
+            },
+            "start_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 466
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 79
+            },
+            "end_location": {
+              "lat": 53.5737166,
+              "lng": 10.049741
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oy~eIwak|@AHOp@Kl@Id@Cb@E^A`@AZANJ`@Nt@Fh@L`A@Dj@|C@HDLHVHXRXT\\FLDPFXf@xEj@zE"
+            },
+            "start_location": {
+              "lat": 53.5748006,
+              "lng": 10.0561189
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 563
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 125
+            },
+            "end_location": {
+              "lat": 53.5786717,
+              "lng": 10.0489654
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedrichsberger Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wr~eI{yi|@e@PMDs@X_A`@m@TSH{@Xy@Xm@PQFe@J]HKBq@Hi@Dm@B[AM?K?UAQCGAa@EOC[G_@IYGQEYGQEq@OEC"
+            },
+            "start_location": {
+              "lat": 53.5737166,
+              "lng": 10.049741
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.57866689999999,
+              "lng": 10.049307
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Dehnhaide</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uq_fIaui|@?U?m@"
+            },
+            "start_location": {
+              "lat": 53.5786717,
+              "lng": 10.0489654
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5793642,
+              "lng": 10.0495212
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Friedrichsberger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uq_fIewi|@SCMEQGE?GAI?a@Q[C"
+            },
+            "start_location": {
+              "lat": 53.57866689999999,
+              "lng": 10.049307
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 491
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 75
+            },
+            "end_location": {
+              "lat": 53.5831172,
+              "lng": 10.0464492
+            },
+            "html_instructions": "<b>Friedrichsberger Str.</b> turns slightly <b>right</b> and becomes <b>Pfenningsbusch</b>",
+            "polyline": {
+              "points": "_v_fIoxi|@AKACACCCICU?I?M?]B_@B[D]Hc@J_@JWLIBc@TYV[RQLEDSPs@j@_@d@a@j@m@`A[h@Ud@IHEJCDCJQd@IPe@`AGNQT"
+            },
+            "start_location": {
+              "lat": 53.5793642,
+              "lng": 10.0495212
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 350
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 98
+            },
+            "end_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "html_instructions": "Continue onto <b>Flachsland</b>",
+            "polyline": {
+              "points": "om`fIiei|@Ub@]d@CBGPERCJGXIX?DUjAS~@Mh@Ot@GZk@bCy@xDGVABQz@AF?@AB?f@"
+            },
+            "start_location": {
+              "lat": 53.5831172,
+              "lng": 10.0464492
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 538
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 135
+            },
+            "end_location": {
+              "lat": 53.5845404,
+              "lng": 10.0337797
+            },
+            "html_instructions": "Continue onto <b>Osterbekstra\u00dfe</b>",
+            "polyline": {
+              "points": "aw`fI{hh|@Cf@?FALAPCzAClC?`B?|C@j@@x@?TA\\?l@@t@?r@@LBxC@r@?J?\\BbABbAB~@DzAFrB?lA"
+            },
+            "start_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5845882,
+              "lng": 10.0337007
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Osterbekstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kv`fIcvf|@IN"
+            },
+            "start_location": {
+              "lat": 53.5845404,
+              "lng": 10.0337797
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kb_fIwok|@d@PTpCLnAFZHLBBv@Td@T`@\\`@h@Vf@?J[~AMhAG`ACj@ZvATjBl@bDZhAh@v@L^n@rFj@zEe@PaA^mBv@wDnAaB`@{ANiA@aAEuASeB_@cAUEC?U?m@SC_@MMAI?a@Q[CAKCGMG_@?gBLaATw@Xm@Xu@j@_BpAaApAiAjBi@`AUp@o@rAYd@Ub@]d@KTI^g@dCy@zDeCbLEdBI|IBxG?tDFfFJdFLnE?lAIN"
+    },
+    "summary": "Friedrichsberger Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

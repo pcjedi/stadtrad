@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5630237,
+        "lng": 9.9702662
+      },
+      "southwest": {
+        "lat": 53.5506913,
+        "lng": 9.9482448
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2225
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 475
+        },
+        "end_address": "St. Pauli, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5509432,
+          "lng": 9.9702662
+        },
+        "start_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "html_instructions": "Head <b>south</b> on <b>D\u00fcppelstra\u00dfe</b> toward <b>Alsenstra\u00dfe</b>",
+            "polyline": {
+              "points": "{o|eIo_v{@^M|@YFGBCJKHO"
+            },
+            "start_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5622667,
+              "lng": 9.948568
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alsenstra\u00dfe</b>/<wbr/><b>Holstenpl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{k|eI_bv{@TL"
+            },
+            "start_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.1 km",
+              "value": 2091
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 386
+            },
+            "end_location": {
+              "lat": 53.5506913,
+              "lng": 9.9699761
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Stresemannstra\u00dfe</b>/<wbr/><b>B4</b> (signs for <b>A1</b>/<wbr/><b>L\u00fcbeck</b>/<wbr/><b>Berlin</b>/<wbr/><b>Elbbr\u00fccken</b>/<wbr/><b>Cenrtum</b>)<div style=\"font-size:0.9em\">Continue to follow B4</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ek|eIqav{@D]BSHeBDiA@E?Q?I@KB[@_@HcAHoAJcBDu@PwBDk@@QFq@NqAFa@Js@?]Jo@Js@Jk@RuABO?CL}@Jy@XcCZkCZiCHm@Fg@DWDWDUH]H]BQLURq@Le@Ha@Tw@HYHW?CFQDMHYHYHWHWHS@CJWBEd@cAXi@HOFIDIDIDILYN]@CVi@FMb@}@\\w@JU\\q@d@k@LGLGPEZEXEF?HCNAXER@L?B?FCHCLENGVMNGNGPEPGLEZG^Gb@GXGTCPCTCDALAn@GLANCVGTGD?TIRGFAJENIRKVQXSTS\\YPQRQPW\\_@j@q@n@y@f@u@T]LKLUNULQHOJSJQJUL[Pi@HYL]\\aAl@{AFMFM`@qAX{@La@"
+            },
+            "start_location": {
+              "lat": 53.5622667,
+              "lng": 9.948568
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5509869,
+              "lng": 9.9701665
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Glacischaussee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ybzeIkgz{@_@S[Q"
+            },
+            "start_location": {
+              "lat": 53.5506913,
+              "lng": 9.9699761
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5509432,
+              "lng": 9.9702662
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "udzeIqhz{@DIBI"
+            },
+            "start_location": {
+              "lat": 53.5509869,
+              "lng": 9.9701665
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{o|eIo_v{@|Ag@JKT[TLD]LyBFoADcA`@wG^kFVcCRuA?]Jo@V_Bd@gD|AsM\\eC\\cBLURq@VgAh@mB`@sA^gAnAkC\\m@fCsFh@gAd@k@LG^Mt@Kz@K`@@JC~@_@bA]h@MbAOvASpAMbAS|@Yb@Up@e@xAqAjCcD|@sAZa@r@kAVg@^eAbBuEjAiDLa@_@S[QDIBI"
+    },
+    "summary": "B4",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

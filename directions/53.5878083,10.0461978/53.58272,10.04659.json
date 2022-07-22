@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5877541,
+        "lng": 10.0472626
+      },
+      "southwest": {
+        "lat": 53.5827975,
+        "lng": 10.0460489
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.6 km",
+          "value": 609
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 213
+        },
+        "end_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "start_address": "S+U Barmbek / Piazzetta-Ralph-Giordano, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5877541,
+          "lng": 10.0460489
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 430
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 127
+            },
+            "end_location": {
+              "lat": 53.5841956,
+              "lng": 10.0472626
+            },
+            "html_instructions": "Head <b>south</b> on <b>Fuhlsb\u00fcttler Str.</b> toward <b>Kr\u00fcsistra\u00dfe</b>/<wbr/><b>Pestalozzistra\u00dfe</b><div style=\"font-size:0.9em\">Go through 2 roundabouts</div>",
+            "polyline": {
+              "points": "mjafIybi|@HA?ADCBCJO@@?@?@@@?@@@@@?@@??@@?@@@?@@@?@?@??A@?@??A@?@A@A@A?A@??A?A@A?A?A@A?A`@UFCXIVGFB`@J?@@@?@?@?@?@?@@??@?@@@?@@@?@@@@@?@@??@@?@@@?@?@@@?@A@?@??A@?@A@A@A?A@??A?A@??A?A@A?A?A?A?A@A?A?AFOBGDC@AFEFCr@QFALKv@Qv@SLCdBc@b@If@Mf@I"
+            },
+            "start_location": {
+              "lat": 53.5877541,
+              "lng": 10.0460489
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 141
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5830531,
+              "lng": 10.0463452
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Bramfelder Str.</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "gt`fIkji|@LJRN^Tz@h@x@j@^XLR"
+            },
+            "start_location": {
+              "lat": 53.5841956,
+              "lng": 10.0472626
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "38 m",
+              "value": 38
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Pfenningsbusch</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "am`fIudi|@TUDKTe@"
+            },
+            "start_location": {
+              "lat": 53.5830531,
+              "lng": 10.0463452
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "mjafIybi|@HCHGLM?BBDBBFDHAFGBKj@]p@Qh@N@D?FDJFFHBFCJW@EP]HGz@UTMnBe@~D_Af@ILJr@d@tBtA^XLRZa@Te@"
+    },
+    "summary": "Fuhlsb\u00fcttler Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

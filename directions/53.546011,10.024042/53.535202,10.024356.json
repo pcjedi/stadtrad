@@ -1,0 +1,215 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.54779720000001,
+        "lng": 10.0331649
+      },
+      "southwest": {
+        "lat": 53.5337876,
+        "lng": 10.0237257
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.4 km",
+          "value": 2450
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 551
+        },
+        "end_address": "S+U Elbbr\u00fccken / Versmannstra\u00dfe, 20539 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5351941,
+          "lng": 10.0243496
+        },
+        "start_address": "S Hammerbrook / Sachsenfeld, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5460899,
+          "lng": 10.0243287
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5465351,
+              "lng": 10.0239815
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Hammerbrookstra\u00dfe</b> toward <b>Wendenstra\u00dfe</b>",
+            "polyline": {
+              "points": "afyeIa{d|@yAdA"
+            },
+            "start_location": {
+              "lat": 53.5460899,
+              "lng": 10.0243287
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 330
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.54779720000001,
+              "lng": 10.0285049
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wendenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{hyeI{xd|@Y}AQcAKk@SiAMo@WwAa@wBSeA[gBOw@Ms@YuA"
+            },
+            "start_location": {
+              "lat": 53.5465351,
+              "lng": 10.0239815
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 846
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 179
+            },
+            "end_location": {
+              "lat": 53.5408263,
+              "lng": 10.0328461
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Heidenkampsweg</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Continue to follow B75</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wpyeIcue|@`Aq@r@g@LI^WDAHGb@YJG@ArAaALIhCkB^UPMjBqAb@[FGjCoBDCHGnA{@h@_@tAeA~@s@l@e@FCZWTKRCLCN?R?P@h@FJDJDRRRR"
+            },
+            "start_location": {
+              "lat": 53.54779720000001,
+              "lng": 10.0285049
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 858
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 170
+            },
+            "end_location": {
+              "lat": 53.53379529999999,
+              "lng": 10.0276191
+            },
+            "html_instructions": "Keep <b>left</b> to continue on <b>Billhorner Br\u00fcckenstra\u00dfe</b>/<wbr/><b>B75</b>",
+            "maneuver": "keep-left",
+            "polyline": {
+              "points": "eexeIipf|@tAzA^d@v@v@XPVP~A`A\\NRLFDXNb@Vj@VHBbCdAHDb@LPFrAn@`@RJF|@f@bAn@LH~@n@~@r@lA`AhEvD^Z@B"
+            },
+            "start_location": {
+              "lat": 53.5408263,
+              "lng": 10.0328461
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 299
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.53503329999999,
+              "lng": 10.0237257
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Zweibr\u00fcckenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gyveIsoe|@@L?FAL?RAN?JAHAHCJGR?@I^ABCXARG\\I^Qp@CRu@jDIFQn@Mj@CJOn@ABCFADCJITKLEDMT"
+            },
+            "start_location": {
+              "lat": 53.53379529999999,
+              "lng": 10.0276191
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 76
+            },
+            "end_location": {
+              "lat": 53.535305,
+              "lng": 10.0239617
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}`weIiwd|@YSEEEEOM"
+            },
+            "start_location": {
+              "lat": 53.53503329999999,
+              "lng": 10.0237257
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5351941,
+              "lng": 10.0243496
+            },
+            "html_instructions": "Take the pedestrian overpass",
+            "polyline": {
+              "points": "sbweIwxd|@Lu@FW"
+            },
+            "start_location": {
+              "lat": 53.535305,
+              "lng": 10.0239617
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "afyeIa{d|@yAdAY}A]oB{AiImAyGYuA`Aq@`Aq@rA{@nBuAfHaF|DwCxEiDpCuBh@O\\Cd@@h@FJD^XhBnBvA|Ap@b@~A`A\\NZR|@f@t@ZlCjAt@TtBbAhAn@pAx@~BbBxHxG@TA`@En@U`AE\\ARG\\[pAy@~DIFQn@Qv@W`AM`@QRMTYSKKOMLu@FW"
+    },
+    "summary": "B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

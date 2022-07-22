@@ -1,0 +1,288 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5605796,
+        "lng": 10.0149604
+      },
+      "southwest": {
+        "lat": 53.5524298,
+        "lng": 10.0035265
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1470
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 294
+        },
+        "end_address": "Kurze M\u00fchren / Spitalerstra\u00dfe, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5525459,
+          "lng": 10.0040435
+        },
+        "start_address": "Lange Reihe / Lohm\u00fchlenpark, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5599819,
+          "lng": 10.0149604
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "html_instructions": "Head <b>northwest</b> toward <b>Lange Reihe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "{|{eIo`c|@I`@AJ"
+            },
+            "start_location": {
+              "lat": 53.5599819,
+              "lng": 10.0149604
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lange Reihe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g}{eIa_c|@[O[M"
+            },
+            "start_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "46 m",
+              "value": 46
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5605796,
+              "lng": 10.0143425
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lohm\u00fchlenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "__|eI_`c|@IPCHEJCLCHEHEJKT"
+            },
+            "start_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 687
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 125
+            },
+            "end_location": {
+              "lat": 53.5558237,
+              "lng": 10.0078134
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Koppel</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "s`|eIs|b|@bBdDtB`ETf@JTt@jAv@lABDb@n@LPNTFHJLf@p@v@dALXd@t@rAxBv@jAb@p@V\\RXFHHJRRPPn@VHDDBBBFH"
+            },
+            "start_location": {
+              "lat": 53.5605796,
+              "lng": 10.0143425
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "47 m",
+              "value": 47
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5554178,
+              "lng": 10.0079739
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Kirchenallee</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "{b{eIysa|@t@MXQ"
+            },
+            "start_location": {
+              "lat": 53.5558237,
+              "lng": 10.0078134
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "52 m",
+              "value": 52
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5549823,
+              "lng": 10.0078953
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Kirchenallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k`{eIyta|@FLFFDBH?TA`@I"
+            },
+            "start_location": {
+              "lat": 53.5554178,
+              "lng": 10.0079739
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 312
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.55397070000001,
+              "lng": 10.0035265
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ernst-Merck-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "s}zeIkta|@Z|EJvADZ@NBPHb@J`@DPH\\F\\Ff@Pv@Z~AJj@Ll@VfA"
+            },
+            "start_location": {
+              "lat": 53.5549823,
+              "lng": 10.0078953
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 178
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.55277960000001,
+              "lng": 10.0052927
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Glockengie\u00dferwall</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "iwzeIay`|@HWJWZw@^q@^m@\\i@Ze@RUZ_@PQ"
+            },
+            "start_location": {
+              "lat": 53.55397070000001,
+              "lng": 10.0035265
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "80 m",
+              "value": 80
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5524298,
+              "lng": 10.0042445
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Spitalerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{ozeIada|@Pl@@BPr@DRH^Nv@"
+            },
+            "start_location": {
+              "lat": 53.55277960000001,
+              "lng": 10.0052927
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5525459,
+              "lng": 10.0040435
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kurze M\u00fchren</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "umzeIo}`|@Wf@"
+            },
+            "start_location": {
+              "lat": 53.5524298,
+              "lng": 10.0042445
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{|{eIo`c|@Kl@w@]Wt@[t@zFdLtCnEp@~@~AvBr@nAjCdEz@nAx@bAPPn@VNHJLt@MXQNTNBv@Kf@tHFj@Lt@b@nBFf@Pv@f@jCd@tBTo@z@iB|@wAn@{@l@q@j@xBXvAWf@"
+    },
+    "summary": "Koppel",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

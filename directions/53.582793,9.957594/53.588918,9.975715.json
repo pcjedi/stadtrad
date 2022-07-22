@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5888815,
+        "lng": 9.9757576
+      },
+      "southwest": {
+        "lat": 53.58278319999999,
+        "lng": 9.957495699999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1397
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 353
+        },
+        "end_address": "Martinistra\u00dfe / Haupteingang Klinikum, 20251 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5888815,
+          "lng": 9.9757576
+        },
+        "start_address": "Troplowitzstra\u00dfe 21, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58278319999999,
+          "lng": 9.957519699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5828475,
+              "lng": 9.957495699999999
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Troplowitzstra\u00dfe</b>",
+            "polyline": {
+              "points": "kk`fIoyw{@MB"
+            },
+            "start_location": {
+              "lat": 53.58278319999999,
+              "lng": 9.957519699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 832
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 219
+            },
+            "end_location": {
+              "lat": 53.5861512,
+              "lng": 9.9686839
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Troplowitzstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yk`fIkyw{@Ek@Ca@Cc@_@mFOuBAKGk@Ic@Mk@Oe@a@{AM_@CIMg@YeAi@qB[iAe@cBOe@Ke@Ok@Os@Ww@Om@[uAMi@U_Ai@}B[uACYAIAIGUACi@qBIi@Ky@Ou@EQIW"
+            },
+            "start_location": {
+              "lat": 53.5828475,
+              "lng": 9.957495699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 558
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 133
+            },
+            "end_location": {
+              "lat": 53.5888815,
+              "lng": 9.9757576
+            },
+            "html_instructions": "Continue onto <b>Martinistra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "m`afIg_z{@K[K[IWEMK_@EOI[a@aBG[KQAAm@yBMc@Qo@o@}BG]c@cBWo@EMWaA_@sAACYcAe@aBeAuDMa@EOIW"
+            },
+            "start_location": {
+              "lat": 53.5861512,
+              "lng": 9.9686839
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kk`fIoyw{@MBEk@GeAo@cJIw@WoAq@aCy@wC{BeIcA}DoAmFeAsEEc@u@uCUcBUgAk@gBa@yAi@}BMS}BkIk@aC]}@sA}EiCaJ"
+    },
+    "summary": "Troplowitzstra\u00dfe and Martinistra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

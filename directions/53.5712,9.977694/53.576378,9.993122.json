@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5763623,
+        "lng": 9.994016799999999
+      },
+      "southwest": {
+        "lat": 53.5712433,
+        "lng": 9.9774067
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1584
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 424
+        },
+        "end_address": "Mittelweg / Sophienterrasse, 20149 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5763623,
+          "lng": 9.9932737
+        },
+        "start_address": "Bogenstra\u00dfe / Grindelallee, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5712433,
+          "lng": 9.9777496
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Beim Schlump</b> toward <b>Bogenstra\u00dfe</b>",
+            "polyline": {
+              "points": "gc~eI}w{{@Sf@KZ"
+            },
+            "start_location": {
+              "lat": 53.5712433,
+              "lng": 9.9777496
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 129
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5722837,
+              "lng": 9.9786478
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Beim Schlump</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gd~eIyu{{@KOYc@IKQOOM]y@KOU]OWMY"
+            },
+            "start_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1020
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 274
+            },
+            "end_location": {
+              "lat": 53.5728231,
+              "lng": 9.994016799999999
+            },
+            "html_instructions": "Continue onto <b>Hallerstra\u00dfe</b>",
+            "polyline": {
+              "points": "wi~eIq}{{@ESGe@CWESAO?M@]A}@?QACACACAaBAmAC}B?UAaAKkLKeLE}DAoAA??gA?{@Ay@?k@@{@?Q?S?_B@m@AcC?iAEaCAsBCkCAYAm@A_@GwAEs@"
+            },
+            "start_location": {
+              "lat": 53.5722837,
+              "lng": 9.9786478
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 407
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 104
+            },
+            "end_location": {
+              "lat": 53.5763623,
+              "lng": 9.9932737
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Mittelweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cm~eIs}~{@GFC@IFm@X{At@cAf@YN}@f@_@FWDS?E?s@AcAEOC_AMm@MQEm@K"
+            },
+            "start_location": {
+              "lat": 53.5728231,
+              "lng": 9.994016799999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gc~eI}w{{@_@bAe@s@[[OM]y@a@m@]q@WeBA]?{AE]g@uk@CsE?sD?eHKkMEgBMkCKHwE~BwAv@w@LY?wBGoCe@m@K"
+    },
+    "summary": "Hallerstra\u00dfe and Mittelweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

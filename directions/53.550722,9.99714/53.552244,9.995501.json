@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5522466,
+        "lng": 9.9971443
+      },
+      "southwest": {
+        "lat": 53.55063670000001,
+        "lng": 9.994589399999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "0.3 km",
+          "value": 328
+        },
+        "duration": {
+          "text": "1 min",
+          "value": 86
+        },
+        "end_address": "S+U Jungfernstieg / Ballindamm, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5522466,
+          "lng": 9.9954474
+        },
+        "start_address": "U Rathaus / M\u00f6nckebergstra\u00dfe, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5506733,
+          "lng": 9.9971443
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "87 m",
+              "value": 87
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5506503,
+              "lng": 9.9958261
+            },
+            "html_instructions": "Head <b>west</b> on <b>M\u00f6nckebergstra\u00dfe</b> toward <b>Bergstra\u00dfe</b>",
+            "polyline": {
+              "points": "ubzeIcq_|@@~A@x@B`@AJA|@"
+            },
+            "start_location": {
+              "lat": 53.5506733,
+              "lng": 9.9971443
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 176
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5519836,
+              "lng": 9.994589399999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bergstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qbzeI}h_|@Yb@]j@o@`Ag@r@ABk@l@c@?K?[?"
+            },
+            "start_location": {
+              "lat": 53.5506503,
+              "lng": 9.9958261
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5522466,
+              "lng": 9.9954474
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ballindamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{jzeIea_|@?KAKCSAIESOi@Qi@EM"
+            },
+            "start_location": {
+              "lat": 53.5519836,
+              "lng": 9.994589399999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ubzeIcq_|@DfEA|@Yb@mAlBi@v@k@l@c@?g@?AWE]U}@Ww@"
+    },
+    "summary": "M\u00f6nckebergstra\u00dfe, Bergstra\u00dfe and Ballindamm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

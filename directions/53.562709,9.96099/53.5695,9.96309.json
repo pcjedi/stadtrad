@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5694916,
+        "lng": 9.9630403
+      },
+      "southwest": {
+        "lat": 53.5627534,
+        "lng": 9.959386700000001
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1151
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 234
+        },
+        "end_address": "U Christuskirche / Fruchtallee, 20259 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5694916,
+          "lng": 9.9630209
+        },
+        "start_address": "Schulterblatt / Eifflerstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5627534,
+          "lng": 9.961044300000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 255
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5648089,
+              "lng": 9.959386700000001
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Schulterblatt</b> toward <b>Eifflerstra\u00dfe</b>",
+            "polyline": {
+              "points": "en|eIoox{@[\\WRa@h@UP[T{@x@g@^IFSNMHGB]RWJYNk@T"
+            },
+            "start_location": {
+              "lat": 53.5627534,
+              "lng": 9.961044300000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 208
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5654287,
+              "lng": 9.962343599999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Amandastra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a{|eIeex{@MaAIm@EUG[]sBEUIg@CSCUEe@YiD"
+            },
+            "start_location": {
+              "lat": 53.5648089,
+              "lng": 9.959386700000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 479
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.5694573,
+              "lng": 9.959971900000001
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Vereinsstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}~|eIswx{@iCXSHSRk@X_@RE@iAv@s@f@a@VGDyAbAa@V{CtBOFSLGBA@EBA?G@K?I?M?"
+            },
+            "start_location": {
+              "lat": 53.5654287,
+              "lng": 9.962343599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 203
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.569435,
+              "lng": 9.9630403
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Fruchtallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cx}eIyhx{@B_@By@?gAAq@@[@m@AWCcAAk@?cA?c@@S?cA"
+            },
+            "start_location": {
+              "lat": 53.5694573,
+              "lng": 9.959971900000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "6 m",
+              "value": 6
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5694916,
+              "lng": 9.9630209
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_x}eI_|x{@IB"
+            },
+            "start_location": {
+              "lat": 53.569435,
+              "lng": 9.9630403
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "en|eIoox{@s@p@a@h@UPwAnAq@f@a@Xe@Vq@Zk@TMaAOcAe@oCWgB_@oEiCXSHSRk@Xe@TgD|BgHxEc@V_@@M?B_@BaC?sCEsD@w@?cAIB"
+    },
+    "summary": "Vereinsstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

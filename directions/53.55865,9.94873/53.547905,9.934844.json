@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5585362,
+        "lng": 9.9487911
+      },
+      "southwest": {
+        "lat": 53.54790670000001,
+        "lng": 9.934805299999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1633
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 312
+        },
+        "end_address": "Ottenser Marktplatz / Platz der Republik, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.54790670000001,
+          "lng": 9.934805299999999
+        },
+        "start_address": "Max-Brauer-Allee 147, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5585362,
+          "lng": 9.9487911
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1283
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 250
+            },
+            "end_location": {
+              "lat": 53.5503101,
+              "lng": 9.9360947
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Max-Brauer-Allee</b> toward <b>Eggerstedtstra\u00dfe</b>",
+            "polyline": {
+              "points": "{s{eI}bv{@Rz@Jb@HTFRR`@HNHPJXHTJZNj@JTFXJf@FPDLHRFPBHNXx@nBP`@~CvHdB~D`@`AXt@FLTj@nArCDJz@rBXp@rA`Db@dAl@lAf@fAR^Rf@P\\NX|@xALTDFFHFHJLFFHHd@f@b@Zt@d@b@XNFPFVH\\HXFB@TB^?lA@"
+            },
+            "start_location": {
+              "lat": 53.5585362,
+              "lng": 9.9487911
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "79 m",
+              "value": 79
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5503394,
+              "lng": 9.9349001
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Platz d. Republik</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m`zeIqss{@Av@Cv@AJ?b@?F?\\?B@b@"
+            },
+            "start_location": {
+              "lat": 53.5503101,
+              "lng": 9.9360947
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 271
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.54790670000001,
+              "lng": 9.934805299999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Museumstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "s`zeIcls{@L@j@@b@BT@dABnAIL@J?x@BD?p@@v@BV@"
+            },
+            "start_location": {
+              "lat": 53.5503394,
+              "lng": 9.9349001
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{s{eI}bv{@^~APh@r@|Ap@rB`@`BvJrUxApDjDdIvBfFtAtCf@fA`@v@jAnBLPd@h@d@f@b@ZxA~@vAb@\\Ht@BlA@Av@EbA?lA@b@L@nADzAD|AG|BDnAD"
+    },
+    "summary": "Max-Brauer-Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

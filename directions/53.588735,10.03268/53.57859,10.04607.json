@@ -1,0 +1,237 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5887523,
+        "lng": 10.0460574
+      },
+      "southwest": {
+        "lat": 53.5785974,
+        "lng": 10.0330194
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 1996
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 485
+        },
+        "end_address": "Von-Essen-Stra\u00dfe / Dehnhaide, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5785974,
+          "lng": 10.0459754
+        },
+        "start_address": "U Saarlandstra\u00dfe / Wiesendamm, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5887523,
+          "lng": 10.0330194
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 475
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 105
+            },
+            "end_location": {
+              "lat": 53.5845404,
+              "lng": 10.0337797
+            },
+            "html_instructions": "Head <b>south</b> on <b>Saarlandstra\u00dfe</b> toward <b>Wiesendamm</b>",
+            "polyline": {
+              "points": "upafIkqf|@TCbAIn@Eb@AXCb@EDAj@CLErDWHAzCUf@Ch@IRETEN?b@?Ra@"
+            },
+            "start_location": {
+              "lat": 53.5887523,
+              "lng": 10.0330194
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 538
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Osterbekstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kv`fIcvf|@?mAGsBE{AC_ACcACcA?]?KAs@CyCAM?s@Au@?m@@]?UAy@Ak@?}C?aBBmCB{A@Q@M?GBg@"
+            },
+            "start_location": {
+              "lat": 53.5845404,
+              "lng": 10.0337797
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 200
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.5828868,
+              "lng": 10.0413861
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hufnerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aw`fI{hh|@d@RXHJBZDH@R@P?p@BT@DAJFlBl@"
+            },
+            "start_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 311
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 54
+            },
+            "end_location": {
+              "lat": 53.5801884,
+              "lng": 10.0402071
+            },
+            "html_instructions": "Continue onto <b>Reesestra\u00dfe</b>",
+            "polyline": {
+              "points": "al`fIueh|@ZJTJ\\LLDTHJBx@TFBZJPFJFTH\\XtAh@\\LFB\\Jz@LT@"
+            },
+            "start_location": {
+              "lat": 53.5828868,
+              "lng": 10.0413861
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5799209,
+              "lng": 10.0406501
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Weidestra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e{_fIi~g|@FQDMJUJQNO"
+            },
+            "start_location": {
+              "lat": 53.5801884,
+              "lng": 10.0402071
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.5797609,
+              "lng": 10.0409111
+            },
+            "html_instructions": "Continue onto <b>Barmbeker Markt</b>",
+            "polyline": {
+              "points": "oy_fIaah|@^s@"
+            },
+            "start_location": {
+              "lat": 53.5799209,
+              "lng": 10.0406501
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 364
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 101
+            },
+            "end_location": {
+              "lat": 53.5789666,
+              "lng": 10.0460574
+            },
+            "html_instructions": "Continue onto <b>Dehnhaide</b>",
+            "polyline": {
+              "points": "ox_fIubh|@P_@J]JUb@wAHm@T}@DWLo@@MDWBY?I?qAAmAB]Ac@?OAc@A]?]CSDe@@c@NkD"
+            },
+            "start_location": {
+              "lat": 53.5797609,
+              "lng": 10.0409111
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5785974,
+              "lng": 10.0459754
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Von-Essen-Stra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qs_fI{bi|@hAN"
+            },
+            "start_location": {
+              "lat": 53.5789666,
+              "lng": 10.0460574
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "upafIkqf|@xAMrAGnBOLErDWdDWpAMh@Kr@?Ra@?mAMoEGcCEaDGqG?{CAiEBoFFcCBg@d@Rd@Ld@Fd@@fADDAJFhCx@r@XhBh@`A^TH\\XrBv@d@NpANd@gANO^s@\\}@n@mBHm@T}@RgAFe@Bc@A_DB]Ac@As@A{@CSDe@PoEhAN"
+    },
+    "summary": "Osterbekstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

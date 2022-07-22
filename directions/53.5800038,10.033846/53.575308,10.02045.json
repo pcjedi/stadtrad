@@ -1,0 +1,190 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5800016,
+        "lng": 10.0342449
+      },
+      "southwest": {
+        "lat": 53.5750903,
+        "lng": 10.0205632
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1308
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 369
+        },
+        "end_address": "Winterhuder Weg / Zimmerstra\u00dfe, 22085 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5750903,
+          "lng": 10.0205632
+        },
+        "start_address": "Weidestra\u00dfe / Biedermannplatz, 22083 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5800016,
+          "lng": 10.0339757
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5798842,
+              "lng": 10.03397
+            },
+            "html_instructions": "Head <b>south</b> on <b>Biedermannpl.</b> toward <b>Weidestra\u00dfe</b>",
+            "polyline": {
+              "points": "_z_fIkwf|@V@"
+            },
+            "start_location": {
+              "lat": 53.5800016,
+              "lng": 10.0339757
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 120
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.5788129,
+              "lng": 10.0342449
+            },
+            "html_instructions": "Continue onto <b>Elsastra\u00dfe</b>",
+            "polyline": {
+              "points": "gy_fIiwf|@hAQjAS~@O"
+            },
+            "start_location": {
+              "lat": 53.5798842,
+              "lng": 10.03397
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 118
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.57861759999999,
+              "lng": 10.0324814
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Mesterkamp</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qr_fI_yf|@LhCJxAJzB"
+            },
+            "start_location": {
+              "lat": 53.5788129,
+              "lng": 10.0342449
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 125
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.579731,
+              "lng": 10.0321759
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Adolph-Sch\u00f6nfelder-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kq_fI_nf|@UDq@No@Le@Fa@H]D"
+            },
+            "start_location": {
+              "lat": 53.57861759999999,
+              "lng": 10.0324814
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 890
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 177
+            },
+            "end_location": {
+              "lat": 53.5751648,
+              "lng": 10.0211868
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Beethovenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ix_fIclf|@Vp@f@xAHR^bA\\t@DJb@bALZt@~Al@xA`@|@f@xANv@RnARfAPl@r@tCBHRp@DNd@|Ab@bBv@`C\\dA|@vCPn@dAdDPj@Ph@Pl@Tx@Df@"
+            },
+            "start_location": {
+              "lat": 53.579731,
+              "lng": 10.0321759
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5750903,
+              "lng": 10.0205632
+            },
+            "html_instructions": "Continue onto <b>Zimmerstra\u00dfe</b>",
+            "polyline": {
+              "points": "w{~eImgd|@L|B"
+            },
+            "start_location": {
+              "lat": 53.5751648,
+              "lng": 10.0211868
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_z_fIkwf|@V@hAQjCc@XbFJzBUDaB\\gAP]DVp@p@lB|@xBh@nArCrGf@xANv@f@vC|A~Fj@lBzAdFrDrLjA|DRdD"
+    },
+    "summary": "Beethovenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

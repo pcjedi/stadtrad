@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5671046,
+        "lng": 10.0444917
+      },
+      "southwest": {
+        "lat": 53.5598849,
+        "lng": 10.0282665
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1404
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 357
+        },
+        "end_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "start_address": "U Ritterstra\u00dfe / Wandsbeker Chaussee, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5671046,
+          "lng": 10.0444917
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 551
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.565185,
+              "lng": 10.0369473
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Hirschgraben</b>",
+            "polyline": {
+              "points": "ki}eIayh|@XxE@JLvAHz@PzBHh@D`@D\\Dd@@R@^@ZDj@P`BLn@Nz@\\hARl@FPX|@\\bAL`@Z|@Tt@N^FTFN@F@LBFFL"
+            },
+            "start_location": {
+              "lat": 53.5671046,
+              "lng": 10.0444917
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "11 m",
+              "value": 11
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5652658,
+              "lng": 10.036845
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Conventstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k}|eI}ig|@QT"
+            },
+            "start_location": {
+              "lat": 53.565185,
+              "lng": 10.0369473
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 200
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 110
+            },
+            "end_location": {
+              "lat": 53.5642125,
+              "lng": 10.0344171
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wandsbeker Chaussee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}}|eIgig|@lApDfA`DD`@Pn@FPHPFJJL"
+            },
+            "start_location": {
+              "lat": 53.5652658,
+              "lng": 10.036845
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 642
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 161
+            },
+            "end_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "html_instructions": "Continue onto <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "iw|eIczf|@RZLNX^XZPRNPRRRBPNh@f@RRNNZZTTXd@LLfAbAh@d@FDPRHJJLRXJPNZLXHNXr@BDBFNh@Ph@Rh@Vr@Nd@BFBDBB@BHBj@bBZ|@LX^fAN\\"
+            },
+            "start_location": {
+              "lat": 53.5642125,
+              "lng": 10.0344171
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ki}eIayh|@r@xJZdDJ~@JtBVlC\\jBrAfE|AxE`@lADTFLQTtCrID`@Pn@Pb@RXtAfBt@x@RBPN|@z@j@j@n@z@fC|Bz@fAr@vAp@jBlAlDLTHBj@bBh@vAn@dB"
+    },
+    "summary": "L\u00fcbecker Str./B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

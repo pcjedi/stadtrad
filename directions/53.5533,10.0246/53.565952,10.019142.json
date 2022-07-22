@@ -1,0 +1,332 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5660107,
+        "lng": 10.0246707
+      },
+      "southwest": {
+        "lat": 53.5533318,
+        "lng": 10.0146753
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2092
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 491
+        },
+        "end_address": "Mundsburger Br\u00fccke / Papenhuder Stra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5660107,
+          "lng": 10.0191388
+        },
+        "start_address": "S+U Berliner Tor / Beim Strohhause, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5533318,
+          "lng": 10.0245827
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>Berlinertordamm</b>",
+            "polyline": {
+              "points": "iszeIs|d|@OQS@"
+            },
+            "start_location": {
+              "lat": 53.5533318,
+              "lng": 10.0245827
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 104
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.5542333,
+              "lng": 10.0238506
+            },
+            "html_instructions": "Take the crosswalk",
+            "polyline": {
+              "points": "mtzeIc}d|@UDUDSFIDKFGL[p@IPKl@"
+            },
+            "start_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "81 m",
+              "value": 81
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.55489559999999,
+              "lng": 10.0233829
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Berliner Tor</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "}xzeIaxd|@uB|AE@A?C?CA"
+            },
+            "start_location": {
+              "lat": 53.5542333,
+              "lng": 10.0238506
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.55493389999999,
+              "lng": 10.0231495
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kolbergstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "c}zeIcud|@ADAFAJ?R"
+            },
+            "start_location": {
+              "lat": 53.55489559999999,
+              "lng": 10.0233829
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 320
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.557284,
+              "lng": 10.0204083
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Berliner Tor</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i}zeIusd|@G@SHUNYTKHm@x@]d@UZQ`@GJA@EF_@ZIJKRW^MHKLoAhB[b@OTGFMR"
+            },
+            "start_location": {
+              "lat": 53.55493389999999,
+              "lng": 10.0231495
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 500
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 103
+            },
+            "end_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "html_instructions": "Continue onto <b>Lohm\u00fchlenstra\u00dfe</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "polyline": {
+              "points": "_l{eIqbd|@Sj@AFAFAJATO^Sd@ELGNO^Q`@CH_ApBYh@cBlDUf@Yj@Wj@IPq@tAYj@cBnDUXINKJ"
+            },
+            "start_location": {
+              "lat": 53.557284,
+              "lng": 10.0204083
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 141
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5614821,
+              "lng": 10.0156273
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Barcastra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "__|eI_`c|@QEUGKCK?k@YMGMEKGIEKIIGIGIIIKKMIO"
+            },
+            "start_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "74 m",
+              "value": 74
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.56198089999999,
+              "lng": 10.0159631
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gf|eIudc|@GLEDG@I@K@K?IEMYSy@?A"
+            },
+            "start_location": {
+              "lat": 53.5614821,
+              "lng": 10.0156273
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 262
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 76
+            },
+            "end_location": {
+              "lat": 53.56257309999999,
+              "lng": 10.0146753
+            },
+            "html_instructions": "Take the pedestrian tunnel",
+            "polyline": {
+              "points": "ki|eIwfc|@Wm@M_@GM_@}@mA|Cm@|AO^?@?F?D?B@D?B@BBDDDDFVX@BRRFFB@TJ"
+            },
+            "start_location": {
+              "lat": 53.56198089999999,
+              "lng": 10.0159631
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 354
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.5654031,
+              "lng": 10.0168406
+            },
+            "html_instructions": "Sharp <b>left</b>",
+            "maneuver": "turn-sharp-left",
+            "polyline": {
+              "points": "am|eIw~b|@ISEIEIq@aAy@iAi@s@MKq@m@g@a@UMg@YiAUcAOSCSEm@S"
+            },
+            "start_location": {
+              "lat": 53.56257309999999,
+              "lng": 10.0146753
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.56593119999999,
+              "lng": 10.0167179
+            },
+            "html_instructions": "Continue onto <b>Schwanenwik</b>/<wbr/><b>Schwanenwikbr\u00fccke</b>",
+            "polyline": {
+              "points": "w~|eIglc|@E?s@JIBe@F"
+            },
+            "start_location": {
+              "lat": 53.5654031,
+              "lng": 10.0168406
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 160
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5660107,
+              "lng": 10.0191388
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hartwicusstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ab}eIokc|@AkAEiD?[G{D?U"
+            },
+            "start_location": {
+              "lat": 53.56593119999999,
+              "lng": 10.0167179
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "iszeIs|d|@OQS@k@J]LKFGLe@bAKl@uB|AG@GACLA^[Jo@d@y@bAs@`Aa@v@i@f@c@r@YVkBlCW\\MRSj@CNC`@q@bBa@`AcAzBmDjHmB~DcBnDUXUZg@MWCsAo@i@_@i@s@MRQBW@IEMYS{@e@mAg@kA{BzFO`@?LBPf@l@`@`@TJISKSkBkCw@_AyAoA}@g@iAUcAOg@Is@S}@Ne@FAkAEeEGqE"
+    },
+    "summary": "Lohm\u00fchlenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5471506,
+        "lng": 9.9656982
+      },
+      "southwest": {
+        "lat": 53.54393959999999,
+        "lng": 9.942412899999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1749
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 450
+        },
+        "end_address": "Bernhard-Nocht-Stra\u00dfe / Zirkusweg, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5471506,
+          "lng": 9.9656982
+        },
+        "start_address": "Van-der-Smissen-Stra\u00dfe / Gro\u00dfe Elbstra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54393959999999,
+          "lng": 9.942412899999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "53 m",
+              "value": 53
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.544398,
+              "lng": 9.9425612
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Van-der-Smissen-Stra\u00dfe</b> toward <b>Gro\u00dfe Elbstra\u00dfe</b>",
+            "polyline": {
+              "points": "sxxeIa{t{@AEEGEEGAGA}@E"
+            },
+            "start_location": {
+              "lat": 53.54393959999999,
+              "lng": 9.942412899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 785
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 131
+            },
+            "end_location": {
+              "lat": 53.54574849999999,
+              "lng": 9.9539092
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00dfe Elbstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o{xeI_|t{@Aw@GOHsD@iAFeD?YD{B?OByAAaA@m@?a@?YAIAICq@OoCCi@Ee@Cc@C]EYE]o@eEYsBYeCc@yDIk@QkAAOKi@Ic@COISKSGMMO"
+            },
+            "start_location": {
+              "lat": 53.544398,
+              "lng": 9.9425612
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "71 m",
+              "value": 71
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 97
+            },
+            "end_location": {
+              "lat": 53.5462682,
+              "lng": 9.9532984
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>St. Pauli Fischmarkt</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}cyeI}bw{@CDOTUVOPm@r@"
+            },
+            "start_location": {
+              "lat": 53.54574849999999,
+              "lng": 9.9539092
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 286
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 105
+            },
+            "end_location": {
+              "lat": 53.546519,
+              "lng": 9.9575891
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Pinnasberg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "egyeIc_w{@?QAMCwAA_@BG?IAi@C}AC{@?QC{@A{@AQC{@E{@ASCa@AE?QAQ?MAI?C?A@OAM?K?CAM?ICS"
+            },
+            "start_location": {
+              "lat": 53.5462682,
+              "lng": 9.9532984
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.54662399999999,
+              "lng": 9.9575898
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Bernhard-Nocht-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "whyeI}yw{@?@A??@A??@A?A?A?A?A?AAA??AA??A"
+            },
+            "start_location": {
+              "lat": 53.546519,
+              "lng": 9.9575891
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5466248,
+              "lng": 9.957798
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Antonistra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kiyeI}yw{@AAAA?A?A?AA??A?A?A?A?A?A?A?A?A?A?A@A?A@A?A@A"
+            },
+            "start_location": {
+              "lat": 53.54662399999999,
+              "lng": 9.9575898
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 525
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5471506,
+              "lng": 9.9656982
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Bernhard-Nocht-Stra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "kiyeIg{w{@IsAA[Au@CaACq@EeAC{@KsDEcBASAa@EwAMgEAaAEqAMoFC{@EaB"
+            },
+            "start_location": {
+              "lat": 53.5466248,
+              "lng": 9.957798
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sxxeIa{t{@GMMGeAGAw@GOJ}FF_EFgH?sBYuFIiAIw@u@cFs@yFm@eFS{AUmAMc@Sa@MOCDe@l@}@dAGwCBQEgCIeEM}CIgB?k@Eo@GDGAGIAM@MBGQgFi@yQm@iV"
+    },
+    "summary": "Gro\u00dfe Elbstra\u00dfe and Bernhard-Nocht-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

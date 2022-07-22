@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5656881,
+        "lng": 10.0412907
+      },
+      "southwest": {
+        "lat": 53.5555959,
+        "lng": 10.026594
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1740
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 381
+        },
+        "end_address": "U Uhlandstra\u00dfe / Eilenau, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5649947,
+          "lng": 10.0266752
+        },
+        "start_address": "U Burgstra\u00dfe, 20537 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5555969,
+          "lng": 10.0412907
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5555959,
+              "lng": 10.0406697
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hammer Landstra\u00dfe</b> toward <b>Burgstra\u00dfe</b>/<wbr/><b>Grevenweg</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "oa{eIaeh|@?B?X?L?nA"
+            },
+            "start_location": {
+              "lat": 53.5555969,
+              "lng": 10.0412907
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1260
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 274
+            },
+            "end_location": {
+              "lat": 53.5656881,
+              "lng": 10.0326306
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Burgstra\u00dfe</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oa{eIeah|@E@G@KBGDIDQJABIDSNQPIHEBIHKDSNmA`@wBr@QDc@NIGA?A?O@IDSFWFYDi@LUDIBODi@HODM@UFSDKFKDSLUHQJGDIDGFGFOLUV_@b@k@n@SXCF{@t@}@z@a@Xo@h@OJy@n@eAbA]\\gA`Ay@p@m@j@SVg@j@]d@cAnAQNQRa@f@STuAbB_ArAiAzA"
+            },
+            "start_location": {
+              "lat": 53.5555959,
+              "lng": 10.0406697
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 423
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 96
+            },
+            "end_location": {
+              "lat": 53.56513,
+              "lng": 10.026594
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Uhlandstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q`}eI}nf|@x@vB@DFL^nARx@J~@Dp@D|@AbAExBIhEAfAEjCEtC"
+            },
+            "start_location": {
+              "lat": 53.5656881,
+              "lng": 10.0326306
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5649947,
+              "lng": 10.0266752
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "a}|eIeie|@ZQ"
+            },
+            "start_location": {
+              "lat": 53.56513,
+              "lng": 10.026594
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oa{eIaeh|@?zBa@Lg@Zu@n@UNSNmA`@iCx@c@NIGC?O@]Lq@LyA\\y@Nc@H_@L_@Ry@`@u@t@kArAW`@yBpBqAbAiAz@cB`BaCrBaAbA{CpD}CtDiCnDz@|Bf@|ARx@J~@JnBG|DWrPZQ"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

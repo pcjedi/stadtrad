@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5865374,
+        "lng": 10.0653471
+      },
+      "southwest": {
+        "lat": 53.5819953,
+        "lng": 10.0463452
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1545
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 376
+        },
+        "end_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "start_address": "U Alter Teichweg / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58585129999999,
+          "lng": 10.0653471
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "88 m",
+              "value": 88
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5865374,
+              "lng": 10.0646704
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Nordschleswiger Str.</b> toward <b>Alter Teichweg</b>",
+            "polyline": {
+              "points": "q~`fIm{l|@e@b@cBbB"
+            },
+            "start_location": {
+              "lat": 53.58585129999999,
+              "lng": 10.0653471
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1317
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 273
+            },
+            "end_location": {
+              "lat": 53.5825445,
+              "lng": 10.0474536
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alter Teichweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{bafIewl|@BNPz@Nn@H^v@xCXdAXbAPn@^rA\\fAX|@Vv@f@vAh@vADN\\z@d@jAh@tA`@`ANz@FR@?FA?P?@FN?@?@LH?NDJF?Fd@`AxB`@jA`@bAv@vBTj@\\~@L\\DLFTBP@BDVFf@DRBVFpABvA@|@Ap@Ax@?BCf@En@KhAQbCc@`Fm@bI?BAV@XHf@DZ"
+            },
+            "start_location": {
+              "lat": 53.5865374,
+              "lng": 10.0646704
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "92 m",
+              "value": 92
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5831172,
+              "lng": 10.0464492
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Pfenningsbusch</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{i`fIqki|@IHEJCDCJQd@IPe@`AGNQT"
+            },
+            "start_location": {
+              "lat": 53.5825445,
+              "lng": 10.0474536
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Bramfelder Str.</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "om`fIiei|@LRTUDKTe@"
+            },
+            "start_location": {
+              "lat": 53.5831172,
+              "lng": 10.0464492
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "q~`fIm{l|@iCfCTjAXnApA~EhBnGbCdHrBlF`@`ANz@FRHA?RFPLJ?NDJF?Fd@`AxBbAnCxB`GRx@VjBJhD?nBKtCoBrVAZJ`ADZIHIPUp@o@rAYd@LRTUZq@"
+    },
+    "summary": "Alter Teichweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

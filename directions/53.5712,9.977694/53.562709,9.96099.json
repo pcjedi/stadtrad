@@ -1,0 +1,166 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5713968,
+        "lng": 9.9777496
+      },
+      "southwest": {
+        "lat": 53.5627534,
+        "lng": 9.9600853
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1601
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 409
+        },
+        "end_address": "Schulterblatt / Eifflerstra\u00dfe, 20357 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5627534,
+          "lng": 9.961044300000001
+        },
+        "start_address": "Bogenstra\u00dfe / Grindelallee, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5712433,
+          "lng": 9.9777496
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Beim Schlump</b> toward <b>Bogenstra\u00dfe</b>",
+            "polyline": {
+              "points": "gc~eI}w{{@Sf@KZ"
+            },
+            "start_location": {
+              "lat": 53.5712433,
+              "lng": 9.9777496
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 664
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 165
+            },
+            "end_location": {
+              "lat": 53.5675295,
+              "lng": 9.9699435
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Beim Schlump</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gd~eIyu{{@V^tAjBjAbBv@fALNJTBFX^DFDHJPDLJTHRFRBD@DFNDLDLp@hBZt@jA|Cl@|AfAvCFPFNDNXx@AJ@DLv@?BF^Lj@Jh@DVNj@"
+            },
+            "start_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 353
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5655261,
+              "lng": 9.965821
+            },
+            "html_instructions": "Continue onto <b>Kleiner Sch\u00e4ferkamp</b>",
+            "polyline": {
+              "points": "al}eIcgz{@HXFZFPDNPd@NVHTHRFTDLHR^~@hCtGl@lA?F?B?BP`@HV@Bj@lA"
+            },
+            "start_location": {
+              "lat": 53.5675295,
+              "lng": 9.9699435
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 430
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 94
+            },
+            "end_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "html_instructions": "Continue onto <b>Altonaer Str.</b>",
+            "polyline": {
+              "points": "q_}eIkmy{@JT@Bh@zALN@HV~@DTvBxKRbAX~ANv@\\vBRhAXzA"
+            },
+            "start_location": {
+              "lat": 53.5655261,
+              "lng": 9.965821
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 126
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5627534,
+              "lng": 9.961044300000001
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schulterblatt</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "it|eIqix{@z@y@ZUTQ`@i@VSZ]"
+            },
+            "start_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gc~eI}w{{@_@bAlBjCbCjDXd@h@x@f@hAnBjFhEdLL^Xx@AJN|@Fb@n@xC^vA`@|@Rh@v@vBhCtGl@lA?J\\`Av@bBj@~ANX\\tAjC|Mh@vCp@`EXzAz@y@p@g@`@i@VSZ]"
+    },
+    "summary": "Beim Schlump and Altonaer Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

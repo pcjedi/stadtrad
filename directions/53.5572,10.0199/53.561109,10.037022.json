@@ -1,0 +1,215 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5615813,
+        "lng": 10.0373412
+      },
+      "southwest": {
+        "lat": 53.5570609,
+        "lng": 10.0199453
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1326
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 336
+        },
+        "end_address": "S Landwehr / Ramazan-Avci-Platz, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5611955,
+          "lng": 10.0373412
+        },
+        "start_address": "U Lohm\u00fchlenstra\u00dfe / Steindamm, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5571758,
+          "lng": 10.0199453
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5570609,
+              "lng": 10.0201962
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Steindamm</b>",
+            "polyline": {
+              "points": "kk{eIu_d|@CGJQNW"
+            },
+            "start_location": {
+              "lat": 53.5571758,
+              "lng": 10.0199453
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "26 m",
+              "value": 26
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.5572084,
+              "lng": 10.0205089
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Steindamm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sj{eIgad|@Q]K_@"
+            },
+            "start_location": {
+              "lat": 53.5570609,
+              "lng": 10.0201962
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 242
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.558373,
+              "lng": 10.023576
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>L\u00fcbeckertordamm</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "qk{eIecd|@y@_CmAkDGQQk@G]CIG]Os@O}@Mq@CQ"
+            },
+            "start_location": {
+              "lat": 53.5572084,
+              "lng": 10.0205089
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 199
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.55895330000001,
+              "lng": 10.0264102
+            },
+            "html_instructions": "Continue onto <b>L\u00fcbecker Str.</b>",
+            "polyline": {
+              "points": "yr{eIkvd|@Ic@a@aD_@wDIaAAWAICSGWGQEU"
+            },
+            "start_location": {
+              "lat": 53.558373,
+              "lng": 10.023576
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5588175,
+              "lng": 10.0266056
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Angerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mv{eIahe|@LIBCBE@E@G?E"
+            },
+            "start_location": {
+              "lat": 53.55895330000001,
+              "lng": 10.0264102
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 765
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 110
+            },
+            "end_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Angerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "su{eIiie|@I_ACk@Cg@?I@I@IGeAGgAEm@AMCa@E_@Em@QiBOqAUyAIo@WgACQ[oAg@gBa@{Au@gCWu@o@eC{@yCk@wBc@cBWuAAQ?GEy@C]"
+            },
+            "start_location": {
+              "lat": 53.5588175,
+              "lng": 10.0266056
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5611955,
+              "lng": 10.0373412
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Landwehr</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{f|eIkjg|@n@i@ZU"
+            },
+            "start_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kk{eIu_d|@CGJQNWQ]eA_DuA}DYiAKg@q@uDk@eEi@yFCa@Kk@Mg@PMDK@MMkBCq@BSOmCQ}BWwCe@kDa@wB_@aBiAcEmA}DkB_HoA{EYgBEaAC]n@i@ZU"
+    },
+    "summary": "Angerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

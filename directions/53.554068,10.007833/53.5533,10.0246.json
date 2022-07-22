@@ -1,0 +1,262 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.554013,
+        "lng": 10.0246707
+      },
+      "southwest": {
+        "lat": 53.5518621,
+        "lng": 10.0075667
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1443
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 396
+        },
+        "end_address": "S+U Berliner Tor / Beim Strohhause, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5533318,
+          "lng": 10.0245827
+        },
+        "start_address": "Hauptbahnhof / Heidi-Kabel-Platz, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.554013,
+          "lng": 10.0075667
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5537198,
+              "lng": 10.0077383
+            },
+            "html_instructions": "Head <b>south</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+            "polyline": {
+              "points": "qwzeIira|@JETMVM"
+            },
+            "start_location": {
+              "lat": 53.554013,
+              "lng": 10.0075667
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "38 m",
+              "value": 38
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.55383459999999,
+              "lng": 10.0082731
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Kirchenallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wuzeIksa|@Ga@AOACIs@"
+            },
+            "start_location": {
+              "lat": 53.5537198,
+              "lng": 10.0077383
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 202
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5520478,
+              "lng": 10.0087758
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kirchenallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mvzeIuva|@@Ad@Eb@Iz@OdAWREPCVGLAl@MJBNM"
+            },
+            "start_location": {
+              "lat": 53.55383459999999,
+              "lng": 10.0082731
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5521691,
+              "lng": 10.0099383
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Steintorpl.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ikzeI{ya|@A[MyBGqA"
+            },
+            "start_location": {
+              "lat": 53.5520478,
+              "lng": 10.0087758
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 393
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.5524256,
+              "lng": 10.015814
+            },
+            "html_instructions": "Continue onto <b>Adenauerallee</b>",
+            "polyline": {
+              "points": "alzeIcab|@K}BIkC?ACeA?]C_AEgCCaBAk@Eq@?_@OiH?I?G?Q?M@I?GBGDG"
+            },
+            "start_location": {
+              "lat": 53.5521691,
+              "lng": 10.0099383
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "63 m",
+              "value": 63
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5518621,
+              "lng": 10.0158387
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Nagelsweg</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "umzeIyec|@FC\\AVCZEVH"
+            },
+            "start_location": {
+              "lat": 53.5524256,
+              "lng": 10.015814
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 240
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 111
+            },
+            "end_location": {
+              "lat": 53.55263739999999,
+              "lng": 10.0192161
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kurt-Schumacher-Allee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cjzeI_fc|@EcAGo@a@iDKm@CWI_@QeA?EMk@Qw@G]Kc@Km@"
+            },
+            "start_location": {
+              "lat": 53.5518621,
+              "lng": 10.0158387
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 373
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "html_instructions": "Continue onto <b>Beim Strohhause</b>",
+            "polyline": {
+              "points": "_ozeIc{c|@Mq@Mu@AI[_CGq@Ca@?EE[KqASmCCWQgCAMKoBUwCAGA_@AIAO"
+            },
+            "start_location": {
+              "lat": 53.55263739999999,
+              "lng": 10.0192161
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5533318,
+              "lng": 10.0245827
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mtzeIc}d|@RANP"
+            },
+            "start_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qwzeIira|@`@SVMGa@CSGu@hAO`Cg@jASl@MJBNMA[UkEUiGGeDQgIO{I@q@HOd@Er@IVHEcAi@yEOeAi@wCq@gD[gB]iCQuBu@_Ke@}GCi@AORANP"
+    },
+    "summary": "Adenauerallee and Beim Strohhause",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

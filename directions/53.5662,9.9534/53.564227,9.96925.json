@@ -1,0 +1,215 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5661845,
+        "lng": 9.969241799999999
+      },
+      "southwest": {
+        "lat": 53.5637307,
+        "lng": 9.953386700000001
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1271
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 279
+        },
+        "end_address": "S+U Sternschanze / D\u00e4nenweg, 20357 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5642903,
+          "lng": 9.969241799999999
+        },
+        "start_address": "Eimsb\u00fctteler Stra\u00dfe / Waterloostra\u00dfe, 22769 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5661845,
+          "lng": 9.953386700000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 476
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5643415,
+              "lng": 9.9596438
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Eimsb\u00fctteler Str.</b> toward <b>Nagels Allee</b>",
+            "polyline": {
+              "points": "sc}eIu_w{@DSrAiGd@wBvAmG|@oDT}@v@wBJSNi@BK@E?E?E?E?C?EACEg@M_A"
+            },
+            "start_location": {
+              "lat": 53.5661845,
+              "lng": 9.953386700000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "74 m",
+              "value": 74
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schulterblatt</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cx|eIwfx{@\\SFCLIROHGf@_@"
+            },
+            "start_location": {
+              "lat": 53.5643415,
+              "lng": 9.9596438
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 425
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5654226,
+              "lng": 9.965850699999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Altonaer Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "it|eIqix{@Y{ASiA]wBOw@Y_BScAwByKEUW_AAICQCKOk@Ok@GU"
+            },
+            "start_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5656878,
+              "lng": 9.966298799999999
+            },
+            "html_instructions": "Continue onto <b>Kleiner Sch\u00e4ferkamp</b>",
+            "polyline": {
+              "points": "{~|eIqmy{@ACs@uA"
+            },
+            "start_location": {
+              "lat": 53.5654226,
+              "lng": 9.965850699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 230
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5644456,
+              "lng": 9.9690721
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>D\u00e4nenweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "q`}eIkpy{@l@gA?A@CXy@v@aCDMJ]p@qB`@_B@GBE?EBCBG@A"
+            },
+            "start_location": {
+              "lat": 53.5656878,
+              "lng": 9.966298799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5642859,
+              "lng": 9.9691454
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>D\u00e4nenweg</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "yx|eIuaz{@BALGLE"
+            },
+            "start_location": {
+              "lat": 53.5644456,
+              "lng": 9.9690721
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "6 m",
+              "value": 6
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5642903,
+              "lng": 9.969241799999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sternschanze</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yw|eIebz{@?Q"
+            },
+            "start_location": {
+              "lat": 53.5642859,
+              "lng": 9.9691454
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sc}eIu_w{@vEcTrAmFbAkCRu@@K?UGk@M_A\\STM\\Wf@_@Y{Aq@aEi@wCkC}M]uAE[k@yBu@yAl@iAxAmE|@oCb@gBJW`@Q?Q"
+    },
+    "summary": "Eimsb\u00fctteler Str. and Altonaer Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

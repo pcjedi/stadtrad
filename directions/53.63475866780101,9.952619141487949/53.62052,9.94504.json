@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6347333,
+        "lng": 9.9527979
+      },
+      "southwest": {
+        "lat": 53.6201868,
+        "lng": 9.944894699999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1895
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 387
+        },
+        "end_address": "Max-Zelck-Stra\u00dfe / Haus der Kirche, 22459 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6203787,
+          "lng": 9.944894699999999
+        },
+        "start_address": "U Schippelsweg / Paul-Sorge-Stra\u00dfe, 22455 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6347333,
+          "lng": 9.9527155
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1264
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 219
+            },
+            "end_location": {
+              "lat": 53.6239271,
+              "lng": 9.9512912
+            },
+            "html_instructions": "Head <b>south</b> on <b>Paul-Sorge-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "apjfIo{v{@DAB?HC@?FALCFAL?^CJ?P@D?J@F?H?D@D?P?LDFBB?B@D@LDPHTLHDFBDBJFD@HFLFHFFDDBB@d@ZrAdAl@h@n@h@^\\HFh@h@ZVRR^ZXXBBdA|@z@t@NJ\\PNDLBNBJ?J?VANCRCHEXQv@]XKLGHAh@[PGl@]JIFENIZQRIf@SBATGREZ?RAT?h@?p@BpBQXERGn@K|CWTCr@Kl@E"
+            },
+            "start_location": {
+              "lat": 53.6347333,
+              "lng": 9.9527155
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 106
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.62360529999999,
+              "lng": 9.9497936
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>An d. Lohe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qlhfIqrv{@HdBFf@l@|C"
+            },
+            "start_location": {
+              "lat": 53.6239271,
+              "lng": 9.9512912
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 483
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 111
+            },
+            "end_location": {
+              "lat": 53.6201868,
+              "lng": 9.9454209
+            },
+            "html_instructions": "Continue onto <b>Max-Zelck-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "qjhfIeiv{@b@dAb@r@@@PTRRz@r@t@h@@@NPt@j@dA|@DB|@jAh@z@BDNRp@hABFJR@Bd@bATd@J\\N\\@BZl@"
+            },
+            "start_location": {
+              "lat": 53.62360529999999,
+              "lng": 9.9497936
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.6203787,
+              "lng": 9.944894699999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedrich-Ebert-Stra\u00dfe</b>/<wbr/><b>B447</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "eugfI{mu{@[v@AZELAF"
+            },
+            "start_location": {
+              "lat": 53.6201868,
+              "lng": 9.9454209
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "apjfIo{v{@TEj@GbAAb@BV?THZHzAv@d@Xh@\\`CnBbCxBhB`BhA`AjA`Al@V\\FV?f@E\\IpAo@p@Uz@c@x@g@fAk@j@Uh@MnBAp@BpBQl@Mn@K|CWhAOl@EHdBFf@l@|Cb@dAb@r@RVnAfAv@j@pC~BfBfCRXbAhBz@hBZz@\\p@[v@AZGT"
+    },
+    "summary": "Paul-Sorge-Stra\u00dfe and Max-Zelck-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

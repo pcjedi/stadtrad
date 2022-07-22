@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57512759999999,
+        "lng": 10.0397317
+      },
+      "southwest": {
+        "lat": 53.5660107,
+        "lng": 10.0191388
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 2043
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 446
+        },
+        "end_address": "Mundsburger Br\u00fccke / Papenhuder Stra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5660107,
+          "lng": 10.0191388
+        },
+        "start_address": "Uferstra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5710752,
+          "lng": 10.0397317
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 538
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 94
+            },
+            "end_location": {
+              "lat": 53.57512759999999,
+              "lng": 10.0354389
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Wagnerstra\u00dfe</b> toward <b>Gluckstra\u00dfe</b>",
+            "polyline": {
+              "points": "gb~eIi{g|@gA|@IFu@j@SPm@d@cAx@_@Xy@n@WRWRED[T]Xg@^g@`@]b@KLMPUZININOVMZITUj@A@STILO^GJQZWf@"
+            },
+            "start_location": {
+              "lat": 53.5710752,
+              "lng": 10.0397317
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 782
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 153
+            },
+            "end_location": {
+              "lat": 53.5702179,
+              "lng": 10.026969
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hamburger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q{~eIo`g|@Pb@Tf@N\\FLj@hAXj@@@l@nA`@|@HPDFFPTd@`@x@Vf@FNZj@d@`AfBvDDF\\p@Zl@`@x@Xl@Xh@DHLZHLn@rAPXPZZj@^r@BDFJ@Db@z@b@|@@BDLXl@HRJTHPFN"
+            },
+            "start_location": {
+              "lat": 53.57512759999999,
+              "lng": 10.0354389
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 621
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 155
+            },
+            "end_location": {
+              "lat": 53.5661258,
+              "lng": 10.0205894
+            },
+            "html_instructions": "Continue onto <b>Mundsburger Damm</b>",
+            "polyline": {
+              "points": "{|}eIqke|@^x@Tj@Th@NXHRBBLVXd@t@tAZh@BDV`@PZn@`AFFFDNVLTNXhAlBx@xAXh@Xf@`@r@dAfBBBb@`AfAhBPZN\\"
+            },
+            "start_location": {
+              "lat": 53.5702179,
+              "lng": 10.026969
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 102
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5660107,
+              "lng": 10.0191388
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hartwicusstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ic}eIucd|@Ih@AHAF?H@NDrAB^@PBH@JBHFJBJ@L"
+            },
+            "start_location": {
+              "lat": 53.5661258,
+              "lng": 10.0205894
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gb~eIi{g|@gJlHqAbAeAx@g@`@]b@Y^_@j@Yf@Wp@Wl@]b@aAnB~@vBtBfEx@hBvAvCnDlHtBfEv@|A`AlBl@fAl@jAnAjClChGj@hAnBjDh@|@v@hAFDNV\\n@vDxGfBzCf@dAxAdCN\\Ih@CP@XNnCPl@@L"
+    },
+    "summary": "Wagnerstra\u00dfe, Hamburger Str. and Mundsburger Damm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

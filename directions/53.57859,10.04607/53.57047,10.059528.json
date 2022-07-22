@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5785974,
+        "lng": 10.0596417
+      },
+      "southwest": {
+        "lat": 53.5686985,
+        "lng": 10.0457815
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1734
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 424
+        },
+        "end_address": "S+U Wandsbeker Chaussee / B\u00f6rnestra\u00dfe, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57029319999999,
+          "lng": 10.0596417
+        },
+        "start_address": "Von-Essen-Stra\u00dfe / Dehnhaide, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5785974,
+          "lng": 10.0459754
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "83 m",
+              "value": 83
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.57785639999999,
+              "lng": 10.0457815
+            },
+            "html_instructions": "Head <b>south</b> on <b>Von-Essen-Stra\u00dfe</b> toward <b>Zeisigstra\u00dfe</b>",
+            "polyline": {
+              "points": "gq_fIkbi|@ZFvB^"
+            },
+            "start_location": {
+              "lat": 53.5785974,
+              "lng": 10.0459754
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 195
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.57726839999999,
+              "lng": 10.0485646
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Zeisigstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sl_fIcai|@Hu@L_Av@_G\\mCFg@"
+            },
+            "start_location": {
+              "lat": 53.57785639999999,
+              "lng": 10.0457815
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 644
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 146
+            },
+            "end_location": {
+              "lat": 53.5717593,
+              "lng": 10.0512349
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedrichsberger Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}h_fIori|@T@J?L?Z@l@Ch@Ep@IJC\\Id@KPGl@Qx@Yz@YRIl@U~@a@r@YLEd@Qb@[RKl@]VQTQLKtA}@NOh@a@`Au@RM"
+            },
+            "start_location": {
+              "lat": 53.57726839999999,
+              "lng": 10.0485646
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 377
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 103
+            },
+            "end_location": {
+              "lat": 53.5686985,
+              "lng": 10.053672
+            },
+            "html_instructions": "Continue onto <b>Kantstra\u00dfe</b>",
+            "polyline": {
+              "points": "of~eIecj|@dCwBXWhAaA^]TQNEHMd@a@fAu@p@c@VOhAk@RKRM"
+            },
+            "start_location": {
+              "lat": 53.5717593,
+              "lng": 10.0512349
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 435
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 124
+            },
+            "end_location": {
+              "lat": 53.57029319999999,
+              "lng": 10.0596417
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wandsbeker Chaussee</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ks}eImrj|@MgAG[GWI_@Ia@EWKq@SUCQG]c@uCKo@CSS}@e@mCEUCOYiBSuAKk@SiAE[M}@"
+            },
+            "start_location": {
+              "lat": 53.5686985,
+              "lng": 10.053672
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gq_fIkbi|@rCf@VuBtAmKFg@T@X?hAAzAOh@M~C_A|D{A`A_@d@Qb@[`Ai@l@c@bBiAx@q@tAcA~CoChB_Bd@WHMd@a@xByAhCuAUcBQw@Oy@Kq@SUKo@o@eEcAuF}@{Fg@cD"
+    },
+    "summary": "Friedrichsberger Str. and Wandsbeker Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

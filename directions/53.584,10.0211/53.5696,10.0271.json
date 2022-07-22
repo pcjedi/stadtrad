@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58406549999999,
+        "lng": 10.0270773
+      },
+      "southwest": {
+        "lat": 53.5695893,
+        "lng": 10.0189964
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1889
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 423
+        },
+        "end_address": "U Mundsburg / Sch\u00fcrbeker Stra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5695893,
+          "lng": 10.0270773
+        },
+        "start_address": "Jarrestra\u00dfe / Rambatzweg, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58406549999999,
+          "lng": 10.0210632
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 144
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.5836503,
+              "lng": 10.0189964
+            },
+            "html_instructions": "Head <b>west</b> on <b>Jarrestra\u00dfe</b> toward <b>Jollassestieg</b>",
+            "polyline": {
+              "points": "ms`fIsfd|@Jt@TrBDTJn@DZDZLnADb@"
+            },
+            "start_location": {
+              "lat": 53.58406549999999,
+              "lng": 10.0210632
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.7 km",
+              "value": 1724
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 394
+            },
+            "end_location": {
+              "lat": 53.56973439999999,
+              "lng": 10.0268829
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Barmbeker Str.</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yp`fIwyc|@RCVEx@Ox@M`@IREPEt@Qb@O^Mf@OTGHCJCL@L@H@PFHBj@T`@^JHJHLHTNLBN@P@N@^?^@H?nA?`@?bECbCCJ?DDBB@?@?N?L?LANCNInBaCl@q@DCFIdAkAZ]fBoBjA_BBIDKd@o@^e@j@o@NSV[`AoAn@w@|@iAPULMh@s@FIRYBALQ^e@b@i@^i@x@cAxAeBLQTWj@u@FCFCHMx@aA@ADGFEFCFCFALAH?L@N@NDZH"
+            },
+            "start_location": {
+              "lat": 53.5836503,
+              "lng": 10.0189964
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5695893,
+              "lng": 10.0270773
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yy}eI_ke|@Zg@"
+            },
+            "start_location": {
+              "lat": 53.56973439999999,
+              "lng": 10.0268829
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ms`fIsfd|@r@nF^jD~Cg@|Bg@`Cu@TGZBd@Lj@T`@^VRb@X\\D`BD~HCnCCHH`@?\\ENInBaCr@u@lAuAbCmCnAiBDKd@o@jAuAxCwDtDyE|C}DhDeENGbAoAVSNEVA\\Bj@NZg@"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

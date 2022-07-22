@@ -1,0 +1,190 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6101749,
+        "lng": 10.0580828
+      },
+      "southwest": {
+        "lat": 53.6050015,
+        "lng": 10.0290849
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2305
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 594
+        },
+        "end_address": "Gr\u00fcndgensstra\u00dfe / C\u00e9sar-Klein-Ring, 22309 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6101749,
+          "lng": 10.0580828
+        },
+        "start_address": "Winterlindenweg / Loki-Schmidt-Platz, 22297 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6050015,
+          "lng": 10.0301176
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 235
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.6067292,
+              "lng": 10.0295744
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Winterlindenweg</b> toward <b>Hebebrandstra\u00dfe</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "polyline": {
+              "points": "gvdfIg_f|@UZIJKFSHMBE?QJ[NUHKJ_AtACBCBA?A@AAAA?ACGCMQq@GWEOCEAAAAC?GBGBa@T"
+            },
+            "start_location": {
+              "lat": 53.6050015,
+              "lng": 10.0301176
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 624
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 181
+            },
+            "end_location": {
+              "lat": 53.60826369999999,
+              "lng": 10.0386228
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hebebrandstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aaefIy{e|@O}@AGACQgAQeACKKy@I{@W_DIy@AOGm@K}@AEG[Ku@U{AEYIaAMuASgCOsAIu@COKkAKiA?AE{@AGC{@CaAC_C"
+            },
+            "start_location": {
+              "lat": 53.6067292,
+              "lng": 10.0295744
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 303
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 91
+            },
+            "end_location": {
+              "lat": 53.6076553,
+              "lng": 10.0430607
+            },
+            "html_instructions": "Continue onto <b>Nordheimstra\u00dfe</b>",
+            "polyline": {
+              "points": "sjefIktg|@B{@?qA?_A@Q?E@g@BY@SBYBUNwAXqBHm@N}@Hq@Hu@Dy@Bs@"
+            },
+            "start_location": {
+              "lat": 53.60826369999999,
+              "lng": 10.0386228
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 754
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 131
+            },
+            "end_location": {
+              "lat": 53.6084173,
+              "lng": 10.0543491
+            },
+            "html_instructions": "Continue onto <b>Steilshooper Allee</b>",
+            "polyline": {
+              "points": "{fefIcph|@@e@?e@A_@?ACc@Eg@Iu@EWIo@OmAM_AUuCI}@CWCs@AGA[ASACGeBCeACyEAqCAe@?UCwFAU?_@?KA}@?_@AmA?a@?o@AG?W?GEkE?K?c@"
+            },
+            "start_location": {
+              "lat": 53.6076553,
+              "lng": 10.0430607
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 133
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.6096028,
+              "lng": 10.0543858
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alfred-Mahlau-Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "skefIuvj|@[?a@DA@M@U@G@UDSAWAWCSGICGG"
+            },
+            "start_location": {
+              "lat": 53.6084173,
+              "lng": 10.0543491
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 256
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.6101749,
+              "lng": 10.0580828
+            },
+            "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>Gr\u00fcndgensstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "_sefI}vj|@?AAA?C?A?AAA?A?AAA?A?AAA?AA?AA?AA??AA?AAB{AAg@Ae@Cs@Es@Im@Ku@]sCGg@UsBCW"
+            },
+            "start_location": {
+              "lat": 53.6096028,
+              "lng": 10.0543858
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gvdfIg_f|@_@f@_@PSBm@Za@TcAxAGDGMc@gBEGEAOFa@TO}@CKc@mCOeAa@{E_@uDk@sDq@yHi@eFSoCG}BC_CB{@?qC@WJoBv@mGXoBNoBDyAAeACe@O}Am@uEg@_HG{@KkDEkJGiIAiCI_L?c@[?c@FaAJk@Ck@KQKACAIAGGKCA@cCEyAOaBgAeJCW"
+    },
+    "summary": "Hebebrandstra\u00dfe and Steilshooper Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5558036,
+        "lng": 9.9656982
+      },
+      "southwest": {
+        "lat": 53.5469871,
+        "lng": 9.950607999999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1677
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 329
+        },
+        "end_address": "Holstenstra\u00dfe / Thadenstra\u00dfe, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5558036,
+          "lng": 9.950607999999999
+        },
+        "start_address": "Bernhard-Nocht-Stra\u00dfe / Zirkusweg, 20359 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5471506,
+          "lng": 9.9656982
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 181
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5469871,
+              "lng": 9.9629699
+            },
+            "html_instructions": "Head <b>west</b> on <b>Bernhard-Nocht-Stra\u00dfe</b> toward <b>b. d. Erholung</b>",
+            "polyline": {
+              "points": "ulyeIsly{@D`BBz@LnFDpA@`A"
+            },
+            "start_location": {
+              "lat": 53.5471506,
+              "lng": 9.9656982
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 288
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5495555,
+              "lng": 9.9624594
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Davidstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ukyeIq{x{@{@NkATaAHUDwAPeCVMDI@WBSE"
+            },
+            "start_location": {
+              "lat": 53.5469871,
+              "lng": 9.9629699
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 188
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.55123469999999,
+              "lng": 9.9623881
+            },
+            "html_instructions": "Continue onto <b>Hein-Hoyer-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "w{yeIkxx{@_@Hm@J{ARcD["
+            },
+            "start_location": {
+              "lat": 53.5495555,
+              "lng": 9.9624594
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 435
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.5516897,
+              "lng": 9.955864799999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Simon-von-Utrecht-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "efzeI}wx{@Ep@M~BCl@UpEGnAM|CE~@C`AGzAATAf@Al@At@Ap@?`@@J?`@?^@vA"
+            },
+            "start_location": {
+              "lat": 53.55123469999999,
+              "lng": 9.9623881
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 585
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 132
+            },
+            "end_location": {
+              "lat": 53.5558036,
+              "lng": 9.950607999999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aizeIcow{@W@o@Rq@\\QHIFKHGHELUTUZWZWb@OVUd@KRMVOZ_@p@S^Ud@[n@_@p@KRiBnD]r@OXo@lAIDA@EDEFORIHKNOPIFONMJID"
+            },
+            "start_location": {
+              "lat": 53.5516897,
+              "lng": 9.955864799999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ulyeIsly{@\\~M@`A{@NkATaAHmBVsC\\a@DSE_@HiC^cD[Ep@QlD]`H_@zJG`D?`C@vBW@o@RcAf@UPMVk@p@o@~@e@|@iAxBiGxLo@lAIDGFk@t@w@t@ID"
+    },
+    "summary": "Simon-von-Utrecht-Stra\u00dfe and Holstenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

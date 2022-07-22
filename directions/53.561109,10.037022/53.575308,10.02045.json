@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5751903,
+        "lng": 10.0373412
+      },
+      "southwest": {
+        "lat": 53.5611955,
+        "lng": 10.0205632
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1939
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 442
+        },
+        "end_address": "Winterhuder Weg / Zimmerstra\u00dfe, 22085 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5750903,
+          "lng": 10.0205632
+        },
+        "start_address": "S Landwehr / Ramazan-Avci-Platz, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5611955,
+          "lng": 10.0373412
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1003
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 213
+            },
+            "end_location": {
+              "lat": 53.5687192,
+              "lng": 10.0290063
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Landwehr</b>/<wbr/><b>B5</b> toward <b>Hasselbrookstra\u00dfe</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "polyline": {
+              "points": "od|eIklg|@[To@h@OJy@n@eAbA]\\gA`Ay@p@m@j@SVg@j@]d@cAnAQNQRa@f@STuAbB_ArAiAzAi@h@MLsAdBQTq@v@SVcBxBc@j@UXIJy@dAEDU\\qAbBOTY^"
+            },
+            "start_location": {
+              "lat": 53.5611955,
+              "lng": 10.0373412
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 880
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 178
+            },
+            "end_location": {
+              "lat": 53.5751903,
+              "lng": 10.0213947
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Lerchenfeld</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "os}eIixe|@_@`@q@v@SXKLKNQVW`@Y\\W^OP_@b@s@t@MLA@MNEDMNMPINUZABGZk@t@UVMPyAdBy@bA_@h@c@h@_@d@MPC@SXGHi@r@MLQT}@hAo@v@aAnAWZORk@n@_@d@e@n@G@C?A@OH}@~@"
+            },
+            "start_location": {
+              "lat": 53.5687192,
+              "lng": 10.0290063
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5750903,
+              "lng": 10.0205632
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Zimmerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}{~eIuhd|@Df@L|B"
+            },
+            "start_location": {
+              "lat": 53.5751903,
+              "lng": 10.0213947
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "od|eIklg|@uCzBcB`BaCrBaAbAeApAiCzCiBxBiCnDw@v@eBzBmEtF_BpBqCvDqAxA_@f@oAfBg@p@sAxAc@d@{@lAI^aAlAaEdFiDhEaEfFsBdCe@n@G@E@OH}@~@RdD"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

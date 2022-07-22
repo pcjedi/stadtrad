@@ -1,0 +1,238 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5486982,
+        "lng": 9.9972342
+      },
+      "southwest": {
+        "lat": 53.5437577,
+        "lng": 9.9895777
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 967
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 271
+        },
+        "end_address": "Auf dem Sande / Kehrwieder / Miniatur Wunderland, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5437577,
+          "lng": 9.989686899999999
+        },
+        "start_address": "Schopenstehl / Alter Fischmarkt, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5486982,
+          "lng": 9.9972342
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "37 m",
+              "value": 37
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5483657,
+              "lng": 9.9971923
+            },
+            "html_instructions": "Head <b>south</b> toward <b>Kleine Reichenstra\u00dfe</b>",
+            "polyline": {
+              "points": "kvyeIuq_|@`AF"
+            },
+            "start_location": {
+              "lat": 53.5486982,
+              "lng": 9.9972342
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5483637,
+              "lng": 9.9968525
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kleine Reichenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ityeImq_|@@bA"
+            },
+            "start_location": {
+              "lat": 53.5483657,
+              "lng": 9.9971923
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 222
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 109
+            },
+            "end_location": {
+              "lat": 53.54638139999999,
+              "lng": 9.9970181
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Brandstwiete</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gtyeIio_|@h@?z@?B?X?XAVCl@QLCD?ZGh@ClAD"
+            },
+            "start_location": {
+              "lat": 53.5483637,
+              "lng": 9.9968525
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 119
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.5458897,
+              "lng": 9.9954329
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Zippelhaus</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{gyeIkp_|@x@`D?Vf@bC"
+            },
+            "start_location": {
+              "lat": 53.54638139999999,
+              "lng": 9.9970181
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 121
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5453086,
+              "lng": 9.993884699999999
+            },
+            "html_instructions": "Continue onto <b>Katharinenkirchhof</b>",
+            "polyline": {
+              "points": "ydyeImf_|@Pn@f@nB\\hA@BLb@DPDP"
+            },
+            "start_location": {
+              "lat": 53.5458897,
+              "lng": 9.9954329
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 310
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.5448355,
+              "lng": 9.9895777
+            },
+            "html_instructions": "<b>Katharinenkirchhof</b> turns slightly <b>left</b> and becomes <b>b. den M\u00fchren</b>",
+            "polyline": {
+              "points": "eayeIw|~{@LJf@vA`@pAPh@Hb@DX@X@T?T?f@At@Ap@?PGRAFChAMnF"
+            },
+            "start_location": {
+              "lat": 53.5453086,
+              "lng": 9.993884699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 120
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.543777,
+              "lng": 9.9899229
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Auf dem Sande</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g~xeI{a~{@VGFAFALGTE^ILE\\ILCl@K"
+            },
+            "start_location": {
+              "lat": 53.5448355,
+              "lng": 9.9895777
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5437577,
+              "lng": 9.989686899999999
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "swxeI_d~{@Bl@"
+            },
+            "start_location": {
+              "lat": 53.543777,
+              "lng": 9.9899229
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kvyeIuq_|@`AF@bAdB?nAE|A]h@ClADx@`D?Vx@rDdAxDZjALJf@vAr@zBN|@Bn@CdD?PGREpAMnFVGNCpA]j@Ml@KBl@"
+    },
+    "summary": "b. den M\u00fchren",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

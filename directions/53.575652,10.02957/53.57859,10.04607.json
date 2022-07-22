@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5785974,
+        "lng": 10.0459754
+      },
+      "southwest": {
+        "lat": 53.5749113,
+        "lng": 10.0295188
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1456
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 293
+        },
+        "end_address": "Von-Essen-Stra\u00dfe / Dehnhaide, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5785974,
+          "lng": 10.0459754
+        },
+        "start_address": "Bartholom\u00e4usstra\u00dfe / Beim Alten Sch\u00fctzenhof, 22083 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5757268,
+          "lng": 10.0295188
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 291
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.57664399999999,
+              "lng": 10.0336488
+            },
+            "html_instructions": "Head <b>east</b> on <b>Beim Alten Sch\u00fctzenhof</b> toward <b>Framheinstra\u00dfe</b>",
+            "polyline": {
+              "points": "i__fIo{e|@o@eEMgAAGSiBi@yDw@_G"
+            },
+            "start_location": {
+              "lat": 53.5757268,
+              "lng": 10.0295188
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 232
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 68
+            },
+            "end_location": {
+              "lat": 53.5749113,
+              "lng": 10.0354913
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Adolph-Sch\u00f6nfelder-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_e_fIiuf|@\\YH?@A@?n@UJKj@e@f@a@^c@V[JSBGTa@NYBEP]Xm@"
+            },
+            "start_location": {
+              "lat": 53.57664399999999,
+              "lng": 10.0336488
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 334
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.57730340000001,
+              "lng": 10.0384928
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hamburger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ez~eIy`g|@S]c@q@q@mAWe@ACS[Q[aAcB]k@IKm@y@i@k@IC[[c@YMIYQ"
+            },
+            "start_location": {
+              "lat": 53.5749113,
+              "lng": 10.0354913
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 499
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 88
+            },
+            "end_location": {
+              "lat": 53.5777088,
+              "lng": 10.0457304
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wohldorfer Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ci_fIqsg|@ZeDN_BDk@RgBHcABW@]Eu@YaCe@eEEa@SmBQuAIy@QuAEa@K}@Ee@AY"
+            },
+            "start_location": {
+              "lat": 53.57730340000001,
+              "lng": 10.0384928
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 100
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5785974,
+              "lng": 10.0459754
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Von-Essen-Stra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uk_fIy`i|@]IwB_@[G"
+            },
+            "start_location": {
+              "lat": 53.5777088,
+              "lng": 10.0457304
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i__fIo{e|@}@mGUqBaByL\\YH?BAn@UJKrAgAv@_At@wATc@Xm@S]uA_CYi@eCgEw@eAi@k@IC_Au@g@[dAyKL{A@]Eu@_AgIYoCs@gGQcBAY]IsCg@"
+    },
+    "summary": "Wohldorfer Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

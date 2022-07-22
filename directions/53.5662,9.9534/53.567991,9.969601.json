@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.56789879999999,
+        "lng": 9.9703501
+      },
+      "southwest": {
+        "lat": 53.5637307,
+        "lng": 9.953386700000001
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1428
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 312
+        },
+        "end_address": "U Schlump / Gustav-Falke-Stra\u00dfe, 20357 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.56789879999999,
+          "lng": 9.9694829
+        },
+        "start_address": "Eimsb\u00fctteler Stra\u00dfe / Waterloostra\u00dfe, 22769 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5661845,
+          "lng": 9.953386700000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 476
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5643415,
+              "lng": 9.9596438
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Eimsb\u00fctteler Str.</b> toward <b>Nagels Allee</b>",
+            "polyline": {
+              "points": "sc}eIu_w{@DSrAiGd@wBvAmG|@oDT}@v@wBJSNi@BK@E?E?E?E?C?EACEg@M_A"
+            },
+            "start_location": {
+              "lat": 53.5661845,
+              "lng": 9.953386700000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "74 m",
+              "value": 74
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schulterblatt</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cx|eIwfx{@\\SFCLIROHGf@_@"
+            },
+            "start_location": {
+              "lat": 53.5643415,
+              "lng": 9.9596438
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 425
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5654226,
+              "lng": 9.965850699999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Altonaer Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "it|eIqix{@Y{ASiA]wBOw@Y_BScAwByKEUW_AAICQCKOk@Ok@GU"
+            },
+            "start_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 382
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 88
+            },
+            "end_location": {
+              "lat": 53.5675211,
+              "lng": 9.9703501
+            },
+            "html_instructions": "Continue onto <b>Kleiner Sch\u00e4ferkamp</b>",
+            "polyline": {
+              "points": "{~|eIqmy{@ACs@uA?AMWQ]AACAC?m@mAiCuG_@_AISEMGUISIUC[GUCMEYQaAG]EQI["
+            },
+            "start_location": {
+              "lat": 53.5654226,
+              "lng": 9.965850699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "71 m",
+              "value": 71
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.56789879999999,
+              "lng": 9.9694829
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sch\u00e4ferkampsallee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_l}eIuiz{@Qd@Oj@ELITYv@"
+            },
+            "start_location": {
+              "lat": 53.5675211,
+              "lng": 9.9703501
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sc}eIu_w{@vEcTrAmFbAkCRu@@K?UGk@M_A\\STM\\Wf@_@Y{Aq@aEi@wCkC}M]uAE[k@yBcAsBS_@GAm@mAiCuGi@sAa@mAUyAi@mCkAlD"
+    },
+    "summary": "Eimsb\u00fctteler Str., Altonaer Str. and Kleiner Sch\u00e4ferkamp",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

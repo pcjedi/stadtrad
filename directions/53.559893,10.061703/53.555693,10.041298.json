@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5610152,
+        "lng": 10.0616215
+      },
+      "southwest": {
+        "lat": 53.5555515,
+        "lng": 10.0412907
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1628
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 310
+        },
+        "end_address": "U Burgstra\u00dfe, 20537 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5555969,
+          "lng": 10.0412907
+        },
+        "start_address": "Caspar-Voght-Stra\u00dfe / Sievekingsallee, 20535 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55988989999999,
+          "lng": 10.0616215
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "50 m",
+              "value": 50
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5603377,
+              "lng": 10.0615435
+            },
+            "html_instructions": "Head <b>north</b> on <b>Caspar-Voght-Stra\u00dfe</b> toward <b>Sievekingsallee</b>",
+            "polyline": {
+              "points": "i|{eIcdl|@K?u@FWF"
+            },
+            "start_location": {
+              "lat": 53.55988989999999,
+              "lng": 10.0616215
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 547
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 94
+            },
+            "end_location": {
+              "lat": 53.561016,
+              "lng": 10.0533632
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sievekingsallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "c_|eIscl|@Eb@A\\CPGz@MpBO~BMzBUpDEx@Ct@Cl@Cr@Ct@Aj@Ch@Ax@?r@Ar@?n@CfCElBEvBAP?B"
+            },
+            "start_location": {
+              "lat": 53.5603377,
+              "lng": 10.0615435
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 966
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 187
+            },
+            "end_location": {
+              "lat": 53.5555465,
+              "lng": 10.042275
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Sievekingdamm</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "kc|eIopj|@Nf@BHDPRp@`@vABLZhAp@~BPp@V~@J`@FVf@bB^tARr@l@lBHX\\fA^lARp@DJLb@HTFXJ\\DPb@jBLZNf@l@lAFLR\\^p@NXN`@T^d@|@h@x@@@BJRVFLF?l@p@JJZ`@TZ\\f@dAnANNDFBH@D?F"
+            },
+            "start_location": {
+              "lat": 53.561016,
+              "lng": 10.0533632
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5555969,
+              "lng": 10.0412907
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Hammer Landstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ea{eIgkh|@A\\A^CzAAj@"
+            },
+            "start_location": {
+              "lat": 53.5555465,
+              "lng": 10.042275
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i|{eIcdl|@aAFWFEb@En@UlDy@fNOlEGbEKxIGhCNj@~@dDvDfNjBpGvArEj@pBh@|B\\bAt@zAr@nA^z@z@|Aj@z@Vb@FLF?x@|@p@|@bBvBTVDNG`DAj@"
+    },
+    "summary": "Sievekingsallee and Sievekingdamm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

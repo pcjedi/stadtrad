@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5585362,
+        "lng": 9.9487911
+      },
+      "southwest": {
+        "lat": 53.5517402,
+        "lng": 9.9361292
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.2 km",
+          "value": 1170
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 231
+        },
+        "end_address": "Bahnhof Altona Ost/Max-Brauer-Allee, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5520832,
+          "lng": 9.9361967
+        },
+        "start_address": "Max-Brauer-Allee 147, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5585362,
+          "lng": 9.9487911
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1120
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 222
+            },
+            "end_location": {
+              "lat": 53.5517402,
+              "lng": 9.9364796
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Max-Brauer-Allee</b> toward <b>Eggerstedtstra\u00dfe</b>",
+            "polyline": {
+              "points": "{s{eI}bv{@Rz@Jb@HTFRR`@HNHPJXHTJZNj@JTFXJf@FPDLHRFPBHNXx@nBP`@~CvHdB~D`@`AXt@FLTj@nArCDJz@rBXp@rA`Db@dAl@lAf@fAR^Rf@P\\NX|@xALTDFFHFHJLFFHHd@f@b@Zt@d@"
+            },
+            "start_location": {
+              "lat": 53.5585362,
+              "lng": 9.9487911
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "50 m",
+              "value": 50
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5520832,
+              "lng": 9.9361967
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Neue Gro\u00dfe Bergstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kizeI_vs{@G`@[b@_@M"
+            },
+            "start_location": {
+              "lat": 53.5517402,
+              "lng": 9.9364796
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{s{eI}bv{@^~APh@r@|Ap@rB`@`BvJrUxApDjDdIvBfFtAtCf@fA`@v@jAnBLPd@h@d@f@b@Zt@d@G`@[b@_@M"
+    },
+    "summary": "Max-Brauer-Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

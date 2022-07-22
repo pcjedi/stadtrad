@@ -1,0 +1,263 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5670015,
+        "lng": 10.0318377
+      },
+      "southwest": {
+        "lat": 53.559717,
+        "lng": 10.0142835
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1700
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 413
+        },
+        "end_address": "Lange Reihe / Lohm\u00fchlenpark, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5599819,
+          "lng": 10.0149604
+        },
+        "start_address": "Lerchenfeld / Uferstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5670015,
+          "lng": 10.031798
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5668266,
+              "lng": 10.0313309
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Uferstra\u00dfe</b> toward <b>Lerchenfeld</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "wh}eIwif|@BHRr@H^"
+            },
+            "start_location": {
+              "lat": 53.5670015,
+              "lng": 10.031798
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.566394,
+              "lng": 10.0318377
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lerchenfeld</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ug}eIyff|@RWp@w@PU"
+            },
+            "start_location": {
+              "lat": 53.5668266,
+              "lng": 10.0313309
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 509
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.56543689999999,
+              "lng": 10.0244987
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eilenau</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}d}eI_jf|@\\dAPh@Vz@H^Px@JpAVvFLpC@`@@\\@d@FdBFjC@X@Z@V@H@NBRFTBNBR@P@V@Z?N?NARE\\Ir@"
+            },
+            "start_location": {
+              "lat": 53.566394,
+              "lng": 10.0318377
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 147
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5641553,
+              "lng": 10.0242452
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kuhm\u00fchle</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "__}eIc|d|@RFF@\\J^JZJJBFJLBD?H@L?V?NCFCB?TI"
+            },
+            "start_location": {
+              "lat": 53.56543689999999,
+              "lng": 10.0244987
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 438
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 76
+            },
+            "end_location": {
+              "lat": 53.5628456,
+              "lng": 10.018111
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Graumannsweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_w|eIqzd|@BJ@F?FANE`@A\\?X@TD\\J`ATtBHz@F`@L|@\\tCNn@F`@P|@|@vDJ`@XnA@BH`@?^BRBR"
+            },
+            "start_location": {
+              "lat": 53.5641553,
+              "lng": 10.0242452
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 438
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 100
+            },
+            "end_location": {
+              "lat": 53.5597757,
+              "lng": 10.0142835
+            },
+            "html_instructions": "Continue onto <b>Barcastra\u00dfe</b>",
+            "polyline": {
+              "points": "yn|eIetc|@F\\F^H\\JZLXFHp@`BZz@FJDHFJNTLRJNLPLPPXNLDHBBHNJLHJHHHFHFJHHDJFLDLFj@XHHLF\\PjAt@FFHFNPFL"
+            },
+            "start_location": {
+              "lat": 53.5628456,
+              "lng": 10.018111
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.559717,
+              "lng": 10.0145182
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>B\u00fclaustra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "s{{eIg|b|@Jo@"
+            },
+            "start_location": {
+              "lat": 53.5597757,
+              "lng": 10.0142835
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lange Reihe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g{{eIw}b|@IECCOKQIOI"
+            },
+            "start_location": {
+              "lat": 53.559717,
+              "lng": 10.0145182
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.5599819,
+              "lng": 10.0149604
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g}{eIa_c|@@KHa@"
+            },
+            "start_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh}eIwif|@V|@H^RWbAmAn@nB`@zAPx@JpAd@hKB~@RpHFlARlADtAAb@OpAxA`@f@NFJLBN@d@?p@QDRAVG~@@n@p@pGT~A\\tCNn@X~AhAxEZrAH`@?^Ff@N|@Tx@Tb@zArDp@dAZb@`@f@^j@f@d@n@\\x@`@VPhBfAPNV^Jo@IESOa@SJm@"
+    },
+    "summary": "Eilenau and Graumannsweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
