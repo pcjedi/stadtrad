@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5814513,
+        "lng": 10.0337598
+      },
+      "southwest": {
+        "lat": 53.5780356,
+        "lng": 10.0137538
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1598
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 408
+        },
+        "end_address": "Weidestra\u00dfe / Biedermannplatz, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5799907,
+          "lng": 10.0337235
+        },
+        "start_address": "Hofweg / Am Langenzug, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780356,
+          "lng": 10.0139947
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.578076,
+              "lng": 10.0141883
+            },
+            "html_instructions": "Head <b>east</b> on <b>Am Langenzug</b> toward <b>Hofweg</b>",
+            "polyline": {
+              "points": "wm_fImzb|@Gg@"
+            },
+            "start_location": {
+              "lat": 53.5780356,
+              "lng": 10.0139947
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "88 m",
+              "value": 88
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.57881580000001,
+              "lng": 10.0137538
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hofweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_n_fIu{b|@I@KBKBOHKDQJMHGDKFUNKH"
+            },
+            "start_location": {
+              "lat": 53.578076,
+              "lng": 10.0141883
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 549
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 94
+            },
+            "end_location": {
+              "lat": 53.5814337,
+              "lng": 10.0199524
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hans-Henny-Jahnn-Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sr_fI}xb|@AGCGGI_Am@[QaBcAi@[MIKKOOSSKMKQUc@Qc@IWEQI]Ga@Ga@e@mFq@cHKeAIw@AS?MAM@K?K@K@K"
+            },
+            "start_location": {
+              "lat": 53.57881580000001,
+              "lng": 10.0137538
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 438
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.58060529999999,
+              "lng": 10.026438
+            },
+            "html_instructions": "Continue onto <b>Weidestra\u00dfe</b>",
+            "polyline": {
+              "points": "}b`fIu_d|@DeA@KHmA@QDu@BSZoEDw@Fs@f@gH`@wGBOBm@H{A"
+            },
+            "start_location": {
+              "lat": 53.5814337,
+              "lng": 10.0199524
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 495
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 107
+            },
+            "end_location": {
+              "lat": 53.5798711,
+              "lng": 10.0337598
+            },
+            "html_instructions": "Keep <b>left</b> to stay on <b>Weidestra\u00dfe</b>",
+            "maneuver": "keep-left",
+            "polyline": {
+              "points": "y}_fIghe|@?EAe@HeAHaADWHUPaD^eGF[NiA@m@Bu@HeAJ}ADk@@SF_A?W@e@?_@@Y?U?Q?C?YAk@Ae@Co@"
+            },
+            "start_location": {
+              "lat": 53.58060529999999,
+              "lng": 10.026438
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5799907,
+              "lng": 10.0337235
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ey_fI_vf|@WF"
+            },
+            "start_location": {
+              "lat": 53.5798711,
+              "lng": 10.0337598
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wm_fImzb|@Gg@I@WF{@d@u@f@EOGI_Am@}BuAw@e@{@}@a@u@[{@Oo@OcAmBoSA{@\\kGl@oIhA_QF}@HaBAe@HeANyAHUPaD^eGF[NiA@m@L{BPiCHsA@}@@aBCoBCo@WF"
+    },
+    "summary": "Hans-Henny-Jahnn-Weg and Weidestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

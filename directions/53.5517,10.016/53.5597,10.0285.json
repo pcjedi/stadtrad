@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5598849,
+        "lng": 10.0282665
+      },
+      "southwest": {
+        "lat": 53.5490958,
+        "lng": 10.0159264
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 1995
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 461
+        },
+        "end_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "start_address": "Kurt-Schumacher-Allee / Nagelsweg, 20097 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5516721,
+          "lng": 10.0159264
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 315
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.5490958,
+              "lng": 10.0178999
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Nagelsweg</b> toward <b>Norderstra\u00dfe</b>",
+            "polyline": {
+              "points": "}hzeIqfc|@^WFGVQh@a@VQLI^[RMBCPMHEBALIPINKBAPQHGDEXQHGHEf@]NK|AiA"
+            },
+            "start_location": {
+              "lat": 53.5516721,
+              "lng": 10.0159264
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 627
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 134
+            },
+            "end_location": {
+              "lat": 53.5514787,
+              "lng": 10.0265073
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Nordkanalstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{xyeI{rc|@sA{Hm@eDOy@_@mBo@}Ck@{C]gBO{@CKcA}FAKe@}BUwAYeB"
+            },
+            "start_location": {
+              "lat": 53.5490958,
+              "lng": 10.0178999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 859
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 212
+            },
+            "end_location": {
+              "lat": 53.5588188,
+              "lng": 10.0259899
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Anckelmannspl.</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Continue to follow B75</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wgzeIuhe|@c@XABSRMRKNONIHA@IFSHA@SDm@Bi@COCA?[EYCOCKAIC_@Go@Si@OuA]_@K]KOGQEQE[IMCKCMEKEKEMIECKGMIQMOKKIA?KGKGIEKCICQFGDGFGLINm@dAGJQFOBMBi@Fa@F]Dg@HOBc@Fi@H]FC?}@NWDI@QB"
+            },
+            "start_location": {
+              "lat": 53.5514787,
+              "lng": 10.0265073
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 194
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "su{eImee|@CSGWGQEUUk@Oa@GKGCGCSi@CGQi@[{@Ws@]eA"
+            },
+            "start_location": {
+              "lat": 53.5588188,
+              "lng": 10.0259899
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}hzeIqfc|@bEyCb@Yr@a@z@q@jAw@|AiAsA{H}@_FyCoOyAqI{@uEYeBc@XUVYb@e@b@UJSDm@By@G]E_AMoEiAgD}@s@[q@c@i@]k@UYLOTw@tAGJQF]FkANyBZiC`@a@FQBCSOi@[aAWm@OGeAwCu@yB"
+    },
+    "summary": "Nordkanalstra\u00dfe and B75",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

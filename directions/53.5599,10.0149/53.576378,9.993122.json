@@ -1,0 +1,238 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5763623,
+        "lng": 10.0149604
+      },
+      "southwest": {
+        "lat": 53.5572925,
+        "lng": 9.9908504
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.8 km",
+          "value": 3838
+        },
+        "duration": {
+          "text": "13 mins",
+          "value": 790
+        },
+        "end_address": "Mittelweg / Sophienterrasse, 20149 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5763623,
+          "lng": 9.9932737
+        },
+        "start_address": "Lange Reihe / Lohm\u00fchlenpark, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5599819,
+          "lng": 10.0149604
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "html_instructions": "Head <b>northwest</b> toward <b>Lange Reihe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "{|{eIo`c|@I`@AJ"
+            },
+            "start_location": {
+              "lat": 53.5599819,
+              "lng": 10.0149604
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lange Reihe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g}{eIa_c|@[O[M"
+            },
+            "start_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 104
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5609499,
+              "lng": 10.0137179
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lohm\u00fchlenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "__|eI_`c|@IPCHEJCLCHEHEJKTu@|AS\\"
+            },
+            "start_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5612121,
+              "lng": 10.0134475
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>An d. Alster</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "}b|eIwxb|@UVKJA?OP"
+            },
+            "start_location": {
+              "lat": 53.5609499,
+              "lng": 10.0137179
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 791
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 211
+            },
+            "end_location": {
+              "lat": 53.5573606,
+              "lng": 10.0035151
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>An d. Alster</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qd|eIawb|@JPT^RXt@jA`@dAXz@Jd@F\\Jd@Z|AF\\BJRbANv@@FLb@@FTt@Nd@FPVp@JXd@pALX@DPj@@DXx@HZj@rBFRNj@n@lCBH`@hBJb@BFNn@@DBLL`@DPN`@HTJVHn@LbABLDd@"
+            },
+            "start_location": {
+              "lat": 53.5612121,
+              "lng": 10.0134475
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 665
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.5587873,
+              "lng": 9.9939752
+            },
+            "html_instructions": "Continue onto <b>Kennedybr\u00fccke</b>",
+            "polyline": {
+              "points": "ol{eI_y`|@Bn@?P@l@?L?nC@fB?hB@RBX?nBCbAALEdACZEZ_@rBQz@Gj@Oz@Kt@Kj@O`AOx@a@zBAHUpAUrAEHELO`AIn@CLGb@QfA"
+            },
+            "start_location": {
+              "lat": 53.5573606,
+              "lng": 10.0035151
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 298
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5605231,
+              "lng": 9.9908504
+            },
+            "html_instructions": "Continue onto <b>Alsterglacis</b>",
+            "polyline": {
+              "points": "mu{eIk}~{@EXEREXIjAE^EZEVI^K^M^GPEJKVWf@OVKPMPYZmAbASLA@QJQLID"
+            },
+            "start_location": {
+              "lat": 53.5587873,
+              "lng": 9.9939752
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.9 km",
+              "value": 1897
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 351
+            },
+            "end_location": {
+              "lat": 53.5763623,
+              "lng": 9.9932737
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Mittelweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "g`|eIyi~{@_@m@c@e@MQEIMUMWkAkBmAwB_@s@COAEaAgBk@_AEECCA?AAC?G@MSAA[WQIMEWEw@Ie@Ay@C{ACi@CG?UEMGOCQMOMIIUQ_BkA_Ak@qA}@s@e@g@Hu@La@Ha@JmCh@aANa@FG@eANWB{@L_AFQ@gAFO@Y@YD_@JMDy@VG@GBKDQHe@TKFMFG@C@mAj@q@XIDa@RWJGFC@IFm@X{At@cAf@YN}@f@_@FWDS?E?s@AcAEOC_AMm@MQEm@K"
+            },
+            "start_location": {
+              "lat": 53.5605231,
+              "lng": 9.9908504
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{|{eIo`c|@Kl@w@]Wt@[t@iAzBa@b@QP`@p@hAdBz@`Cz@fEn@dDf@hBz@bCfA|CpAnElC|KXfAXv@JVHn@PpAHtA@|E@pEDl@CrDGrAIv@q@nDo@hEcA`Gk@dDKVe@bDc@nCOjBKr@U~@Up@Qb@g@~@Yb@gB~Ay@h@ID_@m@q@w@mBcDmBkDEUmBgDIIO?OUm@a@e@K}AKgEKc@MOCQMYWuB}AqCiBs@e@g@HwAVoDt@qDh@sAP_AFcCLy@PgA\\m@TuEtBy@^KHwE~BwAv@w@LY?wBGoCe@m@K"
+    },
+    "summary": "Mittelweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

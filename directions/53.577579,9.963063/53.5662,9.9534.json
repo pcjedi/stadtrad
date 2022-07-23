@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5778071,
+        "lng": 9.963061699999999
+      },
+      "southwest": {
+        "lat": 53.5661845,
+        "lng": 9.951878899999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1605
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 391
+        },
+        "end_address": "Eimsb\u00fctteler Stra\u00dfe / Waterloostra\u00dfe, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5661845,
+          "lng": 9.953386700000001
+        },
+        "start_address": "Goebenstra\u00dfe / Eppendorfer Weg, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5775784,
+          "lng": 9.963061699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5778071,
+              "lng": 9.9620795
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Goebenstra\u00dfe</b> toward <b>Im Geh\u00f6lz</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "{j_fIc|x{@ABa@`CI|@"
+            },
+            "start_location": {
+              "lat": 53.5775784,
+              "lng": 9.963061699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 917
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 196
+            },
+            "end_location": {
+              "lat": 53.5704428,
+              "lng": 9.9560605
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Im Geh\u00f6lz</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "il_fI_vx{@d@b@ZVNLZRlAz@FHDFPJLFf@TZRFDJH^Z\\`@b@n@NTNTZd@B@XXl@Zd@VXRTNXJVJJFL?H?VLLHn@^x@b@~BlBn@d@PNtA~@RN^Xv@h@HFFDRLb@VVRHFHHR^TXh@p@JJ"
+            },
+            "start_location": {
+              "lat": 53.5778071,
+              "lng": 9.9620795
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 474
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5670511,
+              "lng": 9.951878899999999
+            },
+            "html_instructions": "Continue onto <b>Doormannsweg</b>",
+            "polyline": {
+              "points": "g~}eIkpw{@NRb@dAHPLZBHf@jAVl@LXTd@HRJVJRRZX`@HL@@Z`@l@p@DF`DlCJJ`@XPJd@XJJ`@VNN"
+            },
+            "start_location": {
+              "lat": 53.5704428,
+              "lng": 9.9560605
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 144
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.5661845,
+              "lng": 9.953386700000001
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eimsb\u00fctteler Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ai}eIgvv{@^e@`Au@NWJWH[DYBIDYTgA"
+            },
+            "start_location": {
+              "lat": 53.5670511,
+              "lng": 9.951878899999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{j_fIc|x{@c@dCI|@d@b@j@d@hBnALP^RbAh@RN|@|@r@dAj@z@\\ZrAr@n@b@p@VJFL?H?VL|@h@x@b@~BlB`At@`ErChAr@`@Z\\h@zAjB~@|BbBxDTj@^n@`ArAr@x@lDxCr@d@p@d@p@f@^e@`Au@Zo@Nu@^kB"
+    },
+    "summary": "B5 and Doormannsweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

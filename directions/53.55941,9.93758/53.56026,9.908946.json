@@ -1,0 +1,240 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5603096,
+        "lng": 9.938028300000001
+      },
+      "southwest": {
+        "lat": 53.5552017,
+        "lng": 9.9090419
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.6 km",
+          "value": 2623
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 565
+        },
+        "end_address": "S Bahrenfeld / Friedensallee, 22761 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5602301,
+          "lng": 9.9090419
+        },
+        "start_address": "Felicitas-Kukuck-Stra\u00dfe / Lille Torv, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5594917,
+          "lng": 9.9375738
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.559501,
+              "lng": 9.937919500000001
+            },
+            "html_instructions": "Head <b>east</b> on <b>Lille Torv</b>/<wbr/><b>Recha-Ellern-Weg</b> toward <b>Felicitas-Kukuck-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "yy{eIy|s{@AeA"
+            },
+            "start_location": {
+              "lat": 53.5594917,
+              "lng": 9.9375738
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 168
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5580277,
+              "lng": 9.938028300000001
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Felicitas-Kukuck-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{y{eI__t{@lDD|@?d@@DCBA@C@A@EBK"
+            },
+            "start_location": {
+              "lat": 53.559501,
+              "lng": 9.937919500000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 288
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.55582219999999,
+              "lng": 9.9360489
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Harkortstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "up{eIu_t{@NXd@v@JPb@h@HJZ^PRFFDBD@LBd@BB@RBB@D@XRJNXb@BDFJ?@FNDJBFJJFDLBp@F"
+            },
+            "start_location": {
+              "lat": 53.5580277,
+              "lng": 9.938028300000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 105
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5556981,
+              "lng": 9.934479
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Julius-Leber-Stra\u00dfe</b>/<wbr/><b>Lessingtunnel</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{b{eIiss{@?R?F?PBf@B~@Bx@?BB^BZBb@?D"
+            },
+            "start_location": {
+              "lat": 53.55582219999999,
+              "lng": 9.9360489
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5556219,
+              "lng": 9.9340782
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Julius-Leber-Stra\u00dfe</b>/<wbr/><b>Lessingtunnel</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "cb{eIois{@@D@RBRF`@"
+            },
+            "start_location": {
+              "lat": 53.5556981,
+              "lng": 9.934479
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 710
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 159
+            },
+            "end_location": {
+              "lat": 53.5552017,
+              "lng": 9.926375799999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Barnerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sa{eI_gs{@OPSPOFULgAVkA\\iA\\EBGFCBCFIRCHCXAd@@d@N~@PfAH`@F\\@FDTd@lCn@tDNx@VlBJb@XzATn@r@dBHPJXd@nADHv@jB"
+            },
+            "start_location": {
+              "lat": 53.5556219,
+              "lng": 9.9340782
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1291
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 245
+            },
+            "end_location": {
+              "lat": 53.5603096,
+              "lng": 9.9091123
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedensallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "__{eI{vq{@[p@Kp@ERGf@M~AEp@CXOrBI~@O~BQbCKtAMpBIj@CPG^]nBOt@w@xEk@xCIf@Mn@_@rBOx@_@jBI`@[~AEV_@lBI`@GXi@xAk@bB]~@[z@c@zA_@vAYx@]hAIVM^gArDONMb@[|@IVWr@c@fB"
+            },
+            "start_location": {
+              "lat": 53.5552017,
+              "lng": 9.926375799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5602301,
+              "lng": 9.9090419
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}~{eI}jn{@NL"
+            },
+            "start_location": {
+              "lat": 53.5603096,
+              "lng": 9.9091123
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "yy{eIy|s{@AeAlDDbB@LKDQt@pAtAfB^^RDh@D\\Fd@b@\\h@Th@NRTHp@F?R?XJdDJdBNnAc@b@e@TsCt@oA`@ORM\\E~@@d@N~@ZhBt@hEbB`KXzATn@|@vBnB~E[p@Kp@Mz@g@~Gw@xKW|CKp@qCxOsCjOi@nCGXi@xAiAbD_AvCaBrFuArEONMb@e@tAWr@c@fBNL"
+    },
+    "summary": "Barnerstra\u00dfe and Friedensallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

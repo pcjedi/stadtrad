@@ -1,0 +1,239 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5536967,
+        "lng": 10.0265936
+      },
+      "southwest": {
+        "lat": 53.5484168,
+        "lng": 10.0088424
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1659
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 384
+        },
+        "end_address": "Zentralbibliothek / M\u00fcnzstra\u00dfe, 20097 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5503258,
+          "lng": 10.0088424
+        },
+        "start_address": "S+U Berliner Tor / Beim Strohhause, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5533318,
+          "lng": 10.0245827
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>Berlinertordamm</b>",
+            "polyline": {
+              "points": "iszeIs|d|@OQS@"
+            },
+            "start_location": {
+              "lat": 53.5533318,
+              "lng": 10.0245827
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 106
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5536756,
+              "lng": 10.0262349
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Berlinertordamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mtzeIc}d|@Ce@GmAE{@?OG}@Ew@AC"
+            },
+            "start_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5536967,
+              "lng": 10.0265618
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Borgfelder Str.</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ouzeI}fe|@CaA"
+            },
+            "start_location": {
+              "lat": 53.5536756,
+              "lng": 10.0262349
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.55273560000001,
+              "lng": 10.0255468
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>B\u00fcrgerweide</b>/<wbr/><b>B75</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "suzeI_ie|@JAJA@AFAJ?H@J?HBNHHLNXLPHHJJRPHJ@@@B?D@R?r@"
+            },
+            "start_location": {
+              "lat": 53.5536967,
+              "lng": 10.0265618
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "51 m",
+              "value": 51
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.552281,
+              "lng": 10.0255718
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>B\u00fcrgerweide</b>/<wbr/><b>B75</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sozeIube|@fAARA"
+            },
+            "start_location": {
+              "lat": 53.55273560000001,
+              "lng": 10.0255468
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 923
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 167
+            },
+            "end_location": {
+              "lat": 53.5484168,
+              "lng": 10.0134858
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Spaldingstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wlzeIybe|@j@^`@Xf@ZJf@BL@HJf@Jj@RdANt@BHN|@X~ADPP~@ZbBJd@Jn@N|@VtA@JDNDTRbALp@@HBLBNFVlA`Hf@nC~B|LrAhHP~@"
+            },
+            "start_location": {
+              "lat": 53.552281,
+              "lng": 10.0255718
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 139
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5493515,
+              "lng": 10.0122594
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Repsoldstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "styeIiwb|@uAhAaAx@EBABCBAFELERAJALC`@"
+            },
+            "start_location": {
+              "lat": 53.5484168,
+              "lng": 10.0134858
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 252
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 81
+            },
+            "end_location": {
+              "lat": 53.5503258,
+              "lng": 10.0088424
+            },
+            "html_instructions": "Continue onto <b>M\u00fcnzstra\u00dfe</b>",
+            "polyline": {
+              "points": "mzyeIsob|@E`@O~AALKz@Gb@E\\ELEXETADOr@GRYvAWv@Sj@_@tA"
+            },
+            "start_location": {
+              "lat": 53.5493515,
+              "lng": 10.0122594
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "iszeIs|d|@OQS@KsBSaEEeAVC^ATBNHHL\\j@TT`@b@@X?r@fAARAj@^`@Xf@ZJf@DVz@nEr@xDtBhLfClNlGv\\_DjCQl@M|Ae@lEWzAs@dDkAxD"
+    },
+    "summary": "Spaldingstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

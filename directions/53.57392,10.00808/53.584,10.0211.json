@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58406549999999,
+        "lng": 10.0210632
+      },
+      "southwest": {
+        "lat": 53.57402099999999,
+        "lng": 10.0080497
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1881
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 427
+        },
+        "end_address": "Jarrestra\u00dfe / Rambatzweg, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58406549999999,
+          "lng": 10.0210632
+        },
+        "start_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57402099999999,
+          "lng": 10.0080497
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 459
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "html_instructions": "Head <b>east</b> on <b>Karlstra\u00dfe</b> toward <b>Am Feenteich</b>",
+            "polyline": {
+              "points": "st~eIiua|@Ci@UmFY}HEo@OkDQoGIgBCu@Ci@Aq@Ce@"
+            },
+            "start_location": {
+              "lat": 53.57402099999999,
+              "lng": 10.0080497
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 214
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.5765082,
+              "lng": 10.0145222
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hofweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gx~eIk`c|@y@NeALiC\\sBV"
+            },
+            "start_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 320
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5770742,
+              "lng": 10.0192664
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schenkendorfstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ed_fIw}b|@KkBMaCSsD[uFS}CEy@Ci@G["
+            },
+            "start_location": {
+              "lat": 53.5765082,
+              "lng": 10.0145222
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 757
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 170
+            },
+            "end_location": {
+              "lat": 53.5836805,
+              "lng": 10.0191839
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Herderstra\u00dfe</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ug_fIm{c|@YJKBMBMBOHK?cCBcEBa@?oA?I?_@A_@?OAQAOAMCUOMIKIKIa@_@{@cAKMCAEAEAC?E?E?E?E?E@G@GBGBIDKHQHIDMD}@ZQDe@Fg@Fg@HI@OBUFw@Ni@L"
+            },
+            "start_location": {
+              "lat": 53.5770742,
+              "lng": 10.0192664
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 131
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.58406549999999,
+              "lng": 10.0210632
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Jarrestra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_q`fI{zc|@MoAE[E[Ko@EUUsBKu@"
+            },
+            "start_location": {
+              "lat": 53.5836805,
+              "lng": 10.0191839
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "st~eIiua|@y@eSa@{LM}CE{ACe@y@NoEj@sBVKkBa@uHo@sKIcBG[YJYF]LuJFyCA_AI{@m@mBsBUCW@a@Nu@^oA`@mANwAVaB\\SkBm@uEKu@"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

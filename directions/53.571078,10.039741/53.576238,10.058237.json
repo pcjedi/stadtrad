@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5762157,
+        "lng": 10.0583551
+      },
+      "southwest": {
+        "lat": 53.57018919999999,
+        "lng": 10.0397317
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1503
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 401
+        },
+        "end_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "start_address": "Uferstra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5710752,
+          "lng": 10.0397317
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 109
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.57018919999999,
+              "lng": 10.0404283
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Wagnerstra\u00dfe</b> toward <b>Uferstra\u00dfe</b>",
+            "polyline": {
+              "points": "gb~eIi{g|@DCFGDENKv@o@n@c@d@Y"
+            },
+            "start_location": {
+              "lat": 53.5710752,
+              "lng": 10.0397317
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 283
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.5712674,
+              "lng": 10.0443145
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eilenau</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "u|}eIu_h|@WwAUoASgAQgAMq@SgAG[a@wBQ}@e@cC"
+            },
+            "start_location": {
+              "lat": 53.57018919999999,
+              "lng": 10.0404283
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1090
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 215
+            },
+            "end_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "html_instructions": "Continue onto <b>Eilbektal</b>",
+            "polyline": {
+              "points": "mc~eI}wh|@WqAUqAOu@q@oDWoASgAWwASgA[cBm@wCa@sBYwAG]uAiHGUw@_EGSI]GWcAmFo@yCACMs@a@}AUi@AAKSKSQWOQQQOKOIUKs@QCCAAAACEEGCICQAKCMAKEi@AYSwB"
+            },
+            "start_location": {
+              "lat": 53.5712674,
+              "lng": 10.0443145
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Krausestra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ea_fIeok|@UIOG"
+            },
+            "start_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gb~eIi{g|@b@]v@o@n@c@d@YWwAi@wC_@yBoAyGaEeTk@_DiA{FyCsOqAgGkAeGq@}Co@qCWk@Wg@a@i@a@]e@Uw@UCCIMG[MoAUqCe@Q"
+    },
+    "summary": "Eilbektal",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

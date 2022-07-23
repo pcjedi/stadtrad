@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5630237,
+        "lng": 9.9691691
+      },
+      "southwest": {
+        "lat": 53.55713350000001,
+        "lng": 9.9482448
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1655
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 337
+        },
+        "end_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "start_address": "U Feld Street, Feldstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.557364,
+          "lng": 9.9691691
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.55739089999999,
+              "lng": 9.9687472
+            },
+            "html_instructions": "Head <b>west</b> on <b>Feldstra\u00dfe</b> toward <b>Marktstra\u00dfe</b>",
+            "polyline": {
+              "points": "ol{eIibz{@AVCb@?V"
+            },
+            "start_location": {
+              "lat": 53.557364,
+              "lng": 9.9691691
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 302
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.55713350000001,
+              "lng": 9.964210699999999
+            },
+            "html_instructions": "Continue onto <b>Neuer Kamp</b>",
+            "polyline": {
+              "points": "ul{eIu_z{@?^A`@?X?\\@l@?d@?@?t@@l@FdAB^NfC@L@ZBr@@l@@j@DlBBbA"
+            },
+            "start_location": {
+              "lat": 53.55739089999999,
+              "lng": 9.9687472
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1247
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 256
+            },
+            "end_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Neuer Pferdemarkt</b>/<wbr/><b>B4</b> (signs for <b>A7</b>/<wbr/><b>Wedel</b>/<wbr/><b>Osdorf</b>)<div style=\"font-size:0.9em\">Continue to follow B4</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ak{eIicy{@O@e@FMBM@]DKBIBKBIDMHIFGFGFGFEDCFCFCHWf@Wd@MZMZO`@EHQd@O\\e@bAKRO\\W`@s@vAKVIRGTK\\Qh@Qp@ADM`@GRADERA@ETI^I`@Qt@C^CPI\\I\\ETEVEVGf@Il@[hC[jCYbCKx@M|@?BCNStAKj@Kr@Kn@KXCLEVG\\QrACTCTAREh@YfEUtDShDIx@Eh@C^CXCVE^"
+            },
+            "start_location": {
+              "lat": 53.55713350000001,
+              "lng": 9.964210699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>D\u00fcppelstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "{k|eI_bv{@INKJCBGF}@X_@L"
+            },
+            "start_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ol{eIibz{@ErB?fC@jC\\zFHhDHpDu@HeANUFWNa@^Q^kAdCw@nBq@vAg@~@iAbCqApEWjA[vAGp@_@hBs@vFoAfKc@tCWbBOf@c@~Ce@zGy@bMQpBa@f@}Af@"
+    },
+    "summary": "B4",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

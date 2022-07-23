@@ -1,0 +1,166 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5767484,
+        "lng": 10.0295188
+      },
+      "southwest": {
+        "lat": 53.57402099999999,
+        "lng": 10.0080497
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1590
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 371
+        },
+        "end_address": "Bartholom\u00e4usstra\u00dfe / Beim Alten Sch\u00fctzenhof, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5757268,
+          "lng": 10.0295188
+        },
+        "start_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57402099999999,
+          "lng": 10.0080497
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 459
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "html_instructions": "Head <b>east</b> on <b>Karlstra\u00dfe</b> toward <b>Am Feenteich</b>",
+            "polyline": {
+              "points": "st~eIiua|@Ci@UmFY}HEo@OkDQoGIgBCu@Ci@Aq@Ce@"
+            },
+            "start_location": {
+              "lat": 53.57402099999999,
+              "lng": 10.0080497
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 432
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 103
+            },
+            "end_location": {
+              "lat": 53.5751903,
+              "lng": 10.0213947
+            },
+            "html_instructions": "Continue onto <b>Zimmerstra\u00dfe</b>",
+            "polyline": {
+              "points": "gx~eIk`c|@IsBCc@MmCCk@A[KkDAYCq@GuAASQaFGiAAS?CC_@AY?CAQM}BEg@"
+            },
+            "start_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 303
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 94
+            },
+            "end_location": {
+              "lat": 53.5767484,
+              "lng": 10.0251678
+            },
+            "html_instructions": "Continue onto <b>Beethovenstra\u00dfe</b>",
+            "polyline": {
+              "points": "}{~eIuhd|@Uy@Qm@Qi@Qk@eAeDQo@}@wC]eAw@aC"
+            },
+            "start_location": {
+              "lat": 53.5751903,
+              "lng": 10.0213947
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 217
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5751329,
+              "lng": 10.0270072
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bachstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ue_fIi`e|@h@k@PU^a@`@g@JMJMx@aA|@gAt@}@"
+            },
+            "start_location": {
+              "lat": 53.5767484,
+              "lng": 10.0251678
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 179
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5757268,
+              "lng": 10.0295188
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Beim Alten Sch\u00fctzenhof</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q{~eIyke|@}@oFIo@c@yCC[G_@"
+            },
+            "start_location": {
+              "lat": 53.5751329,
+              "lng": 10.0270072
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "st~eIiua|@y@eSa@{LM}CSuFWyFYmI]sIEaAOoCEg@Uy@c@wAwAqEeDoK|BkCnCeDt@}@}@oFm@iEK{@"
+    },
+    "summary": "Karlstra\u00dfe and Zimmerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

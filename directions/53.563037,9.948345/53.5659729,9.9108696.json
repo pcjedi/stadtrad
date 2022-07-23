@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.56585099999999,
+        "lng": 9.9486364
+      },
+      "southwest": {
+        "lat": 53.56237590000001,
+        "lng": 9.9107609
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.6 km",
+          "value": 2648
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 549
+        },
+        "end_address": "Bahrenfelder Chaussee / Von-Sauer-Stra\u00dfe, 22761 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.56585099999999,
+          "lng": 9.9107609
+        },
+        "start_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "html_instructions": "Head <b>south</b> on <b>D\u00fcppelstra\u00dfe</b> toward <b>Alsenstra\u00dfe</b>",
+            "polyline": {
+              "points": "{o|eIo_v{@^M|@YFGBCJKHO"
+            },
+            "start_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.0 km",
+              "value": 1972
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 413
+            },
+            "end_location": {
+              "lat": 53.5640806,
+              "lng": 9.919263299999999
+            },
+            "html_instructions": "Sharp <b>right</b> onto <b>Stresemannstra\u00dfe</b>/<wbr/><b>B4</b><div style=\"font-size:0.9em\">Continue to follow Stresemannstra\u00dfe</div>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "{k|eI_bv{@AT[|BGj@?h@q@|EMt@APGj@Iv@Cf@Ed@En@I~@C`@Gz@I|@K|AKxAIjAKZEZE\\GRSbAC`@?dA@jA?nBAnBAh@AhC?TA|@GzDAv@?RAt@?DAt@?F?DA^?RAtA?X?f@@b@@xB@N@j@DnB@PBb@Bb@?BDZ?BFn@@JHt@BL?D@D?D@PBV@R?L?P@|@?~@?\\B\\?z@?BAtAAl@A~ACpBCzA?DCp@IrBEnB?DCf@Ch@Ah@Az@CtAALClA?ZCtAGjCAj@Ct@AR?JKjFA^IdEAVGh@AX?FKxDAb@"
+            },
+            "start_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 598
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 120
+            },
+            "end_location": {
+              "lat": 53.56585099999999,
+              "lng": 9.9107609
+            },
+            "html_instructions": "Continue onto <b>Bahrenfelder Chaussee</b>/<wbr/><b>B431</b><div style=\"font-size:0.9em\">Continue to follow Bahrenfelder Chaussee</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "ov|eIkjp{@A\\Af@IjB@d@]~CKdAQbBGb@SzAYvBKv@EZa@|C]tBO~@Q|@Gb@CLi@vCCTIf@c@~BGZ"
+            },
+            "start_location": {
+              "lat": 53.5640806,
+              "lng": 9.919263299999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{o|eIo_v{@|Ag@JKT[]rCGj@?h@_ArGW|CcAhNIjAKZKx@[vACfB@zDCxCA~CIxFCfCCbBAjDFxENhELrANtAFt@BpB?|ABxAEfFKdGSpGKdFYnMW|MI`AA`@QbHIjB@d@i@dFgAzIqAfJiCdOGZ"
+    },
+    "summary": "Stresemannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6119902,
+        "lng": 10.0759136
+      },
+      "southwest": {
+        "lat": 53.5915371,
+        "lng": 10.0507402
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.2 km",
+          "value": 3160
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 673
+        },
+        "end_address": "U Habichtstra\u00dfe / Steilshooper Stra\u00dfe, 22307 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5937989,
+          "lng": 10.0507402
+        },
+        "start_address": "Herthastra\u00dfe / Bramfelder Chaussee, 22179 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.61183219999999,
+          "lng": 10.0759136
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 98
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.6119902,
+              "lng": 10.0744742
+            },
+            "html_instructions": "Head <b>west</b> on <b>Herthastra\u00dfe</b> toward <b>Bramfelder Ch</b>",
+            "polyline": {
+              "points": "}`ffIm}n|@?JAp@?D?h@El@E~@?@Id@GZ"
+            },
+            "start_location": {
+              "lat": 53.61183219999999,
+              "lng": 10.0759136
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.3 km",
+              "value": 2341
+            },
+            "duration": {
+              "text": "9 mins",
+              "value": 522
+            },
+            "end_location": {
+              "lat": 53.5934882,
+              "lng": 10.0589841
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bramfelder Ch</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}affImtn|@\\V`@Ln@f@p@VNDJBJBRFf@Jv@T|@V^L\\NLH\\RJJRVXVbBzALJHHj@`@f@XB@^FjAh@`@RtBr@zAd@lCz@PFNFnA`@j@R~Af@ZJ?@^LfAZBBDBRFDBTF`@L`@\\TLx@Td@N@@\\NZL^T^Pn@b@DBdAt@PL^Td@Xf@^THNFNNPLp@p@x@x@bA`At@z@\\^PP`@d@?@RXzAxBTZVd@p@hA`@p@`AbBDFpArBp@jAhB~Ct@jARZ`@p@HLh@|@Zh@z@lAv@jADLDDJP`@j@Xf@JNj@v@h@h@DD@@@??AB?FJ"
+            },
+            "start_location": {
+              "lat": 53.6119902,
+              "lng": 10.0744742
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 300
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5915371,
+              "lng": 10.0558545
+            },
+            "html_instructions": "Continue onto <b>Bramfelder Str.</b>",
+            "polyline": {
+              "points": "inbfIssk|@d@n@R`@v@vAT^Vf@l@dAFJDHZh@~@dBRn@P\\f@dA"
+            },
+            "start_location": {
+              "lat": 53.5934882,
+              "lng": 10.0589841
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 421
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 83
+            },
+            "end_location": {
+              "lat": 53.5937989,
+              "lng": 10.0507402
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Habichtstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cbbfIa`k|@Ut@a@pAg@|Am@fBEHCNw@|Bg@`B_BnEg@vAYt@Qf@Wn@"
+            },
+            "start_location": {
+              "lat": 53.5915371,
+              "lng": 10.0558545
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}`ffIm}n|@AlBKlBIf@GZ\\V`@Ln@f@`A\\VFpD`A|@\\j@\\^b@|BrBVTrAz@b@HlB|@pJ|CnJ|CHFXJv@Tv@j@~Ad@^Pz@b@nAt@|B|AlAx@d@P`@\\jBjBxB|Bn@p@`@f@nBrCl@`ArAzBjEjHtExHjCbEv@jADLPVz@rAv@fAr@p@BAl@z@xB`EvAdC~@dBRn@x@bBmClIiBxFkEtL"
+    },
+    "summary": "Bramfelder Ch",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

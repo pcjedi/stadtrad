@@ -1,0 +1,215 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4966361,
+        "lng": 10.2199753
+      },
+      "southwest": {
+        "lat": 53.4860699,
+        "lng": 10.1827172
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.2 km",
+          "value": 3162
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 680
+        },
+        "end_address": "Billwerder Billdeich / TSG Sportforum, 21033 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4963851,
+          "lng": 10.1830106
+        },
+        "start_address": "Wentorfer Stra\u00dfe / Bezirksamt Bergedorf, 21029 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4874776,
+          "lng": 10.2199753
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 320
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.48621250000001,
+              "lng": 10.2156886
+            },
+            "html_instructions": "Head <b>west</b> on <b>Wentorfer Str.</b>/<wbr/><b>B207</b> toward <b>Gr\u00e4pelweg</b><div style=\"font-size:0.9em\">Continue to follow B207</div>",
+            "polyline": {
+              "points": "wwmeI{ak}@Dd@Hz@Fd@BRHv@DTD\\?BDNHn@Jt@@JBHTfABJLd@Pt@Pn@FTFTBLFZFNHRFT\\x@HV"
+            },
+            "start_location": {
+              "lat": 53.4874776,
+              "lng": 10.2199753
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 899
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 167
+            },
+            "end_location": {
+              "lat": 53.4889995,
+              "lng": 10.2036329
+            },
+            "html_instructions": "Continue onto <b>Bergedorfer Str.</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "yomeIagj}@FVF`@FX?BBP?P?l@CRAPCX@N@DEXEXIb@E\\A@?@EToAzEOp@gAlEK^Qr@Wv@GRETABIXAFGXAFKb@On@o@nEAJGb@ILIX?@ETCRCXCNCR?DEb@C^AT?`@Ap@?j@?Z?Z?^?pEAb@APIn@INKNABGPW^GJGJQTKNMNKF"
+            },
+            "start_location": {
+              "lat": 53.48621250000001,
+              "lng": 10.2156886
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1154
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 259
+            },
+            "end_location": {
+              "lat": 53.4906666,
+              "lng": 10.1868202
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kurt-A.-K\u00f6rber-Chaussee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ganeIu{g}@Bl@?lA?zB?V?lAANBtA@h@?j@@d@?z@?zB?~@?F@`@@Z?J@vD?hA?zC?jA@~B?fB@J?LAd@?V?N?h@?J?NAv@ANEn@Cf@C^Gh@EXE`@ETABE\\I`@Y~AIh@YjBGZERo@pDWzACPQfAGZEZW`BETA@UvASfAMt@ENI\\CXCP@P?HBJ"
+            },
+            "start_location": {
+              "lat": 53.4889995,
+              "lng": 10.2036329
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 696
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 125
+            },
+            "end_location": {
+              "lat": 53.4962189,
+              "lng": 10.1828939
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Billwerder Billdeich</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ukneIsrd}@KRIJQJMHKFIDI@Q?K@C?IBMDMJQNOR]Za@f@IFGHSRONQNSNSDSFMHMHSDWBQD_@HE?c@Da@Di@L]D_@H_@La@NSHa@NMNQJMHSLMLMLOJGHk@l@OLC@]Jk@PORGPGTEZE|@"
+            },
+            "start_location": {
+              "lat": 53.4906666,
+              "lng": 10.1868202
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.4962662,
+              "lng": 10.1827172
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Billwerder Billdeich</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "knoeIazc}@EP?@CL"
+            },
+            "start_location": {
+              "lat": 53.4962189,
+              "lng": 10.1828939
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "58 m",
+              "value": 58
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.4965778,
+              "lng": 10.1830787
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "unoeI_yc}@AACECCICk@OAACAAC?CAC?E?A?C@C@ABCBA"
+            },
+            "start_location": {
+              "lat": 53.4962662,
+              "lng": 10.1827172
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.4963851,
+              "lng": 10.1830106
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "spoeIg{c}@B?`@L"
+            },
+            "start_location": {
+              "lat": 53.4965778,
+              "lng": 10.1830787
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wwmeI{ak}@ZzCTnB\\`Cj@bCr@pCJh@Pb@d@nAPn@RpA?~@Ed@Ah@C^W|AeBdHsAlFi@jBYfAWlAOn@o@nEIn@ILIXEVK|@M|ACtC?hHCt@In@INMR_@p@m@|@YVBzBApFFpE?~FB|@@bE@pL?dGAfAG~@UjC{ApJuA|Hc@pCu@pEa@|BOl@Gj@@ZBJKRIJu@b@k@BWH_@Zm@n@k@n@}@|@SNSDa@PMHSDi@He@HeAJgAR_AVu@Xa@NMN_@Ta@Z]Xs@v@SNiA\\ORGPMp@KnACNSOm@QEEAOFMBAd@L"
+    },
+    "summary": "Bergedorfer Str./B5 and Kurt-A.-K\u00f6rber-Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6053911,
+        "lng": 10.0430101
+      },
+      "southwest": {
+        "lat": 53.586977,
+        "lng": 10.0282815
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.8 km",
+          "value": 2813
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 623
+        },
+        "end_address": "S+U Barmbek / Wiesendamm, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5870079,
+          "lng": 10.0430101
+        },
+        "start_address": "Winterlindenweg / Loki-Schmidt-Platz, 22297 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6050015,
+          "lng": 10.0301176
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "49 m",
+              "value": 49
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.6053911,
+              "lng": 10.0298121
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Winterlindenweg</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "polyline": {
+              "points": "gvdfIg_f|@UZIJKFSHMB"
+            },
+            "start_location": {
+              "lat": 53.6050015,
+              "lng": 10.0301176
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 103
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.6050871,
+              "lng": 10.0283431
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uxdfIi}e|@z@dH"
+            },
+            "start_location": {
+              "lat": 53.6053911,
+              "lng": 10.0298121
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.60470530000001,
+              "lng": 10.028295
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yvdfIcte|@@?@?L?N?@AB?B?B?B@@@D@@?HFBC"
+            },
+            "start_location": {
+              "lat": 53.6050871,
+              "lng": 10.0283431
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 650
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 117
+            },
+            "end_location": {
+              "lat": 53.5994683,
+              "lng": 10.0309254
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mtdfI{se|@HQH_@HKLKNOt@i@z@q@h@WBAXUVANEPKd@c@`@YLWNYTS\\]b@UTE@A\\K`@KXANAD?RAZIHMX]DERSV]NK`@U^UVET?b@JJ@TJVJTRZ^JZ"
+            },
+            "start_location": {
+              "lat": 53.60470530000001,
+              "lng": 10.028295
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1301
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 291
+            },
+            "end_location": {
+              "lat": 53.5878848,
+              "lng": 10.0331337
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Saarlandstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uscfIidf|@JMZWFEXKn@K^Gd@Cb@ANAL?b@?b@Ab@?jBAjBAXAh@CDA`@EJ?~B_@fHmAf@ETGp@IN@d@GhASBAfEq@PCZIpBYlEa@dCQPC^ALA^EbAIn@Eb@A"
+            },
+            "start_location": {
+              "lat": 53.5994683,
+              "lng": 10.0309254
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 667
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 185
+            },
+            "end_location": {
+              "lat": 53.5870079,
+              "lng": 10.0430101
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wiesendamm</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gkafIarf|@D{@BYNqDC_A?U@SBc@Bi@Ba@De@@SDQT}@H_BBY@[JaBDm@D}@BUDk@Bc@Dk@HcAVqE@i@@OFkA@U?KCyAGuACg@Eo@L}B@Q"
+            },
+            "start_location": {
+              "lat": 53.5878848,
+              "lng": 10.0331337
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gvdfIg_f|@_@f@_@PMBz@dHB?b@ALBF@HFBCRq@VWNOt@i@z@q@h@W\\Wf@GPKd@c@`@YLWNYTS\\]b@UVG~@WbAEZIHM^c@j@q@p@a@^UVET?b@J`@Ll@^Z^JZf@e@`@QnAShAEdBCtGE|AKfLmB|@Mp@IN@nB[jEs@l@MpBYlEa@vCUpCSrAGHuANqDC_A@i@PuCFe@T}@H_BDu@PoCRcDNoBX{FJ}BKoDIwANoC"
+    },
+    "summary": "Saarlandstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

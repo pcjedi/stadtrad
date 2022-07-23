@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5558036,
+        "lng": 9.9702662
+      },
+      "southwest": {
+        "lat": 53.5509096,
+        "lng": 9.950607999999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1562
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 381
+        },
+        "end_address": "Holstenstra\u00dfe / Thadenstra\u00dfe, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5558036,
+          "lng": 9.950607999999999
+        },
+        "start_address": "St. Pauli, 20359 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5509432,
+          "lng": 9.9702662
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5510299,
+              "lng": 9.9700686
+            },
+            "html_instructions": "Head <b>northwest</b> toward <b>Glacischaussee</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "kdzeIeiz{@CHEHGR"
+            },
+            "start_location": {
+              "lat": 53.5509432,
+              "lng": 9.9702662
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5509096,
+              "lng": 9.9699479
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Glacischaussee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}dzeI}gz{@VV"
+            },
+            "start_location": {
+              "lat": 53.5510299,
+              "lng": 9.9700686
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.5511206,
+              "lng": 9.9694077
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Budapester Str.</b>/<wbr/><b>B4</b> (signs for <b>Flensburg</b>/<wbr/><b>A7</b>/<wbr/><b>Wedel</b>/<wbr/><b>Osdorf</b>)",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "edzeIegz{@i@jB"
+            },
+            "start_location": {
+              "lat": 53.5509096,
+              "lng": 9.9699479
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 902
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 166
+            },
+            "end_location": {
+              "lat": 53.5516897,
+              "lng": 9.955864799999999
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Simon-von-Utrecht-Stra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "oezeIycz{@@H?F?HAFCFAB?DAB?D?D@F@J?LBZ?HBTBf@BX?X?x@?|@@zNEzAAh@Ah@C|@ElAGbBGfBEp@M~BCl@UpEGnAM|CE~@C`AGzAATAf@Al@At@Ap@?`@@J?`@?^@vA"
+            },
+            "start_location": {
+              "lat": 53.5511206,
+              "lng": 9.9694077
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 585
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 132
+            },
+            "end_location": {
+              "lat": 53.5558036,
+              "lng": 9.950607999999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aizeIcow{@W@o@Rq@\\QHIFKHGHELUTUZWZWb@OVUd@KRMVOZ_@p@S^Ud@[n@_@p@KRiBnD]r@OXo@lAIDA@EDEFORIHKNOPIFONMJID"
+            },
+            "start_location": {
+              "lat": 53.5516897,
+              "lng": 9.955864799999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kdzeIeiz{@IRGRVVi@jB@H?PGX?VPpD?vB@zNEzACrAIjCc@|Jo@lNSrFG|D@nB@vAW@aBp@[PSRELUTm@v@iAtBqAdCeHfNKFKLu@~@q@h@"
+    },
+    "summary": "Simon-von-Utrecht-Stra\u00dfe and Holstenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5835523,
+        "lng": 10.0719805
+      },
+      "southwest": {
+        "lat": 53.5716261,
+        "lng": 10.0684418
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1568
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 434
+        },
+        "end_address": "Schlo\u00dfstra\u00dfe 40, 22041 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5716261,
+          "lng": 10.0686596
+        },
+        "start_address": "Eulenkamp / Stra\u00dfburger Stieg, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5834823,
+          "lng": 10.0718035
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5835523,
+              "lng": 10.0719805
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Stra\u00dfburger Stieg</b> toward <b>Eulenkamp</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "wo`fIwcn|@AEEOEM"
+            },
+            "start_location": {
+              "lat": 53.5834823,
+              "lng": 10.0718035
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 386
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 139
+            },
+            "end_location": {
+              "lat": 53.5808468,
+              "lng": 10.0684418
+            },
+            "html_instructions": "Sharp <b>right</b> onto <b>Eulenkamp</b>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "ep`fI{dn|@bAbA\\h@|@rA\\h@|AjBbAjARRxBbCFJBNDHBHBJLn@DZ"
+            },
+            "start_location": {
+              "lat": 53.5835523,
+              "lng": 10.0719805
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 174
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5794766,
+              "lng": 10.0695987
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Nordschleswiger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "i_`fIwnm|@NIDSv@eARW\\W@Ah@Y`@S`@S`@O"
+            },
+            "start_location": {
+              "lat": 53.5808468,
+              "lng": 10.0684418
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 816
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 216
+            },
+            "end_location": {
+              "lat": 53.57233850000001,
+              "lng": 10.070782
+            },
+            "html_instructions": "Continue onto <b>Wandsbeker Allee</b>",
+            "polyline": {
+              "points": "wv_fI_vm|@PCZEd@IPMj@GXEn@I?A\\EVC^GvAOjBYXEXERALAN?R@L@NBPFVH`@NVJ`@LLBHDJBH@F?BDDBD@F@d@BH?V@NAP?`@E`@GBC@?@C?A@GJA\\GB?p@OVMJHB@B?B?`@MPETKJEHCTK\\Sf@[@Aj@e@"
+            },
+            "start_location": {
+              "lat": 53.5794766,
+              "lng": 10.0695987
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 178
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5716261,
+              "lng": 10.0686596
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schlo\u00dfstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cj~eIk}m|@P@F@RFJDHFDFDHBP?HDV@P@LB`@TjCF\\Ff@Dr@"
+            },
+            "start_location": {
+              "lat": 53.57233850000001,
+              "lng": 10.070782
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wo`fIwcn|@GUEMbAbAzA|B\\h@|AjBvA~A`CnCPn@RjANIDSjA}A^YjAm@bAc@l@Id@IPMdAMn@KlDa@rDg@~@@`@Jx@XpAb@TDJDJDl@DbA?bAMDCBM~AYVMJHF@lA_@TIr@_@h@]j@e@P@ZHTLJPBZLxATjCF\\LzA"
+    },
+    "summary": "Wandsbeker Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

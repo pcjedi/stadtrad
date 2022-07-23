@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5649721,
+        "lng": 10.0548182
+      },
+      "southwest": {
+        "lat": 53.5611955,
+        "lng": 10.0370209
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1311
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 269
+        },
+        "end_address": "S Hasselbrook / Papenstra\u00dfe, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5648518,
+          "lng": 10.0548182
+        },
+        "start_address": "S Landwehr / Ramazan-Avci-Platz, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5611955,
+          "lng": 10.0373412
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Landwehr</b>/<wbr/><b>B5</b> toward <b>Hasselbrookstra\u00dfe</b>",
+            "polyline": {
+              "points": "od|eIklg|@[To@h@"
+            },
+            "start_location": {
+              "lat": 53.5611955,
+              "lng": 10.0373412
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1248
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 255
+            },
+            "end_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hasselbrookstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{f|eIkjg|@AKIYW}@Su@s@cCUcAWaA[oAgAgEEQSs@YeAo@eCQ_AKq@YqBIy@GWEe@Gs@Ei@CUGu@AQG{@Ei@ASA_@EoAGeBEkAGyBGmBAe@AK?OKsDGiCGgBGoBKwCEw@IcBSsCIw@K}@Im@OaAY_B"
+            },
+            "start_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5648518,
+              "lng": 10.0548182
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a||eI{xj|@VW"
+            },
+            "start_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "od|eIklg|@kA~@Ke@k@sBiAgEaCkJm@yBo@eCQ_Ae@cDQqAWyCWmDQiFWyIUyIa@gL]wFUuBYoBY_BVW"
+    },
+    "summary": "Hasselbrookstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

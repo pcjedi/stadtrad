@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.56585099999999,
+        "lng": 9.9487987
+      },
+      "southwest": {
+        "lat": 53.56223809999999,
+        "lng": 9.9107609
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.7 km",
+          "value": 2680
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 535
+        },
+        "end_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "start_address": "Bahrenfelder Chaussee / Von-Sauer-Stra\u00dfe, 22761 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.56585099999999,
+          "lng": 9.9107609
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 616
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 134
+            },
+            "end_location": {
+              "lat": 53.56396669999999,
+              "lng": 9.9194888
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Bahrenfelder Chaussee</b> toward <b>Von-Sauer-Stra\u00dfe</b>/<wbr/><b>B431</b>",
+            "polyline": {
+              "points": "qa}eIgun{@F[b@_CHg@BUh@wCBMFc@P}@N_A\\uB`@}CD[Jw@XwBR{AFc@PcBJeA\\_DJ]@A@UD]Be@Ds@?s@@c@"
+            },
+            "start_location": {
+              "lat": 53.56585099999999,
+              "lng": 9.9107609
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.0 km",
+              "value": 1962
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 366
+            },
+            "end_location": {
+              "lat": 53.56223809999999,
+              "lng": 9.948716899999999
+            },
+            "html_instructions": "Continue onto <b>Stresemannstra\u00dfe</b>/<wbr/><b>B431</b><div style=\"font-size:0.9em\">Continue to follow Stresemannstra\u00dfe</div>",
+            "polyline": {
+              "points": "yu|eIykp{@@gA@}A@m@Cg@@WHeE@_@JkF?K@SBu@@k@FkCBuA?[BmA@MBuA@{@@i@Bi@Bg@?EDoBHsBBq@?EB{ABqB@_B@m@@uA?C?{@D_@?QBe@@c@?W?QAQAW?MEk@C[C]AGAIAG?IAGCYG]?GAMAGIyAAMGuBA_@?[AeAAa@?W@gA?MBwB@O?M?_@@Q?}@@S@y@FyD?}@?U@Q@mHBeAF_DDc@H{@Fy@BW?_@HkAJyAJ}AH}@F{@Ba@H_ADo@De@Bg@Hw@Fk@@QLu@p@}EJe@RkAZiBD]"
+            },
+            "start_location": {
+              "lat": 53.56396669999999,
+              "lng": 9.9194888
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Holstenpl.</b> (signs for <b>Flughafen</b>)",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "_k|eIobv{@UOE^"
+            },
+            "start_location": {
+              "lat": 53.56223809999999,
+              "lng": 9.948716899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>D\u00fcppelstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "{k|eI_bv{@INKJCBGF}@X_@L"
+            },
+            "start_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qa}eIgun{@`CaNl@uDf@yD`AoH\\iD\\_DJ]BWHcADgBBkBBkCA_AV}MNaGTsLRqGJeGDgF?{@D_@Bw@@{@Ac@KmBWaCMwBK_EAgEDcDLkMB_IJeFZqD?_@HkAVwD^{EXuDH}@~@sG^qB`@gCUOE^UZKJ}Af@"
+    },
+    "summary": "Stresemannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

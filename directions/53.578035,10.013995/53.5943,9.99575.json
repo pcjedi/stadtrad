@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5943171,
+        "lng": 10.0139947
+      },
+      "southwest": {
+        "lat": 53.57676559999999,
+        "lng": 9.995832900000002
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2479
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 540
+        },
+        "end_address": "U Hudtwalckerstra\u00dfe / Bebelallee, 22299 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5943171,
+          "lng": 9.995889
+        },
+        "start_address": "Hofweg / Am Langenzug, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780356,
+          "lng": 10.0139947
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 269
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "html_instructions": "Head <b>west</b> on <b>Am Langenzug</b> toward <b>Marienterrasse</b>",
+            "polyline": {
+              "points": "wm_fImzb|@@FH`@DVJ\\Lb@l@bBDVTv@H\\`@xARr@x@`DLl@"
+            },
+            "start_location": {
+              "lat": 53.5780356,
+              "lng": 10.0139947
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.2 km",
+              "value": 2161
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 448
+            },
+            "end_location": {
+              "lat": 53.59392159999999,
+              "lng": 9.995832900000002
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sierichstra\u00dfe</b><div style=\"font-size:0.9em\">Closed 4:00 \u2013 11:59 AM</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ye_fIydb|@_@T]RWNc@VOJUL]RqBvAq@b@{@l@o@b@c@\\qA|@IHiBjA]Tq@d@MHe@ZUPsBvAeBlAw@j@i@ZgChBSJ[Vo@b@iAv@OHg@`@]VKHYRq@b@qA|@kBpAy@h@s@h@s@`@]Tq@j@[Nk@`@y@j@y@h@A@{@l@y@l@kBrAg@^A@MH]R_@X_An@WPSPWPiBjAmAz@k@`@a@Vm@b@SPEBIFGFKJGFKLSZU^IPKTWl@[|@Sj@?D]z@iAvCO^GNe@r@"
+            },
+            "start_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.593998,
+              "lng": 9.9959911
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hudtwalckerstra\u00dfe</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_qbfI}h_|@O_@"
+            },
+            "start_location": {
+              "lat": 53.59392159999999,
+              "lng": 9.995832900000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5943171,
+              "lng": 9.995889
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oqbfI}i_|@i@JUF"
+            },
+            "start_location": {
+              "lat": 53.593998,
+              "lng": 9.9959911
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wm_fImzb|@\\~Az@fCZnAxBlILl@_@Tu@b@gBdAoGlEuBzAsBtAcC`BiOlKqDfCi@`@kAv@kHbFqAv@q@j@[NeBlA{@j@iGnEmAx@wA`Ak@b@wDfCmAx@qA`Ag@h@i@z@Uf@gA|C_CbGe@r@O_@_AR"
+    },
+    "summary": "Sierichstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

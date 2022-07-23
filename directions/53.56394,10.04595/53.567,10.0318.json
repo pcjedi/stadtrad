@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5670015,
+        "lng": 10.045931
+      },
+      "southwest": {
+        "lat": 53.5615813,
+        "lng": 10.0313309
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1387
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 307
+        },
+        "end_address": "Lerchenfeld / Uferstra\u00dfe, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5670015,
+          "lng": 10.031798
+        },
+        "start_address": "Hasselbrookstra\u00dfe / Ritterstra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5640279,
+          "lng": 10.045931
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 656
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 130
+            },
+            "end_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hasselbrookstra\u00dfe</b> toward <b>Ritterstra\u00dfe</b>",
+            "polyline": {
+              "points": "ev|eIabi|@Bd@DnA@^@RDh@Fz@@PFt@BTDh@Fr@Dd@FVHx@XpBJp@P~@n@dCXdARr@DPfAfEZnAV`ATbAr@bCRt@V|@HX@J"
+            },
+            "start_location": {
+              "lat": 53.5640279,
+              "lng": 10.045931
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 695
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 171
+            },
+            "end_location": {
+              "lat": 53.5668266,
+              "lng": 10.0313309
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Landwehr</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{f|eIkjg|@OJy@n@eAbA]\\gA`Ay@p@m@j@SVg@j@]d@cAnAQNQRa@f@STuAbB_ArAiAzAi@h@MLsAdBQTq@v@SV"
+            },
+            "start_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5670015,
+              "lng": 10.031798
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Uferstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ug}eIyff|@I_@Ss@CI"
+            },
+            "start_location": {
+              "lat": 53.5668266,
+              "lng": 10.0313309
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ev|eIabi|@LhDVlDVxCv@tFP~@n@dCl@xB`CjJhAfEj@rBJd@iAz@cB`BaCrBaAbAeApAiCzCiBxBiCnDw@v@eBzBeAnA]sACI"
+    },
+    "summary": "Hasselbrookstra\u00dfe and B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5754933,
+        "lng": 9.988886299999999
+      },
+      "southwest": {
+        "lat": 53.57208,
+        "lng": 9.9779035
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1143
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 245
+        },
+        "end_address": "Grindelberg / Bezirksamt Eimsb\u00fcttel, 20144 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5754933,
+          "lng": 9.9779035
+        },
+        "start_address": "U Hallerstra\u00dfe / Rothenbaumchaussee, 20148 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57208,
+          "lng": 9.988886299999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.57228689999999,
+              "lng": 9.9886328
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Rothenbaumchaussee</b>",
+            "polyline": {
+              "points": "oh~eIq}}{@M?C@C@CDA@EFCHAHAJ"
+            },
+            "start_location": {
+              "lat": 53.57208,
+              "lng": 9.988886299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5726717,
+              "lng": 9.988641099999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rothenbaumchaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yi~eI}{}{@QAy@?"
+            },
+            "start_location": {
+              "lat": 53.57228689999999,
+              "lng": 9.9886328
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 544
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 120
+            },
+            "end_location": {
+              "lat": 53.5724473,
+              "lng": 9.9804139
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hallerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "el~eI_|}{@?j@@x@?z@?fA@?@nAD|DJdLJjL@`A?TB|B@lA"
+            },
+            "start_location": {
+              "lat": 53.5726717,
+              "lng": 9.988641099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 155
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5737303,
+              "lng": 9.9801333
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Hallerstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yj~eIqh|{@oA@m@?cA@m@?C@A@CBCD?BAB?\\"
+            },
+            "start_location": {
+              "lat": 53.5724473,
+              "lng": 9.9804139
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 96
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5745875,
+              "lng": 9.9800857
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yr~eIyf|{@e@?wB?MF"
+            },
+            "start_location": {
+              "lat": 53.5737303,
+              "lng": 9.9801333
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5746186,
+              "lng": 9.9796783
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Grindelberg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ex~eIqf|{@?|@ER"
+            },
+            "start_location": {
+              "lat": 53.5745875,
+              "lng": 9.9800857
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.57444040000001,
+              "lng": 9.9795568
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Grindelberg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kx~eI_d|{@ZRFB"
+            },
+            "start_location": {
+              "lat": 53.5746186,
+              "lng": 9.9796783
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 225
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5754933,
+              "lng": 9.9779035
+            },
+            "html_instructions": "Sharp <b>right</b> onto <b>Grindelberg</b>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "gw~eIgc|{@BJBHBLBP?L?JAPALEL?@EHGHIBMDCCCCICKAO?O@Q?K?SA[@Q?GDE@?@ABAH?L?F?D?D?b@Ax@?X?F"
+            },
+            "start_location": {
+              "lat": 53.57444040000001,
+              "lng": 9.9795568
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oh~eIq}}{@Q@GFGHERAJQAy@??j@@tB@fA^~a@FbHoFBMLAF?\\e@?wB?MF?|@ERb@VFTF^?XC^ENMRWHGGUE}@@o@?YDEBCL?`@A~B"
+    },
+    "summary": "Hallerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

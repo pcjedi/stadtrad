@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5908263,
+        "lng": 10.0335132
+      },
+      "southwest": {
+        "lat": 53.58195869999999,
+        "lng": 10.0147472
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2054
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 471
+        },
+        "end_address": "U Saarlandstra\u00dfe / Wiesendamm, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5888018,
+          "lng": 10.0330122
+        },
+        "start_address": "Gertigstra\u00dfe / For\u00dfmannstra\u00dfe, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58195869999999,
+          "lng": 10.0147472
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 333
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.58319400000001,
+              "lng": 10.0193328
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Gertigstra\u00dfe</b> toward <b>Forsmannstra\u00dfe</b>",
+            "polyline": {
+              "points": "gf`fIe_c|@k@oCqAsH{@eFUyAKk@O{@Ig@"
+            },
+            "start_location": {
+              "lat": 53.58195869999999,
+              "lng": 10.0147472
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5836805,
+              "lng": 10.0191839
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Barmbeker Str.</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}m`fIy{c|@w@Ni@L"
+            },
+            "start_location": {
+              "lat": 53.58319400000001,
+              "lng": 10.0193328
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1029
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 177
+            },
+            "end_location": {
+              "lat": 53.5872665,
+              "lng": 10.0335132
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Jarrestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_q`fI{zc|@MoAE[E[Ko@EUUsBM_Ai@cEo@qEAMIi@Y}BG_@Ec@y@gGAEo@}EMw@q@eDe@{B}@iEm@kCk@}Co@aDG[o@}CAEWmACu@"
+            },
+            "start_location": {
+              "lat": 53.5836805,
+              "lng": 10.0191839
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 398
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 121
+            },
+            "end_location": {
+              "lat": 53.5908263,
+              "lng": 10.0329279
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Saarlandstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mgafImtf|@U@aAH[Bc@A}CRiAPq@JQ@}@Fm@FC?{@JwAT"
+            },
+            "start_location": {
+              "lat": 53.5872665,
+              "lng": 10.0335132
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 239
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5888018,
+              "lng": 10.0330122
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Hellbrookstra\u00dfe</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "u}afIypf|@@j@lEa@dCQPC^ALA"
+            },
+            "start_location": {
+              "lat": 53.5908263,
+              "lng": 10.0329279
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gf`fIe_c|@k@oCqAsHqA_I[gBIg@w@Ni@LMoAKw@u@yFgEw[q@cF_A}EcBeIm@kCk@}Cw@}Dq@cDWmACu@wAJ[Bc@A}CR{B\\oAHq@FsC`@@j@lEa@vCUl@C"
+    },
+    "summary": "Jarrestra\u00dfe and Saarlandstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

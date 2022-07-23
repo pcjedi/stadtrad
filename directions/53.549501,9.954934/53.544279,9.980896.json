@@ -1,0 +1,407 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.550022,
+        "lng": 9.981527
+      },
+      "southwest": {
+        "lat": 53.5443308,
+        "lng": 9.955059
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2463
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 465
+        },
+        "end_address": "U Baumwall / Elbphilharmonie, 20459 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.54434149999999,
+          "lng": 9.980907600000002
+        },
+        "start_address": "S Reeperbahn / K\u00f6nigstra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5494121,
+          "lng": 9.955059
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "80 m",
+              "value": 80
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5495278,
+              "lng": 9.955783499999999
+            },
+            "html_instructions": "Head <b>northeast</b>",
+            "polyline": {
+              "points": "yzyeIcjw{@Ka@Ga@?uBC?A@?@@d@"
+            },
+            "start_location": {
+              "lat": 53.5494121,
+              "lng": 9.955059
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.54967569999999,
+              "lng": 9.9558371
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Reeperbahn</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "q{yeIsnw{@MCOG"
+            },
+            "start_location": {
+              "lat": 53.5495278,
+              "lng": 9.955783499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 905
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 190
+            },
+            "end_location": {
+              "lat": 53.550022,
+              "lng": 9.969430299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Reeperbahn</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o|yeI_ow{@?]AiA?U?e@?O@c@@c@Bq@JqB@UFs@BU@i@@s@@o@@q@@{A?AD}@@mA?}A?_@@s@Au@Au@Ag@Au@Cg@GwACg@Eq@Ac@Eo@GmAIgBCc@AKe@}JCc@A]A_@AY?[?OA_ACa@AwBAe@?}@"
+            },
+            "start_location": {
+              "lat": 53.54967569999999,
+              "lng": 9.9558371
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 116
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5491862,
+              "lng": 9.968370799999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Zirkusweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "s~yeI}cz{@b@t@rAbBNRLNNT"
+            },
+            "start_location": {
+              "lat": 53.550022,
+              "lng": 9.969430299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 259
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.5474105,
+              "lng": 9.970474099999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Am Elbpark</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "myyeIi}y{@Nk@BI?CJYBIBMJ_@FQFQFQFML]DMFOR_@PYDGDGXU?AVO@ADC`@STGDAb@IDA@?B?F?PH"
+            },
+            "start_location": {
+              "lat": 53.5491862,
+              "lng": 9.968370799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 143
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5475305,
+              "lng": 9.972624699999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kersten-Miles-Br\u00fccke</b>/<wbr/><b>Seewartenstra\u00dfe</b><div style=\"font-size:0.9em\">Continue to follow Seewartenstra\u00dfe</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "inyeImjz{@?I?IC}@?EAm@C{@C{@A}@AWC{@A]"
+            },
+            "start_location": {
+              "lat": 53.5474105,
+              "lng": 9.970474099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 372
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5468723,
+              "lng": 9.9778361
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Venusberg</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "aoyeI{wz{@Pi@BEx@mBN]JYDO@O@UAy@E{EGkI?U@QBq@@K@MBMBKFOBG"
+            },
+            "start_location": {
+              "lat": 53.5475305,
+              "lng": 9.972624699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5468856,
+              "lng": 9.978115299999999
+            },
+            "html_instructions": "Slight <b>left</b> at <b>Hohler Weg</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "}jyeIox{{@Cw@"
+            },
+            "start_location": {
+              "lat": 53.5468723,
+              "lng": 9.9778361
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5465682,
+              "lng": 9.9781553
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Schaarsteinweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "akyeIgz{{@~@E?A"
+            },
+            "start_location": {
+              "lat": 53.5468856,
+              "lng": 9.978115299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "85 m",
+              "value": 85
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.54640819999999,
+              "lng": 9.979381199999999
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Schaarsteinweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "aiyeIoz{{@?A@WDa@Fc@F[BQ@Q?GAE?AAABO@KAG?G@I?K"
+            },
+            "start_location": {
+              "lat": 53.5465682,
+              "lng": 9.9781553
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 141
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5460207,
+              "lng": 9.9814039
+            },
+            "html_instructions": "Continue onto <b>Schaarsteinweg</b>",
+            "polyline": {
+              "points": "ahyeIcb|{@?GHq@RgBB]RaBVqB"
+            },
+            "start_location": {
+              "lat": 53.54640819999999,
+              "lng": 9.979381199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 174
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5445618,
+              "lng": 9.9805794
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Stubbenhuk</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "seyeIwn|{@d@l@HFDD@?HDlBt@d@Tf@TH@B?H?DAF?"
+            },
+            "start_location": {
+              "lat": 53.5460207,
+              "lng": 9.9814039
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "63 m",
+              "value": 63
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.54446249999999,
+              "lng": 9.9815056
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Baumwall</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o|xeIsi|{@?a@BQ?GBIDe@DmA"
+            },
+            "start_location": {
+              "lat": 53.5445618,
+              "lng": 9.9805794
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.54434699999999,
+              "lng": 9.981527
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Baumwall</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{{xeImo|{@TC"
+            },
+            "start_location": {
+              "lat": 53.54446249999999,
+              "lng": 9.9815056
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.54434149999999,
+              "lng": 9.980907600000002
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Baumwall</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "e{xeIqo|{@@F?D?H@H?H?R?R?H?BAF?P"
+            },
+            "start_location": {
+              "lat": 53.54434699999999,
+              "lng": 9.981527
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "yzyeIcjw{@ScA?uBC?A@@f@]KAgB@oBDuALgCJiAB}AD_EFkC?}B?iBC}AMuDi@sKm@_NCeCEyCAcBb@t@rAbB\\b@NTNk@BM^qA^cARk@Zo@Va@^]^Wv@[h@KJAF?PH?ICgAAs@KmEEyATo@hAkCPi@Be@GuGGaJDcAJs@JWCw@~@E?CFy@N_ADc@CQDiAt@yGVqBd@l@NL~CpAp@VL?LABs@Hw@DmATC@L@p@Az@"
+    },
+    "summary": "Reeperbahn",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

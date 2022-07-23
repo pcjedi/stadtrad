@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5891871,
+        "lng": 10.0139947
+      },
+      "southwest": {
+        "lat": 53.57676559999999,
+        "lng": 9.9914303
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.4 km",
+          "value": 2388
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 512
+        },
+        "end_address": "U Kellinghusenstra\u00dfe / Loogeplatz, 20249 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5884609,
+          "lng": 9.9914303
+        },
+        "start_address": "Hofweg / Am Langenzug, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780356,
+          "lng": 10.0139947
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 269
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "html_instructions": "Head <b>west</b> on <b>Am Langenzug</b> toward <b>Marienterrasse</b>",
+            "polyline": {
+              "points": "wm_fImzb|@@FH`@DVJ\\Lb@l@bBDVTv@H\\`@xARr@x@`DLl@"
+            },
+            "start_location": {
+              "lat": 53.5780356,
+              "lng": 10.0139947
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1266
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 263
+            },
+            "end_location": {
+              "lat": 53.58716339999999,
+              "lng": 10.0027168
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sierichstra\u00dfe</b><div style=\"font-size:0.9em\">Closed 4:00 \u2013 11:59 AM</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ye_fIydb|@_@T]RWNc@VOJUL]RqBvAq@b@{@l@o@b@c@\\qA|@IHiBjA]Tq@d@MHe@ZUPsBvAeBlAw@j@i@ZgChBSJ[Vo@b@iAv@OHg@`@]VKHYRq@b@qA|@kBpAy@h@s@h@s@`@]Tq@j@"
+            },
+            "start_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 346
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 87
+            },
+            "end_location": {
+              "lat": 53.5881895,
+              "lng": 9.9977696
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Kl\u00e4rchenstra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "wfafI_t`|@w@bGGl@c@vDKfAWfBStAGh@]jCKv@"
+            },
+            "start_location": {
+              "lat": 53.58716339999999,
+              "lng": 10.0027168
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 425
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5891871,
+              "lng": 9.9915566
+            },
+            "html_instructions": "Continue onto <b>Goernestra\u00dfe</b>",
+            "polyline": {
+              "points": "emafIau_|@C\\Cn@Gz@KpACRYzCKfAUhCOxBEZUdCOjBYxCCTIf@GZ"
+            },
+            "start_location": {
+              "lat": 53.5881895,
+              "lng": 9.9977696
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "66 m",
+              "value": 66
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5885958,
+              "lng": 9.9915153
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kellinghusenstra\u00dfe</b>/<wbr/><b>Loogepl.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "msafIgn~{@F?PBP?D?D@D?^@@@FAH@BA"
+            },
+            "start_location": {
+              "lat": 53.5891871,
+              "lng": 9.9915566
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5884609,
+              "lng": 9.9914303
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Loogepl.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "woafI_n~{@NJJD"
+            },
+            "start_location": {
+              "lat": 53.5885958,
+              "lng": 9.9915153
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wm_fImzb|@\\~Az@fCZnAxBlILl@_@Tu@b@gBdAoGlEuBzAsBtAcC`BiOlKqDfCi@`@kAv@kHbFqAv@q@j@w@bGk@dFc@nDeAbIGlASlC_A`K{@fK]nDQbAp@Bl@DP?RHJD"
+    },
+    "summary": "Sierichstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

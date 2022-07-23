@@ -1,0 +1,215 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5992293,
+        "lng": 9.9940108
+      },
+      "southwest": {
+        "lat": 53.583875,
+        "lng": 9.9778737
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2278
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 492
+        },
+        "end_address": "L\u00f6wenstra\u00dfe / Eppendorfer Weg, 20251 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.583875,
+          "lng": 9.9779957
+        },
+        "start_address": "U Lattenkamp / Bebelallee, 20249 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5992293,
+          "lng": 9.9940108
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 344
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 86
+            },
+            "end_location": {
+              "lat": 53.597942,
+              "lng": 9.989379099999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Meenkwiese</b> toward <b>Bebelallee</b>",
+            "polyline": {
+              "points": "ercfIq}~{@@X@ZBd@@b@L~BLbA?DD^DVLt@DTBLh@tBzAtEXlADHDJBFFH"
+            },
+            "start_location": {
+              "lat": 53.5992293,
+              "lng": 9.9940108
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 631
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 128
+            },
+            "end_location": {
+              "lat": 53.5925433,
+              "lng": 9.9884285
+            },
+            "html_instructions": "Continue onto <b>Eppendorfer Landstra\u00dfe</b>",
+            "polyline": {
+              "points": "cjcfIs`~{@RJTFH@`@FTTRXLPJPLTBDRXLPd@`@XTLHRLp@Ph@LJ@P@PAb@IFALG\\OJETKFARCF@D?P?f@?X@POnACdDSTAJ?j@Ed@AFC"
+            },
+            "start_location": {
+              "lat": 53.597942,
+              "lng": 9.989379099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 442
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 112
+            },
+            "end_location": {
+              "lat": 53.5902107,
+              "lng": 9.9833724
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schottm\u00fcllerstra\u00dfe</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "khbfIuz}{@?~C@rADPJZJPDJp@tAbApBnBrD?@NVTb@JPJPVb@@@^l@`@t@P`@Xh@"
+            },
+            "start_location": {
+              "lat": 53.5925433,
+              "lng": 9.9884285
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 514
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.5857003,
+              "lng": 9.981839100000002
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Lenhartzstra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "yyafIa{|{@RHPHPHNHdAn@^Rn@RJB\\AXFl@J|A\\nAVn@Nz@P~AZVBfANTDdAL"
+            },
+            "start_location": {
+              "lat": 53.5902107,
+              "lng": 9.9833724
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 97
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.58499699999999,
+              "lng": 9.9810237
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lehmweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "s}`fIoq|{@TXLJ\\`@LPD@JBHXBHBBVZ"
+            },
+            "start_location": {
+              "lat": 53.5857003,
+              "lng": 9.981839100000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 241
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.58391779999999,
+              "lng": 9.9778737
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Eppendorfer Weg</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "gy`fIkl|{@HVDFJ\\b@xA`@dBf@rBn@zC\\fB"
+            },
+            "start_location": {
+              "lat": 53.58499699999999,
+              "lng": 9.9810237
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.583875,
+              "lng": 9.9779957
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>L\u00f6wenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "or`fIux{{@FY"
+            },
+            "start_location": {
+              "lat": 53.58391779999999,
+              "lng": 9.9778737
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ercfIq}~{@H~BL~BLbADd@\\pBh@tBzAtE^vAHRFHRJ^H`@FTT`@j@Xf@V^r@r@f@^RLp@Pt@Nb@?j@Kj@W`@QZEL@x@?X@POtFWrBIFC?~C@rADPJZJPv@`BbE~HdAjB`@n@r@vAXh@RHb@RtAx@^Rn@Rh@@fARxGvAvB^|ATdALTXj@l@RRJBHXFLVZHVPd@dA~DvAnG\\fBFY"
+    },
+    "summary": "Eppendorfer Landstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

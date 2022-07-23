@@ -1,0 +1,286 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5536256,
+        "lng": 10.0246707
+      },
+      "southwest": {
+        "lat": 53.5518797,
+        "lng": 10.0044325
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1544
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 315
+        },
+        "end_address": "Hauptbahnhof / Glockengie\u00dferwall, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5536256,
+          "lng": 10.0044325
+        },
+        "start_address": "S+U Berliner Tor / Beim Strohhause, 20099 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5533318,
+          "lng": 10.0245827
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>Berlinertordamm</b>",
+            "polyline": {
+              "points": "iszeIs|d|@OQS@"
+            },
+            "start_location": {
+              "lat": 53.5533318,
+              "lng": 10.0245827
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5534932,
+              "lng": 10.0245305
+            },
+            "html_instructions": "Take the crosswalk",
+            "polyline": {
+              "points": "mtzeIc}d|@UDTE@N@H"
+            },
+            "start_location": {
+              "lat": 53.5535058,
+              "lng": 10.0246589
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.55360229999999,
+              "lng": 10.0244569
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Berliner Tor</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "itzeIi|d|@UL"
+            },
+            "start_location": {
+              "lat": 53.5534932,
+              "lng": 10.0245305
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 413
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.5525862,
+              "lng": 10.0184759
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Beim Strohhause</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_uzeI{{d|@Bd@JbBDt@LhBFv@PnBFv@Dn@Dp@Fp@D`@BVBb@Dh@@HZxBN`AHn@Pn@?TPhA"
+            },
+            "start_location": {
+              "lat": 53.55360229999999,
+              "lng": 10.0244569
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5527637,
+              "lng": 10.0178857
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Adenauerallee</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "unzeIovc|@BZ?J?FAFABADCDUXABADAB?D"
+            },
+            "start_location": {
+              "lat": 53.5525862,
+              "lng": 10.0184759
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 530
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 95
+            },
+            "end_location": {
+              "lat": 53.5523125,
+              "lng": 10.0099128
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Adenauerallee</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "wozeIyrc|@BzANbH?\\Bb@BzBLbD@tB?Z@h@FlA@f@HzE?L?F?F?NDzADfAJxB"
+            },
+            "start_location": {
+              "lat": 53.5527637,
+              "lng": 10.0178857
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "69 m",
+              "value": 69
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5522153,
+              "lng": 10.0088818
+            },
+            "html_instructions": "Continue onto <b>Steintorpl.</b>",
+            "polyline": {
+              "points": "}lzeI}`b|@JbCDhA"
+            },
+            "start_location": {
+              "lat": 53.5523125,
+              "lng": 10.0099128
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 203
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.551953,
+              "lng": 10.0059005
+            },
+            "html_instructions": "Continue straight onto <b>Steintorbr\u00fccke</b>/<wbr/><b>Steintordamm</b>",
+            "maneuver": "straight",
+            "polyline": {
+              "points": "klzeIoza|@D\\@NFx@Fz@T`D@LLvB?BDj@?PAVCNCLCN"
+            },
+            "start_location": {
+              "lat": 53.5522153,
+              "lng": 10.0088818
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 104
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5528352,
+              "lng": 10.0053979
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Steintorwall</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ujzeI{ga|@UDYHYJQFOHKFKFm@d@"
+            },
+            "start_location": {
+              "lat": 53.551953,
+              "lng": 10.0059005
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 109
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5536256,
+              "lng": 10.0044325
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Glockengie\u00dferwall</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "gpzeIwda|@c@j@qAbBY`@MN"
+            },
+            "start_location": {
+              "lat": 53.5528352,
+              "lng": 10.0053979
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "iszeIs|d|@OQS@UDTEBXULBd@PxCT`Dd@hGLrAFz@Fr@j@zDZ~A?TPhABf@ANCHY^ERV`MP~G@pCHvBJbG?l@JbDV|FTpDl@bJDn@Ah@G\\CNUDs@Ta@PWNm@d@c@j@kBdCMN"
+    },
+    "summary": "Adenauerallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

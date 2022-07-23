@@ -1,0 +1,214 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5636566,
+        "lng": 10.0576561
+      },
+      "southwest": {
+        "lat": 53.5470861,
+        "lng": 10.0337309
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.9 km",
+          "value": 2855
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 630
+        },
+        "end_address": "U Wartenau / L\u00fcbecker Stra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5636566,
+          "lng": 10.0339528
+        },
+        "start_address": "S\u00fcderstra\u00dfe / Osterbrookplatz, 20537 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5470861,
+          "lng": 10.0576561
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "45 m",
+              "value": 45
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5471564,
+              "lng": 10.056981
+            },
+            "html_instructions": "Head <b>west</b> on <b>Osterbrookpl.</b>",
+            "polyline": {
+              "points": "ilyeIkkk|@Ad@K`B"
+            },
+            "start_location": {
+              "lat": 53.5470861,
+              "lng": 10.0576561
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 898
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 174
+            },
+            "end_location": {
+              "lat": 53.5483784,
+              "lng": 10.0436801
+            },
+            "html_instructions": "Continue onto <b>S\u00fcderstra\u00dfe</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "polyline": {
+              "points": "wlyeIcgk|@Ct@OdDEx@ALMhCADAXAt@e@pIGpAEx@Cn@AVEJKfCA?A@A@A@A@ABADAD?BAD?B?B@D?D@B@BBDCXIlBBP?NMxBKrBEp@ItAAPCn@OvCA^Cb@K~BErCA^CNEfAAp@?H?zA"
+            },
+            "start_location": {
+              "lat": 53.5471564,
+              "lng": 10.056981
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 847
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 191
+            },
+            "end_location": {
+              "lat": 53.5555959,
+              "lng": 10.0406697
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Grevenweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ktyeI_th|@o@d@]TSLURoA~@OLa@\\g@b@m@`@eAr@iBpAYPIFa@TKFi@\\QLi@\\YNOHKDGAA?C?K?]AY?W@uAJ?@A??@EL}ABI@iBBMIA?M?MEqABQ@e@D]AS?O?Q?Q@"
+            },
+            "start_location": {
+              "lat": 53.5483784,
+              "lng": 10.0436801
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 718
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 146
+            },
+            "end_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "html_instructions": "Continue onto <b>Burgstra\u00dfe</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "polyline": {
+              "points": "oa{eIeah|@E@G@KBGDIDQJABIDSNQPIHEBIHKDSNmA`@wBr@QDc@NIGA?A?O@IDSFWFYDi@LUDIBODi@HODM@UFSDKFKDSLUHQJGDIDGFGFOLUV_@b@k@n@SXCF{@t@}@z@a@Xo@h@"
+            },
+            "start_location": {
+              "lat": 53.5555959,
+              "lng": 10.0406697
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5615169,
+              "lng": 10.0364472
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Angerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{f|eIkjg|@B\\Dx@?F@P"
+            },
+            "start_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 281
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5634528,
+              "lng": 10.0337309
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Freiligrathstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "of|eIyfg|@yA|BkBzC{@pAU\\s@dAi@r@KZ"
+            },
+            "start_location": {
+              "lat": 53.5615169,
+              "lng": 10.0364472
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5636566,
+              "lng": 10.0339528
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qr|eIyuf|@i@k@"
+            },
+            "start_location": {
+              "lat": 53.5634528,
+              "lng": 10.0337309
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ilyeIkkk|@y@zPCnAm@bLIhBGb@MfCCBGLCRBRDHMfCB`@YlFQxCYjGK~BErCA^CNGxB?dBwB|A_BlAiA`AwFxDaBbAeBdAKDGAE?{A?wALENgBDiBBMIO?MEqABw@FsAAk@He@Zy@p@o@b@{FjBMGeAVcB\\wAVi@LWLcAh@i@b@u@z@_AhA_A|@_BtAo@h@B\\D`A@PyA|BgDlFiAbBi@r@KZi@k@"
+    },
+    "summary": "S\u00fcderstra\u00dfe and Grevenweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

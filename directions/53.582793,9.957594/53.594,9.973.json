@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5940743,
+        "lng": 9.972965
+      },
+      "southwest": {
+        "lat": 53.58278319999999,
+        "lng": 9.957495699999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2105
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 448
+        },
+        "end_address": "S\u00fcderfeldstra\u00dfe / Universit\u00e4tsklinikum Eppendorf, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5940743,
+          "lng": 9.972965
+        },
+        "start_address": "Troplowitzstra\u00dfe 21, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58278319999999,
+          "lng": 9.957519699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5828475,
+              "lng": 9.957495699999999
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Troplowitzstra\u00dfe</b>",
+            "polyline": {
+              "points": "kk`fIoyw{@MB"
+            },
+            "start_location": {
+              "lat": 53.58278319999999,
+              "lng": 9.957519699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 832
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 219
+            },
+            "end_location": {
+              "lat": 53.5861512,
+              "lng": 9.9686839
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Troplowitzstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yk`fIkyw{@Ek@Ca@Cc@_@mFOuBAKGk@Ic@Mk@Oe@a@{AM_@CIMg@YeAi@qB[iAe@cBOe@Ke@Ok@Os@Ww@Om@[uAMi@U_Ai@}B[uACYAIAIGUACi@qBIi@Ky@Ou@EQIW"
+            },
+            "start_location": {
+              "lat": 53.5828475,
+              "lng": 9.957495699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 853
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 161
+            },
+            "end_location": {
+              "lat": 53.5937274,
+              "lng": 9.9667437
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lokstedter Steindamm</b>/<wbr/><b>B447</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "m`afIg_z{@SD_@J_@Lc@Jk@POBi@Hq@FO@WB{@Hc@Dy@HYB[D_ARAAC?A?A?YF[Fi@He@HaAP}Cf@wA\\c@Hk@L]FK@_@FSBs@Lk@HUDeAPYBwAT"
+            },
+            "start_location": {
+              "lat": 53.5861512,
+              "lng": 9.9686839
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 413
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.5940743,
+              "lng": 9.972965
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>S\u00fcderfeldstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yobfIcsy{@?C?q@?e@KqGEwFCcAEcEC]EiBCo@AQCe@S}B"
+            },
+            "start_location": {
+              "lat": 53.5937274,
+              "lng": 9.9667437
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kk`fIoyw{@MBEk@GeAo@cJIw@WoAq@aCy@wC{BeIcA}DoAmFeAsEEc@u@uCUcBUgAIWSD_AXoA\\y@LuCVsCXgAPaBXgBZ}Cf@wA\\oAVi@HsCb@mEp@KmJS}OOqES}B"
+    },
+    "summary": "Troplowitzstra\u00dfe and Lokstedter Steindamm/B447",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
