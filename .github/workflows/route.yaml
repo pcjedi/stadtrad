@@ -24,5 +24,5 @@ jobs:
           git config user.email github-actions@github.com
           git config pull.rebase true
           git add directions
-          git commit -a --allow-empty-message -m '' || exit 0
+          git commit -m 'add directions' || exit 0
           git pull && git push
