@@ -26,5 +26,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git config pull.ff only
           git add data/*
-          git commit -a --allow-empty-message -m '' || exit 0
+          git commit -m 'data update' || exit 0
+          git add crawler/params.json
+          git commit -m 'params update' || exit 0
           git pull && git push

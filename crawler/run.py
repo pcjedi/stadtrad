@@ -4,6 +4,7 @@ import pandas as pd
 import json
 import datetime
 import os
+import write_params
 
 payload_dict = dict()
 s = stadtrad_session()
@@ -26,3 +27,6 @@ pd.json_normalize(data=payload_dict.values()).to_csv(
     path_or_buf=path,
     index=False,
 )
+
+if rerun_params:
+    write_params.main()

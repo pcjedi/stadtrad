@@ -28,11 +28,9 @@ def offs(payload):
     return max(lats) - min(lats), max(lngs) - min(lngs)
 
 
-if __name__ == "__main__":
+def main():
     payload = list()
-    positions = set()
     payload_dict_all = dict()
-    param2station = dict()
     station2param = defaultdict(list)
 
     s = stadtrad_session()
@@ -66,7 +64,6 @@ if __name__ == "__main__":
             n1, n2 = 0, 0
             f1, f2 = 1, 1
             payload = list()
-            positions = set()
             payload_dict_all = dict()
             continue
         if set(payload_dict.keys()) - set(payload_dict_all.keys()) == set():
@@ -107,3 +104,7 @@ if __name__ == "__main__":
                 indent=2,
             )
         )
+
+
+if __name__ == "__main__":
+    main()
