@@ -7,7 +7,9 @@
 	"name": "Devcontainer",
 
 	// https://code.visualstudio.com/docs/remote/devcontainerjson-reference#_vs-code-specific-properties
-	"settings": { 
+	"settings": {
+		"update.showReleaseNotes": false,
+		"workbench.welcomePage.walkthroughs.openOnInstall": false,
 		"python.linting.enabled": true,
 		"python.linting.flake8Enabled": true,
 		"python.linting.flake8Args": ["--max-line-length=127", "--verbose"],
