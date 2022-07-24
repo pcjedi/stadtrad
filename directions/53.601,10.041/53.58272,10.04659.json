@@ -1,0 +1,142 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6009992,
+        "lng": 10.0467149
+      },
+      "southwest": {
+        "lat": 53.5827975,
+        "lng": 10.040986
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2298
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 507
+        },
+        "end_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "start_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hartzloh, 22307 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6009992,
+          "lng": 10.040986
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1107
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 187
+            },
+            "end_location": {
+              "lat": 53.5913683,
+              "lng": 10.0439462
+            },
+            "html_instructions": "Head <b>south</b> on <b>Fuhlsb\u00fcttler Str.</b> toward <b>Lauensteinstra\u00dfe</b>",
+            "polyline": {
+              "points": "g}cfIech|@JA`BMnAMzASnAc@TQLKRKHGFCZQBEDGRKBCXSRKVOZQ|CsBv@c@jAk@^K|Ag@lA_@h@OvA]dAUjAYr@Od@EFAB?D?BAD?P?TCbACV?VBZ@jAF^?V?jBp@PD"
+            },
+            "start_location": {
+              "lat": 53.6009992,
+              "lng": 10.040986
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 800
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 196
+            },
+            "end_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "html_instructions": "Continue onto <b>Hufnerstra\u00dfe</b>",
+            "polyline": {
+              "points": "aabfIuuh|@PFrAv@NHLDv@b@@?`B`ALJlAt@`An@JZNLh@VVLXRNJJDb@LR@J?hAl@b@LZDd@Lb@C\\?DAR?VCTGVINGBALIJIPCd@a@d@a@l@g@FI@AB?HAB?BA@?BCJHFBf@\\DDt@f@"
+            },
+            "start_location": {
+              "lat": 53.5913683,
+              "lng": 10.0439462
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 373
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Flachsland</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "aw`fI{hh|@?g@@C?A@GP{@@CFWx@yDj@cCF[Nu@Li@R_ATkA?EHYFYBKDSFQBC\\e@b@OTUDK"
+            },
+            "start_location": {
+              "lat": 53.5846476,
+              "lng": 10.041899
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "html_instructions": "Continue onto <b>Pfenningsbusch</b>",
+            "polyline": {
+              "points": "el`fIwei|@Te@"
+            },
+            "start_location": {
+              "lat": 53.5829098,
+              "lng": 10.0465235
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g}cfIech|@lBOjDa@nAc@TQ`@Wp@c@v@k@j@[xDeCbCoA|Bs@vBo@|Cs@~Bi@l@GRAf@CzACr@DjBFV?jBp@b@LhDjBbB`AzA`A`An@JZx@d@lAr@b@LR@J?hAl@b@LZDd@Lb@Cb@Aj@C`A[XSPCd@a@rAiAHKTCDCRLl@b@t@f@?g@@ERcAnByIx@{Df@eCTu@\\e@b@OZa@Te@"
+    },
+    "summary": "Fuhlsb\u00fcttler Str. and Hufnerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

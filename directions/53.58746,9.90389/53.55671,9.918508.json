@@ -1,0 +1,309 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5873839,
+        "lng": 9.9204052
+      },
+      "southwest": {
+        "lat": 53.55679869999999,
+        "lng": 9.9038928
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.2 km",
+          "value": 4218
+        },
+        "duration": {
+          "text": "14 mins",
+          "value": 866
+        },
+        "end_address": "Hohenzollernring / Friedensallee, 22763 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55679869999999,
+          "lng": 9.9185787
+        },
+        "start_address": "Sylvesterallee 1, 22525 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5873839,
+          "lng": 9.9038928
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 290
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.5852871,
+              "lng": 9.9061945
+            },
+            "html_instructions": "Head <b>east</b>",
+            "polyline": {
+              "points": "chafIijm{@Aa@@U@KDIDIFCb@Y|@o@NIRUV_@T]p@_AZ]PQTSHGPKj@_@XO"
+            },
+            "start_location": {
+              "lat": 53.5873839,
+              "lng": 9.9038928
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "69 m",
+              "value": 69
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5852432,
+              "lng": 9.905156
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a{`fIuxm{@BtA@z@Bz@"
+            },
+            "start_location": {
+              "lat": 53.5852871,
+              "lng": 9.9061945
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 550
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 91
+            },
+            "end_location": {
+              "lat": 53.58280629999999,
+              "lng": 9.9119841
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wz`fIgrm{@XUDETWDKR_@r@eBDIJYJWDU@[Di@Hk@b@kBLi@V{@Xs@@YFe@Hi@Je@J[Fc@JkAHc@FSLOLWd@y@BELSHUBQDQ?AHc@Je@BOBO?C?W?GAG?GCGIQ"
+            },
+            "start_location": {
+              "lat": 53.5852432,
+              "lng": 9.905156
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 131
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5823318,
+              "lng": 9.913799899999999
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Schnackenburgallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qk`fI{|n{@DWFa@Hm@Lc@Hk@Jk@Jm@Jk@DQD["
+            },
+            "start_location": {
+              "lat": 53.58280629999999,
+              "lng": 9.9119841
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "68 m",
+              "value": 68
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5827024,
+              "lng": 9.9146118
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Schnackenburgallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qh`fIgho{@Oc@M_@Qm@ACWk@"
+            },
+            "start_location": {
+              "lat": 53.5823318,
+              "lng": 9.913799899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1443
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 280
+            },
+            "end_location": {
+              "lat": 53.57083009999999,
+              "lng": 9.9180239
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schnackenburgallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{j`fIimo{@VqADSVkAb@cCLm@DSFQFSL]HQJSPYLSLOJMLMNMPMLGLIXIRKRMB?XCVCF?DArASz@M@?VEr@K^Gb@GPCh@GnAQHLdAORCh@Ib@GLChCYREv@OJAn@GLAFAB?l@E@?F?d@AD?VAJAbAAR@fADP?HM~@Hl@DPBJ?f@DPBD?B?JB|BZd@HJ@D@^FHHJDLFj@LLBPFlBf@XFNF"
+            },
+            "start_location": {
+              "lat": 53.5827024,
+              "lng": 9.9146118
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 778
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 133
+            },
+            "end_location": {
+              "lat": 53.5639761,
+              "lng": 9.9193079
+            },
+            "html_instructions": "Continue onto <b>Bornkampsweg</b>",
+            "polyline": {
+              "points": "u`~eIsbp{@PHTHTHBBTFJF@?b@JNBNAJEB@R@T@L?PAPAb@CRCb@CPCXC\\ENAf@EXCDANDD?n@Gj@E\\G`@MRILEPOBAb@KNEXGJEJG\\IZIv@OpAYFAv@YTIZK@ARG\\MNG\\KLCJBF?f@GRI"
+            },
+            "start_location": {
+              "lat": 53.57083009999999,
+              "lng": 9.9180239
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 116
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.563077,
+              "lng": 9.920167099999999
+            },
+            "html_instructions": "Continue onto <b>Bahrenfelder Steindamm</b>",
+            "polyline": {
+              "points": "{u|eIujp{@\\QRMTQJIFE?AJUb@a@FG^g@"
+            },
+            "start_location": {
+              "lat": 53.5639761,
+              "lng": 9.9193079
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 431
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 89
+            },
+            "end_location": {
+              "lat": 53.5594073,
+              "lng": 9.9202573
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Daimlerstra\u00dfe</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "gp|eIapp{@l@L`B@xCJX@~DL?@?@?@?@?@@??@?@@@?@@??@@??@@?@?@?@??A@?@A?A@??A?A@??A?A?A@??A?A?A?A?AA??A?A?A?Ab@k@l@c@J@F@D?F@@?B?@@F?N@D?F@RFJH"
+            },
+            "start_location": {
+              "lat": 53.563077,
+              "lng": 9.920167099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 312
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.5569092,
+              "lng": 9.9181645
+            },
+            "html_instructions": "Continue onto <b>Hohenzollernring</b>",
+            "polyline": {
+              "points": "iy{eIspp{@ZXB@RTNPXZvAfAnAv@VPz@h@nAv@r@b@Tj@"
+            },
+            "start_location": {
+              "lat": 53.5594073,
+              "lng": 9.9202573
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.55679869999999,
+              "lng": 9.9185787
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Friedensallee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ui{eIocp{@Hg@Jk@"
+            },
+            "start_location": {
+              "lat": 53.5569092,
+              "lng": 9.9181645
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "chafIijm{@?w@FULM`BiAb@_@l@}@lA}Af@e@`BcADpCBz@XUZ]Xk@pAaDVgCp@uCp@oBRiBVaARoBPw@LOdAkBR{@\\iBAk@Ma@Ly@VqAl@qDJm@]cASq@Wk@VqA\\_Bp@qDb@wAt@sAv@y@^Uf@Sf@Y\\CxBYhC_@~B[nAQHLxASdFo@jAUz@IfAIt@AzBCxADHM~@H~@Hr@Df@FtDh@^FHHXLxD`Ah@Nf@Rz@\\d@JNBNANCh@BtAGrEa@TBt@GhAMt@WLEPOf@Mh@MVMbE}@pBq@bA_@j@ORBz@Qp@_@h@c@JUb@a@f@o@l@L`B@rDL~DN?@?B@BBFJ?DM@IAC?Ab@m@l@c@J@L@H@\\BL@RFJH^Zb@f@XZvAfAfBhAjC`Br@b@Tj@TsA"
+    },
+    "summary": "Schnackenburgallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

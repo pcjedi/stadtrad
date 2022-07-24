@@ -1,0 +1,262 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5603096,
+        "lng": 9.9421777
+      },
+      "southwest": {
+        "lat": 53.5470674,
+        "lng": 9.9090419
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.1 km",
+          "value": 3101
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 669
+        },
+        "end_address": "S K\u00f6nigstra\u00dfe / Struenseestra\u00dfe, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5470674,
+          "lng": 9.9421777
+        },
+        "start_address": "S Bahrenfeld / Friedensallee, 22761 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5602301,
+          "lng": 9.9090419
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5603096,
+              "lng": 9.9091123
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>Friedensallee</b>",
+            "polyline": {
+              "points": "m~{eIojn{@OM"
+            },
+            "start_location": {
+              "lat": 53.5602301,
+              "lng": 9.9090419
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 953
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 225
+            },
+            "end_location": {
+              "lat": 53.5560206,
+              "lng": 9.9215229
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedensallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}~{eI}jn{@n@yATo@DQj@mBF[fAsDL_@HW\\iAXy@^wAb@{AZ{@\\_Aj@cBh@yAFYHa@^mBDWZ_BHa@^kBNy@^sBLo@Hg@j@yCv@yENu@\\oBF_@BQHk@"
+            },
+            "start_location": {
+              "lat": 53.5603096,
+              "lng": 9.9091123
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 600
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 117
+            },
+            "end_location": {
+              "lat": 53.5515838,
+              "lng": 9.9257454
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00dfe Brunnenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cd{eIoxp{@r@MHCRCHAp@K@?RKPMTEPBb@KnBi@j@Gh@MLILOLWJWLYRo@Ne@J]HWhAqCz@gC\\o@Xc@PUb@a@|@k@"
+            },
+            "start_location": {
+              "lat": 53.5560206,
+              "lng": 9.9215229
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 424
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5521432,
+              "lng": 9.9320574
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ottenser Hauptstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "khzeI}rq{@AK?GAUGgAEu@MyCG{@OwBIwACe@YkEAc@?YAWC]?E@}@?ICgA?G@O@Q@KAC?AAC?GGoAAC?C@C"
+            },
+            "start_location": {
+              "lat": 53.5515838,
+              "lng": 9.9257454
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 237
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5500937,
+              "lng": 9.932882
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Am Felde</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{kzeIkzr{@?A@A@ADCHE`DiAbAa@NEh@Qd@QXIL?VJ"
+            },
+            "start_location": {
+              "lat": 53.5521432,
+              "lng": 9.9320574
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 121
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5502589,
+              "lng": 9.934657399999999
+            },
+            "html_instructions": "Sharp <b>left</b> onto <b>Lobuschstra\u00dfe</b>",
+            "maneuver": "turn-sharp-left",
+            "polyline": {
+              "points": "a_zeIo_s{@Oi@EUAa@CaAEyACk@By@"
+            },
+            "start_location": {
+              "lat": 53.5500937,
+              "lng": 9.932882
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 95
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5501893,
+              "lng": 9.9360901
+            },
+            "html_instructions": "Continue onto <b>Platz d. Republik</b>",
+            "polyline": {
+              "points": "c`zeIsjs{@Am@?[B]B_@@w@@o@@M@_@"
+            },
+            "start_location": {
+              "lat": 53.5502589,
+              "lng": 9.934657399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 328
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.549983,
+              "lng": 9.9410404
+            },
+            "html_instructions": "Continue onto <b>Ehrenbergstra\u00dfe</b>",
+            "polyline": {
+              "points": "u_zeIqss{@Bc@@{@BeB?]DiBB}@BeDBwA@i@?OAS?IAI@YBq@HeD"
+            },
+            "start_location": {
+              "lat": 53.5501893,
+              "lng": 9.9360901
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 333
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.5470674,
+              "lng": 9.9421777
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Behnstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k~yeIort{@dCu@z@[bCq@REBAl@OrDeADA"
+            },
+            "start_location": {
+              "lat": 53.549983,
+              "lng": 9.9410404
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "m~{eIojn{@OMn@yAZaAr@iCtAsE`BsF~@wChAcDh@yAFYh@oCjAeGxE_XJq@Hk@r@M\\Gz@MTKPMTEPBb@KnBi@j@Gh@MLIZg@Xq@b@uATu@hAqCz@gCv@sAt@w@|@k@AKA]c@sIw@aMA}@Eu@AuCDu@KmBHI~FwBnAc@XIL?VJOi@EUAa@I{CCk@By@AiAF}@FuCD_BBcCHgDF}F?wAL{F`EqAvCw@jFyA"
+    },
+    "summary": "Friedensallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5992293,
+        "lng": 10.0100639
+      },
+      "southwest": {
+        "lat": 53.5838791,
+        "lng": 9.9938849
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.4 km",
+          "value": 2375
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 506
+        },
+        "end_address": "U Lattenkamp / Bebelallee, 20249 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5992293,
+          "lng": 9.9940108
+        },
+        "start_address": "Goldbekplatz / Semperstra\u00dfe, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5838791,
+          "lng": 10.0097925
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "67 m",
+              "value": 67
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5844584,
+              "lng": 10.0100639
+            },
+            "html_instructions": "Head <b>north</b> on <b>Goldbekpl.</b> toward <b>Moorfuhrtweg</b>",
+            "polyline": {
+              "points": "gr`fIe`b|@OIc@U[OKCAAG?M?"
+            },
+            "start_location": {
+              "lat": 53.5838791,
+              "lng": 10.0097925
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 141
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5854517,
+              "lng": 10.0087417
+            },
+            "html_instructions": "<b>Goldbekpl.</b> turns slightly <b>left</b> and becomes <b>Moorfuhrtweg</b>",
+            "polyline": {
+              "points": "{u`fI{ab|@C@EBEF[d@[d@s@hAiAbB"
+            },
+            "start_location": {
+              "lat": 53.5844584,
+              "lng": 10.0100639
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 185
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5859597,
+              "lng": 10.0061497
+            },
+            "html_instructions": "Continue straight onto <b>Po\u00dfmoorweg</b>",
+            "maneuver": "straight",
+            "polyline": {
+              "points": "a|`fIsya|@W^ADCDCLAFAD?FAD@NAPATAb@C`@C`@C`@Eb@K|@OnAKz@"
+            },
+            "start_location": {
+              "lat": 53.5854517,
+              "lng": 10.0087417
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 302
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.58840559999999,
+              "lng": 10.0042367
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Dorotheenstra\u00dfe</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "g_afImia|@M\\KLIHA@MJa@ZIFMJeBhAm@^A@MHC@aAl@q@b@_@T_Ah@"
+            },
+            "start_location": {
+              "lat": 53.5859597,
+              "lng": 10.0061497
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 171
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.58716339999999,
+              "lng": 10.0027168
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Maria-Louisen-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qnafIo}`|@x@hABD`@d@l@v@fAtAPTPT"
+            },
+            "start_location": {
+              "lat": 53.58840559999999,
+              "lng": 10.0042367
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 895
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 178
+            },
+            "end_location": {
+              "lat": 53.59392159999999,
+              "lng": 9.995832900000002
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sierichstra\u00dfe</b><div style=\"font-size:0.9em\">Closed 4:00 \u2013 11:59 AM</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wfafI_t`|@[Nk@`@QLg@\\y@h@A@{@l@y@l@kBrAg@^A@MH]R_@X_An@WPSPWPiBjAmAz@k@`@a@Vm@b@SPEBIFGFKJGFKLSZU^IPKTWl@[|@Sj@?D]z@iAvCO^GNe@r@"
+            },
+            "start_location": {
+              "lat": 53.58716339999999,
+              "lng": 10.0027168
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 606
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 150
+            },
+            "end_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "html_instructions": "Continue onto <b>Bebelallee</b>",
+            "polyline": {
+              "points": "_qbfI}h_|@[ZSPKJEDMHULIBMDYH_B`@g@Js@NgAXG@YDi@N[Hg@Jw@Ry@PI@q@N_Bb@sAX[Hy@Lm@BQ@"
+            },
+            "start_location": {
+              "lat": 53.59392159999999,
+              "lng": 9.995832900000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5992293,
+              "lng": 9.9940108
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Meenkwiese</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "crcfIw|~{@AY"
+            },
+            "start_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gr`fIe`b|@{As@IAQ@cAvA}BlDYd@K`@An@K|Be@rEKz@M\\UV{@p@cDvBeC|A_B~@|@nAhDhEPT[N}@n@_DvBoEbDk@\\_BhAk@b@aC|AiExCk@d@s@|@_@p@c@bAmAjDyAvDm@bAaA~@c@VWHyBj@{AZsCp@uDz@{@PsD|@uAV_ADAY"
+    },
+    "summary": "Sierichstra\u00dfe and Bebelallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

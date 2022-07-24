@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5756323,
+        "lng": 9.9630209
+      },
+      "southwest": {
+        "lat": 53.5694206,
+        "lng": 9.9445569
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1472
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 388
+        },
+        "end_address": "Lappenbergsallee / Bei der Apostelkirche, 20257 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5756323,
+          "lng": 9.9445569
+        },
+        "start_address": "U Christuskirche / Fruchtallee, 20259 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5694916,
+          "lng": 9.9630209
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5696345,
+              "lng": 9.9629775
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Fruchtallee</b>",
+            "polyline": {
+              "points": "ix}eI{{x{@MBMB"
+            },
+            "start_location": {
+              "lat": 53.5694916,
+              "lng": 9.9630209
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1080
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 295
+            },
+            "end_location": {
+              "lat": 53.5734667,
+              "lng": 9.9487236
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fruchtallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ey}eIs{x{@AN?b@?f@?HB~@@^BV@THlAD^BNHR@p@?fACx@C^Gr@k@xDIRU`AQfAUlAQ|@WjBUbBGd@WfBUbBOz@I\\ETK^Oj@EPI^K\\Oh@i@rBW`AOj@GPk@pAGNUd@EJw@dB]n@GLMXA@GJ]t@_@x@EHSn@EJa@fASd@IXIf@"
+            },
+            "start_location": {
+              "lat": 53.5696345,
+              "lng": 9.9629775
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5735277,
+              "lng": 9.9487629
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Heu\u00dfweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "eq~eIobv{@KG"
+            },
+            "start_location": {
+              "lat": 53.5734667,
+              "lng": 9.9487236
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 369
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.5756323,
+              "lng": 9.9445569
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lappenbergsallee</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qq~eIwbv{@OTUVSNw@r@ABMNIPKXIVc@fBQj@{@`CmAnEEJGVGPc@nAGP"
+            },
+            "start_location": {
+              "lat": 53.5735277,
+              "lng": 9.9487629
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ix}eI{{x{@[FAr@DpCTzCLb@@xBGxAs@lFIRU`Ag@tCi@hD]hCm@jEYxAg@rBoAzEg@lBs@bB{AfDaC~EoAhDIXIf@KGOTi@f@y@v@W`@Up@u@rC{@`CmAnEMb@k@`BGP"
+    },
+    "summary": "Fruchtallee and Lappenbergsallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

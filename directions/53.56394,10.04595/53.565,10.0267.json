@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5656881,
+        "lng": 10.045931
+      },
+      "southwest": {
+        "lat": 53.5615813,
+        "lng": 10.026594
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.6 km",
+          "value": 1637
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 358
+        },
+        "end_address": "U Uhlandstra\u00dfe / Eilenau, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5649947,
+          "lng": 10.0266752
+        },
+        "start_address": "Hasselbrookstra\u00dfe / Ritterstra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5640279,
+          "lng": 10.045931
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 656
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 130
+            },
+            "end_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hasselbrookstra\u00dfe</b> toward <b>Ritterstra\u00dfe</b>",
+            "polyline": {
+              "points": "ev|eIabi|@Bd@DnA@^@RDh@Fz@@PFt@BTDh@Fr@Dd@FVHx@XpBJp@P~@n@dCXdARr@DPfAfEZnAV`ATbAr@bCRt@V|@HX@J"
+            },
+            "start_location": {
+              "lat": 53.5640279,
+              "lng": 10.045931
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 542
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 128
+            },
+            "end_location": {
+              "lat": 53.5656881,
+              "lng": 10.0326306
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Landwehr</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{f|eIkjg|@OJy@n@eAbA]\\gA`Ay@p@m@j@SVg@j@]d@cAnAQNQRa@f@STuAbB_ArAiAzA"
+            },
+            "start_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 423
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 96
+            },
+            "end_location": {
+              "lat": 53.56513,
+              "lng": 10.026594
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Uhlandstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q`}eI}nf|@x@vB@DFL^nARx@J~@Dp@D|@AbAExBIhEAfAEjCEtC"
+            },
+            "start_location": {
+              "lat": 53.5656881,
+              "lng": 10.0326306
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5649947,
+              "lng": 10.0266752
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "a}|eIeie|@ZQ"
+            },
+            "start_location": {
+              "lat": 53.56513,
+              "lng": 10.026594
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ev|eIabi|@LhDVlDVxCv@tFP~@n@dCl@xB`CjJhAfEj@rBJd@iAz@cB`BaCrBaAbAeApAiCzCiBxBiCnDz@|Bf@|ARx@J~@JnBG|DKpGK`HZQ"
+    },
+    "summary": "Hasselbrookstra\u00dfe, B5 and Uhlandstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

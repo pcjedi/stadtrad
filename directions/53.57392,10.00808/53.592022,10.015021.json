@@ -1,0 +1,238 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.592036,
+        "lng": 10.0158306
+      },
+      "southwest": {
+        "lat": 53.57402099999999,
+        "lng": 10.0040497
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.8 km",
+          "value": 2842
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 675
+        },
+        "end_address": "Borgweg / Stadtpark, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.592036,
+          "lng": 10.0150622
+        },
+        "start_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57402099999999,
+          "lng": 10.0080497
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 273
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.5743902,
+              "lng": 10.0121425
+            },
+            "html_instructions": "Head <b>east</b> on <b>Karlstra\u00dfe</b> toward <b>Am Feenteich</b>",
+            "polyline": {
+              "points": "st~eIiua|@Ci@UmFY}HEo@OkD"
+            },
+            "start_location": {
+              "lat": 53.57402099999999,
+              "lng": 10.0080497
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 285
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Herbert-Weichmann-Stra\u00dfe</b><div style=\"font-size:0.9em\">Closed 4:00 \u2013 11:59 AM</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}v~eI{nb|@{FjDwAz@ID}@h@_Ah@"
+            },
+            "start_location": {
+              "lat": 53.5743902,
+              "lng": 10.0121425
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1053
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 200
+            },
+            "end_location": {
+              "lat": 53.58541289999999,
+              "lng": 10.0040497
+            },
+            "html_instructions": "Continue onto <b>Sierichstra\u00dfe</b><div style=\"font-size:0.9em\">Closed 4:00 \u2013 11:59 AM</div>",
+            "polyline": {
+              "points": "ye_fIydb|@_@T]RWNc@VOJUL]RqBvAq@b@{@l@o@b@c@\\qA|@IHiBjA]Tq@d@MHe@ZUPsBvAeBlAw@j@i@ZgChBSJ[Vo@b@iAv@OHg@`@]VKHYRq@b@qA|@"
+            },
+            "start_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 814
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 177
+            },
+            "end_location": {
+              "lat": 53.589946,
+              "lng": 10.0134121
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Krohnskamp</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "y{`fIi|`|@a@wBQmAm@cDGWAEA[OQGMUa@S]sAeCKQ}@kBIQe@cAGOQ]]u@c@}@CEWi@KW_BeDo@sA_@q@IQiAaCm@mAs@{AQg@OYCa@@y@"
+            },
+            "start_location": {
+              "lat": 53.58541289999999,
+              "lng": 10.0040497
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 160
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.5899738,
+              "lng": 10.0158306
+            },
+            "html_instructions": "Continue onto <b>Wiesendamm</b>",
+            "polyline": {
+              "points": "exafIyvb|@@i@?g@?GGoH?u@@c@"
+            },
+            "start_location": {
+              "lat": 53.589946,
+              "lng": 10.0134121
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 214
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 68
+            },
+            "end_location": {
+              "lat": 53.5918929,
+              "lng": 10.0156036
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Borgweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ixafI}ec|@WBkAB_@BUBK@c@DK@gAJQ@W@w@B"
+            },
+            "start_location": {
+              "lat": 53.5899738,
+              "lng": 10.0158306
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5919348,
+              "lng": 10.0151494
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>S\u00fcdring</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "idbfIodc|@Cn@Ch@"
+            },
+            "start_location": {
+              "lat": 53.5918929,
+              "lng": 10.0156036
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.592036,
+              "lng": 10.0150622
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qdbfIuac|@OJED"
+            },
+            "start_location": {
+              "lat": 53.5919348,
+              "lng": 10.0151494
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "st~eIiua|@y@eSOkD{FjDaB`A{D|BaB`A}F|DoDhCgEpCuGrEcLzHkBvAcC`Bs@eEu@{DCa@W_@i@_A_BwCgA}B}AgDeGcMwBoEeAcCOYCa@BcBGuK@c@WBkBFqALyALoADGxAUP"
+    },
+    "summary": "Sierichstra\u00dfe and Krohnskamp",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

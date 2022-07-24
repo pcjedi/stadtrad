@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5694916,
+        "lng": 9.965710099999999
+      },
+      "southwest": {
+        "lat": 53.5585362,
+        "lng": 9.9487911
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1872
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 532
+        },
+        "end_address": "Max-Brauer-Allee 147, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5585362,
+          "lng": 9.9487911
+        },
+        "start_address": "U Christuskirche / Fruchtallee, 20259 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5694916,
+          "lng": 9.9630209
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "6 m",
+              "value": 6
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.569435,
+              "lng": 9.9630403
+            },
+            "html_instructions": "Head <b>south</b> toward <b>Fruchtallee</b>",
+            "polyline": {
+              "points": "ix}eI{{x{@HC"
+            },
+            "start_location": {
+              "lat": 53.5694916,
+              "lng": 9.9630209
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.56941639999999,
+              "lng": 9.963560099999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fruchtallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_x}eI_|x{@@C?[@Q?u@"
+            },
+            "start_location": {
+              "lat": 53.569435,
+              "lng": 9.9630403
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 464
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 111
+            },
+            "end_location": {
+              "lat": 53.5654714,
+              "lng": 9.965710099999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Weidenallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{w}eIg_y{@NSDG@?DEPKhAg@^UXOd@U\\ORKn@[TKbAe@BCLENINIXKHI`By@ZEh@WrAc@FBB?H?VE"
+            },
+            "start_location": {
+              "lat": 53.56941639999999,
+              "lng": 9.963560099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 421
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Altonaer Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "e_}eIuly{@@Bh@zALN@HV~@DTvBxKRbAX~ANv@\\vBRhAXzA"
+            },
+            "start_location": {
+              "lat": 53.5654714,
+              "lng": 9.965710099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 947
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 256
+            },
+            "end_location": {
+              "lat": 53.5585362,
+              "lng": 9.9487911
+            },
+            "html_instructions": "Continue onto <b>Max-Brauer-Allee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "it|eIqix{@T~@X`ABHFPP`@`AbCf@nAN^Rj@r@dBJTp@~AXt@LX\\~@FLb@bAj@rA`@bATn@BDVl@Vl@Rd@lAzCn@zAZx@Rj@Rd@LZBDd@tAFLBFBFRh@FR@FJXFR@L@JF^f@xBLh@DZT|@F^"
+            },
+            "start_location": {
+              "lat": 53.5637307,
+              "lng": 9.9600853
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ix}eI{{x{@HC@C@m@?u@NSFGVQhB}@pBaAtEwBjBcAZEh@WrAc@FBL?VE@Bv@jBXhA|BnLl@bDl@nDl@dDn@`C~A`E~B`GzEjLrAfDhDjIpAfDt@pB`@lARl@BXbA~E\\|A"
+    },
+    "summary": "Max-Brauer-Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

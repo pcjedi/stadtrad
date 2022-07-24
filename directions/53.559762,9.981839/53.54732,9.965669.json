@@ -1,0 +1,189 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5597124,
+        "lng": 9.9818793
+      },
+      "southwest": {
+        "lat": 53.5471506,
+        "lng": 9.9656982
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1817
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 455
+        },
+        "end_address": "Bernhard-Nocht-Stra\u00dfe / Zirkusweg, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5471506,
+          "lng": 9.9656982
+        },
+        "start_address": "St. Petersburger Stra\u00dfe / Bei den Kirchh\u00f6fen, 20355 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5597124,
+          "lng": 9.9818793
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 214
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5588643,
+              "lng": 9.978993299999999
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>b. den Kirchh\u00f6fen</b>",
+            "polyline": {
+              "points": "e{{eIwq|{@\\fBL\\BLTpAXhB\\vBFZF\\HXPd@"
+            },
+            "start_location": {
+              "lat": 53.5597124,
+              "lng": 9.9818793
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 380
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 108
+            },
+            "end_location": {
+              "lat": 53.556375,
+              "lng": 9.975132799999999
+            },
+            "html_instructions": "Continue onto <b>Holstenglacis</b>",
+            "polyline": {
+              "points": "{u{eIu_|{@NXj@z@\\j@P`@b@`ADJDJ^~@HN@V?B@BBDHRFJ@BBJJZHP`@f@@BRTLP@BLL@BPRRXJLl@~@h@v@PR"
+            },
+            "start_location": {
+              "lat": 53.5588643,
+              "lng": 9.978993299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 718
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 164
+            },
+            "end_location": {
+              "lat": 53.550763,
+              "lng": 9.9698071
+            },
+            "html_instructions": "Continue onto <b>Glacischaussee</b>",
+            "polyline": {
+              "points": "kf{eIqg{{@f@v@\\f@HJLFLJDFHF?@`Az@TRj@d@LLNPTRDDPJb@^TRRRv@p@l@h@~@x@JJzBpBNLbAz@pBfB`Ax@^Zd@^NNFPVVHJHFHF"
+            },
+            "start_location": {
+              "lat": 53.556375,
+              "lng": 9.975132799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "88 m",
+              "value": 88
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.550022,
+              "lng": 9.969430299999999
+            },
+            "html_instructions": "Continue onto <b>Millerntorpl.</b>",
+            "polyline": {
+              "points": "gczeIifz{@`@XLJFBRJ@?NHHFDBF@B@F?HAFA"
+            },
+            "start_location": {
+              "lat": 53.550763,
+              "lng": 9.9698071
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 380
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 87
+            },
+            "end_location": {
+              "lat": 53.54721319999999,
+              "lng": 9.9662322
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Zirkusweg</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "s~yeI}cz{@b@t@rAbBNRLNNTlAxANPjBzBbC~CHLDF@?DBD@F@H?@?B@FB"
+            },
+            "start_location": {
+              "lat": 53.550022,
+              "lng": 9.969430299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "37 m",
+              "value": 37
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5471506,
+              "lng": 9.9656982
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bernhard-Nocht-Stra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "amyeI}oy{@@D@D@HDrA"
+            },
+            "start_location": {
+              "lat": 53.54721319999999,
+              "lng": 9.9662322
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "e{{eIwq|{@\\fBL\\X~AfAzGZ~@z@tAn@lAh@lAd@jAHN@V@FLXXv@HP`@f@TX^f@d@l@x@lAz@jAdA~AVRRR`BxA~AxApAdAxDhDtMdLNNFP`@b@bAt@l@XNJJBPAFAb@t@bBvB\\d@|AjBjBzBbC~CNTFBXBJDBJF|A"
+    },
+    "summary": "Glacischaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

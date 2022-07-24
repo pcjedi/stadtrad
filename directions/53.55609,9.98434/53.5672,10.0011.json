@@ -1,0 +1,190 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5672842,
+        "lng": 10.001083
+      },
+      "southwest": {
+        "lat": 53.55608969999999,
+        "lng": 9.9837784
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 1977
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 406
+        },
+        "end_address": "Harvestehuder Weg / Alte Rabenstra\u00dfe, 20148 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5672842,
+          "lng": 10.001083
+        },
+        "start_address": "U G\u00e4nsemarkt / Caffamacherreihe, 20355 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55608969999999,
+          "lng": 9.9842229
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 110
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5570816,
+              "lng": 9.984179300000001
+            },
+            "html_instructions": "Head <b>north</b> on <b>Caffamacherreihe</b> toward <b>Drehbahn</b>",
+            "polyline": {
+              "points": "qd{eIk`}{@}@?e@Cg@By@F"
+            },
+            "start_location": {
+              "lat": 53.55608969999999,
+              "lng": 9.9842229
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "64 m",
+              "value": 64
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.55760799999999,
+              "lng": 9.9837784
+            },
+            "html_instructions": "Continue onto <b>Jungiusstra\u00dfe</b>",
+            "polyline": {
+              "points": "wj{eIc`}{@[R}@p@OH"
+            },
+            "start_location": {
+              "lat": 53.5570816,
+              "lng": 9.984179300000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 364
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.5580854,
+              "lng": 9.989152599999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gorch-Fock-Wall</b>/<wbr/><b>Ring 1</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "an{eIs}|{@c@aDOiAGcACi@MmDOoD?GE_A?GGuACm@@}@Ds@Fs@"
+            },
+            "start_location": {
+              "lat": 53.55760799999999,
+              "lng": 9.9837784
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 295
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.5605231,
+              "lng": 9.9908504
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Dammtordamm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "aq{eIe_~{@i@_@sBaA_Ac@WMwAw@u@a@MGIGKGIGOOQWKSEI"
+            },
+            "start_location": {
+              "lat": 53.5580854,
+              "lng": 9.989152599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 802
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 176
+            },
+            "end_location": {
+              "lat": 53.5667701,
+              "lng": 9.995971899999999
+            },
+            "html_instructions": "Continue onto <b>Mittelweg</b>",
+            "polyline": {
+              "points": "g`|eIyi~{@_@m@c@e@MQEIMUMWkAkBmAwB_@s@COAEaAgBk@_AEECCA?AAC?G@MSAA[WQIMEWEw@Ie@Ay@C{ACi@CG?UEMGOCQMOMIIUQ_BkA_Ak@qA}@s@e@"
+            },
+            "start_location": {
+              "lat": 53.5605231,
+              "lng": 9.9908504
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 342
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5672842,
+              "lng": 10.001083
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alte Rabenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ig}eIyi_|@YsEAYIqA?IEo@MmCKuBAME_AGsAMcEAY"
+            },
+            "start_location": {
+              "lat": 53.5667701,
+              "lng": 9.995971899999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qd{eIk`}{@cBCaBJyAdAOHc@aDWmCQwEU_GKcCFqBFs@i@_@sDeBsDoBUOYWcAcBq@w@S_@gEoHEUmBgDMKK@OUm@a@e@K}AKuCGq@Cc@MOCQMYWuB}AqCiBs@e@YsEKkB_@}H]eJAY"
+    },
+    "summary": "Mittelweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

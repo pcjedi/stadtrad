@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5762157,
+        "lng": 10.0583551
+      },
+      "southwest": {
+        "lat": 53.5670015,
+        "lng": 10.031798
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2134
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 559
+        },
+        "end_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "start_address": "Lerchenfeld / Uferstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5670015,
+          "lng": 10.031798
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 506
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 87
+            },
+            "end_location": {
+              "lat": 53.5699747,
+              "lng": 10.037533
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Uferstra\u00dfe</b> toward <b>Finkenau</b>",
+            "polyline": {
+              "points": "wh}eIwif|@Wq@y@wBUm@EKgAmCEGECEAC?Mg@Og@Wg@eAkBGOw@iB]{@Qc@a@eAwBuF"
+            },
+            "start_location": {
+              "lat": 53.5670015,
+              "lng": 10.031798
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.5695397,
+              "lng": 10.0379719
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Richardstra\u00dfe</b>/<wbr/><b>Richardstra\u00dfenbr\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i{}eIqmg|@JMHIn@k@NS"
+            },
+            "start_location": {
+              "lat": 53.5699747,
+              "lng": 10.037533
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 461
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 127
+            },
+            "end_location": {
+              "lat": 53.5712674,
+              "lng": 10.0443145
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eilenau</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sx}eIipg|@UmA]qBGc@e@gCE[YcBWwAUoASgAQgAMq@SgAG[a@wBQ}@e@cC"
+            },
+            "start_location": {
+              "lat": 53.5695397,
+              "lng": 10.0379719
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1090
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 216
+            },
+            "end_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "html_instructions": "Continue onto <b>Eilbektal</b>",
+            "polyline": {
+              "points": "mc~eI}wh|@WqAUqAOu@q@oDWoASgAWwASgA[cBm@wCa@sBYwAG]uAiHGUw@_EGSI]GWcAmFo@yCACMs@a@}AUi@AAKSKSQWOQQQOKOIUKs@QCCAAAACEEGCICQAKCMAKEi@AYSwB"
+            },
+            "start_location": {
+              "lat": 53.5712674,
+              "lng": 10.0443145
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Krausestra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ea_fIeok|@UIOG"
+            },
+            "start_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh}eIwif|@mBcFmAuCKEC?Mg@g@oAmA{BuAeDs@iBwBuFJMx@u@NSUmAe@uCk@cD{AsImDiRoDoReCgM}C}O}AwHq@}Co@qCo@sAa@i@a@]e@Uw@UMQMu@]gEe@Q"
+    },
+    "summary": "Eilbektal",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5758009,
+        "lng": 10.0596417
+      },
+      "southwest": {
+        "lat": 53.5686985,
+        "lng": 10.0366016
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2126
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 496
+        },
+        "end_address": "S+U Wandsbeker Chaussee / B\u00f6rnestra\u00dfe, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57029319999999,
+          "lng": 10.0596417
+        },
+        "start_address": "U Hamburger Stra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5745222,
+          "lng": 10.0366016
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 834
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 148
+            },
+            "end_location": {
+              "lat": 53.5758009,
+              "lng": 10.0487744
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Holsteinischer Kamp</b> toward <b>R\u00f6nnhaidbr\u00fccke</b>",
+            "polyline": {
+              "points": "ww~eIwgg|@MWISKc@CKAMGu@Ec@I{@QgDC]OaBMy@HiDDqALkDDsABq@?CFgC?i@Ao@?CAYA[G}@Ca@EYMoAQgBS_BAIOeAIs@WyBGo@_@sDIu@Gg@"
+            },
+            "start_location": {
+              "lat": 53.5745222,
+              "lng": 10.0366016
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 480
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 121
+            },
+            "end_location": {
+              "lat": 53.5717593,
+              "lng": 10.0512349
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedrichsberger Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w__fIysi|@PGl@Qx@Yz@YRIl@U~@a@r@YLEd@Qb@[RKl@]VQTQLKtA}@NOh@a@`Au@RM"
+            },
+            "start_location": {
+              "lat": 53.5758009,
+              "lng": 10.0487744
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 377
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 103
+            },
+            "end_location": {
+              "lat": 53.5686985,
+              "lng": 10.053672
+            },
+            "html_instructions": "Continue onto <b>Kantstra\u00dfe</b>",
+            "polyline": {
+              "points": "of~eIecj|@dCwBXWhAaA^]TQNEHMd@a@fAu@p@c@VOhAk@RKRM"
+            },
+            "start_location": {
+              "lat": 53.5717593,
+              "lng": 10.0512349
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 435
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 124
+            },
+            "end_location": {
+              "lat": 53.57029319999999,
+              "lng": 10.0596417
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wandsbeker Chaussee</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ks}eImrj|@MgAG[GWI_@Ia@EWKq@SUCQG]c@uCKo@CSS}@e@mCEUCOYiBSuAKk@SiAE[M}@"
+            },
+            "start_location": {
+              "lat": 53.5686985,
+              "lng": 10.053672
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ww~eIwgg|@Wk@Oo@YcDUeE]{Cb@{NJgFEiBK_BSiBe@gEQoAiAqKQ}A~@YvDsArB{@r@W|BwAhCkBjBwAxCeCxCiCNEHMlBwAhAs@|Aw@RMMgAOs@e@kCSUCQk@sDOcAy@kEw@eFs@oE"
+    },
+    "summary": "Holsteinischer Kamp",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

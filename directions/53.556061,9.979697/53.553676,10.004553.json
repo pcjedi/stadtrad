@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5581556,
+        "lng": 10.0053979
+      },
+      "southwest": {
+        "lat": 53.55277960000001,
+        "lng": 9.9793954
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2160
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 539
+        },
+        "end_address": "Hauptbahnhof / Glockengie\u00dferwall, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5536256,
+          "lng": 10.0044325
+        },
+        "start_address": "Gorch-Fock-Wall, 20355 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5560139,
+          "lng": 9.979726699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.55598620000001,
+              "lng": 9.9793954
+            },
+            "html_instructions": "Head <b>west</b> on <b>Gorch-Fock-Wall</b> toward <b>Sievekingpl.</b>",
+            "polyline": {
+              "points": "ad{eIid|{@@L?B@n@"
+            },
+            "start_location": {
+              "lat": 53.5560139,
+              "lng": 9.979726699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "45 m",
+              "value": 45
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 79
+            },
+            "end_location": {
+              "lat": 53.5556432,
+              "lng": 9.9797552
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sievekingpl.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}c{eIgb|{@PM@?NMHIVa@"
+            },
+            "start_location": {
+              "lat": 53.55598620000001,
+              "lng": 9.9793954
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 779
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 163
+            },
+            "end_location": {
+              "lat": 53.5579691,
+              "lng": 9.990167999999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Gorch-Fock-Wall</b>/<wbr/><b>Ring 1</b><div style=\"font-size:0.9em\">Continue to follow Ring 1</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wa{eIod|{@O_@S[Yg@OUIMU_@QWO[AASa@AESc@ACQe@Wm@GMe@oAGQK_@Uo@?C[kAGQMk@WsAc@aDOiAGcACi@MmDOoD?GE_A?GGuACm@@}@Ds@Fs@Dk@?MFcAFw@@U"
+            },
+            "start_location": {
+              "lat": 53.5556432,
+              "lng": 9.9797552
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 806
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 155
+            },
+            "end_location": {
+              "lat": 53.5553146,
+              "lng": 10.001247
+            },
+            "html_instructions": "Keep <b>right</b> to continue on <b>Esplanade</b>/<wbr/><b>Ring 1</b><div style=\"font-size:0.9em\">Continue to follow Ring 1</div>",
+            "maneuver": "keep-right",
+            "polyline": {
+              "points": "ip{eIqe~{@L]HeA\\}DNoBVgDB_@?S@W?Y?[?a@?s@@_@Dw@F_AFq@Fs@JaANgAHi@Fe@N_At@eE`@gC\\aBPm@J[HYPg@v@qB^w@HSNe@d@mAHO"
+            },
+            "start_location": {
+              "lat": 53.5579691,
+              "lng": 9.990167999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 390
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 89
+            },
+            "end_location": {
+              "lat": 53.55277960000001,
+              "lng": 10.0052927
+            },
+            "html_instructions": "Continue onto <b>Glockengie\u00dferwall</b>",
+            "polyline": {
+              "points": "u_{eIyj`|@JKDEJWRc@HUHOHOfAyBXo@\\o@^q@Zw@HWJWZw@^q@^m@\\i@Ze@RUZ_@PQ"
+            },
+            "start_location": {
+              "lat": 53.5553146,
+              "lng": 10.001247
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 118
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5536256,
+              "lng": 10.0044325
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Spitalerstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "{ozeIada|@KUc@j@qAbBY`@MN"
+            },
+            "start_location": {
+              "lat": 53.55277960000001,
+              "lng": 10.0052927
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ad{eIid|{@@P@n@PMPM`@k@c@{@Yg@aA{Ag@eA_A{BaAoCy@qCe@_Cs@kFKmB]}IMeDAkBLgBTuD@UL]HeAhAuN@aB?uAFwANqBRuBp@wEvAmIn@oCTu@hAyCh@kAt@sBT[P]p@yA~ByE^q@Zw@To@z@iB|@wAn@{@l@q@KUc@j@kBdCMN"
+    },
+    "summary": "Ring 1",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

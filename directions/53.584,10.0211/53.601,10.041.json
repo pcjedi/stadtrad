@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6009992,
+        "lng": 10.0418459
+      },
+      "southwest": {
+        "lat": 53.5840751,
+        "lng": 10.0211118
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.9 km",
+          "value": 2900
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 653
+        },
+        "end_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hartzloh, 22307 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6009992,
+          "lng": 10.040986
+        },
+        "start_address": "Jarrestra\u00dfe / Rambatzweg, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5840751,
+          "lng": 10.0211118
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 895
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 155
+            },
+            "end_location": {
+              "lat": 53.5872665,
+              "lng": 10.0335132
+            },
+            "html_instructions": "Head <b>east</b> on <b>Jarrestra\u00dfe</b> toward <b>Glindweg</b>",
+            "polyline": {
+              "points": "os`fI}fd|@i@cEo@qEAMIi@Y}BG_@Ec@y@gGAEo@}EMw@q@eDe@{B}@iEm@kCk@}Co@aDG[o@}CAEWmACu@"
+            },
+            "start_location": {
+              "lat": 53.5840751,
+              "lng": 10.0211118
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1002
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 247
+            },
+            "end_location": {
+              "lat": 53.5961944,
+              "lng": 10.031574
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Saarlandstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mgafImtf|@U@aAH[Bc@A}CRiAPq@JQ@}@Fm@FC?{@JwATmCd@YD_BVu@Pa@F_ANg@HOBI@y@N{@PiDf@yF|@O@c@F"
+            },
+            "start_location": {
+              "lat": 53.5872665,
+              "lng": 10.0335132
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 730
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 194
+            },
+            "end_location": {
+              "lat": 53.59862649999999,
+              "lng": 10.0418459
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alte W\u00f6hr</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "e_cfIihf|@QoA?AOaASgAUcBEWi@mDIi@a@kCAIGa@Kk@Gc@Kk@Ii@c@oCg@_DMw@y@yFGa@[mBk@uDCk@c@eD"
+            },
+            "start_location": {
+              "lat": 53.5961944,
+              "lng": 10.031574
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 273
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.6009992,
+              "lng": 10.040986
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fuhlsb\u00fcttler Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mncfIqhh|@EFCD[PGBIFSJMJUPoAb@{ARoALaBLK@"
+            },
+            "start_location": {
+              "lat": 53.59862649999999,
+              "lng": 10.0418459
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "os`fI}fd|@gEw[q@cF_A}EcBeIm@kCk@}Cw@}Dq@cDWmACu@wAJ[Bc@A}CR{B\\oAHq@FsC`@}HtAyCd@cAPeFx@iG~@c@FQoAOcAi@kD{A{J]{BaBeKkBaMk@uDCk@c@eDEF_@VQJa@VUPoAb@kD`@mBN"
+    },
+    "summary": "Jarrestra\u00dfe, Saarlandstra\u00dfe and Alte W\u00f6hr",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

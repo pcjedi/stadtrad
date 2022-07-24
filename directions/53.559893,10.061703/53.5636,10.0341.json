@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5636566,
+        "lng": 10.0616215
+      },
+      "southwest": {
+        "lat": 53.5595034,
+        "lng": 10.0337309
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2211
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 436
+        },
+        "end_address": "U Wartenau / L\u00fcbecker Stra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5636566,
+          "lng": 10.0339528
+        },
+        "start_address": "Caspar-Voght-Stra\u00dfe / Sievekingsallee, 20535 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55988989999999,
+          "lng": 10.0616215
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "50 m",
+              "value": 50
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5603377,
+              "lng": 10.0615435
+            },
+            "html_instructions": "Head <b>north</b> on <b>Caspar-Voght-Stra\u00dfe</b> toward <b>Sievekingsallee</b>",
+            "polyline": {
+              "points": "i|{eIcdl|@K?u@FWF"
+            },
+            "start_location": {
+              "lat": 53.55988989999999,
+              "lng": 10.0616215
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.5 km",
+              "value": 1549
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 259
+            },
+            "end_location": {
+              "lat": 53.5595034,
+              "lng": 10.0389558
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sievekingsallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "c_|eIscl|@Eb@A\\CPGz@MpBO~BMzBUpDEx@Ct@Cl@Cr@Ct@Aj@Ch@Ax@?r@Ar@?n@CfCElBEvBAP?BCz@E|CAx@AbAEpDKtGEzC?\\C|AA~@Ah@?tA@r@?RBjA@d@@T@d@@RDp@Bp@Dj@HhBDl@Bh@Fz@@RDv@Dv@B^Dt@Hr@BVBRHl@DXDXHh@F^H^FVDTJ\\HXBJFLHTL\\P`@LZDHZx@NXN`@\\v@"
+            },
+            "start_location": {
+              "lat": 53.5603377,
+              "lng": 10.0615435
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 265
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Landwehr</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{y{eIovg|@UHQJGDIDGFGFOLUV_@b@k@n@SXCF{@t@}@z@a@Xo@h@"
+            },
+            "start_location": {
+              "lat": 53.5595034,
+              "lng": 10.0389558
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5615169,
+              "lng": 10.0364472
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Angerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{f|eIkjg|@B\\Dx@?F@P"
+            },
+            "start_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 281
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5634528,
+              "lng": 10.0337309
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Freiligrathstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "of|eIyfg|@yA|BkBzC{@pAU\\s@dAi@r@KZ"
+            },
+            "start_location": {
+              "lat": 53.5615169,
+              "lng": 10.0364472
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5636566,
+              "lng": 10.0339528
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qr|eIyuf|@i@k@"
+            },
+            "start_location": {
+              "lat": 53.5634528,
+              "lng": 10.0337309
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i|{eIcdl|@aAFWFEb@En@UlDy@fNOlEGbEKxIKhEOlMUlPArFFzCL|Cn@lLV`DXtBb@`C^xApB|El@xAg@Ta@ZqBxBW`@yBpBqAbAHvA@XeExGqAnB}AxBKZi@k@"
+    },
+    "summary": "Sievekingsallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

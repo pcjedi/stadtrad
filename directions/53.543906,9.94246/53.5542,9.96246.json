@@ -1,0 +1,288 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5542418,
+        "lng": 9.9622488
+      },
+      "southwest": {
+        "lat": 53.54393959999999,
+        "lng": 9.942412899999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.4 km",
+          "value": 2357
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 542
+        },
+        "end_address": "Paulinenplatz / Wohlwillstra\u00dfe, 20359 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5542418,
+          "lng": 9.9622488
+        },
+        "start_address": "Van-der-Smissen-Stra\u00dfe / Gro\u00dfe Elbstra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54393959999999,
+          "lng": 9.942412899999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "53 m",
+              "value": 53
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.544398,
+              "lng": 9.9425612
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Van-der-Smissen-Stra\u00dfe</b> toward <b>Gro\u00dfe Elbstra\u00dfe</b>",
+            "polyline": {
+              "points": "sxxeIa{t{@AEEGEEGAGA}@E"
+            },
+            "start_location": {
+              "lat": 53.54393959999999,
+              "lng": 9.942412899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 785
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 131
+            },
+            "end_location": {
+              "lat": 53.54574849999999,
+              "lng": 9.9539092
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00dfe Elbstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o{xeI_|t{@Aw@GOHsD@iAFeD?YD{B?OByAAaA@m@?a@?YAIAICq@OoCCi@Ee@Cc@C]EYE]o@eEYsBYeCc@yDIk@QkAAOKi@Ic@COISKSGMMO"
+            },
+            "start_location": {
+              "lat": 53.544398,
+              "lng": 9.9425612
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "71 m",
+              "value": 71
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 97
+            },
+            "end_location": {
+              "lat": 53.5462682,
+              "lng": 9.9532984
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>St. Pauli Fischmarkt</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}cyeI}bw{@CDOTUVOPm@r@"
+            },
+            "start_location": {
+              "lat": 53.54574849999999,
+              "lng": 9.9539092
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 408
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.5496517,
+              "lng": 9.955541600000002
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Peperm\u00f6lenbek</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "egyeIc_w{@K?IAC?E?E@W?KGIGKGc@YKGUOYSSQGCUSECUUaCgBk@a@OMcAg@ICSWGC[SAA[QGCk@Q"
+            },
+            "start_location": {
+              "lat": 53.5462682,
+              "lng": 9.9532984
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 373
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 71
+            },
+            "end_location": {
+              "lat": 53.5494267,
+              "lng": 9.9611561
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Reeperbahn</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i|yeIcmw{@E{@?]AiA?U?e@?O@c@@c@Bq@JqB@UFs@BU@i@@s@@o@@q@@{A?AD}@@mA?}A?_@"
+            },
+            "start_location": {
+              "lat": 53.5496517,
+              "lng": 9.955541600000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 219
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5513534,
+              "lng": 9.9612696
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Hamburger Berg</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "}zyeIgpx{@EQACCCAAE?Q?oA@kA?}DB"
+            },
+            "start_location": {
+              "lat": 53.5494267,
+              "lng": 9.9611561
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5514586,
+              "lng": 9.9602174
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Simon-von-Utrecht-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}fzeI}px{@UpE"
+            },
+            "start_location": {
+              "lat": 53.5513534,
+              "lng": 9.9612696
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 141
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.5527265,
+              "lng": 9.960255199999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Talstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sgzeIkjx{@]EgAGK?A?G?_A@aAB"
+            },
+            "start_location": {
+              "lat": 53.5514586,
+              "lng": 9.9602174
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "37 m",
+              "value": 37
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5526602,
+              "lng": 9.9608084
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Clemens-Schultz-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qozeIsjx{@LmB"
+            },
+            "start_location": {
+              "lat": 53.5527265,
+              "lng": 9.960255199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 200
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 53.5542418,
+              "lng": 9.9622488
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wohlwillstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cozeIanx{@_Ay@}AwA}@y@_@]c@a@UOEC"
+            },
+            "start_location": {
+              "lat": 53.5526602,
+              "lng": 9.9608084
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sxxeIa{t{@GMMGeAGAw@GOJ}FF_EFgH?sBYuFIiAIw@u@cFs@yFm@eFS{AUmAMc@Sa@MOCDe@l@}@dAYAK@W?KGUOo@a@kAy@sDuC{@o@mAk@[[]Uc@Uk@QE{@AgB?{@FiCXqEF_E@}AFkC?}BGUCCGAkJDUpE]EsAGkCDLmB_Ay@{CqCcA_A[S"
+    },
+    "summary": "Gro\u00dfe Elbstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

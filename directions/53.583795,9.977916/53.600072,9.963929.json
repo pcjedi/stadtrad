@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6000295,
+        "lng": 9.9779957
+      },
+      "southwest": {
+        "lat": 53.5819911,
+        "lng": 9.963823099999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.6 km",
+          "value": 2562
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 502
+        },
+        "end_address": "Siemersplatz / Kollaustra\u00dfe, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6000295,
+          "lng": 9.963823099999999
+        },
+        "start_address": "L\u00f6wenstra\u00dfe / Eppendorfer Weg, 20251 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.583875,
+          "lng": 9.9779957
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.58391779999999,
+              "lng": 9.9778737
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>L\u00f6wenstra\u00dfe</b> toward <b>Eppendorfer Weg</b>",
+            "polyline": {
+              "points": "gr`fIoy{{@GX"
+            },
+            "start_location": {
+              "lat": 53.583875,
+              "lng": 9.9779957
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 441
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 79
+            },
+            "end_location": {
+              "lat": 53.5819911,
+              "lng": 9.9720426
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eppendorfer Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "or`fIux{{@Jh@\\`B`AbEx@pDZnARx@DNd@jBx@vDl@fCVdA"
+            },
+            "start_location": {
+              "lat": 53.58391779999999,
+              "lng": 9.9778737
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 531
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 151
+            },
+            "end_location": {
+              "lat": 53.5862484,
+              "lng": 9.9686538
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hoheluftchaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mf`fIgtz{@]f@q@x@_AbAi@n@_@^sA|A_@b@]\\m@l@WTUR[POHQLWNSJ]PWHYH]J{@Vm@Lu@RSD"
+            },
+            "start_location": {
+              "lat": 53.5819911,
+              "lng": 9.9720426
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.6 km",
+              "value": 1581
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 270
+            },
+            "end_location": {
+              "lat": 53.6000295,
+              "lng": 9.963823099999999
+            },
+            "html_instructions": "Continue onto <b>Lokstedter Steindamm</b>/<wbr/><b>B447</b><div style=\"font-size:0.9em\">Continue to follow B447</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "aaafIa_z{@_@J_@Lc@Jk@POBi@Hq@FO@WB{@Hc@Dy@HYB[D_ARAAC?A?A?YF[Fi@He@HaAP}Cf@wA\\c@Hk@L]FK@_@FSBs@Lk@HUDeAPYBwATu@HMBM?G@UBc@DMB}AP]BIBI@I@SB[DWBE@q@LSDE?E?WXGBk@LE?w@Ru@R{Ab@w@To@PC?m@RSFEAC?I@GBGB?@GDEBWRA@MLKHGFEDMLQNMJCDGHg@h@EFu@bAUPYTCB"
+            },
+            "start_location": {
+              "lat": 53.5862484,
+              "lng": 9.9686538
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gr`fIoy{{@GXJh@~AdHnBjIdDpNoA`BiBrBqD~DeAbAq@d@mAr@u@Zw@TsD~@_AXoA\\{BVqD\\u@HaAPa@FmDl@}Cf@wA\\oAV}AT{Dn@uDf@oAJwEj@cBXK?_@\\_Dt@gEjAaAZIAYHe@^c@`@s@n@y@`Au@bAUP]X"
+    },
+    "summary": "B447",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

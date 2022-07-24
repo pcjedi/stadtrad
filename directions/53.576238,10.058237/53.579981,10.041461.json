@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5799399,
+        "lng": 10.0583551
+      },
+      "southwest": {
+        "lat": 53.5737166,
+        "lng": 10.0412732
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1836
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 404
+        },
+        "end_address": "U Dehnhaide / Barmbeker Markt, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5799399,
+          "lng": 10.041543
+        },
+        "start_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "html_instructions": "Head <b>south</b> on <b>Krausestra\u00dfe</b> toward <b>Eilbektal</b>",
+            "polyline": {
+              "points": "kb_fIwok|@NFTH"
+            },
+            "start_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 217
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5748006,
+              "lng": 10.0561189
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eilbektal</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ea_fIeok|@RvB@XDh@@JBL@JBPBHDFBD@@@@BBr@PTJNHNJPPNPPVJRJR@@"
+            },
+            "start_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 466
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 79
+            },
+            "end_location": {
+              "lat": 53.5737166,
+              "lng": 10.049741
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oy~eIwak|@AHOp@Kl@Id@Cb@E^A`@AZANJ`@Nt@Fh@L`A@Dj@|C@HDLHVHXRXT\\FLDPFXf@xEj@zE"
+            },
+            "start_location": {
+              "lat": 53.5748006,
+              "lng": 10.0561189
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 563
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 125
+            },
+            "end_location": {
+              "lat": 53.5786717,
+              "lng": 10.0489654
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Friedrichsberger Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wr~eI{yi|@e@PMDs@X_A`@m@TSH{@Xy@Xm@PQFe@J]HKBq@Hi@Dm@B[AM?K?UAQCGAa@EOC[G_@IYGQEYGQEq@OEC"
+            },
+            "start_location": {
+              "lat": 53.5737166,
+              "lng": 10.049741
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 546
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 135
+            },
+            "end_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Dehnhaide</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uq_fIaui|@Ab@Ct@IrA?NGz@OxCEh@E|@GhAOjDAb@Ed@CZCr@?\\Bv@H^@lA?pA?HCXEVALMn@EVU|@_@d@CFCDADw@vA"
+            },
+            "start_location": {
+              "lat": 53.5786717,
+              "lng": 10.0489654
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5799399,
+              "lng": 10.041543
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Barmbeker Markt</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yx_fI}dh|@Oc@IQ"
+            },
+            "start_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kb_fIwok|@d@PTpCLnAFZHLBBv@Td@T`@\\`@h@Vf@?J[~AMhAG`ACj@ZvATjBl@bDZhAh@v@L^n@rFj@zEe@PaA^mBv@wDnAaB`@{ANiA@aAEuASeB_@cAUECAb@MhCGjAc@jIQnEI`ACpABv@H^@~CCb@[lBU|@_@d@GLy@|AYu@"
+    },
+    "summary": "Friedrichsberger Str. and Dehnhaide",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

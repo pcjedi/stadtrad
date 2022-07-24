@@ -1,0 +1,236 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6000295,
+        "lng": 10.0121425
+      },
+      "southwest": {
+        "lat": 53.57402099999999,
+        "lng": 9.963823099999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "5.1 km",
+          "value": 5083
+        },
+        "duration": {
+          "text": "18 mins",
+          "value": 1103
+        },
+        "end_address": "Siemersplatz / Kollaustra\u00dfe, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6000295,
+          "lng": 9.963823099999999
+        },
+        "start_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57402099999999,
+          "lng": 10.0080497
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 273
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.5743902,
+              "lng": 10.0121425
+            },
+            "html_instructions": "Head <b>east</b> on <b>Karlstra\u00dfe</b> toward <b>Am Feenteich</b>",
+            "polyline": {
+              "points": "st~eIiua|@Ci@UmFY}HEo@OkD"
+            },
+            "start_location": {
+              "lat": 53.57402099999999,
+              "lng": 10.0080497
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 285
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Herbert-Weichmann-Stra\u00dfe</b><div style=\"font-size:0.9em\">Closed 4:00 \u2013 11:59 AM</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}v~eI{nb|@{FjDwAz@ID}@h@_Ah@"
+            },
+            "start_location": {
+              "lat": 53.5743902,
+              "lng": 10.0121425
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.2 km",
+              "value": 2161
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 425
+            },
+            "end_location": {
+              "lat": 53.59392159999999,
+              "lng": 9.995832900000002
+            },
+            "html_instructions": "Continue onto <b>Sierichstra\u00dfe</b><div style=\"font-size:0.9em\">Closed 4:00 \u2013 11:59 AM</div>",
+            "polyline": {
+              "points": "ye_fIydb|@_@T]RWNc@VOJUL]RqBvAq@b@{@l@o@b@c@\\qA|@IHiBjA]Tq@d@MHe@ZUPsBvAeBlAw@j@i@ZgChBSJ[Vo@b@iAv@OHg@`@]VKHYRq@b@qA|@kBpAy@h@s@h@s@`@]Tq@j@[Nk@`@QLg@\\y@h@A@{@l@y@l@kBrAg@^A@MH]R_@X_An@WPSPWPiBjAmAz@k@`@a@Vm@b@SPEBIFGFKJGFKLSZU^IPKTWl@[|@Sj@?D]z@iAvCO^GNe@r@"
+            },
+            "start_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 614
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 182
+            },
+            "end_location": {
+              "lat": 53.5944794,
+              "lng": 9.9881625
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hudtwalckerstra\u00dfe</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_qbfI}h_|@\\tABFZjADJ`@rAXdAHXNd@Nf@J\\FRTv@DN?J?B?D?@@BHVFVBN@L@FAP?NAFAHKd@ENEPMd@[z@e@hAYh@k@hAO^IPEPO`@?@ITER?BMb@Mf@Kf@KVWf@ITGVMf@E\\"
+            },
+            "start_location": {
+              "lat": 53.59392159999999,
+              "lng": 9.995832900000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5945621,
+              "lng": 9.987591799999999
+            },
+            "html_instructions": "Continue onto <b>Eppendorfer Landstra\u00dfe</b>",
+            "polyline": {
+              "points": "otbfI_y}{@E`@ERAN?LA\\"
+            },
+            "start_location": {
+              "lat": 53.5944794,
+              "lng": 9.9881625
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 762
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 173
+            },
+            "end_location": {
+              "lat": 53.5978408,
+              "lng": 9.9775562
+            },
+            "html_instructions": "Continue onto <b>Lokstedter Weg</b>",
+            "polyline": {
+              "points": "_ubfImu}{@M~@Ij@Ih@q@vCo@rCSdAUhAIHM\\KZWx@Ib@o@nC?PYnAq@xCeArESz@kAvEMJA@YhAc@|AMd@Qx@Mz@?B@V"
+            },
+            "start_location": {
+              "lat": 53.5945621,
+              "lng": 9.987591799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 931
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 147
+            },
+            "end_location": {
+              "lat": 53.5998826,
+              "lng": 9.963953499999999
+            },
+            "html_instructions": "Continue onto <b>Osterfeldstra\u00dfe</b>",
+            "polyline": {
+              "points": "oicfIwv{{@ALEXEp@ADEp@Cf@C\\ARMhBInAAJMhBEn@MrBGhACj@Gt@KhAAJ?DGv@Ep@Cb@GfAGnAOhBSdD?BQfC_@~FG`AW`EMlBEh@ELG^ER?BERENWr@AFIPCJENCNABCNCFAFEVALALCZAR?N"
+            },
+            "start_location": {
+              "lat": 53.5978408,
+              "lng": 9.9775562
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.6000295,
+              "lng": 9.963823099999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kollaustra\u00dfe</b>/<wbr/><b>B447</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gvcfIuay{@YTCB"
+            },
+            "start_location": {
+              "lat": 53.5998826,
+              "lng": 9.963953499999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "st~eIiua|@y@eSOkD{FjDaB`A{D|BaB`A}F|DoDhCgEpCuGrEcLzHkBvAiH|EgBjAoA`AgAp@y@j@qDfCcD~BuCnBk@b@wDfCoCnBc@^STi@z@Uf@s@jBSp@gBrEWn@e@r@\\tA^rAf@~AbAlDn@xB?VVbABTA`@UfASv@aAdCeArBYp@_@jAa@bBW~@a@|@U~@K~@InAWjB{@`EcAxEUhAIHYx@Wx@Ib@o@nC?PkAhFyAnGkAvEMJ[jAq@bC_@tB@ZO~Aw@zL_@xGUpCeAxPqAjSSvCMl@Qz@g@xAOr@Mt@GlA]X"
+    },
+    "summary": "Sierichstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

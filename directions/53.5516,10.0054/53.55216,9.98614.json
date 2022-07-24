@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5538488,
+        "lng": 10.0053786
+      },
+      "southwest": {
+        "lat": 53.5506344,
+        "lng": 9.986207199999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1538
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 346
+        },
+        "end_address": "Axel-Springer-Platz/Wexstra\u00dfe, 20354 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55201229999999,
+          "lng": 9.986207199999999
+        },
+        "start_address": "M\u00f6nckebergstra\u00dfe / Steintorwall, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5516022,
+          "lng": 10.0053661
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.5516849,
+              "lng": 10.0049703
+            },
+            "html_instructions": "Head <b>west</b> toward <b>M\u00f6nckebergstra\u00dfe</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+            "polyline": {
+              "points": "ohzeIqda|@MADl@?BAB?DET"
+            },
+            "start_location": {
+              "lat": 53.5516022,
+              "lng": 10.0053661
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 618
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 98
+            },
+            "end_location": {
+              "lat": 53.5506503,
+              "lng": 9.9958261
+            },
+            "html_instructions": "Continue straight onto <b>M\u00f6nckebergstra\u00dfe</b>",
+            "maneuver": "straight",
+            "polyline": {
+              "points": "_izeIaba|@Dt@LvB@HHlAB\\Dz@Fx@?JPbCNzAHx@LhAHv@Jx@Jx@Fx@N|BDh@HjA?LDl@Bz@?@Bx@?P@\\@z@BxB@x@B`@AJA|@"
+            },
+            "start_location": {
+              "lat": 53.5516849,
+              "lng": 10.0049703
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 134
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5516011,
+              "lng": 9.994592899999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bergstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qbzeI}h_|@Yb@]j@o@`Ag@r@ABk@l@"
+            },
+            "start_location": {
+              "lat": 53.5506503,
+              "lng": 9.9958261
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "52 m",
+              "value": 52
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5520649,
+              "lng": 9.9946015
+            },
+            "html_instructions": "<b>Bergstra\u00dfe</b> turns slightly <b>right</b> and becomes <b>Ballindamm</b>",
+            "polyline": {
+              "points": "ohzeIea_|@c@?K?[?OA"
+            },
+            "start_location": {
+              "lat": 53.5516011,
+              "lng": 9.994592899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 280
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.5538488,
+              "lng": 9.991638
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Jungfernstieg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kkzeIga_|@KZQj@ETEFm@~@Yl@U^MVi@`Ay@zAKPw@vAQ\\U\\"
+            },
+            "start_location": {
+              "lat": 53.5520649,
+              "lng": 9.9946015
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 418
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.55201229999999,
+              "lng": 9.986207199999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Gro\u00dfe Bleichen</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qvzeIwn~{@`@lAv@dCZdAHZBHBLr@~BVx@Tt@FRj@fB^nABVLxAHx@?JD`@Dd@Hr@"
+            },
+            "start_location": {
+              "lat": 53.5538488,
+              "lng": 9.991638
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ohzeIqda|@MADl@AFEZRlDTpDFdA`@~El@tFRrBTfDRbEDjBJpGChAw@nAwAtBm@p@{AA]fAETEFgAlBc@v@gDfGg@z@xArEl@xBhBbGjAvDPpBTlCHr@"
+    },
+    "summary": "M\u00f6nckebergstra\u00dfe and Gro\u00dfe Bleichen",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

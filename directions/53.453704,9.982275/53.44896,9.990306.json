@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.4537177,
+        "lng": 9.9902347
+      },
+      "southwest": {
+        "lat": 53.4489195,
+        "lng": 9.9823697
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.0 km",
+          "value": 1013
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 280
+        },
+        "end_address": "Reeseberg / Anzengruberstra\u00dfe, 21079 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.4489195,
+          "lng": 9.9902347
+        },
+        "start_address": "Maretstra\u00dfe / Baererstra\u00dfe, 21073 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.4537177,
+          "lng": 9.9823697
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.4534295,
+              "lng": 9.9824041
+            },
+            "html_instructions": "Head <b>south</b> on <b>Maretstra\u00dfe</b> toward <b>Baererstra\u00dfe</b>",
+            "polyline": {
+              "points": "wdgeIyt|{@NEPAV@"
+            },
+            "start_location": {
+              "lat": 53.4537177,
+              "lng": 9.9823697
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 359
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.453625,
+              "lng": 9.9878108
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Baererstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}bgeI_u|{@A}@C{@CwBA[EuDA{@A_@IkGE}AAcB?O?U?Q@S"
+            },
+            "start_location": {
+              "lat": 53.4534295,
+              "lng": 9.9824041
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 204
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.45181410000001,
+              "lng": 9.9874458
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wilstorfer Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cdgeIyv}{@DA`@@R?P?h@BhAJH@XFRNLBNDPDJBPBN@PB"
+            },
+            "start_location": {
+              "lat": 53.453625,
+              "lng": 9.9878108
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 174
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.4502616,
+              "lng": 9.9874523
+            },
+            "html_instructions": "Continue onto <b>Winsener Str.</b>/<wbr/><b>B4</b>",
+            "polyline": {
+              "points": "yxfeIqt}{@V?@AJ?FA@?r@EPAPKVCR?V@PB\\FXDJ@RD"
+            },
+            "start_location": {
+              "lat": 53.45181410000001,
+              "lng": 9.9874458
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 244
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 129
+            },
+            "end_location": {
+              "lat": 53.4489195,
+              "lng": 9.9902347
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>N\u00f6ldekestra\u00dfe</b>/<wbr/><b>Reeseberg</b><div style=\"font-size:0.9em\">Continue to follow Reeseberg</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cofeIqt}{@@u@@m@j@kADIp@uAXk@Vi@BEp@wAr@{AFK"
+            },
+            "start_location": {
+              "lat": 53.4502616,
+              "lng": 9.9874523
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wdgeIyt|{@`@GV@A}@GsDGqESeMA{C@SDAt@@z@BrALXFRN\\Hn@L`@DXAhAGPAPKj@Ch@Dv@L^FBcB|BwEhCoF"
+    },
+    "summary": "Baererstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

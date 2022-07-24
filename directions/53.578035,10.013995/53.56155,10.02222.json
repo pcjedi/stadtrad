@@ -1,0 +1,214 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5780356,
+        "lng": 10.0221042
+      },
+      "southwest": {
+        "lat": 53.5608058,
+        "lng": 10.0105349
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2545
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 559
+        },
+        "end_address": "Alsterschwimmhalle / Ifflandstra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5615573,
+          "lng": 10.0221042
+        },
+        "start_address": "Hofweg / Am Langenzug, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5780356,
+          "lng": 10.0139947
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 269
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "html_instructions": "Head <b>west</b> on <b>Am Langenzug</b> toward <b>Marienterrasse</b>",
+            "polyline": {
+              "points": "wm_fImzb|@@FH`@DVJ\\Lb@l@bBDVTv@H\\`@xARr@x@`DLl@"
+            },
+            "start_location": {
+              "lat": 53.5780356,
+              "lng": 10.0139947
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 996
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 202
+            },
+            "end_location": {
+              "lat": 53.5684627,
+              "lng": 10.0161832
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Herbert-Weichmann-Stra\u00dfe</b><div style=\"font-size:0.9em\">Closed 12:00 PM \u2013 3:59 AM</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ye_fIydb|@~@i@|@i@HEvA{@zFkDbC}AlAu@|A{@PMvBqAfC{AlHqEnCaBZSjAs@x@_@"
+            },
+            "start_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 683
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 124
+            },
+            "end_location": {
+              "lat": 53.5627041,
+              "lng": 10.0150373
+            },
+            "html_instructions": "Continue onto <b>Schwanenwik</b>",
+            "polyline": {
+              "points": "{q}eIchc|@XMLAHC`@ERCXEJAj@EPCPCPCt@Ib@G|@M^E\\C@?LAb@Gd@GHCr@KD?t@GJEL?NAPAt@HL?J@J@H@H@HBJDHBB@HDFDLHHFXVHLJNJNdAbBr@hAV^LRHJDD"
+            },
+            "start_location": {
+              "lat": 53.5684627,
+              "lng": 10.0161832
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5623528,
+              "lng": 10.0151069
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Schwanenwik</b><div style=\"font-size:0.9em\">May be closed at certain times or days</div>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "{m|eI_ac|@j@?F?DCDCDE"
+            },
+            "start_location": {
+              "lat": 53.5627041,
+              "lng": 10.0150373
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 307
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 116
+            },
+            "end_location": {
+              "lat": 53.5608058,
+              "lng": 10.0187663
+            },
+            "html_instructions": "Continue onto <b>Sechslingspforte</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div>",
+            "polyline": {
+              "points": "uk|eImac|@DCDGBG@E@K@I@c@?U?K?I@O?Q@K@E@ODYBKBMDODMDMHSJWN]BE@G?K`CoEdAcC"
+            },
+            "start_location": {
+              "lat": 53.5623528,
+              "lng": 10.0151069
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "37 m",
+              "value": 37
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5610982,
+              "lng": 10.0189769
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ackermannstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ab|eIixc|@MWIIICWC"
+            },
+            "start_location": {
+              "lat": 53.5608058,
+              "lng": 10.0187663
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5615573,
+              "lng": 10.0221042
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ekhofstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{c|eIsyc|@_@}EUaDGe@Gi@Q}BCa@"
+            },
+            "start_location": {
+              "lat": 53.5610982,
+              "lng": 10.0189769
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wm_fImzb|@\\~Az@fCZnAxBlILl@~@i@fAo@rIgFpEsCnJwFdP{JrAm@VEzAQ`BQhGs@n@Kx@K`AM\\APAt@HX@h@Hb@Px@n@jEzGDDj@?LCVUHc@@oADs@NcAZ_A`@cA?K`CoEdAcCMWSMWC_@}E]gEYgDCa@"
+    },
+    "summary": "Herbert-Weichmann-Stra\u00dfe and Schwanenwik",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

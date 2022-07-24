@@ -1,0 +1,334 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5658085,
+        "lng": 9.9637698
+      },
+      "southwest": {
+        "lat": 53.5582433,
+        "lng": 9.887118
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "5.9 km",
+          "value": 5923
+        },
+        "duration": {
+          "text": "20 mins",
+          "value": 1172
+        },
+        "end_address": "S Othmarschen / Beselerplatz, 22607 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5603661,
+          "lng": 9.887118
+        },
+        "start_address": "Neuer Pferdemarkt / Beim Gr\u00fcnen J\u00e4ger, 20359 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5588828,
+          "lng": 9.9637698
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "72 m",
+              "value": 72
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5582891,
+              "lng": 9.963706499999999
+            },
+            "html_instructions": "Head <b>southwest</b>",
+            "polyline": {
+              "points": "_v{eIq`y{@f@\\f@JF?FABAFGHQ"
+            },
+            "start_location": {
+              "lat": 53.5588828,
+              "lng": 9.9637698
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5582433,
+              "lng": 9.9636418
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Neuer Pferdemarkt</b>/<wbr/><b>Stresemannstra\u00dfe</b>/<wbr/><b>B4</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ir{eIe`y{@HL"
+            },
+            "start_location": {
+              "lat": 53.5582891,
+              "lng": 9.963706499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "3.1 km",
+              "value": 3087
+            },
+            "duration": {
+              "text": "11 mins",
+              "value": 630
+            },
+            "end_location": {
+              "lat": 53.5640806,
+              "lng": 9.919263299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Neuer Pferdemarkt</b>/<wbr/><b>Stresemannstra\u00dfe</b>/<wbr/><b>B4</b><div style=\"font-size:0.9em\">Continue to follow Stresemannstra\u00dfe</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_r{eIw_y{@Wf@Wd@MZMZO`@EHQd@O\\e@bAKRO\\W`@s@vAKVIRGTK\\Qh@Qp@ADM`@GRADERA@ETI^I`@Qt@C^CPI\\I\\ETEVEVGf@Il@[hC[jCYbCKx@M|@?BCNStAKj@Kr@Kn@KXCLEVG\\QrACTCTAREh@YfEUtDShDIx@Eh@C^CXCVE^AT[|BGj@?h@q@|EMt@APGj@Iv@Cf@Ed@En@I~@C`@Gz@I|@K|AKxAIjAKZEZE\\GRSbAC`@?dA@jA?nBAnBAh@AhC?TA|@GzDAv@?RAt@?DAt@?F?DA^?RAtA?X?f@@b@@xB@N@j@DnB@PBb@Bb@?BDZ?BFn@@JHt@BL?D@D?D@PBV@R?L?P@|@?~@?\\B\\?z@?BAtAAl@A~ACpBCzA?DCp@IrBEnB?DCf@Ch@Ah@Az@CtAALClA?ZCtAGjCAj@Ct@AR?JKjFA^IdEAVGh@AX?FKxDAb@"
+            },
+            "start_location": {
+              "lat": 53.5582433,
+              "lng": 9.9636418
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 588
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 117
+            },
+            "end_location": {
+              "lat": 53.5658085,
+              "lng": 9.910896200000002
+            },
+            "html_instructions": "Continue onto <b>Bahrenfelder Chaussee</b>/<wbr/><b>B431</b>",
+            "polyline": {
+              "points": "ov|eIkjp{@A\\Af@IjB@d@]~CKdAQbBGb@SzAYvBKv@EZa@|C]tBO~@Q|@Gb@CLi@vCCTIf@c@~B"
+            },
+            "start_location": {
+              "lat": 53.5640806,
+              "lng": 9.919263299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 721
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 133
+            },
+            "end_location": {
+              "lat": 53.5650631,
+              "lng": 9.9002935
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Von-Sauer-Stra\u00dfe</b>/<wbr/><b>B431</b><div style=\"font-size:0.9em\">Continue to follow B431</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ia}eIcvn{@DB@@@@?@@B?B?F@^?^@\\?f@?hAA|A?JEzC?RCfCA~@@xADpADl@@FD^Hb@Nv@Jp@T|ARdBFn@Ft@PbBHdALtA?FAZBn@BV@`@@^@\\?X@Z?PARA\\C^ABGn@Gh@"
+            },
+            "start_location": {
+              "lat": 53.5658085,
+              "lng": 9.910896200000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 444
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 95
+            },
+            "end_location": {
+              "lat": 53.5611684,
+              "lng": 9.899090600000001
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Parts of this road are closed 9:00 AM \u2013 5:00 PM</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "s||eIysl{@`@JH@B?@ADEFCB?@@@@BDDFJFLDRHTFZHTDfAVrAZ`AZ@?l@Rn@Fd@J|Er@"
+            },
+            "start_location": {
+              "lat": 53.5650631,
+              "lng": 9.9002935
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 162
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5621772,
+              "lng": 9.8973414
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Adickesstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "id|eIill{@CFKVA@Wf@Yj@Yh@Wh@]t@CFKREJGHEDKLAFCN"
+            },
+            "start_location": {
+              "lat": 53.5611684,
+              "lng": 9.899090600000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 571
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 103
+            },
+            "end_location": {
+              "lat": 53.5598976,
+              "lng": 9.8897576
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Adickesstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sj|eIkal{@DHBL@J@^?LFdB?p@JlBHz@Fj@F^R`A^lA^fAVt@f@|AJZl@hBL^nA~E`@zAZnAVhAHb@"
+            },
+            "start_location": {
+              "lat": 53.5621772,
+              "lng": 9.8973414
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "77 m",
+              "value": 77
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.55983209999999,
+              "lng": 9.8886066
+            },
+            "html_instructions": "Continue onto <b>Rosenhagenstra\u00dfe</b>",
+            "polyline": {
+              "points": "k|{eI_rj{@D\\B^@\\@hC"
+            },
+            "start_location": {
+              "lat": 53.5598976,
+              "lng": 9.8897576
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "76 m",
+              "value": 76
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5605105,
+              "lng": 9.8885121
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Beselerpl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}{{eIyjj{@_@Bs@DG@c@BE@A@"
+            },
+            "start_location": {
+              "lat": 53.55983209999999,
+              "lng": 9.8886066
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "68 m",
+              "value": 68
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.56012,
+              "lng": 9.887749999999999
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e`|eIejj{@BPBHDLFXHNL\\^d@"
+            },
+            "start_location": {
+              "lat": 53.5605105,
+              "lng": 9.8885121
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "50 m",
+              "value": 50
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5603661,
+              "lng": 9.887118
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w}{eImej{@q@|B"
+            },
+            "start_location": {
+              "lat": 53.56012,
+              "lng": 9.887749999999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_v{eIq`y{@f@\\f@JNAJIHQHLo@lA[v@w@nBq@vAg@~@iAbCqApEWjA[vAGp@_@hBs@vFoAfKc@tCWbBOf@c@~Ce@zGy@bMQpB]rCGj@?h@_ArGI|@YtD_@zEWvDIjAKZKx@[vACfB@zDExHKdIGhGB~EJ|DLfBRtBD^FjA@lDBxAAxAKzISzGI`CKlF_@jRKdFI`AO~FCdAIjB@d@i@dFYfC_AfH_ArGa@|By@~Em@fDFDBF@jA?lFIbI?xCJ~B`@bC`@nCZtCp@tHAb@FfADxBA~AU|Bj@LDALID@VVrA`@|A\\tCv@n@RtAR|Er@CFMXcBfDs@|A[d@CNDHDXHdEThDNjAr@nCv@|BnBbGpBzHr@xCN`AD|@@hC_@B{@Fi@D@RZ`AL\\^d@q@|B"
+    },
+    "summary": "Stresemannstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

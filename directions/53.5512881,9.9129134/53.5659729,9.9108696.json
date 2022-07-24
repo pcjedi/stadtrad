@@ -1,0 +1,263 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.56585099999999,
+        "lng": 9.914079899999999
+      },
+      "southwest": {
+        "lat": 53.5511113,
+        "lng": 9.9094106
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2212
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 434
+        },
+        "end_address": "Bahrenfelder Chaussee / Von-Sauer-Stra\u00dfe, 22761 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.56585099999999,
+          "lng": 9.9107609
+        },
+        "start_address": "Bleickenallee / Kinderkrankenhaus Altona, 22763 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5511636,
+          "lng": 9.9129357
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "82 m",
+              "value": 82
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5511113,
+              "lng": 9.911702
+            },
+            "html_instructions": "Head <b>west</b> on <b>Bleickenallee</b> toward <b>Am Rathenaupark</b>",
+            "polyline": {
+              "points": "wezeI{bo{@@j@FjE"
+            },
+            "start_location": {
+              "lat": 53.5511636,
+              "lng": 9.9129357
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 152
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.55126320000001,
+              "lng": 9.9094106
+            },
+            "html_instructions": "Continue onto <b>Othmarscher Kirchenweg</b>",
+            "polyline": {
+              "points": "mezeIc{n{@AXCnCKtCG|ACj@"
+            },
+            "start_location": {
+              "lat": 53.5511113,
+              "lng": 9.911702
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 978
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 202
+            },
+            "end_location": {
+              "lat": 53.559621,
+              "lng": 9.9132225
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Griegstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kfzeIyln{@e@CiBGc@AeGWmAMwAOSKoA[y@O_@KOEmAa@s@Y_A_@YMeAo@cAm@_@U{BwAiAw@aAo@m@_@OMMKgBsBW_@"
+            },
+            "start_location": {
+              "lat": 53.55126320000001,
+              "lng": 9.9094106
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 200
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5611328,
+              "lng": 9.9116222
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bahrenfelder Kirchenweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sz{eIsdo{@ULKFc@ZA@IFYV[ZSPWX]d@c@p@KNk@z@"
+            },
+            "start_location": {
+              "lat": 53.559621,
+              "lng": 9.9132225
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5612237,
+              "lng": 9.9118646
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gasstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ad|eIszn{@Qo@"
+            },
+            "start_location": {
+              "lat": 53.5611328,
+              "lng": 9.9116222
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 280
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5637439,
+              "lng": 9.9118677
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Woyrschweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sd|eIc|n{@w@AcBAYAmAG{AA{AF{@D"
+            },
+            "start_location": {
+              "lat": 53.5612237,
+              "lng": 9.9118646
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 125
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5637702,
+              "lng": 9.913765699999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Mendelssohnstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kt|eIe|n{@AcCAs@?A?[?qBAs@"
+            },
+            "start_location": {
+              "lat": 53.5637439,
+              "lng": 9.9118677
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.56497419999999,
+              "lng": 9.914079899999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Nettelbeckstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qt|eIaho{@m@Cu@IkAUYGEA_@O"
+            },
+            "start_location": {
+              "lat": 53.5637702,
+              "lng": 9.913765699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 240
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.56585099999999,
+              "lng": 9.9107609
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bahrenfelder Chaussee</b>/<wbr/><b>B431</b><div style=\"font-size:0.9em\">Continue to follow Bahrenfelder Chaussee</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "a||eI_jo{@]tBO~@Q|@Gb@CLi@vCCTIf@c@~BGZ"
+            },
+            "start_location": {
+              "lat": 53.56497419999999,
+              "lng": 9.914079899999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wezeI{bo{@HvFEhDSrFCj@e@CmCIeGWmAMwAOSKiCk@o@QaC{@yAm@iC}AgHuE}@m@uB_CW_@ULo@b@aA|@k@j@aAvAw@jAQo@w@A}BCmAG{AAwCLCwDAcEcBMeB]e@Qm@tDgAfGy@xE"
+    },
+    "summary": "Griegstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

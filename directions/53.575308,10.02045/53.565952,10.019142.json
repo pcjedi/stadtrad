@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5750772,
+        "lng": 10.0204471
+      },
+      "southwest": {
+        "lat": 53.5660198,
+        "lng": 10.014938
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1391
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 274
+        },
+        "end_address": "Mundsburger Br\u00fccke / Papenhuder Stra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5660198,
+          "lng": 10.0191371
+        },
+        "start_address": "Winterhuder Weg / Zimmerstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5750772,
+          "lng": 10.0204471
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 368
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "html_instructions": "Head <b>west</b> on <b>Zimmerstra\u00dfe</b> toward <b>Stormsweg</b>",
+            "polyline": {
+              "points": "g{~eIybd|@@XB^?B@RFhAP`F@RFtABp@@XJjD@ZBj@LlCBb@HrB"
+            },
+            "start_location": {
+              "lat": 53.5750772,
+              "lng": 10.0204471
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 688
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 149
+            },
+            "end_location": {
+              "lat": 53.5687358,
+              "lng": 10.0180574
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hofweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gx~eIk`c|@JANCd@GFAZCVEv@ITEZEn@I`@GPCRELELIPIROn@a@|@i@HEVOZQh@[FCfAq@rA{@VONKLKvA{@fBeAf@[LAPKTMPIPK"
+            },
+            "start_location": {
+              "lat": 53.5745979,
+              "lng": 10.014938
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 305
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5661389,
+              "lng": 10.0195391
+            },
+            "html_instructions": "Continue onto <b>Papenhuder Str.</b>",
+            "polyline": {
+              "points": "ss}eI{sc|@n@[BCBElEsBlAk@xAs@NGp@WVM"
+            },
+            "start_location": {
+              "lat": 53.5687358,
+              "lng": 10.0180574
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5660198,
+              "lng": 10.0191371
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hartwicusstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kc}eIc}c|@@J@HDJDJDL@J?F"
+            },
+            "start_location": {
+              "lat": 53.5661389,
+              "lng": 10.0195391
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g{~eIybd|@j@fNr@dRjEi@~B[`@K^SjCaBdBaAbEiCtFiDLAPKf@W`Ag@FIdK{EhAe@BTJVFX?F"
+    },
+    "summary": "Zimmerstra\u00dfe and Hofweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

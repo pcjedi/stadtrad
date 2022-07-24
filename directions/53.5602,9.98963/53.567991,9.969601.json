@@ -1,0 +1,190 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.56789879999999,
+        "lng": 9.9894056
+      },
+      "southwest": {
+        "lat": 53.5601737,
+        "lng": 9.9694829
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1769
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 361
+        },
+        "end_address": "U Schlump / Gustav-Falke-Stra\u00dfe, 20357 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.56789879999999,
+          "lng": 9.9694829
+        },
+        "start_address": "Bahnhof Dammtor / Dag-Hammarskj\u00f6ld-Platz, 20354 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5601737,
+          "lng": 9.9894056
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 107
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5608904,
+              "lng": 9.988500499999999
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Rentzelstra\u00dfe</b>",
+            "polyline": {
+              "points": "a~{eIy`~{@GBUBQLg@f@u@tA?@A??@?@A??@?@?@A??@?@?@?@?@?@@@?@?@?@@??@"
+            },
+            "start_location": {
+              "lat": 53.5601737,
+              "lng": 9.9894056
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 247
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 53.5626066,
+              "lng": 9.986295199999999
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qb|eIc{}{@WZQDM?IACAE@A@C@GFEFa@b@mA~BmAzBWf@a@z@"
+            },
+            "start_location": {
+              "lat": 53.5608904,
+              "lng": 9.988500499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 667
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 129
+            },
+            "end_location": {
+              "lat": 53.56366999999999,
+              "lng": 9.9767972
+            },
+            "html_instructions": "Continue onto <b>Tiergartenstra\u00dfe</b>",
+            "polyline": {
+              "points": "im|eIkm}{@_@bAOVUb@CBWl@EDA@INSp@G\\a@pBMz@If@KhACZEpA?HAz@?\\@jB?nC?T@z@?z@?rB?zC?^@vB?`@@X?|@?V@jA?RBz@"
+            },
+            "start_location": {
+              "lat": 53.5626066,
+              "lng": 9.986295199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "85 m",
+              "value": 85
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.5643166,
+              "lng": 9.977433099999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rentzelstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}s|eI_r{{@c@YOc@YYGESMWQ"
+            },
+            "start_location": {
+              "lat": 53.56366999999999,
+              "lng": 9.9767972
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 608
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 101
+            },
+            "end_location": {
+              "lat": 53.56760509999999,
+              "lng": 9.970161599999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schr\u00f6derstiftstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_x|eI}u{{@Cd@Ml@I^ETA`@_@bAWp@g@pA_AbCM^IPOb@Wn@Qf@Sh@Q`@K\\KVITUj@GPELIRGLWr@ELO`@Od@Uh@Yb@q@bBGJMZIPIRWt@IZQd@"
+            },
+            "start_location": {
+              "lat": 53.5643166,
+              "lng": 9.977433099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.56789879999999,
+              "lng": 9.9694829
+            },
+            "html_instructions": "Continue onto <b>Sch\u00e4ferkampsallee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "ql}eIohz{@Oj@ELITYv@"
+            },
+            "start_location": {
+              "lat": 53.56760509999999,
+              "lng": 9.970161599999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "a~{eIy`~{@]Fy@t@u@vAABCH@H?D@@WZ_@DSASRa@b@mA~BeBbDaA~Be@z@[p@GF]`Ai@nCWbBOdBGtDBxTBpFDrDc@YOc@a@_@k@_@Cd@Ml@Ot@A`@_@bA_AbCmAbDcAlC}@`C}AdE_@fAUh@Yb@y@nBWl@}@jCy@fC"
+    },
+    "summary": "Tiergartenstra\u00dfe and Schr\u00f6derstiftstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55240509999999,
+        "lng": 9.994003000000001
+      },
+      "southwest": {
+        "lat": 53.54714019999999,
+        "lng": 9.9772529
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1459
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 383
+        },
+        "end_address": "Enckeplatz / H\u00fctten, 20355 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55240509999999,
+          "lng": 9.9772529
+        },
+        "start_address": "Domstra\u00dfe / Willy-Brandt-Stra\u00dfe, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54750199999999,
+          "lng": 9.994003000000001
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.547242,
+              "lng": 9.993612700000002
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Domstra\u00dfe</b> toward <b>Willy-Brandt-Stra\u00dfe</b>/<wbr/><b>B4</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "{nyeIo}~{@HFFDDFFHBFFNFT"
+            },
+            "start_location": {
+              "lat": 53.54750199999999,
+              "lng": 9.994003000000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1069
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 262
+            },
+            "end_location": {
+              "lat": 53.5492944,
+              "lng": 9.9780047
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Willy-Brandt-Stra\u00dfe</b>/<wbr/><b>B4</b><div style=\"font-size:0.9em\">Continue to follow B4</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "gmyeIa{~{@@x@@fANvK?hAAbAAr@Af@Cd@Cd@Cd@Ed@Ef@Cj@Gv@YdDYlDIz@E`@Kl@WpAYlBIh@Mx@If@OdA?@K~@ADGj@SxAIh@e@zDWpBAPY~BCRG`@Gb@CZEXC\\Eb@?HCVEp@Cd@AJGvAAn@"
+            },
+            "start_location": {
+              "lat": 53.547242,
+              "lng": 9.993612700000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 331
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 82
+            },
+            "end_location": {
+              "lat": 53.552234,
+              "lng": 9.977266
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Neanderstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "azyeIoy{{@YBe@Hc@LMJg@J_@H{@NQBs@HI?w@HE@[DkDb@"
+            },
+            "start_location": {
+              "lat": 53.5492944,
+              "lng": 9.9780047
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.55240509999999,
+              "lng": 9.9772529
+            },
+            "html_instructions": "Continue straight onto <b>H\u00fctten</b>",
+            "maneuver": "straight",
+            "polyline": {
+              "points": "mlzeI}t{{@c@B"
+            },
+            "start_location": {
+              "lat": 53.552234,
+              "lng": 9.977266
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{nyeIo}~{@^^JVFT@x@P~MAlCG`CSxC_AvLO|Ac@~B{@xFiBxNqArKMbBSzDAn@YBiAVMJg@J{AXgCVa@FkDb@c@B"
+    },
+    "summary": "B4",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

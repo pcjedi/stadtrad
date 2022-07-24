@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5808097,
+        "lng": 10.036296
+      },
+      "southwest": {
+        "lat": 53.5670015,
+        "lng": 10.0259794
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2212
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 526
+        },
+        "end_address": "Weidestra\u00dfe / Johannes-Prassek-Park, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5808097,
+          "lng": 10.0259794
+        },
+        "start_address": "Lerchenfeld / Uferstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5670015,
+          "lng": 10.031798
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 400
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 66
+            },
+            "end_location": {
+              "lat": 53.5693671,
+              "lng": 10.036296
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Uferstra\u00dfe</b> toward <b>Finkenau</b>",
+            "polyline": {
+              "points": "wh}eIwif|@Wq@y@wBUm@EKgAmCEGECEAC?Mg@Og@Wg@eAkBGOw@iB]{@Qc@a@eA"
+            },
+            "start_location": {
+              "lat": 53.5670015,
+              "lng": 10.031798
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 466
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.5729053,
+              "lng": 10.0325059
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Leo-Leistikow-Allee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qw}eI{eg|@oA|AaBfBwC`Ds@v@GF}AbBUTUZo@l@IHqAvAg@f@"
+            },
+            "start_location": {
+              "lat": 53.5693671,
+              "lng": 10.036296
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 313
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 106
+            },
+            "end_location": {
+              "lat": 53.575012,
+              "lng": 10.0356419
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Oberaltenallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "um~eIenf|@AE_@m@GKQWCEiAmBQSAES[q@iAw@mAi@_AQ_@]q@AAWe@S]"
+            },
+            "start_location": {
+              "lat": 53.5729053,
+              "lng": 10.0325059
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 597
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 139
+            },
+            "end_location": {
+              "lat": 53.5798496,
+              "lng": 10.0321571
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Adolph-Sch\u00f6nfelder-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yz~eIwag|@Wf@GNWf@a@t@mAzAmAjAa@`@A@MP]X]PsDnBULc@Tc@To@Vk@TUDq@No@Le@Fa@H]DK@K@"
+            },
+            "start_location": {
+              "lat": 53.575012,
+              "lng": 10.0356419
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 420
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 133
+            },
+            "end_location": {
+              "lat": 53.5806616,
+              "lng": 10.0259827
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Weidestra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ay_fI_lf|@G~@AREj@K|AIdAGb@CPIh@GfA?`@_@dGQ`DITEVI`AIdA@d@?DIzA"
+            },
+            "start_location": {
+              "lat": 53.5798496,
+              "lng": 10.0321571
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5808097,
+              "lng": 10.0259794
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "c~_fIkee|@]?"
+            },
+            "start_location": {
+              "lat": 53.5806616,
+              "lng": 10.0259827
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh}eIwif|@mBcFmAuCKEC?Mg@g@oAmA{BuAeDs@iBqDdEqHdIeBhByB~Ba@s@gBwCyA_CaBmCo@qAYg@S]Wf@_@v@a@t@mAzAoBlBOR{@j@iE|BgAj@{Al@}Cj@wAR[|EQhBMz@GhBq@fLOl@SfC@j@IzA]?"
+    },
+    "summary": "Adolph-Sch\u00f6nfelder-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

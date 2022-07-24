@@ -1,0 +1,189 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5704428,
+        "lng": 9.9694829
+      },
+      "southwest": {
+        "lat": 53.56237590000001,
+        "lng": 9.9482448
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2084
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 398
+        },
+        "end_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "start_address": "U Schlump / Gustav-Falke-Stra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.56789879999999,
+          "lng": 9.9694829
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 440
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.5695981,
+              "lng": 9.9636584
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Sch\u00e4ferkampsallee</b> toward <b>Moorkamp</b>",
+            "polyline": {
+              "points": "kn}eIgdz{@Yz@ADA?ADCXCHEL[~@Sj@e@tAM\\i@`Ba@hAUd@c@vAGt@MdBCr@MvCCp@AXMrA"
+            },
+            "start_location": {
+              "lat": 53.56789879999999,
+              "lng": 9.9694829
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 529
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.5704428,
+              "lng": 9.9560605
+            },
+            "html_instructions": "Continue onto <b>Fruchtallee</b>",
+            "polyline": {
+              "points": "_y}eI{_y{@GhA@|@AN?b@?f@?HB~@@^BV@THlAD^BNHR@p@?fACx@C^Gr@k@xDIRU`AQfAUlAQ|@WjBUbBGd@"
+            },
+            "start_location": {
+              "lat": 53.5695981,
+              "lng": 9.9636584
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 474
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5670511,
+              "lng": 9.951878899999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Doormannsweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g~}eIkpw{@NRb@dAHPLZBHf@jAVl@LXTd@HRJVJRRZX`@HL@@Z`@l@p@DF`DlCJJ`@XPJd@XJJ`@VNN"
+            },
+            "start_location": {
+              "lat": 53.5704428,
+              "lng": 9.9560605
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5662657,
+              "lng": 9.951350000000001
+            },
+            "html_instructions": "Continue onto <b>Alsenpl.</b>",
+            "polyline": {
+              "points": "ai}eIgvv{@l@Zr@b@x@h@"
+            },
+            "start_location": {
+              "lat": 53.5670511,
+              "lng": 9.951878899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 469
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "html_instructions": "Continue onto <b>Alsenstra\u00dfe</b>",
+            "polyline": {
+              "points": "ed}eI}rv{@VLZPNHb@T\\PTJNHhAp@r@b@`@TjAt@dAl@HBNJ~@l@VPVRPL\\X^XTN^XZT"
+            },
+            "start_location": {
+              "lat": 53.5662657,
+              "lng": 9.951350000000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>D\u00fcppelstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{k|eI_bv{@INKJCBGF}@X_@L"
+            },
+            "start_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kn}eIgdz{@_@fAGb@a@lAqB`Gw@nBc@vAGt@QxCQhEOlBGhA@|@Ar@?p@JlCNlBLb@@xBGxAs@lFIRU`Ag@tCi@hD]hCNRb@dAVl@j@tAdA`CVj@l@|@tAbBtEzDv@d@l@b@NNl@ZlBlAfB~@lCxAfF|CpBnAfBtAt@h@ZTINONeA`@_@L"
+    },
+    "summary": "Fruchtallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

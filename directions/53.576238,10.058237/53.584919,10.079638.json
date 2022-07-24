@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5849608,
+        "lng": 10.0795328
+      },
+      "southwest": {
+        "lat": 53.5762157,
+        "lng": 10.0572239
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 2014
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 500
+        },
+        "end_address": "Friedrich-Ebert-Damm / Lomerstra\u00dfe, 22047 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5849608,
+          "lng": 10.0795328
+        },
+        "start_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 435
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 119
+            },
+            "end_location": {
+              "lat": 53.5800025,
+              "lng": 10.0572239
+            },
+            "html_instructions": "Head <b>north</b> on <b>Krausestra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "kb_fIwok|@GCQIIEUOOBE?I@aADOBWBq@Fg@Jq@J[HoA\\oEpBm@Vy@`@"
+            },
+            "start_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1004
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 216
+            },
+            "end_location": {
+              "lat": 53.5830561,
+              "lng": 10.0714307
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Stra\u00dfburger Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_z_fIshk|@MiAIq@CWWaCCWY}Bc@yDe@kEe@}DE[CUEWGWIYEEIMIGKOISIUE[MeAK{@AMo@wFAGo@kFGe@CWOqAKs@E_@SgBQ}AG_@?I]kCUgBE_@K}@QwAMaA"
+            },
+            "start_location": {
+              "lat": 53.5800025,
+              "lng": 10.0572239
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 575
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 165
+            },
+            "end_location": {
+              "lat": 53.5849608,
+              "lng": 10.0795328
+            },
+            "html_instructions": "Continue onto <b>Friedrich-Ebert-Damm</b>",
+            "polyline": {
+              "points": "cm`fIman|@UgBMaAKq@Io@u@kGk@mDIg@]sBYeBSmAIg@e@wCUqAUeBUyAS{ACO"
+            },
+            "start_location": {
+              "lat": 53.5830561,
+              "lng": 10.0714307
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kb_fIwok|@y@c@aBJaCZmAToA\\oEpBgBx@W{By@oHuB_RIm@Qq@e@k@Si@SaB_AiIkA{JsBwPq@wFy@kGu@kGk@mDg@{C}AsJyA}J"
+    },
+    "summary": "Stra\u00dfburger Str. and Friedrich-Ebert-Damm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

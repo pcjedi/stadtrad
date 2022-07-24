@@ -1,0 +1,354 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5808838,
+        "lng": 10.0163991
+      },
+      "southwest": {
+        "lat": 53.5675277,
+        "lng": 9.9821098
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.6 km",
+          "value": 3589
+        },
+        "duration": {
+          "text": "12 mins",
+          "value": 716
+        },
+        "end_address": "Eduard-Rhein-Ufer / Schwanenwik, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5676611,
+          "lng": 10.0161122
+        },
+        "start_address": "Innocentiapark / Oberstra\u00dfe, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5772437,
+          "lng": 9.9821098
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 113
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5772215,
+              "lng": 9.9838145
+            },
+            "html_instructions": "Head <b>east</b> on <b>Oberstra\u00dfe</b> toward <b>Parkallee</b>",
+            "polyline": {
+              "points": "wh_fIes|{@BgH?k@"
+            },
+            "start_location": {
+              "lat": 53.5772437,
+              "lng": 9.9821098
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 183
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.578779,
+              "lng": 9.9842797
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Parkallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sh_fIy}|{@EIQ[SYOMEGGCGCu@?y@?[?m@?k@?"
+            },
+            "start_location": {
+              "lat": 53.5772215,
+              "lng": 9.9838145
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 303
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.57879670000001,
+              "lng": 9.9888692
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Innocentiastra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kr_fIw`}{@?mJCgP"
+            },
+            "start_location": {
+              "lat": 53.578779,
+              "lng": 9.9842797
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 344
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.5796451,
+              "lng": 9.993797299999999
+            },
+            "html_instructions": "Continue onto <b>Hagedornstra\u00dfe</b>",
+            "polyline": {
+              "points": "or_fIm}}{@A_BCkBCy@E}@Ew@G{@Gy@K{@SiBYgB_@}AEWEOEQGSOm@"
+            },
+            "start_location": {
+              "lat": 53.57879670000001,
+              "lng": 9.9888692
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 269
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.5785001,
+              "lng": 9.9972032
+            },
+            "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Harvestehuder Weg</b>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "yw_fIg|~{@@?@??A@??A@??A@??A?A@A?A@A?A?C?A@A?AA??A?A?A?A?AAA?A?AAA?A?AA??AAA\\mBJ_AJaAF[BS@Q@C@IDOH]h@mAXs@Rg@BABCBEBIJ[HUHQ"
+            },
+            "start_location": {
+              "lat": 53.5796451,
+              "lng": 9.993797299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 183
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.5796798,
+              "lng": 9.9987516
+            },
+            "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>Krugkoppel</b>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "sp_fIoq_|@@A@C?ABC@C@A?A?A?A@C?A?AAAAE?CAAACACACGAMYU_@ACKOUc@CEGCIKIIMIIGGCQMMGKIKIIG[_@"
+            },
+            "start_location": {
+              "lat": 53.5785001,
+              "lng": 9.9972032
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 103
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.58039369999999,
+              "lng": 9.999753499999999
+            },
+            "html_instructions": "Continue onto <b>Krugkoppelbr\u00fccke</b>",
+            "polyline": {
+              "points": "_x_fIe{_|@QWe@u@[i@QYCCc@q@"
+            },
+            "start_location": {
+              "lat": 53.5796798,
+              "lng": 9.9987516
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 245
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.5807547,
+              "lng": 10.003225
+            },
+            "html_instructions": "Continue onto <b>Fernsicht</b>",
+            "polyline": {
+              "points": "m|_fIma`|@Ws@EKACKYEQAESs@Io@AQAIAE?GASEk@A_AB}@?ADkAD{@Bs@Du@"
+            },
+            "start_location": {
+              "lat": 53.58039369999999,
+              "lng": 9.999753499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 362
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.57972480000001,
+              "lng": 10.0083484
+            },
+            "html_instructions": "Continue onto <b>Gellertstra\u00dfe</b>",
+            "polyline": {
+              "points": "u~_fIcw`|@FaAR{BRgBJ_AD[DY?I?I?E?QRs@BMXsB`@iCPaA\\iBBM@I@I?IEa@"
+            },
+            "start_location": {
+              "lat": 53.5807547,
+              "lng": 10.003225
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 359
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sierichstra\u00dfe</b><div style=\"font-size:0.9em\">Closed 12:00 PM \u2013 3:59 AM</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gx_fIewa|@HIpA}@b@]n@c@z@m@p@c@pBwA\\STMNKb@WVO\\S^U"
+            },
+            "start_location": {
+              "lat": 53.57972480000001,
+              "lng": 10.0083484
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 996
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 170
+            },
+            "end_location": {
+              "lat": 53.5684627,
+              "lng": 10.0161832
+            },
+            "html_instructions": "Continue onto <b>Herbert-Weichmann-Stra\u00dfe</b><div style=\"font-size:0.9em\">Closed 12:00 PM \u2013 3:59 AM</div>",
+            "polyline": {
+              "points": "ye_fIydb|@~@i@|@i@HEvA{@zFkDbC}AlAu@|A{@PMvBqAfC{AlHqEnCaBZSjAs@x@_@"
+            },
+            "start_location": {
+              "lat": 53.57676559999999,
+              "lng": 10.0105349
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 105
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "html_instructions": "Continue onto <b>Schwanenwik</b>",
+            "polyline": {
+              "points": "{q}eIchc|@XMLAHC`@ERCXEJAj@E"
+            },
+            "start_location": {
+              "lat": 53.5684627,
+              "lng": 10.0161832
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5676611,
+              "lng": 10.0161122
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eduard-Rhein-Ufer</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "al}eIoic|@I^IPEF"
+            },
+            "start_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh_fIes|{@BsIWe@c@g@MKGCu@?uA?yA?Cu[EkEIwBMsBSuBm@qEe@uBc@cBFCBI@SEQZoBb@qDJo@r@kBl@{AFEFO`@eAHUEYCGGAMYWc@a@s@_@_@q@c@o@c@m@w@aA_BU]c@q@Ws@GOQk@Uy@KaAEk@GkBB_ATqFz@eJJiA?WVaAz@}Fn@kDFk@Ea@HItB{AnGmEfBeAtCcBzKwGpEsCnBiA|TaNfBgArAm@lAOd@Gj@EI^OX"
+    },
+    "summary": "Herbert-Weichmann-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

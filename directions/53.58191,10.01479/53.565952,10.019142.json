@@ -1,0 +1,166 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58195869999999,
+        "lng": 10.0195391
+      },
+      "southwest": {
+        "lat": 53.5660198,
+        "lng": 10.011922
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 1990
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 410
+        },
+        "end_address": "Mundsburger Br\u00fccke / Papenhuder Stra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5660198,
+          "lng": 10.0191371
+        },
+        "start_address": "Gertigstra\u00dfe / For\u00dfmannstra\u00dfe, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58195869999999,
+          "lng": 10.0147472
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5810437,
+              "lng": 10.011922
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Gertigstra\u00dfe</b> toward <b>Schinkelstra\u00dfe</b>",
+            "polyline": {
+              "points": "gf`fIe_c|@t@lDFPBNl@nCRv@DNHb@b@hB"
+            },
+            "start_location": {
+              "lat": 53.58195869999999,
+              "lng": 10.0147472
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 217
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.57929420000001,
+              "lng": 10.0133613
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>M\u00fchlenkamp</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o``fIomb|@Z[ROf@]d@_@TOTQtB}A|@u@"
+            },
+            "start_location": {
+              "lat": 53.5810437,
+              "lng": 10.011922
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1225
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 253
+            },
+            "end_location": {
+              "lat": 53.5687358,
+              "lng": 10.0180574
+            },
+            "html_instructions": "Continue onto <b>Hofweg</b>",
+            "polyline": {
+              "points": "qu_fIovb|@l@g@PM\\WJITOJGFELIPKJENIJCJCHAVCTEp@IHA`@GbAMhBUrBWhC]dAMx@OJANCd@GFAZCVEv@ITEZEn@I`@GPCRELELIPIROn@a@|@i@HEVOZQh@[FCfAq@rA{@VONKLKvA{@fBeAf@[LAPKTMPIPK"
+            },
+            "start_location": {
+              "lat": 53.57929420000001,
+              "lng": 10.0133613
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 305
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5661389,
+              "lng": 10.0195391
+            },
+            "html_instructions": "Continue onto <b>Papenhuder Str.</b>",
+            "polyline": {
+              "points": "ss}eI{sc|@n@[BCBElEsBlAk@xAs@NGp@WVM"
+            },
+            "start_location": {
+              "lat": 53.5687358,
+              "lng": 10.0180574
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "30 m",
+              "value": 30
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5660198,
+              "lng": 10.0191371
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hartwicusstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "kc}eIc}c|@@J@HDJDJDL@J?F"
+            },
+            "start_location": {
+              "lat": 53.5661389,
+              "lng": 10.0195391
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gf`fIe_c|@vDtP|BiBj@a@rDsChBwAv@g@\\QZMbAOnQ{BzB]rBUbC]d@IZOrCeBfBcAxK{Gf@[LAf@YvAu@BElEsBfD_B`A_@VM@JFTJX@R"
+    },
+    "summary": "Hofweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

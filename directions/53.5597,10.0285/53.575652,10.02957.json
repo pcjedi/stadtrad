@@ -1,0 +1,263 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5761452,
+        "lng": 10.0335149
+      },
+      "southwest": {
+        "lat": 53.5598849,
+        "lng": 10.0271447
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2510
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 538
+        },
+        "end_address": "Bartholom\u00e4usstra\u00dfe / Beim Alten Sch\u00fctzenhof, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5757268,
+          "lng": 10.0295188
+        },
+        "start_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 529
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.5633229,
+              "lng": 10.0335149
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b> toward <b>Alfredstra\u00dfe</b>",
+            "polyline": {
+              "points": "g|{eIuse|@O]_@gAMY[}@k@cB?G?G?CAEEO[{@IUKWIUQg@CIM]EMYs@EMISQa@KSIMGIMQUY]_@e@c@a@_@c@_@QMa@MUU[[OOSSi@g@"
+            },
+            "start_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 104
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5639479,
+              "lng": 10.0323553
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>G\u00fcntherstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wq|eImtf|@Qd@Sb@s@`BABO\\QV"
+            },
+            "start_location": {
+              "lat": 53.5633229,
+              "lng": 10.0335149
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 147
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5650945,
+              "lng": 10.0312434
+            },
+            "html_instructions": "Continue onto <b>Lessingstra\u00dfe</b>",
+            "polyline": {
+              "points": "uu|eIgmf|@KJe@d@cB`BmAjA"
+            },
+            "start_location": {
+              "lat": 53.5639479,
+              "lng": 10.0323553
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 113
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.5656881,
+              "lng": 10.0326306
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Uhlandstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "y||eIgff|@Sy@_@oAGMAEy@wB"
+            },
+            "start_location": {
+              "lat": 53.5650945,
+              "lng": 10.0312434
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 414
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 114
+            },
+            "end_location": {
+              "lat": 53.5687192,
+              "lng": 10.0290063
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wartenau</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "q`}eI}nf|@i@h@MLsAdBQTq@v@SVcBxBc@j@UXIJy@dAEDU\\qAbBOTY^"
+            },
+            "start_location": {
+              "lat": 53.5656881,
+              "lng": 10.0326306
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 216
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.5703095,
+              "lng": 10.0271447
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Lerchenfeld</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "os}eIixe|@_@`@q@v@SXKLKNQVW`@Y\\W^OP_@b@s@t@"
+            },
+            "start_location": {
+              "lat": 53.5687192,
+              "lng": 10.0290063
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 573
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 110
+            },
+            "end_location": {
+              "lat": 53.5739306,
+              "lng": 10.0333138
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hamburger Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m}}eIsle|@KUISYm@EMACc@}@c@{@AEGKCE_@s@[k@Q[QYo@sAIMM[EIYi@Ym@a@y@[m@]q@EGgBwDe@aA[k@GOWg@a@y@Ue@"
+            },
+            "start_location": {
+              "lat": 53.5703095,
+              "lng": 10.0271447
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 279
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 90
+            },
+            "end_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Heitmannstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "at~eIesf|@oAvBU`@q@^}@h@i@V}A|@}Az@"
+            },
+            "start_location": {
+              "lat": 53.5739306,
+              "lng": 10.0333138
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 135
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5757268,
+              "lng": 10.0295188
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Beim Alten Sch\u00fctzenhof</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}a_fIogf|@RhB@FLfAn@dE"
+            },
+            "start_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g|{eIuse|@yA}Dk@cB?G?Km@gBk@_Bs@mB[u@Ua@iAuAgAcAu@m@a@MUUk@k@}@{@e@hAu@dBa@t@cF~Es@iCISy@wBi@h@aBrB{D~E}BvC}B|Cy@`AeApAaAvAaBrBs@t@KUc@aAoAkCm@kAm@gAaAmBw@}AuBgEgGeMeBxCoBhAgCtA}Az@RhBNnAn@dE"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

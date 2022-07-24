@@ -1,0 +1,189 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5762157,
+        "lng": 10.0607662
+      },
+      "southwest": {
+        "lat": 53.5633229,
+        "lng": 10.0335149
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.7 km",
+          "value": 2731
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 621
+        },
+        "end_address": "U Wartenau / L\u00fcbecker Stra\u00dfe, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5636566,
+          "lng": 10.0339528
+        },
+        "start_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "html_instructions": "Head <b>south</b> on <b>Krausestra\u00dfe</b> toward <b>Eilbektal</b>",
+            "polyline": {
+              "points": "kb_fIwok|@NFTH"
+            },
+            "start_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 200
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.574314,
+              "lng": 10.0589557
+            },
+            "html_instructions": "Continue onto <b>M\u00fchlenstra\u00dfe</b>",
+            "polyline": {
+              "points": "ea_fIeok|@~@MJOXQh@S`Ag@PG\\OFELCh@ITL"
+            },
+            "start_location": {
+              "lat": 53.5760328,
+              "lng": 10.0582669
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 437
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 99
+            },
+            "end_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "html_instructions": "Continue onto <b>Brauhausstra\u00dfe</b>",
+            "polyline": {
+              "points": "mv~eIosk|@|AQLEZGVGpDuAxDyAf@U\\QBAXO^U~AaA"
+            },
+            "start_location": {
+              "lat": 53.574314,
+              "lng": 10.0589557
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.9 km",
+              "value": 1907
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 355
+            },
+            "end_location": {
+              "lat": 53.5642125,
+              "lng": 10.0344171
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wandsbeker Chaussee</b>/<wbr/><b>Wandsbeker Chausseebr\u00fccke</b><div style=\"font-size:0.9em\">Continue to follow Wandsbeker Chaussee</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}~}eIy~k|@b@zC?@Lz@NdADZRhAJj@RtAXhBBNDTd@lCR|@BRJn@b@tCF\\BP@^Hd@RlARjANjADXBRDVB\\Fp@J|AHdB@THvABr@Bj@?HJzB?VRjCDLDf@Nz@DXNZRzABTBTd@bD\\xBD^Jx@Fh@Dj@JxACv@Dh@JjA\\nENxBRrBHbAHx@BPDh@Bn@Bf@B^Ff@BLF^RbABFTx@DNRXJXxAlE`B`FlApDfA`DD`@Pn@FPHPFJJL"
+            },
+            "start_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 117
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5633229,
+              "lng": 10.0335149
+            },
+            "html_instructions": "Continue onto <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b>",
+            "polyline": {
+              "points": "iw|eIczf|@RZLNX^XZPRNPRRRBPN"
+            },
+            "start_location": {
+              "lat": 53.5642125,
+              "lng": 10.0344171
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "49 m",
+              "value": 49
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5636566,
+              "lng": 10.0339528
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>G\u00fcntherstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "wq|eImtf|@QOG[i@k@"
+            },
+            "start_location": {
+              "lat": 53.5633229,
+              "lng": 10.0335149
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kb_fIwok|@d@P~@MJOXQh@SrAo@d@Uv@MTL|AQh@MhE}A`FoBzAy@~AaAb@zCL|@t@vEv@dFx@jENbAj@rDDp@p@~D^pC`@rGRlEJdCRbD`@jCNZRzAFj@tAvJLtAJxACv@PtBl@hIj@bGP`DJt@ZbBX`AXh@tGzRfA`DD`@X`AP\\^h@rA~Ab@d@RBPNQOG[i@k@"
+    },
+    "summary": "Wandsbeker Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

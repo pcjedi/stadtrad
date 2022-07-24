@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5799399,
+        "lng": 10.045931
+      },
+      "southwest": {
+        "lat": 53.5640132,
+        "lng": 10.0356419
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.2 km",
+          "value": 2164
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 538
+        },
+        "end_address": "U Dehnhaide / Barmbeker Markt, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5799399,
+          "lng": 10.041543
+        },
+        "start_address": "Hasselbrookstra\u00dfe / Ritterstra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5640279,
+          "lng": 10.045931
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5640132,
+              "lng": 10.0457379
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hasselbrookstra\u00dfe</b> toward <b>Ritterstra\u00dfe</b>",
+            "polyline": {
+              "points": "ev|eIabi|@Bd@"
+            },
+            "start_location": {
+              "lat": 53.5640279,
+              "lng": 10.045931
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 427
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 130
+            },
+            "end_location": {
+              "lat": 53.56778329999999,
+              "lng": 10.0445938
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ritterstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "av|eI{`i|@gBZgBXEBC@s@LIBkDh@]DI@E?C@QBKBYD{@NE@YNSJYJE@IB]JKH"
+            },
+            "start_location": {
+              "lat": 53.5640132,
+              "lng": 10.0457379
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1024
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 230
+            },
+            "end_location": {
+              "lat": 53.575012,
+              "lng": 10.0356419
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Wagnerstra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "sm}eIuyh|@GDCHGLWr@GNQd@ENc@fASh@y@nA}AdC?@INGRELCHEVGj@KdAARCHCFEFGDoAbAYRMJe@Xo@b@w@n@OJEDGFmA`AIFu@j@SPm@d@cAx@_@Xy@n@WRWRED[T]Xg@^g@`@]b@KLMPUZININOVMZITUj@A@STILO^GJQZ"
+            },
+            "start_location": {
+              "lat": 53.56778329999999,
+              "lng": 10.0445938
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 592
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 121
+            },
+            "end_location": {
+              "lat": 53.5795742,
+              "lng": 10.0400666
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hamburger Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yz~eIwag|@c@q@q@mAWe@ACS[Q[aAcB]k@IKm@y@i@k@iAy@MIYQg@_@}BsACCaAk@aDkBw@k@"
+            },
+            "start_location": {
+              "lat": 53.575012,
+              "lng": 10.0356419
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "61 m",
+              "value": 61
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5797609,
+              "lng": 10.0409111
+            },
+            "html_instructions": "Slight <b>right</b> toward <b>Barmbeker Markt</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "iw_fIm}g|@O_@K_@E[C]?m@"
+            },
+            "start_location": {
+              "lat": 53.5795742,
+              "lng": 10.0400666
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "47 m",
+              "value": 47
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5799399,
+              "lng": 10.041543
+            },
+            "html_instructions": "Continue onto <b>Barmbeker Markt</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "ox_fIubh|@Ce@CQ?CAKOc@IQ"
+            },
+            "start_location": {
+              "lat": 53.5797609,
+              "lng": 10.0409111
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ev|eIabi|@Bd@gBZmB\\mF|@q@HsB\\_@Pm@VODi@TKN_@`AcAlCSh@y@nA}AfC[z@[|CGPMLiBvAs@d@o@b@w@n@UPuC|BeDjCyFnEmA~Aq@rA_@`AUVs@tAoBiDeCgEw@eAi@k@iAy@g@[eDsBeAo@aDkBw@k@[_AIy@CsACUQo@IQ"
+    },
+    "summary": "Wagnerstra\u00dfe and Hamburger Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

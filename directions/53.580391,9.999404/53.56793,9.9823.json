@@ -1,0 +1,240 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5838204,
+        "lng": 9.9995614
+      },
+      "southwest": {
+        "lat": 53.5679826,
+        "lng": 9.982218099999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.0 km",
+          "value": 2998
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 604
+        },
+        "end_address": "Allende-Platz / Grindelhof, 20146 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5679826,
+          "lng": 9.982218099999999
+        },
+        "start_address": "Leinpfad/Fernsicht, 22301 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5804956,
+          "lng": 9.9995614
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 473
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.5838204,
+              "lng": 9.995866000000001
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Leinpfad</b> toward <b>M\u00f6venstra\u00dfe</b>",
+            "polyline": {
+              "points": "c}_fIg``|@Wn@kAnCiAlC{@dBu@nBm@rA[j@ORKJYJ[FC@WDm@F_A?w@CYA"
+            },
+            "start_location": {
+              "lat": 53.5804956,
+              "lng": 9.9995614
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 98
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5834239,
+              "lng": 9.9945377
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>St. Benedictstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{q`fIei_|@R|@H^Lp@R~@Nx@"
+            },
+            "start_location": {
+              "lat": 53.5838204,
+              "lng": 9.995866000000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 390
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.5819594,
+              "lng": 9.9892114
+            },
+            "html_instructions": "Keep <b>right</b> to stay on <b>St. Benedictstra\u00dfe</b>",
+            "maneuver": "keep-right",
+            "polyline": {
+              "points": "ko`fI{`_|@@\\^fB?RRl@FPZdB@BdBtJNr@^hBb@pBBXHdA"
+            },
+            "start_location": {
+              "lat": 53.5834239,
+              "lng": 9.9945377
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1259
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 276
+            },
+            "end_location": {
+              "lat": 53.5717672,
+              "lng": 9.988593999999999
+            },
+            "html_instructions": "At the roundabout, exit onto <b>Rothenbaumchaussee</b>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "gf`fIq_~{@KNA@EDEHCHAFADAFAL?D?FAL@J?F?J@N@JBJBLBLDJFLBDDDDDHFJBHB@?F?F?HADAFEPOHMFK@CDKBI@K@A@G@K?[b@CRELKv@EZA`BGRAbAGTAbCIz@EVAHA\\Ah@?`A@jCFbABvDHdCDpCF`CHX@^@`@@H?p@@f@@x@?P@F?@?f@@h@BJ@"
+            },
+            "start_location": {
+              "lat": 53.5819594,
+              "lng": 9.9892114
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 188
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.5713897,
+              "lng": 9.985824
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hermann-Behn-Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qf~eIu{}{@\\|D^vELrC"
+            },
+            "start_location": {
+              "lat": 53.5717672,
+              "lng": 9.988593999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 210
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5695284,
+              "lng": 9.9863007
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schl\u00fcterstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ed~eIkj}{@nA_@HAbBg@b@MrAC|@C"
+            },
+            "start_location": {
+              "lat": 53.5713897,
+              "lng": 9.985824
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 139
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5697205,
+              "lng": 9.9843614
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bieberstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qx}eIkm}{@DH@D@F@D?HDtCAP?XAJAFEPQl@YdA"
+            },
+            "start_location": {
+              "lat": 53.5695284,
+              "lng": 9.9863007
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 241
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.5679826,
+              "lng": 9.982218099999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Grindelhof</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wy}eIga}{@n@l@PN@?r@t@JJNNXXj@j@HJJRv@|A\\r@HNJR"
+            },
+            "start_location": {
+              "lat": 53.5697205,
+              "lng": 9.9843614
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "c}_fIg``|@cB~DiAlC{@dBcBbEk@~@KJYJ_@HeALwBCYAR|@VpAb@xB@\\^fB?RRl@b@vBfBxJn@|Cf@jCHdAKNGFIRGb@?f@Bn@Pr@V^`@NN?NCXUPYLe@Dq@v@ILKhEQxAI~DOhBEhMVrLXxFH~AF|@tKLrCnA_@lBi@b@MrAC|@CDHBLDvDAd@GXk@rB`A|@pApAdAdAT^jBtD"
+    },
+    "summary": "Rothenbaumchaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

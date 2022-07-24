@@ -1,0 +1,165 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5944067,
+        "lng": 9.987691
+      },
+      "southwest": {
+        "lat": 53.5820614,
+        "lng": 9.972965
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2312
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 486
+        },
+        "end_address": "S\u00fcderfeldstra\u00dfe / Universit\u00e4tsklinikum Eppendorf, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5940743,
+          "lng": 9.972965
+        },
+        "start_address": "\u1e60 Haspa, Eppendorfer Baum, 20149 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5820614,
+          "lng": 9.987691
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 552
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 90
+            },
+            "end_location": {
+              "lat": 53.5852934,
+              "lng": 9.9817359
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Eppendorfer Baum</b> toward <b>Hochallee</b>",
+            "polyline": {
+              "points": "{f`fIav}{@GNINEFu@xBs@zB]hAOd@m@lBKX_@dAITSj@a@jAENO^u@rB[~@W|@Sn@KVEHINILGFGHEDCBOFQFK@O@S?UE"
+            },
+            "start_location": {
+              "lat": 53.5820614,
+              "lng": 9.987691
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 577
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 126
+            },
+            "end_location": {
+              "lat": 53.5903427,
+              "lng": 9.983580199999999
+            },
+            "html_instructions": "Continue onto <b>Lenhartzstra\u00dfe</b>",
+            "polyline": {
+              "points": "a{`fI{p|{@a@Eo@MeAMUEgAOWC_B[{@Qo@OoAW}A]m@KYG[SQGQISIQGAAQKWO_@USMKIOMSMWESE"
+            },
+            "start_location": {
+              "lat": 53.5852934,
+              "lng": 9.9817359
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 455
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 103
+            },
+            "end_location": {
+              "lat": 53.5944067,
+              "lng": 9.9839342
+            },
+            "html_instructions": "Continue onto <b>Tarpenbekstra\u00dfe</b>",
+            "polyline": {
+              "points": "szafIk||{@IAKAWC_@Ei@Ey@E]EWCSEUEa@Iw@Oq@K]EYCQ?KAS@UBOBKDIJU?E?M?}@?u@?k@?_@?"
+            },
+            "start_location": {
+              "lat": 53.5903427,
+              "lng": 9.983580199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 638
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 150
+            },
+            "end_location": {
+              "lat": 53.59428029999999,
+              "lng": 9.9742871
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Geschwister-Scholl-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "atbfIq~|{@@xG@xI?z@?J?fJ?pB?fD@xG?hB?D?D@\\?J@ZFh@FhA"
+            },
+            "start_location": {
+              "lat": 53.5944067,
+              "lng": 9.9839342
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "90 m",
+              "value": 90
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5940743,
+              "lng": 9.972965
+            },
+            "html_instructions": "Continue onto <b>S\u00fcderfeldstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "gsbfIib{{@PjBP`CDZ"
+            },
+            "start_location": {
+              "lat": 53.59428029999999,
+              "lng": 9.9742871
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{f`fIav}{@Q^{@`CoCxIwDpKsAdEa@n@MNSJ]Hc@@w@KuB[}AUwB_@yGwAgASm@[y@]}A_A[WSMWE]Gc@EaDWcBYiB[w@I]Ai@D[HIJU?S?sB?kA?BrR?`P@pPBjAr@`JDZ"
+    },
+    "summary": "Geschwister-Scholl-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

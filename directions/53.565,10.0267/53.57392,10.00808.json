@@ -1,0 +1,334 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57402099999999,
+        "lng": 10.0266752
+      },
+      "southwest": {
+        "lat": 53.5649574,
+        "lng": 10.0077892
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 2013
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 500
+        },
+        "end_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57402099999999,
+          "lng": 10.0080497
+        },
+        "start_address": "U Uhlandstra\u00dfe / Eilenau, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5649947,
+          "lng": 10.0266752
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.56513,
+              "lng": 10.026594
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Uhlandstra\u00dfe</b>",
+            "polyline": {
+              "points": "e||eIwie|@[P"
+            },
+            "start_location": {
+              "lat": 53.5649947,
+              "lng": 10.0266752
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "85 m",
+              "value": 85
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.5651765,
+              "lng": 10.0253053
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Uhlandstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "a}|eIeie|@AT?PAtAAdACz@"
+            },
+            "start_location": {
+              "lat": 53.56513,
+              "lng": 10.026594
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5653577,
+              "lng": 10.025312
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Eilenau</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k}|eIeae|@AI?CAACCCAC?E?EBA@ABCJ"
+            },
+            "start_location": {
+              "lat": 53.5651765,
+              "lng": 10.0253053
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.56543689999999,
+              "lng": 10.0244987
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eilenau</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o~|eIeae|@@Z?N?NARE\\Ir@"
+            },
+            "start_location": {
+              "lat": 53.5653577,
+              "lng": 10.025312
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 323
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 79
+            },
+            "end_location": {
+              "lat": 53.5656392,
+              "lng": 10.01977
+            },
+            "html_instructions": "Continue onto <b>Armgartstra\u00dfe</b>",
+            "polyline": {
+              "points": "__}eIc|d|@AX?V?v@?@@t@B`A?D@t@?HJzG?D@zAA~@?t@AFi@|AIPCZ"
+            },
+            "start_location": {
+              "lat": 53.56543689999999,
+              "lng": 10.0244987
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 99
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.5649574,
+              "lng": 10.0188111
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Mundsburger Damm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g`}eIq~c|@PXJPFHt@rAJPRNJR"
+            },
+            "start_location": {
+              "lat": 53.5656392,
+              "lng": 10.01977
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "31 m",
+              "value": 31
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.565196,
+              "lng": 10.0185796
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Armgartstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_||eIqxc|@GHEDURKH"
+            },
+            "start_location": {
+              "lat": 53.5649574,
+              "lng": 10.0188111
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 112
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5651322,
+              "lng": 10.0168848
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Armgartstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o}|eIcwc|@D|CFtD"
+            },
+            "start_location": {
+              "lat": 53.565196,
+              "lng": 10.0185796
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 268
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 67
+            },
+            "end_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schwanenwik</b>/<wbr/><b>Schwanenwikbr\u00fccke</b><div style=\"font-size:0.9em\">Continue to follow Schwanenwik</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a}|eIolc|@u@FE?s@JIBe@Fc@FM@A?]B_@D}@Lc@Fu@HQBQBQB"
+            },
+            "start_location": {
+              "lat": 53.5651322,
+              "lng": 10.0168848
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 120
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5683164,
+              "lng": 10.0151911
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eduard-Rhein-Ufer</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "al}eIoic|@I^IPILy@x@UZUd@Yt@"
+            },
+            "start_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 859
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 149
+            },
+            "end_location": {
+              "lat": 53.5739934,
+              "lng": 10.0077892
+            },
+            "html_instructions": "Continue onto <b>Sch\u00f6ne Aussicht</b>",
+            "polyline": {
+              "points": "_q}eI}ac|@Kb@k@zBMb@k@vBSz@]lA_@`BYtA_@dCSdAEXIXOp@Id@EVIRKRMLMHaBn@kAd@_Ab@gAb@i@VkAl@YLeDvAMF_CfA"
+            },
+            "start_location": {
+              "lat": 53.5683164,
+              "lng": 10.0151911
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.57402099999999,
+              "lng": 10.0080497
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Karlstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "mt~eIusa|@Es@"
+            },
+            "start_location": {
+              "lat": 53.5739934,
+              "lng": 10.0077892
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "e||eIwie|@[PATAfBE`CAMEEGAKBCDAf@?^S~B@fCDfCJ`H?zCA|@s@nBCZPXRZ`AdBRNJRMNa@\\LrI{@F}@NiANmAJiDb@c@FSp@cAfAk@`Ae@xAy@~C_ArD}@nDsAzHi@hCUf@[VuH|CuBdA_EdBmCnAEs@"
+    },
+    "summary": "Sch\u00f6ne Aussicht",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

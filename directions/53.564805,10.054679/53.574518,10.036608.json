@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5745222,
+        "lng": 10.0548182
+      },
+      "southwest": {
+        "lat": 53.5640132,
+        "lng": 10.0365244
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 1995
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 481
+        },
+        "end_address": "U Hamburger Stra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5745222,
+          "lng": 10.0366016
+        },
+        "start_address": "S Hasselbrook / Papenstra\u00dfe, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5648518,
+          "lng": 10.0548182
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "html_instructions": "Head <b>northwest</b> toward <b>Hasselbrookstra\u00dfe</b>",
+            "polyline": {
+              "points": "i{|eIsyj|@WV"
+            },
+            "start_location": {
+              "lat": 53.5648518,
+              "lng": 10.0548182
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 605
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 130
+            },
+            "end_location": {
+              "lat": 53.5640132,
+              "lng": 10.0457379
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hasselbrookstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "a||eI{xj|@X~AN`AHl@J|@Hv@RrCHbBDv@JvCFnBFfBFhCJrD?N@J@d@FlBFxBDjAFdB"
+            },
+            "start_location": {
+              "lat": 53.5649721,
+              "lng": 10.0547035
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 427
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 130
+            },
+            "end_location": {
+              "lat": 53.56778329999999,
+              "lng": 10.0445938
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ritterstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "av|eI{`i|@gBZgBXEBC@s@LIBkDh@]DI@E?C@QBKBYD{@NE@YNSJYJE@IB]JKH"
+            },
+            "start_location": {
+              "lat": 53.5640132,
+              "lng": 10.0457379
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 941
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 216
+            },
+            "end_location": {
+              "lat": 53.5744808,
+              "lng": 10.0365244
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Wagnerstra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "sm}eIuyh|@GDCHGLWr@GNQd@ENc@fASh@y@nA}AdC?@INGRELCHEVGj@KdAARCHCFEFGDoAbAYRMJe@Xo@b@w@n@OJEDGFmA`AIFu@j@SPm@d@cAx@_@Xy@n@WRWRED[T]Xg@^g@`@]b@KLMPUZININOVMZ"
+            },
+            "start_location": {
+              "lat": 53.56778329999999,
+              "lng": 10.0445938
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5745222,
+              "lng": 10.0366016
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holsteinischer Kamp</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ow~eIggg|@GO"
+            },
+            "start_location": {
+              "lat": 53.5744808,
+              "lng": 10.0365244
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i{|eIsyj|@WVX~AXnBTtB\\vF`@fLTxIVxIFdBgBZmB\\mF|@q@HsB\\_@Pm@VODi@TKN_@`AcAlCSh@y@nA}AfC[z@[|CGPMLiBvAs@d@o@b@w@n@UPuC|BuGhFiCpBmA~Aq@rAGO"
+    },
+    "summary": "Hasselbrookstra\u00dfe and Wagnerstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

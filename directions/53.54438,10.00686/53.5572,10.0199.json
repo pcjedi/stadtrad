@@ -1,0 +1,452 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5572045,
+        "lng": 10.0201962
+      },
+      "southwest": {
+        "lat": 53.54448009999999,
+        "lng": 10.0040961
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2462
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 561
+        },
+        "end_address": "U Lohm\u00fchlenstra\u00dfe / Steindamm, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5571758,
+          "lng": 10.0199453
+        },
+        "start_address": "Oberhafenquartier Nord / Oberhafenbr\u00fccke, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.54448009999999,
+          "lng": 10.0068846
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5446179,
+              "lng": 10.0067063
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Stockmeyerstra\u00dfe</b> toward <b>Oberhafenbr\u00fccke</b>",
+            "polyline": {
+              "points": "_|xeI_na|@QRIL"
+            },
+            "start_location": {
+              "lat": 53.54448009999999,
+              "lng": 10.0068846
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5458132,
+              "lng": 10.0071354
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Oberhafenbr\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{|xeI}la|@aBa@cCo@GC"
+            },
+            "start_location": {
+              "lat": 53.5446179,
+              "lng": 10.0067063
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.54576220000001,
+              "lng": 10.0074171
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Altl\u00e4nder Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "idyeIsoa|@Be@DQ"
+            },
+            "start_location": {
+              "lat": 53.5458132,
+              "lng": 10.0071354
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "57 m",
+              "value": 57
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5461891,
+              "lng": 10.0078714
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Oberhafenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_dyeIkqa|@KQEIEE}@w@"
+            },
+            "start_location": {
+              "lat": 53.54576220000001,
+              "lng": 10.0074171
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "55 m",
+              "value": 55
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5464153,
+              "lng": 10.0071277
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Banksstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ufyeIeta|@Kf@Ot@Qt@"
+            },
+            "start_location": {
+              "lat": 53.5461891,
+              "lng": 10.0078714
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "65 m",
+              "value": 65
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5458412,
+              "lng": 10.0069737
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Altl\u00e4nder Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "chyeIqoa|@PD|AX@?@?"
+            },
+            "start_location": {
+              "lat": 53.5464153,
+              "lng": 10.0071277
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.5466369,
+              "lng": 10.0040961
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "odyeIqna|@B^KtA?DQj@Qt@EPKh@{@zDQf@S~@"
+            },
+            "start_location": {
+              "lat": 53.5458412,
+              "lng": 10.0069737
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "74 m",
+              "value": 74
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.5471114,
+              "lng": 10.0048725
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Oberbaumbr\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oiyeIs|`|@We@OWi@aAKY"
+            },
+            "start_location": {
+              "lat": 53.5466369,
+              "lng": 10.0040961
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 176
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.54837819999999,
+              "lng": 10.0062476
+            },
+            "html_instructions": "Continue onto <b>Deichtorpl.</b>",
+            "polyline": {
+              "points": "mlyeImaa|@OUMScAgBIWISIUGOGKKIQIC?]Im@E"
+            },
+            "start_location": {
+              "lat": 53.5471114,
+              "lng": 10.0048725
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 210
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.5502437,
+              "lng": 10.0065681
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Klosterwall</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ktyeIaja|@[MSCKCG?EAw@OEACAq@MEAQCUCKAIAS?Q?I?G?c@FU?"
+            },
+            "start_location": {
+              "lat": 53.54837819999999,
+              "lng": 10.0062476
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 169
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 71
+            },
+            "end_location": {
+              "lat": 53.5517232,
+              "lng": 10.0059626
+            },
+            "html_instructions": "Continue onto <b>Steintorwall</b>",
+            "polyline": {
+              "points": "_`zeIala|@UDG@[LSFe@Na@JcAXGBQHCBE@ODYJ"
+            },
+            "start_location": {
+              "lat": 53.5502437,
+              "lng": 10.0065681
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 189
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5520478,
+              "lng": 10.0087758
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Steintorbr\u00fccke</b>/<wbr/><b>Steintordamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gizeIgha|@EcAAKMuBKoA?CMqBEm@?MAO?OIkA"
+            },
+            "start_location": {
+              "lat": 53.5517232,
+              "lng": 10.0059626
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5521691,
+              "lng": 10.0099383
+            },
+            "html_instructions": "Continue onto <b>Steintorpl.</b>",
+            "polyline": {
+              "points": "ikzeI{ya|@A[MyBGqA"
+            },
+            "start_location": {
+              "lat": 53.5520478,
+              "lng": 10.0087758
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 236
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.5523836,
+              "lng": 10.0134923
+            },
+            "html_instructions": "Continue onto <b>Adenauerallee</b>",
+            "polyline": {
+              "points": "alzeIcab|@K}BIkC?ACeA?]C_AEgCCaBAk@"
+            },
+            "start_location": {
+              "lat": 53.5521691,
+              "lng": 10.0099383
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 184
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5539901,
+              "lng": 10.0135636
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kreuzweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kmzeIiwb|@_@BYHQBs@La@JUBQAUAIAICMCQISKYY"
+            },
+            "start_location": {
+              "lat": 53.5523836,
+              "lng": 10.0134923
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 556
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.5570609,
+              "lng": 10.0201962
+            },
+            "html_instructions": "Continue straight onto <b>Steindamm</b>",
+            "maneuver": "straight",
+            "polyline": {
+              "points": "mwzeIwwb|@GGSc@Ui@[}@Sk@Qk@Uq@c@mAOa@Sg@KWIYKYc@kAGU[}@CIy@}BUk@a@aAkBaGQg@Q]CECIGQEQM["
+            },
+            "start_location": {
+              "lat": 53.5539901,
+              "lng": 10.0135636
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5571758,
+              "lng": 10.0199453
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sj{eIgad|@OVKPBF"
+            },
+            "start_location": {
+              "lat": 53.5570609,
+              "lng": 10.0201962
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_|xeI_na|@[`@eFqAGCBe@DQKQKO}@w@Kf@a@jBnB^@?D^KzAc@`BQz@{@zDQf@S~@We@y@yA[o@qA{Be@qASUUIkAO[MSCSC}@QaAS}@Kw@?y@F]FwBp@kA\\ULUFYJEcAOaCKsAU}DYqF]}IMkHEmC_@BYHeAPw@Ng@CSE_@MSKYY[k@q@gB_BwEy@{BsAyDuBuF}BiHUc@_@iA[h@BF"
+    },
+    "summary": "Steindamm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

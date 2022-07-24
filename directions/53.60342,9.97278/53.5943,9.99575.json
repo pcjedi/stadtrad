@@ -1,0 +1,240 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6041755,
+        "lng": 9.995889
+      },
+      "southwest": {
+        "lat": 53.5943171,
+        "lng": 9.9727859
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.7 km",
+          "value": 2657
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 529
+        },
+        "end_address": "U Hudtwalckerstra\u00dfe / Bebelallee, 22299 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5943171,
+          "lng": 9.995889
+        },
+        "start_address": "Gert-Marcus-Stra\u00dfe / Anni-Glissmann-Weg, 22529 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.60337579999999,
+          "lng": 9.9727859
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 111
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.6032498,
+              "lng": 9.9744511
+            },
+            "html_instructions": "Head <b>east</b> on <b>Gert-Marcus-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "cldfI}xz{@Ag@Fs@?I@M@[N{D"
+            },
+            "start_location": {
+              "lat": 53.60337579999999,
+              "lng": 9.9727859
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 250
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.6041755,
+              "lng": 9.976532299999999
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Anni-Glissmann-Weg</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "ikdfIic{{@M[Sm@_@mAQm@c@{AQm@?E?YBk@A?A??A?A@w@?E@I?SAAA?A??@?FAHCz@AL]EA@EB"
+            },
+            "start_location": {
+              "lat": 53.6032498,
+              "lng": 9.9744511
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 719
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 152
+            },
+            "end_location": {
+              "lat": 53.6022463,
+              "lng": 9.9866417
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Tarpenbek-Wanderweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cqdfIip{{@BYDw@JkB@c@BWFcBDaA@UJoBBc@NmDDiA@OBk@?ODcAJmB@M@_@@MHmANiBPiAH]b@}@Ro@`@mADIH{AFG`@i@Lm@BGH_@Po@@CRu@BY?["
+            },
+            "start_location": {
+              "lat": 53.6041755,
+              "lng": 9.976532299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 595
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 107
+            },
+            "end_location": {
+              "lat": 53.59729859999999,
+              "lng": 9.9889868
+            },
+            "html_instructions": "Slight <b>right</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "aedfIoo}{@ZkAXm@FE@?r@_@`@M`@KLE^MPKDCRMDCDEHGTS^Y?Ab@a@f@i@PQDELEb@ELAFAj@Sl@Md@K`A?n@BV@J@dADf@Db@C`@IHK"
+            },
+            "start_location": {
+              "lat": 53.6022463,
+              "lng": 9.9866417
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.597942,
+              "lng": 9.989379099999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eppendorfer Landstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cfcfIe~}{@SYUUa@GIAUGSK"
+            },
+            "start_location": {
+              "lat": 53.59729859999999,
+              "lng": 9.9889868
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 336
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Meenkwiese</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "cjcfIs`~{@GICGEKEIYmA{AuEi@uBCMEUMu@EWE_@?EMcAM_CAc@Ce@A["
+            },
+            "start_location": {
+              "lat": 53.597942,
+              "lng": 9.989379099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.59913419999999,
+              "lng": 9.9938915
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bebelallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "crcfIw|~{@PA"
+            },
+            "start_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 559
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.5943171,
+              "lng": 9.995889
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qqcfIy|~{@DSDKHQLSJQHINGdAS|A]lBg@hAUf@Md@MpAY~A_@vA]n@OXGt@Op@SPE"
+            },
+            "start_location": {
+              "lat": 53.59913419999999,
+              "lng": 9.9938915
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cldfI}xz{@Ag@Fs@@WPwEa@iAgBeGBkACA@_A?_@C?ARCz@AL]EGDHqAXkGr@_PRoE\\eFZgBb@}@Ro@f@wAH{AFG`@i@Lm@BGp@iCBu@ZkAXm@HEr@_@pBm@p@a@dA{@|A_BRKp@Gr@UrAYpBBb@BlBJdAMHKSYUUa@G_@ISKGIIS_@wA{AuEi@uBIc@YsBMcAM_CEiAA[PAJ_@Ve@T[NGdASjEeAhFkAzJ_C"
+    },
+    "summary": "Meenkwiese",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

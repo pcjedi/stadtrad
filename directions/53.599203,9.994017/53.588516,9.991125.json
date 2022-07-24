@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5992293,
+        "lng": 9.995832900000002
+      },
+      "southwest": {
+        "lat": 53.5884609,
+        "lng": 9.9914303
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1355
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 333
+        },
+        "end_address": "U Kellinghusenstra\u00dfe / Loogeplatz, 20249 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5884609,
+          "lng": 9.9914303
+        },
+        "start_address": "U Lattenkamp / Bebelallee, 20249 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5992293,
+          "lng": 9.9940108
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "html_instructions": "Head <b>west</b> on <b>Meenkwiese</b> toward <b>Bebelallee</b>",
+            "polyline": {
+              "points": "ercfIq}~{@@X"
+            },
+            "start_location": {
+              "lat": 53.5992293,
+              "lng": 9.9940108
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 606
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 139
+            },
+            "end_location": {
+              "lat": 53.59392159999999,
+              "lng": 9.995832900000002
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bebelallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "crcfIw|~{@PAl@Cx@MZIrAY~Ac@p@OHAx@Qv@Sf@KZIh@OXEFAfAYr@Of@K~Aa@XILEHCTMLIDEJKRQZ["
+            },
+            "start_location": {
+              "lat": 53.5992188,
+              "lng": 9.9938849
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 256
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 68
+            },
+            "end_location": {
+              "lat": 53.59271159999999,
+              "lng": 9.9925573
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hudtwalckerstra\u00dfe</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_qbfI}h_|@\\tABFZjADJ`@rAXdAHXNd@Nf@J\\FRTv@DN?J?B?D?@@BHVFVBN"
+            },
+            "start_location": {
+              "lat": 53.59392159999999,
+              "lng": 9.995832900000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 469
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 122
+            },
+            "end_location": {
+              "lat": 53.5885958,
+              "lng": 9.9915153
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kellinghusenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mibfIot~{@XO@E@?@?NBhAL@?@AFEPFXFBD?@VFd@H~@VXH|A^xA`@h@NNBF?NLHBFBNDDBHBRFFBT@B?F?PBP?D?D@D?^@@@FAH@BA"
+            },
+            "start_location": {
+              "lat": 53.59271159999999,
+              "lng": 9.9925573
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5884609,
+              "lng": 9.9914303
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Loogepl.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "woafI_n~{@NJJD"
+            },
+            "start_location": {
+              "lat": 53.5885958,
+              "lng": 9.9915153
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ercfIq}~{@@XPAl@Cx@MnBc@pCs@bDs@fBa@bGwAf@O^Qr@m@Z[\\tA^rAjA~Dr@~BZfA?NJb@Jf@ZU|APBAFEPFXFBDVH|EjAbCp@VBXPVHj@Rr@Db@@r@B^N"
+    },
+    "summary": "Bebelallee and Kellinghusenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

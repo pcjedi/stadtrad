@@ -1,0 +1,261 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5585117,
+        "lng": 9.9766569
+      },
+      "southwest": {
+        "lat": 53.5494121,
+        "lng": 9.955059
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2271
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 489
+        },
+        "end_address": "S Reeperbahn / K\u00f6nigstra\u00dfe, 22767 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5494121,
+          "lng": 9.955059
+        },
+        "start_address": "U Messehallen / Marktstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5584243,
+          "lng": 9.975441499999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5585117,
+              "lng": 9.9756846
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Marktstra\u00dfe</b> toward <b>Karolinenstra\u00dfe</b>",
+            "polyline": {
+              "points": "cs{eIoi{{@Qo@"
+            },
+            "start_location": {
+              "lat": 53.5584243,
+              "lng": 9.975441499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 120
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.55760009999999,
+              "lng": 9.9766569
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Vor dem Holstentor</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "us{eI_k{{@^e@TQJM\\]`@e@TYFETY"
+            },
+            "start_location": {
+              "lat": 53.5585117,
+              "lng": 9.9756846
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 170
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.556375,
+              "lng": 9.975132799999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenglacis</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_n{eIcq{{@`@f@@BRTLP@BLL@BPRRXJLl@~@h@v@PR"
+            },
+            "start_location": {
+              "lat": 53.55760009999999,
+              "lng": 9.9766569
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 718
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 164
+            },
+            "end_location": {
+              "lat": 53.550763,
+              "lng": 9.9698071
+            },
+            "html_instructions": "Continue onto <b>Glacischaussee</b>",
+            "polyline": {
+              "points": "kf{eIqg{{@f@v@\\f@HJLFLJDFHF?@`Az@TRj@d@LLNPTRDDPJb@^TRRRv@p@l@h@~@x@JJzBpBNLbAz@pBfB`Ax@^Zd@^NNFPVVHJHFHF"
+            },
+            "start_location": {
+              "lat": 53.556375,
+              "lng": 9.975132799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 111
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.5501623,
+              "lng": 9.9711388
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Millerntorpl.</b>/<wbr/><b>B4</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gczeIifz{@La@Rm@To@FSJ[Na@L]LY"
+            },
+            "start_location": {
+              "lat": 53.550763,
+              "lng": 9.9698071
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 114
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.5501137,
+              "lng": 9.9694142
+            },
+            "html_instructions": "Sharp <b>right</b> onto <b>Millerntorpl.</b>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "o_zeIsnz{@AN@\\AR@F@v@@lAB~A@h@"
+            },
+            "start_location": {
+              "lat": 53.5501623,
+              "lng": 9.9711388
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 747
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 127
+            },
+            "end_location": {
+              "lat": 53.5496276,
+              "lng": 9.9581915
+            },
+            "html_instructions": "Continue onto <b>Reeperbahn</b>",
+            "polyline": {
+              "points": "e_zeIycz{@@~@@rA?RBlA@fBBJ?f@@^@`@@Pf@lKBh@Bh@JnBFfA@TDt@Bf@FzA@\\@z@@@?^?h@?J@f@?j@?vBA\\?f@Ar@?t@AbBA~@Cn@AbAEl@"
+            },
+            "start_location": {
+              "lat": 53.5501137,
+              "lng": 9.9694142
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 149
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.54999249999999,
+              "lng": 9.9560943
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Nobistor</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "e|yeIu}w{@I@A@ABENCNANCVK`BSnCCd@Ez@"
+            },
+            "start_location": {
+              "lat": 53.5496276,
+              "lng": 9.9581915
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 123
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5494121,
+              "lng": 9.955059
+            },
+            "html_instructions": "Take the pedestrian tunnel",
+            "polyline": {
+              "points": "m~yeIqpw{@O`BnBf@F`@J`@"
+            },
+            "start_location": {
+              "lat": 53.54999249999999,
+              "lng": 9.9560943
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cs{eIoi{{@Qo@^e@`@_@|AcBTY`@f@TX^f@d@l@x@lAz@jAdA~AVRRR`BxA~AxApAdAtKpJxF|ENNFP`@b@RN`@oAx@aCZw@?l@B`DH|GHtEDzBz@pQRzDLvD@|BAhFElGErBEl@I@CDI^e@xGI`BO`BnBf@RbA"
+    },
+    "summary": "Glacischaussee and Reeperbahn",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
