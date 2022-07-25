@@ -1,0 +1,214 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5801493,
+        "lng": 10.0685945
+      },
+      "southwest": {
+        "lat": 53.5705476,
+        "lng": 10.0412732
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.8 km",
+          "value": 2803
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 622
+        },
+        "end_address": "U Dehnhaide / Barmbeker Markt, 22081 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5799399,
+          "lng": 10.041543
+        },
+        "start_address": "Schlo\u00dfstra\u00dfe 40, 22041 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5716167,
+          "lng": 10.0685945
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 208
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5716566,
+              "lng": 10.0657627
+            },
+            "html_instructions": "Head <b>west</b> on <b>Schlo\u00dfstra\u00dfe</b> toward <b>Claudiusstra\u00dfe</b>",
+            "polyline": {
+              "points": "se~eIuom|@LtALvBDb@DdAD|@CX?@Fv@@N?D?DAF?DCFCFCDCFEBGD[X"
+            },
+            "start_location": {
+              "lat": 53.5716167,
+              "lng": 10.0685945
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 353
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 118
+            },
+            "end_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wandsbeker Marktstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{e~eI_~l|@Nj@Hb@R`AH`@BV@@PvAFb@Jv@ZhCHn@NtAHj@V|BBR@DZnC"
+            },
+            "start_location": {
+              "lat": 53.5716566,
+              "lng": 10.0657627
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 436
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.57431260000001,
+              "lng": 10.0591073
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Brauhausstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}~}eIy~k|@_B`A_@TYNC@]Pg@TyDxAqDtAWF[FOGY?aA@"
+            },
+            "start_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 203
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.5760674,
+              "lng": 10.0584931
+            },
+            "html_instructions": "Continue onto <b>M\u00fchlenstra\u00dfe</b>",
+            "polyline": {
+              "points": "mv~eImtk|@UNi@HMBGD]NQFaAf@i@RYPQCaAI"
+            },
+            "start_location": {
+              "lat": 53.57431260000001,
+              "lng": 10.0591073
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 467
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 95
+            },
+            "end_location": {
+              "lat": 53.5801493,
+              "lng": 10.0571502
+            },
+            "html_instructions": "Continue onto <b>Krausestra\u00dfe</b>",
+            "polyline": {
+              "points": "ma_fIqpk|@_@KY?]@OBE?I@aADOBWBq@Fg@Jq@J[HoA\\oEpBm@Vy@`@]L"
+            },
+            "start_location": {
+              "lat": 53.5760674,
+              "lng": 10.0584931
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1113
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 234
+            },
+            "end_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Dehnhaide</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}z_fIehk|@TfBJbA?@F`@BRHj@@HFZL`AThB\\tBPzAD`@Fd@VtB^`DV~BJz@BVFn@Fr@FfADj@Bj@@\\?T?l@?TAb@Ct@IrA?NGz@OxCEh@E|@GhAOjDAb@Ed@CZCr@?\\Bv@H^@lA?pA?HCXEVALMn@EVU|@_@d@CFCDADw@vA"
+            },
+            "start_location": {
+              "lat": 53.5801493,
+              "lng": 10.0571502
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5799399,
+              "lng": 10.041543
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Barmbeker Markt</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yx_fI}dh|@Oc@IQ"
+            },
+            "start_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "se~eIuom|@ZlEJhBD|@CX?@HrAI\\UV[XNj@\\dB`@rCx@tGt@rG\\tC_CvAcBx@kJnDs@NOGY?aA@UNw@Le@TsAn@i@RYPsAM_@KY?m@DO@{CTyAVkBf@uIxDh@nEVdBb@jD\\tBPzALfAv@vGn@bGXrE@vBO|Dc@|H_@~HGnABtAH^@lA?zAIp@O|@[tAc@l@EJw@vAOc@IQ"
+    },
+    "summary": "Dehnhaide",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
