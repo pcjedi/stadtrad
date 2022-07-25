@@ -10,7 +10,7 @@ import datetime
 import googlemaps
 
 
-df = pd.read_csv(sorted(glob("data/**"))[-1])
+df = pd.read_csv(sorted(glob("data/**/*.csv", recursive=True))[-1])
 df = df[df["position.lat"] > 53.4].reset_index(drop=1)
 
 positions = df[["position.lat", "position.lng"]]
