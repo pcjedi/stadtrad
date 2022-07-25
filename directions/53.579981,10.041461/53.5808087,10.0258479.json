@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5808097,
+        "lng": 10.041543
+      },
+      "southwest": {
+        "lat": 53.5798126,
+        "lng": 10.0259794
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.1 km",
+          "value": 1091
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 248
+        },
+        "end_address": "Weidestra\u00dfe / Johannes-Prassek-Park, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5808097,
+          "lng": 10.0259794
+        },
+        "start_address": "U Dehnhaide / Barmbeker Markt, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5799399,
+          "lng": 10.041543
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Barmbeker Markt</b> toward <b>Dehnhaide</b>",
+            "polyline": {
+              "points": "sy_fIsfh|@HPNb@"
+            },
+            "start_location": {
+              "lat": 53.5799399,
+              "lng": 10.041543
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "69 m",
+              "value": 69
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5802664,
+              "lng": 10.0405705
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Weidestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yx_fI}dh|@SXMPKPMVGHGNGJGN"
+            },
+            "start_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 983
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 216
+            },
+            "end_location": {
+              "lat": 53.5806616,
+              "lng": 10.0259827
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Weidestra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "u{_fIq`h|@AZCh@A^C~@Av@A\\@hA?r@?v@?V?T?Z?j@?`@@`B@J?jAHXHfA@LHpABRX|CBTHpAB^Ff@@h@Bn@@d@@j@?X?B?P?TAX?^Ad@?VG~@AREj@K|AIdAGb@CPIh@GfA?`@_@dGQ`DITEVI`AIdA@d@?DIzA"
+            },
+            "start_location": {
+              "lat": 53.5802664,
+              "lng": 10.0405705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5808097,
+              "lng": 10.0259794
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "c~_fIkee|@]?"
+            },
+            "start_location": {
+              "lat": 53.5806616,
+              "lng": 10.0259827
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sy_fIsfh|@Xt@a@j@i@bAOZEdAItD@lIBlB?jAHXJtALdBj@dHHpADtA@zACtBOvCUbDKt@QpB?`@_@dGQ`DITOxAIdA@d@I`B]?"
+    },
+    "summary": "Weidestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
