@@ -1,0 +1,214 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5831172,
+        "lng": 10.0474536
+      },
+      "southwest": {
+        "lat": 53.5739306,
+        "lng": 10.0295188
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1945
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 431
+        },
+        "end_address": "Bartholom\u00e4usstra\u00dfe / Beim Alten Sch\u00fctzenhof, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5757268,
+          "lng": 10.0295188
+        },
+        "start_address": "Bramfelder Stra\u00dfe / Pfenningsbusch, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5827975,
+          "lng": 10.0467149
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "40 m",
+              "value": 40
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.58253,
+              "lng": 10.0471297
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Pfenningsbusch</b> toward <b>Langenrehm</b>",
+            "polyline": {
+              "points": "ok`fI}fi|@\\m@Ve@"
+            },
+            "start_location": {
+              "lat": 53.5827975,
+              "lng": 10.0467149
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 115
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5831172,
+              "lng": 10.0464492
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Alter Teichweg</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "yi`fIqii|@@S?K?MAGAIIHEJCDCJQd@IPe@`AGNQT"
+            },
+            "start_location": {
+              "lat": 53.58253,
+              "lng": 10.0471297
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 165
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 53.58228260000001,
+              "lng": 10.0444148
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bramfelder Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "om`fIiei|@LRT\\DJP\\DNDL`@xALf@ZlABJDRHl@"
+            },
+            "start_location": {
+              "lat": 53.5831172,
+              "lng": 10.0464492
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 463
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 119
+            },
+            "end_location": {
+              "lat": 53.5793367,
+              "lng": 10.0396907
+            },
+            "html_instructions": "Continue onto <b>Barmbeker Markt</b>",
+            "polyline": {
+              "points": "gh`fIqxh|@Jv@Jt@F\\N^JTLTJNLRPR\\`@RTLNv@|@LL\\d@T\\@@`@n@TXNNN`@X|@Ld@J`@HRJVJZJVB@FNJLPNRP`@`@"
+            },
+            "start_location": {
+              "lat": 53.58228260000001,
+              "lng": 10.0444148
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 748
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 144
+            },
+            "end_location": {
+              "lat": 53.5739306,
+              "lng": 10.0333138
+            },
+            "html_instructions": "Continue onto <b>Hamburger Str.</b>",
+            "polyline": {
+              "points": "{u_fIa{g|@`B`A`Aj@nAx@`@Vh@XLFLHd@XLFZVbAt@LHZXFH^f@NNHL\\j@dAfBPX@@JTNZZx@Rd@b@p@DLPb@Tf@N\\FLj@hAXj@@@l@nA`@|@HPDFFP"
+            },
+            "start_location": {
+              "lat": 53.5793367,
+              "lng": 10.0396907
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 279
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Heitmannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "at~eIesf|@oAvBU`@q@^}@h@i@V}A|@}Az@"
+            },
+            "start_location": {
+              "lat": 53.5739306,
+              "lng": 10.0333138
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 135
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5757268,
+              "lng": 10.0295188
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Beim Alten Sch\u00fctzenhof</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}a_fIogf|@RhB@FLfAn@dE"
+            },
+            "start_location": {
+              "lat": 53.5761452,
+              "lng": 10.0314382
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ok`fI}fi|@t@sA@_@AUAIIHIPUp@o@rAYd@b@p@Vh@z@~C^xAN`AVlBV|@r@nApAzAdAjAr@bAb@p@d@h@bAfDl@~AJP\\\\t@r@bDlBpBpAv@`@r@b@h@^pA~@b@b@vApBdBxCj@tARd@b@p@Vp@d@dAnAdC~AfDFPoAvBU`@q@^gB`A{DxBTpB|@lG"
+    },
+    "summary": "Hamburger Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5772456,
+        "lng": 9.984132599999999
+      },
+      "southwest": {
+        "lat": 53.5597124,
+        "lng": 9.976084499999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2525
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 593
+        },
+        "end_address": "Innocentiapark / Oberstra\u00dfe, 20144 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5772437,
+          "lng": 9.9821098
+        },
+        "start_address": "St. Petersburger Stra\u00dfe / Bei den Kirchh\u00f6fen, 20355 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5597124,
+          "lng": 9.9818793
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5597632,
+              "lng": 9.9820563
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>b. den Kirchh\u00f6fen</b> toward <b>St.Petersburger Str.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "e{{eIwq|{@Ic@"
+            },
+            "start_location": {
+              "lat": 53.5597124,
+              "lng": 9.9818793
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 499
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 117
+            },
+            "end_location": {
+              "lat": 53.5624962,
+              "lng": 9.976084499999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>St.Petersburger Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o{{eI{r|{@U\\?@Yl@IRQd@aAxCuA`Em@jBOb@Qh@IViAdDGLe@xAa@bAUl@MPOd@W|@"
+            },
+            "start_location": {
+              "lat": 53.5597632,
+              "lng": 9.9820563
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 645
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 209
+            },
+            "end_location": {
+              "lat": 53.5673165,
+              "lng": 9.9812086
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rentzelstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sl|eIom{{@]QKEGE}@c@y@c@UMUOSKc@YOc@YYGESMWQ_@SCAq@]WOYSa@_@MOMQa@o@Ua@GOMUKWe@cAKUEOIIKMYi@U[OYS[Yk@Ue@i@s@IOIKUWQQ"
+            },
+            "start_location": {
+              "lat": 53.5624962,
+              "lng": 9.976084499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 316
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 54
+            },
+            "end_location": {
+              "lat": 53.5694789,
+              "lng": 9.984132599999999
+            },
+            "html_instructions": "Continue onto <b>Grindelhof</b>",
+            "polyline": {
+              "points": "wj}eIqm|{@OUAAi@m@c@k@EEACACACACCI@K?I?GCGAECCIGKSIO]s@w@}AKSIKk@k@YYOOKKs@u@A?QO"
+            },
+            "start_location": {
+              "lat": 53.5673165,
+              "lng": 9.9812086
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 275
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.5705475,
+              "lng": 9.9804692
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Rappstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gx}eIy_}{@YpBk@jEGZs@tD[fBOx@ELCHCDCBE@OD"
+            },
+            "start_location": {
+              "lat": 53.5694789,
+              "lng": 9.984132599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 235
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 42
+            },
+            "end_location": {
+              "lat": 53.5724868,
+              "lng": 9.981871
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Heinrich-Barth-Stra\u00dfe</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "}~}eI}h|{@s@e@[SSQUMsBuA_@UCCcAq@ACGIAAECECA?EACAI?"
+            },
+            "start_location": {
+              "lat": 53.5705475,
+              "lng": 9.9804692
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 528
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 112
+            },
+            "end_location": {
+              "lat": 53.5772339,
+              "lng": 9.981892799999999
+            },
+            "html_instructions": "Continue onto <b>Brahmsallee</b>",
+            "polyline": {
+              "points": "ak~eIuq|{@uA@oCB}B?u@BkABgA@y@CUAoBAY@i@?C?aBCMAMG"
+            },
+            "start_location": {
+              "lat": 53.5724868,
+              "lng": 9.981871
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5772437,
+              "lng": 9.9821098
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Oberstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uh_fIyq|{@CQ@Y"
+            },
+            "start_location": {
+              "lat": 53.5772339,
+              "lng": 9.981892799999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "e{{eIwq|{@Ic@U\\Yn@sDtKyApEqArDgA|Cc@~@g@bBoBaAyBmAc@YOc@a@_@k@_@c@UiAm@{@s@[a@w@qAgAaCQe@UWsA{Bo@qAs@cAaAkAuAaBGOCI@K?QEMMKkBuDU_@eAeAqAqAQOYpBs@fFeBdJGNIDODs@e@o@e@mD}BeAu@IKSIsFBsDBsCDoAEiC?m@?oBEMGCQ@Y"
+    },
+    "summary": "Rentzelstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

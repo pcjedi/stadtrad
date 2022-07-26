@@ -1,0 +1,263 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5630237,
+        "lng": 9.9486364
+      },
+      "southwest": {
+        "lat": 53.5523223,
+        "lng": 9.930341
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1841
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 460
+        },
+        "end_address": "Gro\u00dfe Rainstra\u00dfe/Ottenser Hauptstra\u00dfe, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5523223,
+          "lng": 9.930341
+        },
+        "start_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 16
+            },
+            "end_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "html_instructions": "Head <b>south</b> on <b>D\u00fcppelstra\u00dfe</b> toward <b>Alsenstra\u00dfe</b>",
+            "polyline": {
+              "points": "{o|eIo_v{@^M|@YFGBCJKHO"
+            },
+            "start_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 121
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5614538,
+              "lng": 9.947736299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holstenpl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{k|eI_bv{@TLJFRJBBd@VLJB@FHHJJJNVFJBBDNFL"
+            },
+            "start_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "50 m",
+              "value": 50
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5612617,
+              "lng": 9.9470463
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Holstenpl.</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "af|eIk|u{@Jb@BLDZFb@FV"
+            },
+            "start_location": {
+              "lat": 53.5614538,
+              "lng": 9.947736299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 936
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 203
+            },
+            "end_location": {
+              "lat": 53.5557847,
+              "lng": 9.9366037
+            },
+            "html_instructions": "Continue onto <b>Haubachstra\u00dfe</b>",
+            "polyline": {
+              "points": "{d|eIaxu{@R~@DVDTFb@BPT`B\\bCTvAV~@Nf@BLNf@b@nAVp@LZHVLX\\~@P\\DJNX\\l@Xb@HPh@|@Vb@T`@FHXd@BDV^DBJRLPd@t@T^v@zA`AdBx@vAvA~BRb@bBtC^l@TT"
+            },
+            "start_location": {
+              "lat": 53.5612617,
+              "lng": 9.9470463
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 142
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 71
+            },
+            "end_location": {
+              "lat": 53.5556981,
+              "lng": 9.934479
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Julius-Leber-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sb{eIwvs{@C`@?NCz@?R?F?PBf@B~@Bx@?BB^BZBb@?D"
+            },
+            "start_location": {
+              "lat": 53.5557847,
+              "lng": 9.9366037
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5556219,
+              "lng": 9.9340782
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Julius-Leber-Stra\u00dfe</b>/<wbr/><b>Lessingtunnel</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "cb{eIois{@@D@RBRF`@"
+            },
+            "start_location": {
+              "lat": 53.5556981,
+              "lng": 9.934479
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "90 m",
+              "value": 90
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5548554,
+              "lng": 9.93436
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Scheel-Plessen-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sa{eI_gs{@LQXQVMLCNCLA`@?HB"
+            },
+            "start_location": {
+              "lat": 53.5556219,
+              "lng": 9.9340782
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "9 m",
+              "value": 9
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5548763,
+              "lng": 9.9342344
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Gro\u00dfe Rainstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{|zeIwhs{@CX"
+            },
+            "start_location": {
+              "lat": 53.5548554,
+              "lng": 9.93436
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 387
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.5523223,
+              "lng": 9.930341
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Gro\u00dfe Rainstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_}zeI}gs{@B@LPJPPT\\l@Vj@Zp@PXZh@LZ`@`AHRfAlCHNHNZb@DHRVj@r@t@r@TTDFBD@B?D?@"
+            },
+            "start_location": {
+              "lat": 53.5548763,
+              "lng": 9.9342344
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{o|eIo_v{@|Ag@JKT[`@TjAr@`@b@`@v@Rp@Hh@Nz@XvAf@lDr@zEf@fBRt@z@`CbAlCdApB`DnFv@hAz@tAxB`EhGpK^l@TTCp@ChBJdDJdBNnALQXQd@Q\\Ej@BCXB@Xb@n@bAr@|Al@bAn@|ApA`DR^`BxBjAhAHL@J"
+    },
+    "summary": "Haubachstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

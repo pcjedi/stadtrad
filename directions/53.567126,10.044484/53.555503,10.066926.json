@@ -1,0 +1,214 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5671329,
+        "lng": 10.0669316
+      },
+      "southwest": {
+        "lat": 53.5554491,
+        "lng": 10.0444917
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2483
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 547
+        },
+        "end_address": "U Rauhes Haus / Horner Weg, 20535 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5554624,
+          "lng": 10.0669316
+        },
+        "start_address": "U Ritterstra\u00dfe / Wandsbeker Chaussee, 22089 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5671046,
+          "lng": 10.0444917
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "29 m",
+              "value": 29
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Ritterstra\u00dfe</b>",
+            "polyline": {
+              "points": "ki}eIayh|@C_@AU?K?U"
+            },
+            "start_location": {
+              "lat": 53.5671046,
+              "lng": 10.0444917
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 504
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 126
+            },
+            "end_location": {
+              "lat": 53.5627665,
+              "lng": 10.046426
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ritterstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qi}eIy{h|@DAz@OXEJCPCBAD?HA\\EjDi@HCr@MBADCfBYfB[b@Ah@C~@IRCBADCHIJMFKFIHORc@DG@E"
+            },
+            "start_location": {
+              "lat": 53.5671329,
+              "lng": 10.0449291
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 124
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5619727,
+              "lng": 10.0477236
+            },
+            "html_instructions": "Continue onto <b>Riesserstra\u00dfe</b>",
+            "polyline": {
+              "points": "in|eIeei|@f@_AhAkCLOLWBC@CDCDA"
+            },
+            "start_location": {
+              "lat": 53.5627665,
+              "lng": 10.046426
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.561134,
+              "lng": 10.0475831
+            },
+            "html_instructions": "<b>Riesserstra\u00dfe</b> turns slightly <b>right</b> and becomes <b>Saling</b>",
+            "polyline": {
+              "points": "ii|eIgmi|@BAD?F?ZDJBNE^DH@\\DTJ"
+            },
+            "start_location": {
+              "lat": 53.5619727,
+              "lng": 10.0477236
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 921
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 231
+            },
+            "end_location": {
+              "lat": 53.5602433,
+              "lng": 10.0614128
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sievekingsallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ad|eIkli|@@_ABsB?IDyC?e@@S@O@O?G@SB[BaCFsD@oABqA@o@BmA@s@@mA?w@@{@?MDcC@s@BqB@wABmADmABc@@g@Bg@Be@N_CVeENkCJuA@c@NeC"
+            },
+            "start_location": {
+              "lat": 53.561134,
+              "lng": 10.0475831
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 492
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.5558493,
+              "lng": 10.0621748
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Caspar-Voght-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o~{eIybl|@r@Iv@Gj@INBp@MLArC[TCjBQZCZGB?JCpAMZEjCOl@I"
+            },
+            "start_location": {
+              "lat": 53.5602433,
+              "lng": 10.0614128
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 319
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5554624,
+              "lng": 10.0669316
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Horner Weg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ac{eIqgl|@?]FwBFiADaAL_CBUFsA@_@NaAH_B@w@@m@?eAAu@?G"
+            },
+            "start_location": {
+              "lat": 53.5558493,
+              "lng": 10.0621748
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ki}eIayh|@EwAfB[d@GhEo@|@QHEnEu@`DS^]l@iAxByE`@o@JEHAb@DJBNEh@F\\DTJ@_AB}BHcFFgAZwURqQNaEz@wNLyBNeCr@IbBQNBp@M`D]`CUfAOlBSjCOl@IFuCLkCZiGNaAH_BBeBAcC"
+    },
+    "summary": "Sievekingsallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
