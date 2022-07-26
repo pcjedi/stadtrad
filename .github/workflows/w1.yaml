@@ -20,13 +20,19 @@ jobs:
       - run: mkdir -p data
       - run: pip install -r crawler/requirements.txt
       - run: python crawler/run.py
-      - name: Commit and push if it changed
+      - name: Commit and push if data changed
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git config pull.ff only
           git add data/*
           git commit -m 'data update' || exit 0
+          git pull && git push
+      - name: Commit and push if params changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git config pull.ff only
           git add crawler/params.json
           git commit -m 'params update' || exit 0
           git pull && git push
