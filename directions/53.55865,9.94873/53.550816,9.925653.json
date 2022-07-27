@@ -1,0 +1,165 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5585362,
+        "lng": 9.9487911
+      },
+      "southwest": {
+        "lat": 53.550209,
+        "lng": 9.925632
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 2001
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 377
+        },
+        "end_address": "Eulenstra\u00dfe / Gro\u00dfe Brunnenstra\u00dfe, 22765 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5507827,
+          "lng": 9.925632
+        },
+        "start_address": "Max-Brauer-Allee 147, 22765 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5585362,
+          "lng": 9.9487911
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1282
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 251
+            },
+            "end_location": {
+              "lat": 53.5503101,
+              "lng": 9.9360947
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Max-Brauer-Allee</b> toward <b>Eggerstedtstra\u00dfe</b>",
+            "polyline": {
+              "points": "{s{eI}bv{@Rz@Jb@HTFRR`@HNHPJXHTJZNj@~CrI~CvHdB~D`@`AXt@FLTj@nArCDJz@rBXp@rA`Db@dAl@lAf@fAR^Rf@P\\NX|@xALTDFFHFHJLFFHHd@f@b@Zt@d@b@XNFPFVH\\HXFB@TB^?lA@"
+            },
+            "start_location": {
+              "lat": 53.5585362,
+              "lng": 9.9487911
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 115
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5502751,
+              "lng": 9.934369499999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Platz d. Republik</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "m`zeIqss{@Av@Cv@AJ?b@?F?\\?B@b@@n@Hx@"
+            },
+            "start_location": {
+              "lat": 53.5503101,
+              "lng": 9.9360947
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 95
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.55021439999999,
+              "lng": 9.9329425
+            },
+            "html_instructions": "Continue onto <b>Lobuschstra\u00dfe</b>",
+            "polyline": {
+              "points": "g`zeIyhs{@Bj@DxAB`A@`@Ar@"
+            },
+            "start_location": {
+              "lat": 53.5502751,
+              "lng": 9.934369499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 186
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.550489,
+              "lng": 9.930169
+            },
+            "html_instructions": "Continue onto <b>Klausstra\u00dfe</b>",
+            "polyline": {
+              "points": "y_zeI{_s{@SnCKzBOvDGdB"
+            },
+            "start_location": {
+              "lat": 53.55021439999999,
+              "lng": 9.9329425
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 323
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.5507827,
+              "lng": 9.925632
+            },
+            "html_instructions": "Continue onto <b>Eulenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "qazeIqnr{@Ad@AVGTI^CHEd@@b@Lf@Jp@H^Ft@@PDbADv@Bh@@Z?Z?HANEPYjAW`AM^Mj@E\\"
+            },
+            "start_location": {
+              "lat": 53.550489,
+              "lng": 9.930169
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{s{eI}bv{@^~APh@r@|ATp@nD~JdGvNz@vBrBxElElK|B|ElBfD`@h@PPd@f@b@ZxA~@`@Nt@R\\Ht@BlA@Av@EbA?j@BtBLdBHzC?tA_@jG[zIQt@In@@b@Lf@TpAHfAJzBDdA?d@G`@q@lC[jAE\\"
+    },
+    "summary": "Max-Brauer-Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

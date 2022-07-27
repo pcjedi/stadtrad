@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5772437,
+        "lng": 10.001083
+      },
+      "southwest": {
+        "lat": 53.5667701,
+        "lng": 9.9821098
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2258
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 459
+        },
+        "end_address": "Harvestehuder Weg / Alte Rabenstra\u00dfe, 20148 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5672842,
+          "lng": 10.001083
+        },
+        "start_address": "Innocentiapark / Oberstra\u00dfe, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5772437,
+          "lng": 9.9821098
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 113
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5772215,
+              "lng": 9.9838145
+            },
+            "html_instructions": "Head <b>east</b> on <b>Oberstra\u00dfe</b> toward <b>Parkallee</b>",
+            "polyline": {
+              "points": "wh_fIes|{@BgH?k@"
+            },
+            "start_location": {
+              "lat": 53.5772437,
+              "lng": 9.9821098
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 331
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5742607,
+              "lng": 9.9840153
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Parkallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sh_fIy}|{@DIDGFA|GM|GG"
+            },
+            "start_location": {
+              "lat": 53.5772215,
+              "lng": 9.9838145
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 597
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 161
+            },
+            "end_location": {
+              "lat": 53.5744034,
+              "lng": 9.993051
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hansastra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cv~eIc_}{@?iL@qDEsI?c@Aq@AYAyA?_@GwFA{@?WAe@?c@E{D?a@"
+            },
+            "start_location": {
+              "lat": 53.5742607,
+              "lng": 9.9840153
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 875
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 143
+            },
+            "end_location": {
+              "lat": 53.5667701,
+              "lng": 9.995971899999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Mittelweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_w~eIqw~{@|@g@XObAg@zAu@l@YHGBAFGVK`@SHEp@YlAk@BAFALGJGd@UPIJEFCFAx@WLE^KXEXANAfAGPA~@Gz@MVCdAOFA`@G`AOlCi@`@K`@It@Mf@I"
+            },
+            "start_location": {
+              "lat": 53.5744034,
+              "lng": 9.993051
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 342
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5672842,
+              "lng": 10.001083
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alte Rabenstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ig}eIyi_|@YsEAYIqA?IEo@MmCKuBAME_AGsAMcEAY"
+            },
+            "start_location": {
+              "lat": 53.5667701,
+              "lng": 9.995971899999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh_fIes|{@BsIJQdHO|GG?iLCeOAuAKkKC}CE}EvAw@vE_CJIx@_@lCmAfAg@l@UfA]x@QbCM~@GrAQpDi@fGmAf@IYsEKkB_@}H_@_K"
+    },
+    "summary": "Hansastra\u00dfe and Mittelweg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

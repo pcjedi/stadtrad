@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.55240509999999,
+        "lng": 10.0008352
+      },
+      "southwest": {
+        "lat": 53.5471385,
+        "lng": 9.9772529
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2063
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 412
+        },
+        "end_address": "U Me\u00dfberg / Willy-Brandt-Stra\u00dfe, 20457 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5476766,
+          "lng": 9.9987943
+        },
+        "start_address": "Enckeplatz / H\u00fctten, 20355 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55240509999999,
+          "lng": 9.9772529
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 348
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.5493058,
+              "lng": 9.977847599999999
+            },
+            "html_instructions": "Head <b>south</b> on <b>Neanderstra\u00dfe</b> toward <b>Peterstra\u00dfe</b>",
+            "polyline": {
+              "points": "qmzeIyt{{@b@CjDc@ZEDAv@IH?r@IPCz@O^If@KLBd@Cb@CTE"
+            },
+            "start_location": {
+              "lat": 53.55240509999999,
+              "lng": 9.9772529
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.6 km",
+              "value": 1556
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 272
+            },
+            "end_location": {
+              "lat": 53.5474593,
+              "lng": 10.0007289
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ludwig-Erhard-Stra\u00dfe</b>/<wbr/><b>B4</b><div style=\"font-size:0.9em\">Continue to follow B4</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ezyeIqx{{@B]@o@FwA@KBe@Dq@BW?IDc@B]DYB[Fc@Fa@BSX_C@QVqBd@{DHi@RyAFk@@EJ_A?ANeAHg@Ly@Hi@XmBVqAJm@Da@H{@XmDXeDFw@Bk@Dg@De@Be@Be@Be@@g@@s@@cA?iAOwKAgAAy@GuBAc@?GEiBE}@CeAAWCiACu@Cm@?YA]CsAEuAEmAASCq@Cg@C_@?O?G?IA[A_@?c@?A?S?Y?Y@Y?UBK@W@C@OBQDSHa@"
+            },
+            "start_location": {
+              "lat": 53.5493058,
+              "lng": 9.977847599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "24 m",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.54766619999999,
+              "lng": 10.0008352
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Dovenfleet</b>/<wbr/><b>Me\u00dfberg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "snyeIqg`|@MEMEMI"
+            },
+            "start_location": {
+              "lat": 53.5474593,
+              "lng": 10.0007289
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 135
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.5476766,
+              "lng": 9.9987943
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Willy-Brandt-Stra\u00dfe</b>/<wbr/><b>B4</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}oyeIgh`|@?`@Ah@Ad@?d@An@?VAP?d@@d@@r@@f@"
+            },
+            "start_location": {
+              "lat": 53.54766619999999,
+              "lng": 10.0008352
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qmzeIyt{{@b@CjDc@`@GfCWzAYf@KLBhAGTEB]HgCDq@NwB|@_IpBePp@qEp@_EPoAdAgMR_DHsBBwBOaNM{GOuFYgLS}FCaB@aBF}@TwA[KMI?`@CnAAtA?tBBzA"
+    },
+    "summary": "B4",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
