@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5612392,
+        "lng": 10.0669316
+      },
+      "southwest": {
+        "lat": 53.5554475,
+        "lng": 10.037363
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.6 km",
+          "value": 2574
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 448
+        },
+        "end_address": "S Landwehr / Ramazan-Avci-Platz, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5611671,
+          "lng": 10.037363
+        },
+        "start_address": "U Rauhes Haus / Horner Weg, 20535 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5554624,
+          "lng": 10.0669316
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 309
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.5558474,
+              "lng": 10.0623203
+            },
+            "html_instructions": "Head <b>west</b> on <b>Horner Weg</b> toward <b>Morahtstieg</b>",
+            "polyline": {
+              "points": "s`{eIiem|@?F@t@?dAAl@Av@I~AO`AA^GrACTM~BE`AGhAGvB"
+            },
+            "start_location": {
+              "lat": 53.5554624,
+              "lng": 10.0669316
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 502
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 90
+            },
+            "end_location": {
+              "lat": 53.5603377,
+              "lng": 10.0615435
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Caspar-Voght-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ac{eIohl|@m@?mCX[DoAPODs@JkBNWBuCVO@q@He@HW@m@Bu@FWF"
+            },
+            "start_location": {
+              "lat": 53.5558474,
+              "lng": 10.0623203
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.5 km",
+              "value": 1549
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 259
+            },
+            "end_location": {
+              "lat": 53.5595034,
+              "lng": 10.0389558
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sievekingsallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "c_|eIscl|@Eb@A\\CPGz@MpBO~BMzBUpDEx@Ct@Cl@Cr@Ct@Aj@Ch@Ax@?r@Ar@?n@CfCElBEvBAP?BCz@E|CAx@AbAEpDKtGEzC?\\C|AA~@Ah@?tA@r@?RBjA@d@@T@d@@RDp@Bp@Dj@HhBDl@Bh@Fz@@RDv@Dv@B^Dt@Hr@BVBRHl@DXDXHh@F^H^FVDTJ\\HXBJFLHTL\\P`@LZDHZx@NXN`@\\v@"
+            },
+            "start_location": {
+              "lat": 53.5603377,
+              "lng": 10.0615435
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 214
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.5611671,
+              "lng": 10.037363
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Landwehr</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{y{eIovg|@UHQJGDIDGFGFOLUV_@b@k@n@SXCF{@t@}@z@"
+            },
+            "start_location": {
+              "lat": 53.5595034,
+              "lng": 10.0389558
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "s`{eIiem|@@|@ArBKvCO`AA^KhBS`EO`Em@?mCXkBVcAPiHl@wAReADu@FWFG`Ai@~Hm@|KMbEGjECvDKdFKnFa@|[?fEHlDl@`LPbDVtC^jC^lB`@pAv@pB`A~B\\v@UHYPi@b@u@z@_AhA}BxB"
+    },
+    "summary": "Sievekingsallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5845882,
+        "lng": 10.0397317
+      },
+      "southwest": {
+        "lat": 53.5710752,
+        "lng": 10.0321571
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1662
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 387
+        },
+        "end_address": "Schleidenstra\u00dfe / Osterbekstra\u00dfe, 22083 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5845882,
+          "lng": 10.0337007
+        },
+        "start_address": "Uferstra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5710752,
+          "lng": 10.0397317
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 538
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 94
+            },
+            "end_location": {
+              "lat": 53.57512759999999,
+              "lng": 10.0354389
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Wagnerstra\u00dfe</b> toward <b>Gluckstra\u00dfe</b>",
+            "polyline": {
+              "points": "gb~eIi{g|@gA|@IFu@j@SPm@d@cAx@_@Xy@n@WRWRED[T]Xg@^g@`@]b@KLMPUZININOVMZITUj@A@STILO^GJQZWf@"
+            },
+            "start_location": {
+              "lat": 53.5710752,
+              "lng": 10.0397317
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 579
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 135
+            },
+            "end_location": {
+              "lat": 53.5798496,
+              "lng": 10.0321571
+            },
+            "html_instructions": "Continue onto <b>Adolph-Sch\u00f6nfelder-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "q{~eIo`g|@GNWf@a@t@mAzAmAjAa@`@A@MP]X[LOFw@d@yAx@SJULc@Tc@TKDc@Pk@TUDq@No@Le@Fa@H]DK@K@"
+            },
+            "start_location": {
+              "lat": 53.57512759999999,
+              "lng": 10.0354389
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 325
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 97
+            },
+            "end_location": {
+              "lat": 53.5826546,
+              "lng": 10.0333224
+            },
+            "html_instructions": "Continue onto <b>Biedermannpl.</b>",
+            "polyline": {
+              "points": "ay_fI_lf|@}BKa@Ca@Go@Qi@O_@My@Y{@[[O[c@eAu@"
+            },
+            "start_location": {
+              "lat": 53.5798496,
+              "lng": 10.0321571
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 213
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.5845404,
+              "lng": 10.0337797
+            },
+            "html_instructions": "Continue onto <b>Schleidenstra\u00dfe</b>",
+            "polyline": {
+              "points": "qj`fIgsf|@c@SSIy@We@KUE}@CIAwAIMAO?MA"
+            },
+            "start_location": {
+              "lat": 53.5826546,
+              "lng": 10.0333224
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5845882,
+              "lng": 10.0337007
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Osterbekstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kv`fIcvf|@IN"
+            },
+            "start_location": {
+              "lat": 53.5845404,
+              "lng": 10.0337797
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gb~eIi{g|@gJlHqAbAeAx@g@`@]b@Y^_@j@Yf@Wp@Wl@]b@aAnB_@v@a@t@mAzAoBlBOR]X[LgAl@gDhB_CbA}Cj@wAR_DOqAY_EsA[O[c@eAu@c@SmAa@{@QmDQ]AIN"
+    },
+    "summary": "Wagnerstra\u00dfe and Adolph-Sch\u00f6nfelder-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

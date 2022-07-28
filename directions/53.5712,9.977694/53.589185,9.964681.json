@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.589206,
+        "lng": 9.9786478
+      },
+      "southwest": {
+        "lat": 53.5712433,
+        "lng": 9.9647275
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.4 km",
+          "value": 2403
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 539
+        },
+        "end_address": "Grandweg / Veilchenweg, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.589206,
+          "lng": 9.9647275
+        },
+        "start_address": "Bogenstra\u00dfe / Grindelallee, 20144 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5712433,
+          "lng": 9.9777496
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "28 m",
+              "value": 28
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Beim Schlump</b> toward <b>Bogenstra\u00dfe</b>",
+            "polyline": {
+              "points": "gc~eI}w{{@Sf@KZ"
+            },
+            "start_location": {
+              "lat": 53.5712433,
+              "lng": 9.9777496
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 129
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5722837,
+              "lng": 9.9786478
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Beim Schlump</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gd~eIyu{{@KOYc@IKQOOM]y@KOU]OWMY"
+            },
+            "start_location": {
+              "lat": 53.5713968,
+              "lng": 9.9774067
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 808
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 143
+            },
+            "end_location": {
+              "lat": 53.5788933,
+              "lng": 9.975656599999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Grindelberg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wi~eIq}{{@UFIBIBOFQJc@VOHQLQJ[ROJk@ZEBIDIDUJ[J]Jc@F{@HUAM?SAQAIAE?WEOCMAOC]Iu@Wm@Um@Q[K]KOCQCO@OBODSJIFsAdAMNOPQXMRKTMZQ\\S^S\\GJORMREF[`@CBOTCFc@p@"
+            },
+            "start_location": {
+              "lat": 53.5722837,
+              "lng": 9.9786478
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 950
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 213
+            },
+            "end_location": {
+              "lat": 53.5862484,
+              "lng": 9.9686538
+            },
+            "html_instructions": "Continue onto <b>Hoheluftchaussee</b>",
+            "polyline": {
+              "points": "as_fI{j{{@SV_@d@?@ORMNQVYb@EBW^Y^e@j@e@j@o@t@]b@c@d@MNWVm@l@STMP[^c@d@EDY\\UXKT]f@q@x@_AbAi@n@_@^sA|A_@b@]\\m@l@WTUR[POHQLWNSJ]PWHYH]J{@Vm@Lu@RSD"
+            },
+            "start_location": {
+              "lat": 53.5788933,
+              "lng": 9.975656599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "74 m",
+              "value": 74
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 69
+            },
+            "end_location": {
+              "lat": 53.58596619999999,
+              "lng": 9.9676388
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Troplowitzstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "aaafIa_z{@FVBRZbBNx@"
+            },
+            "start_location": {
+              "lat": 53.5862484,
+              "lng": 9.9686538
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 414
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 68
+            },
+            "end_location": {
+              "lat": 53.589206,
+              "lng": 9.9647275
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Grandweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "i_afIwxy{@WJo@VGBe@To@XMF_@N}@`@MFMJ]TMJEDMLCBSTKLQROVq@~@]f@a@h@c@r@_@h@]d@"
+            },
+            "start_location": {
+              "lat": 53.58596619999999,
+              "lng": 9.9676388
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gc~eI}w{{@_@bAe@s@[[OM]y@a@m@]q@y@VaEbCo@Zy@V_BPiAEw@K]EsAa@wBs@m@Oa@A_@H]RaBtAa@j@y@bB_A|As@`AkAfB}@jAiA~AuClDgBpBaAbAi@p@yAbBi@|@qB|BiAnAsB`CkAjAm@h@uAx@q@\\q@RyAb@cB`@SDFV^vBNx@WJw@ZcCfAkAh@k@`@e@b@aAnAuCdE}@nA"
+    },
+    "summary": "Grindelberg and Hoheluftchaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5945838,
+        "lng": 10.0210632
+      },
+      "southwest": {
+        "lat": 53.5836805,
+        "lng": 9.995889
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2347
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 486
+        },
+        "end_address": "U Hudtwalckerstra\u00dfe / Bebelallee, 22299 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5943171,
+          "lng": 9.995889
+        },
+        "start_address": "Jarrestra\u00dfe / Rambatzweg, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58406549999999,
+          "lng": 10.0210632
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 131
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5836805,
+              "lng": 10.0191839
+            },
+            "html_instructions": "Head <b>west</b> on <b>Jarrestra\u00dfe</b> toward <b>Jollassestieg</b>",
+            "polyline": {
+              "points": "ms`fIsfd|@Jt@TrBDTJn@DZDZLnA"
+            },
+            "start_location": {
+              "lat": 53.58406549999999,
+              "lng": 10.0210632
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.2 km",
+              "value": 2180
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 456
+            },
+            "end_location": {
+              "lat": 53.593998,
+              "lng": 9.9959911
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Barmbeker Str.</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_q`fI{zc|@[FSDWFKBIBMD_@LQHq@VEBoAp@KFUJ}@f@o@ZKF_@P]L]NSJOHa@Vg@^C@yA`AOLOPu@d@g@ZOJOLQNOPKJGFSVQT_@j@[h@KPYn@MXKVKTIXUn@Uj@c@tAKXMb@EJQh@K\\KZENCNETEXEVCZCVCXE\\C\\Af@CPIl@EZGd@SnAKx@[nBE\\[tBg@hDEJCFADADKf@Kj@Kf@I\\ERCTETG\\EZANCLAJ?B?FAH?HCXCVCTAJ?BAF?VIb@_@lCa@rCGb@EZKr@]tBAHO~@CRCTKh@Mn@If@Ij@EXCLCHCHELGHQZQPMLIFKFYNGBOFi@Li@JYDEGCAAAE@IBE@CBCBCHMNKNIb@AHAH?FAH@d@?B?XDnAF|@Bf@B^@H?D?BBF?BFRHxBAP@L@RBP@JBJBNFTHZBHBNZdA"
+            },
+            "start_location": {
+              "lat": 53.5836805,
+              "lng": 10.0191839
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5943171,
+              "lng": 9.995889
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oqbfI}i_|@i@JUF"
+            },
+            "start_location": {
+              "lat": 53.593998,
+              "lng": 9.9959911
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ms`fIsfd|@r@nFJv@LnA[Fk@LUFqBt@wBhAyC|A_Br@gDzB_@^}A`AaAz@y@`A{@tAe@`Ao@`Bk@zAo@nBq@vB[pASdBIv@EdA[`CaAvGcA~GIROr@g@dCWdBMbBI|@A^i@pD{@fGs@rE_AtFIVYd@u@n@a@Ry@TcAPIIG?ODGFQXKNIb@CR?z@PnEDr@BJFRHxB?^Dd@P|@l@zB_AR"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

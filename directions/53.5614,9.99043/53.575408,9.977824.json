@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57542549999999,
+        "lng": 9.990385300000002
+      },
+      "southwest": {
+        "lat": 53.5613288,
+        "lng": 9.9775254
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1874
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 402
+        },
+        "end_address": "Grindelberg / Bezirksamt Eimsb\u00fcttel, 20144 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57542549999999,
+          "lng": 9.9776705
+        },
+        "start_address": "Bahnhof Dammtor / Theodor-Heuss-Platz, 20148 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5614356,
+          "lng": 9.990385300000002
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5613288,
+              "lng": 9.990147200000001
+            },
+            "html_instructions": "Head <b>southwest</b> toward <b>Rothenbaumchaussee</b>",
+            "polyline": {
+              "points": "_f|eI}f~{@FLDRFL"
+            },
+            "start_location": {
+              "lat": 53.5614356,
+              "lng": 9.990385300000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 438
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 119
+            },
+            "end_location": {
+              "lat": 53.5638975,
+              "lng": 9.9851294
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Edmund-Siemers-Allee</b>/<wbr/><b>Theodor-Heuss-Platz</b><div style=\"font-size:0.9em\">Continue to follow Edmund-Siemers-Allee</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ie|eIme~{@k@lAKTCFq@`BYr@M\\a@`AEHQb@cAzBi@lAw@dB_@z@Uf@Q^Sj@Y|@IZK`@"
+            },
+            "start_location": {
+              "lat": 53.5613288,
+              "lng": 9.990147200000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1066
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 190
+            },
+            "end_location": {
+              "lat": 53.5723938,
+              "lng": 9.978610699999999
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Grindelallee</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ku|eIaf}{@CDEFKXMZOVKPe@j@i@t@IHELKPA@KPIN[`@g@p@]b@qAbBs@~@SZ_@d@MNUZe@h@yAfBOJWLYNA?a@VA@s@b@i@^[Ro@\\s@`@u@b@o@ZCBC@EB}@h@QJ]P[P_Ad@MDC@IDi@Hc@JMDMBSBQ@Y@[Am@AG@YCW?Y@_@AUF"
+            },
+            "start_location": {
+              "lat": 53.5638975,
+              "lng": 9.9851294
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 350
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.57542549999999,
+              "lng": 9.9776705
+            },
+            "html_instructions": "Continue onto <b>Grindelberg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "mj~eIi}{{@IBIBOFQJc@VOHQLQJ[ROJk@ZEBIDIDUJ[J]Jc@F{@HUAM?SAQAIAE?WEOCMAOCOE"
+            },
+            "start_location": {
+              "lat": 53.5723938,
+              "lng": 9.978610699999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_f|eI}f~{@L`@FLk@lAO\\kAtCgAlCeEjJg@fAm@hBU|@ILYt@[h@oA`BOVc@t@sDzEuBpC{@dAiBrBuAt@{BxAuGrDkCtAQFs@Nq@Pa@Fk@BiACa@Aq@@_@AUFSFuAt@oAx@eAj@q@VaARqAFa@Ay@I}@O"
+    },
+    "summary": "Grindelallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

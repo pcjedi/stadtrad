@@ -1,0 +1,288 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5835095,
+        "lng": 9.987691
+      },
+      "southwest": {
+        "lat": 53.5694916,
+        "lng": 9.961432799999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.6 km",
+          "value": 2629
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 679
+        },
+        "end_address": "U Christuskirche / Fruchtallee, 20259 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5694916,
+          "lng": 9.9630209
+        },
+        "start_address": "\u1e60 Haspa, Eppendorfer Baum, 20149 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5820614,
+          "lng": 9.987691
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 258
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5834388,
+              "lng": 9.9845554
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Eppendorfer Baum</b> toward <b>Hochallee</b>",
+            "polyline": {
+              "points": "{f`fIav}{@GNINEFu@xBs@zB]hAOd@m@lBKX_@dAIT"
+            },
+            "start_location": {
+              "lat": 53.5820614,
+              "lng": 9.987691
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5835095,
+              "lng": 9.984752600000002
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Eppendorfer Baum</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oo`fIob}{@KQ?AA??Q"
+            },
+            "start_location": {
+              "lat": 53.5834388,
+              "lng": 9.9845554
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5834388,
+              "lng": 9.9845554
+            },
+            "html_instructions": "Make a <b>U-turn</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "}o`fIuc}{@?P@??@JP"
+            },
+            "start_location": {
+              "lat": 53.5835095,
+              "lng": 9.984752600000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5833853,
+              "lng": 9.9846744
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eppendorfer Baum</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oo`fIob}{@HU"
+            },
+            "start_location": {
+              "lat": 53.5834388,
+              "lng": 9.9845554
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 789
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 132
+            },
+            "end_location": {
+              "lat": 53.5781259,
+              "lng": 9.9766982
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Isestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "eo`fIec}{@PLx@bAf@v@`AjBHPjBpDTf@nAxBl@hAdAhBpAzB^t@PZxA`CfCdElB~Cn@bAHL@B@D@D@D?J"
+            },
+            "start_location": {
+              "lat": 53.5833853,
+              "lng": 9.9846744
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5782317,
+              "lng": 9.976553700000002
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Grindelberg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "in_fIkq{{@S\\"
+            },
+            "start_location": {
+              "lat": 53.5781259,
+              "lng": 9.9766982
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 70
+            },
+            "end_location": {
+              "lat": 53.5782311,
+              "lng": 9.975965
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}n_fImp{{@HRBBFNB@B@@??@@@?@?@?@?@?@A@Od@OR"
+            },
+            "start_location": {
+              "lat": 53.5782317,
+              "lng": 9.976553700000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1302
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 277
+            },
+            "end_location": {
+              "lat": 53.5705867,
+              "lng": 9.961432799999999
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}n_fIwl{{@^x@Rb@V|@b@nAZdAj@fBVt@j@lBv@hCBJb@pAl@lBj@pBPj@j@hBp@vBNb@f@~AZdAd@|Ab@xAHTJXj@fBDJNd@v@jC^nARl@@@x@nBP\\Vh@DBb@p@DDf@x@x@nA~@pAv@t@dAt@x@t@NN|@v@f@f@HJ"
+            },
+            "start_location": {
+              "lat": 53.5782311,
+              "lng": 9.975965
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 136
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.56976909999999,
+              "lng": 9.9629476
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Weidenstieg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e_~eI}qx{@\\_@LUBGDIFKHQJa@BGDK?AXs@LYFMBC?AJ]DQ"
+            },
+            "start_location": {
+              "lat": 53.5705867,
+              "lng": 9.961432799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "31 m",
+              "value": 31
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5694916,
+              "lng": 9.9630209
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "az}eIm{x{@JANCLCLC"
+            },
+            "start_location": {
+              "lat": 53.56976909999999,
+              "lng": 9.9629476
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{f`fIav}{@Q^{@`CoCxIk@~AITKQAA?Q?P@@JPHUjApAhBbDtBbEdB`DdFdJ`JbO|@zABJ?JS\\LVJPDB?LOd@OR^x@Rb@V|@~@tCbA|CbBvFf@|AxA~E~BpHlC|IfAbDzBnHdBxDh@t@l@~@xB`Dv@t@dAt@hAdAdB~AHJ\\_@P]LUTs@b@iAXm@Po@ZEZG"
+    },
+    "summary": "Isestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

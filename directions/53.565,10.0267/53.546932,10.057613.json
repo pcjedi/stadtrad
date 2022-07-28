@@ -1,0 +1,215 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5656881,
+        "lng": 10.0576561
+      },
+      "southwest": {
+        "lat": 53.5470861,
+        "lng": 10.026594
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.9 km",
+          "value": 3868
+        },
+        "duration": {
+          "text": "13 mins",
+          "value": 771
+        },
+        "end_address": "S\u00fcderstra\u00dfe / Osterbrookplatz, 20537 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5470861,
+          "lng": 10.0576561
+        },
+        "start_address": "U Uhlandstra\u00dfe / Eilenau, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5649947,
+          "lng": 10.0266752
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.56513,
+              "lng": 10.026594
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Uhlandstra\u00dfe</b>",
+            "polyline": {
+              "points": "e||eIwie|@[P"
+            },
+            "start_location": {
+              "lat": 53.5649947,
+              "lng": 10.0266752
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 423
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.5656881,
+              "lng": 10.0326306
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Uhlandstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a}|eIeie|@DuCDkC@gAHiEDyB@cAE}@Eq@K_ASy@_@oAGMAEy@wB"
+            },
+            "start_location": {
+              "lat": 53.56513,
+              "lng": 10.026594
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.6 km",
+              "value": 1593
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 342
+            },
+            "end_location": {
+              "lat": 53.5525342,
+              "lng": 10.0405937
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wartenau</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "q`}eI}nf|@hA{A~@sAtAcBRU`@g@PSPObAoA\\e@f@k@RWl@k@x@q@fAaA\\]dAcAx@o@NKn@i@`@Y|@{@z@u@DCBCHEHEJEJGVQPMHGPKHERK`@STKB?RQr@U^OlAc@jAc@NGv@WLE@??A@AFKb@OPEvBs@lAa@RCREJC^Sl@]\\MLANCNC`@ENCRA`@ArAC`@?FAPIhBCHA|ACDH@@@?f@Bj@BX@"
+            },
+            "start_location": {
+              "lat": 53.5656881,
+              "lng": 10.0326306
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1143
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 222
+            },
+            "end_location": {
+              "lat": 53.5510601,
+              "lng": 10.0575709
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eiffestra\u00dfe</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "inzeIu`h|@Au@C_C?a@AuA?MAi@?M?e@?GAW?cA?O?[?S?_A?M@a@?G@}@@m@Bo@BcAFwB@SLwB@Y?ADg@Fw@Dk@B[Dy@Ba@HuA?EHgA@OLiBFcA?A?AAAEMLyBP}BFiABYF}@LuB@K?K@E@]FM@A?ADk@FaAHiBBSRkDC_@@KBY@IB[?EFcAH}AL{A@MNkCFS"
+            },
+            "start_location": {
+              "lat": 53.5525342,
+              "lng": 10.0405937
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 475
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 95
+            },
+            "end_location": {
+              "lat": 53.54740109999999,
+              "lng": 10.054396
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Osterbrook</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cezeIyjk|@dAz@XT@@@@?BCN?@?B@@?@DDHFLL^ZLJ@?@@@A@?@C?A@I@AZV^Z^ZFF|@t@NLXRb@^z@p@FLDJDHLTf@b@JH^ZV?n@b@TP^V"
+            },
+            "start_location": {
+              "lat": 53.5510601,
+              "lng": 10.0575709
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 173
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5471564,
+              "lng": 10.056981
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>S\u00fcderstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gnyeI_wj|@@u@@Y@ELiC@MDy@NeDBu@"
+            },
+            "start_location": {
+              "lat": 53.54740109999999,
+              "lng": 10.054396
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "45 m",
+              "value": 45
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5470861,
+              "lng": 10.0576561
+            },
+            "html_instructions": "Continue onto <b>Osterbrookpl.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "wlyeIcgk|@JaB@e@"
+            },
+            "start_location": {
+              "lat": 53.5471564,
+              "lng": 10.056981
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "e||eIwie|@[PDuCFsENcICaCQqBs@iCISy@wBhA{A~@sAtAcBt@}@dCyCz@cAfB}AdB_BdAcAx@o@~@u@~AuA`Ay@LIx@e@v@g@nAk@RQr@U^O`FgBPIFKb@OhCy@lAa@RC^IlAq@j@OpAQjDGXKrBE|ACDH@@tAFX@Au@CaDC{CAiGBuBPyGPgDVgDt@}LAEEMLyBXgEZyE@Q@]FM@CLmBL}BRkDC_@De@De@^cGPyCFSdAz@ZV@DAV\\\\p@h@DEBMzAnAnB~A~ApALXR^r@l@^ZV?dAt@^V@u@B_@d@wJP}D"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

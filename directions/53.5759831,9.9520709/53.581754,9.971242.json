@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5816917,
+        "lng": 9.9713212
+      },
+      "southwest": {
+        "lat": 53.5745661,
+        "lng": 9.9520903
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1728
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 318
+        },
+        "end_address": "Eppendorfer Weg / Hoheluftchaussee, 20253 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5816917,
+          "lng": 9.9713212
+        },
+        "start_address": "Osterstra\u00dfe 121, 20255 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.576037,
+          "lng": 9.9520903
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 513
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5745661,
+              "lng": 9.959450799999999
+            },
+            "html_instructions": "Head <b>east</b> on <b>Osterstra\u00dfe</b>",
+            "polyline": {
+              "points": "ga_fIqwv{@?AHgA@C@QHw@BOL}@Fe@L{@Da@He@Fg@Jy@Fe@R{ALaATgB@G^uC@QDWP{ALyABWD[BMBW@KBUDc@Hi@Hy@D_@"
+            },
+            "start_location": {
+              "lat": 53.576037,
+              "lng": 9.9520903
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 597
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 116
+            },
+            "end_location": {
+              "lat": 53.5792458,
+              "lng": 9.9636175
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Schulweg</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ax~eIqex{@QUYMEEc@SKEIEUOA?]_@MQMWYi@_@q@AAMQSSe@YKEa@OC?e@OMEUIE?A?EBmA{@[SOM[We@c@q@q@YWmAkAOMOe@GIKMGGiAiA"
+            },
+            "start_location": {
+              "lat": 53.5745661,
+              "lng": 9.959450799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 107
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5789254,
+              "lng": 9.9651371
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Mansteinstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "iu_fIs_y{@LgAHm@NkAHu@Lw@"
+            },
+            "start_location": {
+              "lat": 53.5792458,
+              "lng": 9.9636175
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 511
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 109
+            },
+            "end_location": {
+              "lat": 53.5816917,
+              "lng": 9.9713212
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eppendorfer Weg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "is_fIciy{@yAkEc@kAaAoCK_@cByE[_A_AoC_BwE{@gC?A"
+            },
+            "start_location": {
+              "lat": 53.5789254,
+              "lng": 9.9651371
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ga_fIqwv{@L_Bb@kDzAiLx@wGh@eFl@kFD_@QU_@SoAo@_@_@[i@iAoBy@m@m@UmA_@G?EBmA{@k@a@aA{@iDcDWo@SUiAiALgAXyBVmB}BwGmEiM{EqN"
+    },
+    "summary": "Osterstra\u00dfe, B5 and Eppendorfer Weg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

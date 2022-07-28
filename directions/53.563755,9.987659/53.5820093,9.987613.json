@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58215569999999,
+        "lng": 9.989481399999999
+      },
+      "southwest": {
+        "lat": 53.5633809,
+        "lng": 9.987542699999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2343
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 429
+        },
+        "end_address": "\u1e60 Haspa, Eppendorfer Baum, 20149 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5820614,
+          "lng": 9.987691
+        },
+        "start_address": "Universit\u00e4t / Moorweidenstra\u00dfe, 20146 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5636729,
+          "lng": 9.987542699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "51 m",
+              "value": 51
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5633809,
+              "lng": 9.9881336
+            },
+            "html_instructions": "Head <b>southeast</b>",
+            "polyline": {
+              "points": "}s|eIcu}{@Pe@`@cADK"
+            },
+            "start_location": {
+              "lat": 53.5636729,
+              "lng": 9.987542699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5637242,
+              "lng": 9.988425099999999
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Moorweidenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cr|eIyx}{@KKEGKKMMMIECC?"
+            },
+            "start_location": {
+              "lat": 53.5633809,
+              "lng": 9.9881336
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.563745,
+              "lng": 9.989481399999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Moorweidenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gt|eIuz}{@?I?S?_@?[?{@AUAe@"
+            },
+            "start_location": {
+              "lat": 53.5637242,
+              "lng": 9.988425099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.0 km",
+              "value": 1957
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 352
+            },
+            "end_location": {
+              "lat": 53.5812731,
+              "lng": 9.988736
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Rothenbaumchaussee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kt|eIga~{@[Hw@Na@FqCf@gDj@cALSDg@JqA\\UFQDc@He@H]@]@WCiAC{@Ae@AE?A?{@Ci@?{@CgCAkCMm@AeBAKAi@Cg@AA?G?QAy@?g@Aq@AI?a@A_@AYAaCIqCGeCEwDIcACkCGaAAi@?]@I@W@{@DcCHU@cAFS@aBF[@w@DOGu@C"
+            },
+            "start_location": {
+              "lat": 53.563745,
+              "lng": 9.989481399999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 222
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5820614,
+              "lng": 9.987691
+            },
+            "html_instructions": "At the roundabout, exit onto <b>Eppendorfer Baum</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "}a`fIs|}{@AQCOAGAGCGEKOWSOEEGCI?M?G@OFSNKNA@EDEHCHAFADAFAL?D?FAL@J?F?J@N@JBJBLBLDJFLBDDDDD[r@"
+            },
+            "start_location": {
+              "lat": 53.5812731,
+              "lng": 9.988736
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "}s|eIcu}{@r@iBDKKKQS[WIC?]?wBC{@sAXsDn@gDj@cAL{@PgBd@u@NcAJ{DGiBEeBCgCAkCMsCCu@EcAC}CC}EOsO[mEIgA@aFRoERsAFOGu@CEa@COISOWSOMIW?G@c@VY`@I^Ch@Bn@Lr@Vd@DD[r@"
+    },
+    "summary": "Rothenbaumchaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
