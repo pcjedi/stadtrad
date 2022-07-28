@@ -1,0 +1,216 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6091351,
+        "lng": 10.0334396
+      },
+      "southwest": {
+        "lat": 53.5878488,
+        "lng": 10.0225943
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.9 km",
+          "value": 2943
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 619
+        },
+        "end_address": "U Sengelmannstra\u00dfe / Djakartaweg, 22297 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6091351,
+          "lng": 10.022705
+        },
+        "start_address": "U Saarlandstra\u00dfe / Wiesendamm, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5887523,
+          "lng": 10.0330194
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 97
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5878848,
+              "lng": 10.0331337
+            },
+            "html_instructions": "Head <b>south</b> on <b>Saarlandstra\u00dfe</b> toward <b>Wiesendamm</b>",
+            "polyline": {
+              "points": "upafIkqf|@TCbAIn@Eb@A"
+            },
+            "start_location": {
+              "lat": 53.5887523,
+              "lng": 10.0330194
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.5 km",
+              "value": 1470
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 328
+            },
+            "end_location": {
+              "lat": 53.60033809999999,
+              "lng": 10.0295316
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Wiesendamm</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "gkafIarf|@D{@c@A}CRiAPq@JQ@}@Fm@FC?{@JwATmCd@YD_BVu@Pa@F_ANg@HOBI@y@N{@PiDf@yF|@O@c@FiLFw@HO@A@oANGBYFQJQNQR?@ILWb@KTs@rBITQn@KVWX"
+            },
+            "start_location": {
+              "lat": 53.5878848,
+              "lng": 10.0331337
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 278
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.6004034,
+              "lng": 10.0253543
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Jahnring</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cycfIq{e|@DZHrBBh@?D@d@Bv@AR?VAx@A|@Ch@Cj@KtCKtC"
+            },
+            "start_location": {
+              "lat": 53.60033809999999,
+              "lng": 10.0295316
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 681
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 153
+            },
+            "end_location": {
+              "lat": 53.6064411,
+              "lng": 10.0245692
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>\u00dcberseering</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oycfImae|@a@CkALSB_@Bg@@iAEk@?qA@Q?_@?A?A?}ABK?W?c@@s@?{ACo@Ak@AC?k@C_@?]@M@KBG@WHUFUHm@\\s@f@A@[XIH"
+            },
+            "start_location": {
+              "lat": 53.6004034,
+              "lng": 10.0253543
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 282
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.6089792,
+              "lng": 10.0244726
+            },
+            "html_instructions": "Slight <b>right</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "g_efIq|d|@a@Ee@@kBBaBDqABeCFM@"
+            },
+            "start_location": {
+              "lat": 53.6064411,
+              "lng": 10.0245692
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 127
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.6091072,
+              "lng": 10.0225943
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Djakartaweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "coefI}{d|@AnA?BCpDA^?XA@?HAJCHAHGJ"
+            },
+            "start_location": {
+              "lat": 53.6089792,
+              "lng": 10.0244726
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "8 m",
+              "value": 8
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.6091351,
+              "lng": 10.022705
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Djakartaweg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}oefIepd|@EW"
+            },
+            "start_location": {
+              "lat": 53.6091072,
+              "lng": 10.0225943
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "upafIkqf|@xAMrAGD{@c@A}CRiAPcALkBNeHfAqEv@aC^uB`@cLdBs@HiLFw@HQBwARYFQJc@b@m@hA{ApEWXDZL|CBvBGxDO`EKtCa@C_BPgADuBEcB@aCBgA@kFGo@C}@@YD_@Jk@Pm@\\s@f@]ZIHa@EqCDsDHsCHArAGlFGh@GJEW"
+    },
+    "summary": "Saarlandstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
