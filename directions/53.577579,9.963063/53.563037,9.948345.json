@@ -1,0 +1,189 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5778071,
+        "lng": 9.963061699999999
+      },
+      "southwest": {
+        "lat": 53.56237590000001,
+        "lng": 9.9482448
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2102
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 451
+        },
+        "end_address": "S Holstenstra\u00dfe / D\u00fcppelstra\u00dfe, 22769 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5630237,
+          "lng": 9.9482448
+        },
+        "start_address": "Goebenstra\u00dfe / Eppendorfer Weg, 20253 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5775784,
+          "lng": 9.963061699999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5778071,
+              "lng": 9.9620795
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Goebenstra\u00dfe</b> toward <b>Im Geh\u00f6lz</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "{j_fIc|x{@ABa@`CI|@"
+            },
+            "start_location": {
+              "lat": 53.5775784,
+              "lng": 9.963061699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 917
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 196
+            },
+            "end_location": {
+              "lat": 53.5704428,
+              "lng": 9.9560605
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Im Geh\u00f6lz</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "il_fI_vx{@d@b@ZVNLZRlAz@FHDFPJLFf@TZRFDJH^Z\\`@b@n@NTNTZd@B@XXl@Zd@VXRTNXJVJJFL?H?VLLHn@^x@b@~BlBn@d@PNtA~@RN^Xv@h@HFFDRLb@VVRHFHHR^TXh@p@JJ"
+            },
+            "start_location": {
+              "lat": 53.5778071,
+              "lng": 9.9620795
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 474
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5670511,
+              "lng": 9.951878899999999
+            },
+            "html_instructions": "Continue onto <b>Doormannsweg</b>",
+            "polyline": {
+              "points": "g~}eIkpw{@NRb@dAHPLZBHf@jAVl@LXTd@HRJVJRRZX`@HL@@Z`@l@p@DF`DlCJJ`@XPJd@XJJ`@VNN"
+            },
+            "start_location": {
+              "lat": 53.5704428,
+              "lng": 9.9560605
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 17
+            },
+            "end_location": {
+              "lat": 53.5662657,
+              "lng": 9.951350000000001
+            },
+            "html_instructions": "Continue onto <b>Alsenpl.</b>",
+            "polyline": {
+              "points": "ai}eIgvv{@l@Zr@b@x@h@"
+            },
+            "start_location": {
+              "lat": 53.5670511,
+              "lng": 9.951878899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 469
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "html_instructions": "Continue onto <b>Alsenstra\u00dfe</b>",
+            "polyline": {
+              "points": "ed}eI}rv{@VLZPNHb@T\\PTJNHhAp@r@b@`@TjAt@dAl@HBNJ~@l@VPVRPL\\X^XTN^XZT"
+            },
+            "start_location": {
+              "lat": 53.5662657,
+              "lng": 9.951350000000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 53.5630237,
+              "lng": 9.9482448
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>D\u00fcppelstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{k|eI_bv{@INKJCBGF}@X_@L"
+            },
+            "start_location": {
+              "lat": 53.56237590000001,
+              "lng": 9.9486364
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{j_fIc|x{@c@dCI|@d@b@j@d@hBnALP^RbAh@RN|@|@r@dAj@z@\\ZrAr@n@b@p@VJFL?H?VL|@h@x@b@~BlB`At@`ErChAr@`@Z\\h@zAjB~@|BbBxDTj@^n@`ArAr@x@lDxCr@d@p@d@p@f@`B~@pAv@j@ZfB|@jF`DnAp@nAx@~AlApBxAa@f@}Af@"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

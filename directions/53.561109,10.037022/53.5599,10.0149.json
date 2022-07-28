@@ -1,0 +1,239 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5615813,
+        "lng": 10.0373412
+      },
+      "southwest": {
+        "lat": 53.557284,
+        "lng": 10.014727
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1939
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 505
+        },
+        "end_address": "Lange Reihe / Lohm\u00fchlenpark, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5599819,
+          "lng": 10.0149604
+        },
+        "start_address": "S Landwehr / Ramazan-Avci-Platz, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5611955,
+          "lng": 10.0373412
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "48 m",
+              "value": 48
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Landwehr</b>/<wbr/><b>B5</b> toward <b>Hasselbrookstra\u00dfe</b>",
+            "polyline": {
+              "points": "od|eIklg|@[To@h@"
+            },
+            "start_location": {
+              "lat": 53.5611955,
+              "lng": 10.0373412
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 267
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5604574,
+              "lng": 10.0334833
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Angerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{f|eIkjg|@B\\Dx@?F@PVtAb@bBj@vBz@xCn@dC"
+            },
+            "start_location": {
+              "lat": 53.5615813,
+              "lng": 10.0370209
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 171
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 53.56157289999999,
+              "lng": 10.0317031
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Elisenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{_|eIgtf|@GJEB{@fBEJg@~@MTKPKTs@jAKT"
+            },
+            "start_location": {
+              "lat": 53.5604574,
+              "lng": 10.0334833
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 679
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 190
+            },
+            "end_location": {
+              "lat": 53.5585257,
+              "lng": 10.023086
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Continue to follow L\u00fcbecker Str.</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yf|eIcif|@JPNZLXHNXr@BDBFNh@Ph@Rh@Vr@Nd@BFBDBB@BHBj@bBZ|@LX^fAl@bBVr@Zz@Ph@BFRh@Dj@@JX~@V|@BHHXFXBN@NHt@Fz@JpA@V@T@P@N@RB`@?X@PBb@BV@VBZ"
+            },
+            "start_location": {
+              "lat": 53.56157289999999,
+              "lng": 10.0317031
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 225
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 54
+            },
+            "end_location": {
+              "lat": 53.557284,
+              "lng": 10.0204083
+            },
+            "html_instructions": "Continue onto <b>L\u00fcbeckertordamm</b>",
+            "polyline": {
+              "points": "ys{eIisd|@DRDNDLFPLVPZLVLXBDP`@JVLb@DJ`@lAj@dB^hA"
+            },
+            "start_location": {
+              "lat": 53.5585257,
+              "lng": 10.023086
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 500
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 77
+            },
+            "end_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lohm\u00fchlenstra\u00dfe</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_l{eIqbd|@Sj@AFAFAJATO^Sd@ELGNO^Q`@CH_ApBYh@cBlDUf@Yj@Wj@IPq@tAYj@cBnDUXINKJ"
+            },
+            "start_location": {
+              "lat": 53.557284,
+              "lng": 10.0204083
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lange Reihe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "__|eI_`c|@ZLZN"
+            },
+            "start_location": {
+              "lat": 53.5603175,
+              "lng": 10.0148803
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5599819,
+              "lng": 10.0149604
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Walk your bicycle</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g}{eIa_c|@@KHa@"
+            },
+            "start_location": {
+              "lat": 53.5600426,
+              "lng": 10.014727
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "od|eIklg|@kA~@HvA@XVtAb@bBfBpGn@dCGJaAjBm@jAyAhCKTJP\\t@j@pAlApDZv@JFfA`DrBxFdAvCFv@p@|BXlAR`CPpCF~AJdBHn@J\\Th@^r@n@xA`BbF^hASj@CNC`@c@dAo@~AaErIqApCkA`CcBnDUXUZv@\\Jm@"
+    },
+    "summary": "L\u00fcbecker Str. and Lohm\u00fchlenstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

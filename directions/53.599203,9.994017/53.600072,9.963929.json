@@ -1,0 +1,189 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6000295,
+        "lng": 9.9940108
+      },
+      "southwest": {
+        "lat": 53.5944794,
+        "lng": 9.963823099999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2508
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 531
+        },
+        "end_address": "Siemersplatz / Kollaustra\u00dfe, 22529 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6000295,
+          "lng": 9.963823099999999
+        },
+        "start_address": "U Lattenkamp / Bebelallee, 20249 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5992293,
+          "lng": 9.9940108
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 344
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 86
+            },
+            "end_location": {
+              "lat": 53.597942,
+              "lng": 9.989379099999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Meenkwiese</b> toward <b>Bebelallee</b>",
+            "polyline": {
+              "points": "ercfIq}~{@@X@ZBd@@b@L~BLbA?DD^DVLt@DTBLh@tBzAtEXlADHDJBFFH"
+            },
+            "start_location": {
+              "lat": 53.5992293,
+              "lng": 9.9940108
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 414
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 71
+            },
+            "end_location": {
+              "lat": 53.5944794,
+              "lng": 9.9881625
+            },
+            "html_instructions": "Continue onto <b>Eppendorfer Landstra\u00dfe</b>",
+            "polyline": {
+              "points": "cjcfIs`~{@RJTFH@`@FTTRXLPJPLTBDRXLPd@`@XTLHRLp@Ph@LJ@P@PAb@IFALG\\OJETKFARCF@D?P?f@?X@"
+            },
+            "start_location": {
+              "lat": 53.597942,
+              "lng": 9.989379099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5945621,
+              "lng": 9.987591799999999
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Eppendorfer Landstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "otbfI_y}{@E`@ERAN?LA\\"
+            },
+            "start_location": {
+              "lat": 53.5944794,
+              "lng": 9.9881625
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 762
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 173
+            },
+            "end_location": {
+              "lat": 53.5978408,
+              "lng": 9.9775562
+            },
+            "html_instructions": "Continue onto <b>Lokstedter Weg</b>",
+            "polyline": {
+              "points": "_ubfImu}{@M~@Ij@Ih@q@vCo@rCSdAUhAIHM\\KZWx@Ib@o@nC?PYnAq@xCeArESz@kAvEMJA@YhAc@|AMd@Qx@Mz@?B@V"
+            },
+            "start_location": {
+              "lat": 53.5945621,
+              "lng": 9.987591799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 931
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 147
+            },
+            "end_location": {
+              "lat": 53.5998826,
+              "lng": 9.963953499999999
+            },
+            "html_instructions": "Continue onto <b>Osterfeldstra\u00dfe</b>",
+            "polyline": {
+              "points": "oicfIwv{{@ALEXEp@ADEp@Cf@C\\ARMhBInAAJMhBEn@MrBGhACj@Gt@KhAAJ?DGv@Ep@Cb@GfAGnAOhBSdD?BQfC_@~FG`AW`EMlBEh@ELG^ER?BERENWr@AFIPCJENCNABCNCFAFEVALALCZAR?N"
+            },
+            "start_location": {
+              "lat": 53.5978408,
+              "lng": 9.9775562
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.6000295,
+              "lng": 9.963823099999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kollaustra\u00dfe</b>/<wbr/><b>B447</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gvcfIuay{@YTCB"
+            },
+            "start_location": {
+              "lat": 53.5998826,
+              "lng": 9.963953499999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ercfIq}~{@H~BL~BLbADd@\\pBh@tBzAtE^vAHRFHRJ^H`@FTT`@j@Xf@V^r@r@f@^RLp@Pt@Nb@?j@Kj@W`@QZEL@x@?X@E`@Gb@Aj@WjB_CzKUhAIHYx@Wx@Ib@o@nC?PkAhFyAnGkAvEMJ[jAq@bC_@tB@ZGf@QpC]jFcAnOs@`LyBl]SdAe@~AW|@Kb@MnAAb@]X"
+    },
+    "summary": "Lokstedter Weg and Osterfeldstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

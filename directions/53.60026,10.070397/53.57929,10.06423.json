@@ -1,0 +1,263 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.60042259999999,
+        "lng": 10.0760606
+      },
+      "southwest": {
+        "lat": 53.5791506,
+        "lng": 10.0644805
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.9 km",
+          "value": 2900
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 671
+        },
+        "end_address": "Els\u00e4sser Stra\u00dfe / Stormarner Stra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5793487,
+          "lng": 10.0644805
+        },
+        "start_address": "Werner-Otto-Stra\u00dfe / OTTO Group, 22179 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.60042259999999,
+          "lng": 10.0703664
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Werner-Otto-Stra\u00dfe</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "polyline": {
+              "points": "sycfIyzm|@JpD"
+            },
+            "start_location": {
+              "lat": 53.60042259999999,
+              "lng": 10.0703664
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 559
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 129
+            },
+            "end_location": {
+              "lat": 53.5957938,
+              "lng": 10.0729867
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Werner-Otto-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gycfIgum|@ZYZWnAy@l@]f@YBA`Aq@XUd@[r@i@d@[^Wd@[ZUj@e@f@]b@YVQ\\UpA_A|@q@XUXU"
+            },
+            "start_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 466
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.59203609999999,
+              "lng": 10.0760606
+            },
+            "html_instructions": "Continue onto <b>Lesserstra\u00dfe</b>",
+            "polyline": {
+              "points": "u|bfIekn|@VO\\QlDeC@?JGt@g@`As@DEdAw@bAu@NIHGjA{@pAeAz@qA"
+            },
+            "start_location": {
+              "lat": 53.5957938,
+              "lng": 10.0729867
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "63 m",
+              "value": 63
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5917818,
+              "lng": 10.0752329
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Ostpreu\u00dfenpl.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gebfIk~n|@DV@FV~ABJBHBFFF"
+            },
+            "start_location": {
+              "lat": 53.59203609999999,
+              "lng": 10.0760606
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 258
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.589549,
+              "lng": 10.0760122
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Allensteiner Str.</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "scbfIeyn|@F@F?D?NERItBgAv@a@TIPGTEVC\\@~@FH?JEJK"
+            },
+            "start_location": {
+              "lat": 53.5917818,
+              "lng": 10.0752329
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 146
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.588259,
+              "lng": 10.0757038
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>Allensteiner Str.</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "uuafIa~n|@\\EF@F@JBXRlDf@"
+            },
+            "start_location": {
+              "lat": 53.589549,
+              "lng": 10.0760122
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "47 m",
+              "value": 47
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.58838,
+              "lng": 10.0750255
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Eulenkamp</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "smafIc|n|@WdC"
+            },
+            "start_location": {
+              "lat": 53.588259,
+              "lng": 10.0757038
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1269
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 330
+            },
+            "end_location": {
+              "lat": 53.5791506,
+              "lng": 10.0648478
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eulenkamp</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "knafI}wn|@fA^n@PZL^Tp@\\PHr@ZhAj@^Rp@\\fB~@^TVL|@j@v@b@HDf@Xr@b@`@XVPPRXV@@JJLJbAbA\\h@|@rA\\h@|AjBbAjARRxBbCFJBNDHBHBJLn@DZTxAFXFL@LLn@F^Hb@Pt@Nd@BFn@lA`@t@|@~AtA`C"
+            },
+            "start_location": {
+              "lat": 53.58838,
+              "lng": 10.0750255
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "33 m",
+              "value": 33
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5793487,
+              "lng": 10.0644805
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Els\u00e4sser Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ut_fIixl|@g@hA"
+            },
+            "start_location": {
+              "lat": 53.5791506,
+              "lng": 10.0648478
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sycfIyzm|@JpDZYZWnAy@tAw@dAs@xCwB`BiArAcAz@k@fE}C|F}DdCcB~C}BtAcApAeAz@qAF^ZjBFPNHL?b@OlDiBf@Ql@I|AHTEJK\\ENBJBXRlDf@WdCvBp@~BjAnExB|EnC|CfBx@j@j@j@~A|AzA|B\\h@|AjBvA~A`CnCPn@p@~DHZTnAZxARl@pAbCrC`Fg@hA"
+    },
+    "summary": "Eulenkamp",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

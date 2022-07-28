@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5914703,
+        "lng": 10.0585368
+      },
+      "southwest": {
+        "lat": 53.5762157,
+        "lng": 10.044426
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2066
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 539
+        },
+        "end_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "start_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hellbrookstra\u00dfe, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5914673,
+          "lng": 10.0445087
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "5 m",
+              "value": 5
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 1
+            },
+            "end_location": {
+              "lat": 53.5914703,
+              "lng": 10.044426
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hellbrookstra\u00dfe</b> toward <b>Fuhlsb\u00fcttler Str.</b>",
+            "polyline": {
+              "points": "uabfIeyh|@?N"
+            },
+            "start_location": {
+              "lat": 53.5914673,
+              "lng": 10.0445087
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 345
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 113
+            },
+            "end_location": {
+              "lat": 53.5884881,
+              "lng": 10.0458115
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fuhlsb\u00fcttler Str.</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uabfIuxh|@PEb@QNG^MNGFChDyAZMj@S|Ao@FEJE@ATEf@O^GPA"
+            },
+            "start_location": {
+              "lat": 53.5914703,
+              "lng": 10.044426
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 441
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 135
+            },
+            "end_location": {
+              "lat": 53.5866372,
+              "lng": 10.0513172
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Drosselstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "aoafIiai|@@{@?Q?E@gABgA@OBa@HaA\\uD@OFc@DSLU@C@GHSNm@Ro@Vs@HSHULYTc@BEJSFOFIdBaCTQ"
+            },
+            "start_location": {
+              "lat": 53.5884881,
+              "lng": 10.0458115
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1275
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 290
+            },
+            "end_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "html_instructions": "Continue onto <b>Krausestra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "ocafIwcj|@p@q@Te@\\[LOTSfAiAfDwDfEeEJKDEp@q@DC`@c@vB{B~@gA`@a@DGDEPG~@c@FEXKd@S`Aa@`DyA\\Mx@a@l@WnEqBnA]ZIp@Kf@Kp@GVCNC`AEHAD?NCTNHDPHFB"
+            },
+            "start_location": {
+              "lat": 53.5866372,
+              "lng": 10.0513172
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "uabfIeyh|@?NPEr@Y`FsBlDwAjA]p@I@mAFeDl@iHLw@NYn@yBx@wBl@mAlBkCTQp@q@Te@\\[b@c@nFaGrEqE~A_BvB{B~@gAf@i@~Aw@bH{CtIyDjBg@xAWzCUNANCTNZNFB"
+    },
+    "summary": "Krausestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

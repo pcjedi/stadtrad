@@ -1,0 +1,336 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5519987,
+        "lng": 9.9971443
+      },
+      "southwest": {
+        "lat": 53.5490949,
+        "lng": 9.9793693
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.7 km",
+          "value": 1715
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 312
+        },
+        "end_address": "U Rathaus / M\u00f6nckebergstra\u00dfe, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5506733,
+          "lng": 9.9971443
+        },
+        "start_address": "Gro\u00dfneumarkt / Thielbek, 20459 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5509759,
+          "lng": 9.980524599999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "18 m",
+              "value": 18
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.550813,
+              "lng": 9.9805046
+            },
+            "html_instructions": "Head <b>south</b> on <b>Gro\u00dfneumarkt</b>/<wbr/><b>Thielbek</b>",
+            "polyline": {
+              "points": "sdzeIgi|{@D?D@FBB?B?DA"
+            },
+            "start_location": {
+              "lat": 53.5509759,
+              "lng": 9.980524599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "78 m",
+              "value": 78
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5506809,
+              "lng": 9.9793758
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gro\u00dfneumarkt</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qczeIci|{@Cd@AL?L?L@JLtADR@HFN"
+            },
+            "start_location": {
+              "lat": 53.550813,
+              "lng": 9.9805046
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5505111,
+              "lng": 9.9793732
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Gro\u00dfneumarkt</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wbzeIcb|{@J@F?L?"
+            },
+            "start_location": {
+              "lat": 53.5506809,
+              "lng": 9.9793758
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "81 m",
+              "value": 81
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.54995659999999,
+              "lng": 9.9800922
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Gro\u00dfneumarkt</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uazeIab|{@?G@A@I\\Yl@c@HI@A@CBIBG@KDO"
+            },
+            "start_location": {
+              "lat": 53.5505111,
+              "lng": 9.9793732
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 294
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 36
+            },
+            "end_location": {
+              "lat": 53.5501973,
+              "lng": 9.984231999999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alter Steinweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g~yeIqf|{@MUm@gAGKEOAEEWAIAI?A?K?o@@{AD{AD}APqF@_@@W@Q"
+            },
+            "start_location": {
+              "lat": 53.54995659999999,
+              "lng": 9.9800922
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "81 m",
+              "value": 81
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 11
+            },
+            "end_location": {
+              "lat": 53.54948580000001,
+              "lng": 9.983962499999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>D\u00fcsternstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w_zeIm`}{@JBJDtBj@"
+            },
+            "start_location": {
+              "lat": 53.5501973,
+              "lng": 9.984231999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 126
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5490949,
+              "lng": 9.985754499999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Michaelisbr\u00fccke</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "i{yeIw~|{@@QBSBQBOHi@Lw@Lw@Fc@DWLgA"
+            },
+            "start_location": {
+              "lat": 53.54948580000001,
+              "lng": 9.983962499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 138
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.54987509999999,
+              "lng": 9.987288699999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Am Alsterfleet</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yxyeI}i}{@WQCCAEAAK_@EOA?C@A?A??ACEM]So@EKu@eC"
+            },
+            "start_location": {
+              "lat": 53.5490949,
+              "lng": 9.985754499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.55013659999999,
+              "lng": 9.9869845
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Neuer Wall</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "w}yeIqs}{@s@|@"
+            },
+            "start_location": {
+              "lat": 53.54987509999999,
+              "lng": 9.987288699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 356
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.5519987,
+              "lng": 9.991375699999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Neuer Wall</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k_zeIsq}{@Mg@}@mCmBaGSq@Uq@[aAsBqG"
+            },
+            "start_location": {
+              "lat": 53.55013659999999,
+              "lng": 9.9869845
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 245
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5502348,
+              "lng": 9.9935722
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schleusenbr\u00fccke</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_kzeIcm~{@\\_@d@g@BGLQHKBGNSn@eABEZe@Vc@BAZe@R[NSPULIHELMHI"
+            },
+            "start_location": {
+              "lat": 53.5519987,
+              "lng": 9.991375699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 244
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.5506733,
+              "lng": 9.9971443
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>M\u00f6nckebergstra\u00dfe</b>/<wbr/><b>Rathausmarkt</b><div style=\"font-size:0.9em\">Continue to follow M\u00f6nckebergstra\u00dfe</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}_zeIyz~{@IUCOIe@AAEc@EUIy@Eo@M_BCSCc@CWCa@@}@@KCa@Ay@A_B"
+            },
+            "start_location": {
+              "lat": 53.5502348,
+              "lng": 9.9935722
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sdzeIgi|{@VDHAEr@?ZN`BF\\FNJ@T?@I@I\\Yv@m@JWF[{@}AM[G]Ca@@kCJyDV{HVHtBj@@QFe@Ly@h@kDLgAWQEISq@A?E@Se@Y{@u@eCs@|@kAuDaCsHq@sBsBqG\\_@h@o@V]fAgBrAqBb@o@^_@VSHIIUMu@Ge@OoASoCOqBBiAE{AA_B"
+    },
+    "summary": "Neuer Wall",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

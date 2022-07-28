@@ -1,0 +1,239 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5612392,
+        "lng": 10.0552985
+      },
+      "southwest": {
+        "lat": 53.5568052,
+        "lng": 10.0282665
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.8 km",
+          "value": 2773
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 634
+        },
+        "end_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "start_address": "U Hammer Kirche / Hammer Park, 20535 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5568052,
+          "lng": 10.0552857
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 131
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.55721519999999,
+              "lng": 10.0534925
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>b. d. Hammer Kirche</b> toward <b>Hammer Hof</b>",
+            "polyline": {
+              "points": "ai{eIq|j|@[h@GXCJCVCTA\\AXCf@Cj@U|A"
+            },
+            "start_location": {
+              "lat": 53.5568052,
+              "lng": 10.0552857
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 436
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 103
+            },
+            "end_location": {
+              "lat": 53.5609349,
+              "lng": 10.0552985
+            },
+            "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>Hammer Steindamm</b>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "sk{eIiqj|@A?A@A?A@A@A@A@?@A??BKAe@MO@sAo@c@Sq@UQUOG{@a@OA}@_@sDcBICuAo@SKUK"
+            },
+            "start_location": {
+              "lat": 53.55721519999999,
+              "lng": 10.0534925
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1151
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 242
+            },
+            "end_location": {
+              "lat": 53.559394,
+              "lng": 10.0387006
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sievekingsallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "yb|eIs|j|@CfCElBEvBAP?BCz@E|CAx@AbAEpDKtGEzC?\\C|AA~@Ah@?tA@r@?RBjA@d@@T@d@@RDp@Bp@Dj@HhBDl@Bh@Fz@@RDv@Dv@B^Dt@Hr@BVBRHl@DXDXHh@F^H^FVDTJ\\HXBJFLHTL\\P`@LZDHZx@NXN`@\\v@Tr@"
+            },
+            "start_location": {
+              "lat": 53.5609349,
+              "lng": 10.0552985
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 467
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 132
+            },
+            "end_location": {
+              "lat": 53.5574689,
+              "lng": 10.0324595
+            },
+            "html_instructions": "Continue onto <b>B\u00fcrgerweide</b>",
+            "polyline": {
+              "points": "ey{eI{tg|@d@pAVp@Ph@DLl@jCbAvEHR|@nEFRHh@Hh@RvAPjAJt@RzADZF`@"
+            },
+            "start_location": {
+              "lat": 53.559394,
+              "lng": 10.0387006
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 249
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 43
+            },
+            "end_location": {
+              "lat": 53.5595636,
+              "lng": 10.0311495
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alfredstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "em{eI{mf|@}@f@aAl@mAp@m@\\IBGDEDe@XgBt@"
+            },
+            "start_location": {
+              "lat": 53.5574689,
+              "lng": 10.0324595
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "7 m",
+              "value": 7
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.55953659999999,
+              "lng": 10.0310601
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Angerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gz{eIuef|@BP"
+            },
+            "start_location": {
+              "lat": 53.5595636,
+              "lng": 10.0311495
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 158
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 26
+            },
+            "end_location": {
+              "lat": 53.5608709,
+              "lng": 10.0302977
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alfredstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cz{eIcef|@EDA?E?ICI?GB{AbAMFe@Vo@ZMHQF"
+            },
+            "start_location": {
+              "lat": 53.55953659999999,
+              "lng": 10.0310601
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 174
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 64
+            },
+            "end_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mb|eIk`f|@Vr@Nd@BFBDBB@BHBj@bBZ|@LX^fAN\\"
+            },
+            "start_location": {
+              "lat": 53.5608709,
+              "lng": 10.0302977
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ai{eIq|j|@[h@GXGb@KtBCj@U|AA?C@IHK@e@MO@wBcAq@UQUkAi@OA}@_@}DgBiB{@UKCfCKdFKnFa@|[?fEHlDl@`LPbDVtC^jC^lB`@pAv@pB`A~BpBnFVv@pBbJxA`Hz@bGXvBF`@}@f@oC~Aw@`@MJe@XgBt@BPEDG?SCcBfAqBdAQFVr@Rl@FHJFtBbGN\\"
+    },
+    "summary": "Sievekingsallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5602217,
+        "lng": 10.1074758
+      },
+      "southwest": {
+        "lat": 53.5495896,
+        "lng": 10.0615829
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.2 km",
+          "value": 4244
+        },
+        "duration": {
+          "text": "15 mins",
+          "value": 880
+        },
+        "end_address": "Manshardtstra\u00dfe / Einkaufszentrum Manshardtstra\u00dfe, 22119 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.55901919999999,
+          "lng": 10.1074758
+        },
+        "start_address": "Caspar-Voght-Stra\u00dfe / Sievekingsallee, 20535 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55988989999999,
+          "lng": 10.0616215
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "37 m",
+              "value": 37
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5602217,
+              "lng": 10.0615829
+            },
+            "html_instructions": "Head <b>north</b> on <b>Caspar-Voght-Stra\u00dfe</b> toward <b>Sievekingsallee</b>",
+            "polyline": {
+              "points": "i|{eIcdl|@K?u@F"
+            },
+            "start_location": {
+              "lat": 53.55988989999999,
+              "lng": 10.0616215
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.7 km",
+              "value": 1689
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 356
+            },
+            "end_location": {
+              "lat": 53.55467849999999,
+              "lng": 10.0844189
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sievekingsallee</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k~{eI{cl|@NuBBg@HiABa@RwCFcAFo@Dw@Di@Du@Fs@FgA@c@@]Fw@Fq@@O@O?IDm@Dm@?CJsADq@Hm@Hq@@EPu@FYDMBEFKRW^MJGPQJOJWFWJe@@QBW?]AWC[EYI[KY@E?CAE?EACAEACEW?MAQ?S@O?W@MDi@Fc@BWF]Fa@Hi@DYFa@Hm@Js@F_@D[Hc@Hg@Hm@DUFUT_BJg@HYHa@Hc@Lk@Lo@F[`AuEdAuE`A}Dr@qCZoAX}@L_@x@cC\\eATs@Tq@Vu@BMDOJ]BMR{@DKNo@FWBS@S?U?WAS"
+            },
+            "start_location": {
+              "lat": 53.5602217,
+              "lng": 10.0615829
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1277
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 270
+            },
+            "end_location": {
+              "lat": 53.5495896,
+              "lng": 10.1005985
+            },
+            "html_instructions": "Continue onto <b>Hermannstal</b>",
+            "polyline": {
+              "points": "w{zeIsrp|@Ak@ASCq@EuAI}CAKCqACmAA_@?e@DaA?G@W?E@M?A?CCMNaADSFWJYBGXw@Pa@r@mCnBeCb@c@l@k@^]TSJKHMFOHQFSb@oAp@mBh@yAh@wAHWBENc@HWDMRk@l@_BHUb@kBTy@`@oBb@sBv@gENs@XkBb@qCFi@TwAXqB"
+            },
+            "start_location": {
+              "lat": 53.55467849999999,
+              "lng": 10.0844189
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1134
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 217
+            },
+            "end_location": {
+              "lat": 53.5589132,
+              "lng": 10.1058668
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Legienstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}{yeIwws|@WUaAq@gA}@CCkA_AkCsBmDwC{EkEMI_DiCo@i@oAcAw@q@s@i@UQ{@o@UQQWMKAAA?QIECMCSGIAYAY?K?Q?M?IBQF[B_@Fw@Ry@RiAXQDoAX"
+            },
+            "start_location": {
+              "lat": 53.5495896,
+              "lng": 10.1005985
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 107
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.55901919999999,
+              "lng": 10.1074758
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Manshardtstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ev{eIuxt|@EoAE_BEwACy@"
+            },
+            "start_location": {
+              "lat": 53.5589132,
+              "lng": 10.1058668
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i|{eIcdl|@aAFR}Ch@gIXgER}D^sFPeCR_B`@cBJQRW^M\\YVg@R}@Di@Au@Iu@Uu@@IEUG[A_@BiALmAJu@^gCfAmH\\uBTaAn@aDhAqFfCsKnAaFf@}AbCoHl@qBViAT{@Jk@@i@EkBUqHG_DAeAFgBAa@TuARq@\\_APa@r@mCrCiDlAiA`@_@P]fBcFtCeIv@uBx@eDdAcFfA{F|@}F\\aCXqBWUiCoBoAcAyHkGiFuEoEsDqEqDqAaA_@c@[Oa@Kc@CeA?[J{@JmEfAoAXEoAKwDCy@"
+    },
+    "summary": "Sievekingsallee, Hermannstal and Legienstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

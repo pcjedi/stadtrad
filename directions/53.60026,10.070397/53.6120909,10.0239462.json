@@ -1,0 +1,286 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6120975,
+        "lng": 10.0727239
+      },
+      "southwest": {
+        "lat": 53.6003639,
+        "lng": 10.0230505
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.9 km",
+          "value": 4879
+        },
+        "duration": {
+          "text": "17 mins",
+          "value": 1000
+        },
+        "end_address": "Alsterdorfer Markt / Evangelische Stiftung, 22297 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6120975,
+          "lng": 10.0239366
+        },
+        "start_address": "Werner-Otto-Stra\u00dfe / OTTO Group, 22179 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.60042259999999,
+          "lng": 10.0703664
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "59 m",
+              "value": 59
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Werner-Otto-Stra\u00dfe</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "polyline": {
+              "points": "sycfIyzm|@JpD"
+            },
+            "start_location": {
+              "lat": 53.60042259999999,
+              "lng": 10.0703664
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 112
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.6012943,
+              "lng": 10.0688704
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Werner-Otto-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gycfIgum|@u@h@U@C@a@Va@Ve@Z"
+            },
+            "start_location": {
+              "lat": 53.6003639,
+              "lng": 10.0694818
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 874
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 166
+            },
+            "end_location": {
+              "lat": 53.6087694,
+              "lng": 10.0727239
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bramfelder Ch</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a_dfImqm|@eAq@wBmA}@_@yBs@e@Aa@MUGECSGECCCgA[_@M?A[K_Bg@k@SoAa@OGQGmC{@{Ae@uBs@a@SkAi@MYKGi@c@c@[IGGIKIII"
+            },
+            "start_location": {
+              "lat": 53.6012943,
+              "lng": 10.0688704
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.0 km",
+              "value": 1968
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 376
+            },
+            "end_location": {
+              "lat": 53.60776449999999,
+              "lng": 10.0430678
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Steilshooper Allee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ymefIoin|@?j@DjC@b@LjIFlC@rA@b@@zB?vAAZ?`BAlAA`@AxAGxCAp@A`@A\\APAp@Aj@Av@?FAf@Ah@?z@?hD@b@BbB?n@?^?BBpD@H?f@BhEB~A?L@fA@J@zA@h@@|@@xA?RBdFBvD?f@BlA@lA?HAL?J?H@P?p@@p@?J?j@@h@@|@@lB?N?dA@X?RB~C?H@p@@p@@bB?f@DlB@Z@b@@\\B\\FtABd@Dr@@NHlABTLrA@LBVLpANrAJl@Jr@BV@J@X@J?`@?X?N?T"
+            },
+            "start_location": {
+              "lat": 53.6087694,
+              "lng": 10.0727239
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 304
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.6083446,
+              "lng": 10.038608
+            },
+            "html_instructions": "Continue onto <b>Nordheimstra\u00dfe</b>",
+            "polyline": {
+              "points": "ogefIeph|@Af@A`@A\\?DEb@}@|GSjBEXCf@C`@Cb@AZAlA?lB"
+            },
+            "start_location": {
+              "lat": 53.60776449999999,
+              "lng": 10.0430678
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 795
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 202
+            },
+            "end_location": {
+              "lat": 53.6061887,
+              "lng": 10.0272195
+            },
+            "html_instructions": "Continue onto <b>Hebebrandstra\u00dfe</b>",
+            "polyline": {
+              "points": "ckefIitg|@ChA?b@@b@DzABl@LnBBL@LLt@@BJfALtAP`BZrDBXPvAVjBDh@Ff@BXH|@LfA@LH`ATnBNhAVnB?@h@vCBJLh@BHvAjH"
+            },
+            "start_location": {
+              "lat": 53.6083446,
+              "lng": 10.038608
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 640
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 125
+            },
+            "end_location": {
+              "lat": 53.6113696,
+              "lng": 10.0230505
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Sengelmannstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "u}dfIcme|@_@VC@y@h@c@V]PKDULk@Xk@^sAx@cAt@OJ}@l@IFi@^{A~@UNYRg@`@CDC?CBYX]^y@z@u@x@k@j@KLEBCDm@n@"
+            },
+            "start_location": {
+              "lat": 53.6061887,
+              "lng": 10.0272195
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "69 m",
+              "value": 69
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.6117034,
+              "lng": 10.0239273
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alsterdorfer Markt</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a~efIasd|@k@_CEQEMCICCAA"
+            },
+            "start_location": {
+              "lat": 53.6113696,
+              "lng": 10.0230505
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.6117466,
+              "lng": 10.024148
+            },
+            "html_instructions": "Slight <b>right</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "c`ffIqxd|@EWAMAE"
+            },
+            "start_location": {
+              "lat": 53.6117034,
+              "lng": 10.0239273
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.6120975,
+              "lng": 10.0239366
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "m`ffI}yd|@m@f@GDC@A?C?A?ACAA"
+            },
+            "start_location": {
+              "lat": 53.6117466,
+              "lng": 10.024148
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sycfIyzm|@JpDu@h@YBcAn@e@ZeAq@wBmA}@_@yBs@e@Aw@UYKIGgBi@gDiA_GmBqEyAmB}@MYu@k@aAw@II?j@FnDXpQ@rEA|BMbJM`HCvHDvENfRPzUDbGRfZHtEPvDTfD`@jEj@lEDrAAfBIhB}@|GSjBI`AGdAChBCvD@fAHhCP|B\\nC~@dKv@tG\\lD^pDf@xDz@nEzAtHc@X}A`Ai@VaAf@_CxA{CvBeC~Ao@b@s@j@iFrFm@n@k@_CK_@GMGYCSu@l@K@CE"
+    },
+    "summary": "Steilshooper Allee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

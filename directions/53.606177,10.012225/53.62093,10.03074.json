@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6209376,
+        "lng": 10.0309416
+      },
+      "southwest": {
+        "lat": 53.6048949,
+        "lng": 10.0101923
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.7 km",
+          "value": 2736
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 588
+        },
+        "end_address": "S+U Ohlsdorf / Im Gr\u00fcnen Grunde, 22337 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6209376,
+          "lng": 10.0307434
+        },
+        "start_address": "U Alsterdorf / Hindenburgstra\u00dfe, 22297 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.60618299999999,
+          "lng": 10.0122895
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 144
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.6048949,
+              "lng": 10.0125322
+            },
+            "html_instructions": "Head <b>south</b> on <b>Hindenburgstra\u00dfe</b> toward <b>Sydneystra\u00dfe</b>",
+            "polyline": {
+              "points": "s}dfIyob|@dAQ`@IFAd@GB?l@GLAH?NAP@"
+            },
+            "start_location": {
+              "lat": 53.60618299999999,
+              "lng": 10.0122895
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 813
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 186
+            },
+            "end_location": {
+              "lat": 53.6118037,
+              "lng": 10.0101923
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Sydneystra\u00dfe</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "qudfIiqb|@Cq@Q?m@Dm@FcDZYDoAL]DgBRC@C@]BC?CBo@Dg@Fw@H[Dw@FwAP[HA?k@NQFi@R]JWNID{@z@A@g@^g@\\a@XOLUNq@f@UVQ\\"
+            },
+            "start_location": {
+              "lat": 53.6048949,
+              "lng": 10.0125322
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.7 km",
+              "value": 1706
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 349
+            },
+            "end_location": {
+              "lat": 53.62069270000001,
+              "lng": 10.0303244
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w`ffIubb|@I_@CGICEECECGEQ]mAo@qC?CaAsDm@kBu@cC]mAw@mCEKaAcD_A{Cq@}BKa@McAIk@G[Um@M][w@IMSWYWMQKUk@{AGSwAiDm@qAKa@O_@Ma@GW]q@]m@g@k@a@q@c@s@_@k@CGg@aA]u@Wo@]_AQk@CIOo@[iAKm@Aa@Am@AOCUIe@KWWi@q@eBQTCKa@iACMCWCm@Gu@CMQiBEm@OcAOgAQa@Sc@k@k@s@SEEAA"
+            },
+            "start_location": {
+              "lat": 53.6118037,
+              "lng": 10.0101923
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.62072569999999,
+              "lng": 10.0309193
+            },
+            "html_instructions": "Turn <b>right</b> at <b>Im Gr\u00fcnen Grunde</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ixgfIo`f|@CkACk@"
+            },
+            "start_location": {
+              "lat": 53.62069270000001,
+              "lng": 10.0303244
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "20 m",
+              "value": 20
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.62090629999999,
+              "lng": 10.0309416
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Im Gr\u00fcnen Grunde</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qxgfIgdf|@G?MAMA"
+            },
+            "start_location": {
+              "lat": 53.62072569999999,
+              "lng": 10.0309193
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.6209376,
+              "lng": 10.0307434
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uygfIkdf|@Ef@"
+            },
+            "start_location": {
+              "lat": 53.62090629999999,
+              "lng": 10.0309416
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "s}dfIyob|@tCe@hAI`@?Cq@Q?{AL}D`@yEh@a@DGBkD\\oCX]HeCv@a@T}@|@aCdBgAv@g@t@Mg@OIk@mBo@uCoB_HqCkJaC_I}@_DWoB]iAi@uA]e@g@i@w@qB_B}Dm@qAKa@]aAe@iA]m@g@k@eAeBc@s@eAwBu@oBUu@k@yBKm@Aa@C}@M{@c@aAq@eBQTe@uAGe@KcBUwBUqBOgAQa@Sc@k@k@s@SEEEmACk@G?[CEf@"
+    },
+    "summary": "Hindenburgstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

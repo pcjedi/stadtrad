@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5756323,
+        "lng": 9.9630403
+      },
+      "southwest": {
+        "lat": 53.5694154,
+        "lng": 9.9445569
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.5 km",
+          "value": 1473
+        },
+        "duration": {
+          "text": "4 mins",
+          "value": 255
+        },
+        "end_address": "U Christuskirche / Fruchtallee, 20259 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5694916,
+          "lng": 9.9630209
+        },
+        "start_address": "Lappenbergsallee / Bei der Apostelkirche, 20257 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5756323,
+          "lng": 9.9445569
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 369
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.5735277,
+              "lng": 9.9487629
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Lappenbergsallee</b> toward <b>Faberstra\u00dfe</b>",
+            "polyline": {
+              "points": "u~~eIohu{@FQb@oAFQFWDKlAoEz@aCPk@b@gBHWJYHQLO@Cv@s@ROTWNU"
+            },
+            "start_location": {
+              "lat": 53.5756323,
+              "lng": 9.9445569
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5733465,
+              "lng": 9.9486925
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Fruchtallee</b>/<wbr/><b>Lappenbergsallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qq~eIwbv{@JFVD"
+            },
+            "start_location": {
+              "lat": 53.5735277,
+              "lng": 9.9487629
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1077
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 176
+            },
+            "end_location": {
+              "lat": 53.569435,
+              "lng": 9.9630403
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fruchtallee</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow Fruchtallee</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mp~eIibv{@F[BMDU@EBKFUFO@EXq@@C^y@Rg@Te@h@kA\\s@b@}@n@sAt@eBHUTy@R}@b@}ARs@`A}DFYd@mCD_@PsAFe@Lq@Jw@PmAT{ARoAPgAL_A@a@j@yDFs@B_@By@?gAAq@@[@m@AWCcAAk@?cA?c@@S?cA"
+            },
+            "start_location": {
+              "lat": 53.5733465,
+              "lng": 9.9486925
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "6 m",
+              "value": 6
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5694916,
+              "lng": 9.9630209
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_x}eI_|x{@IB"
+            },
+            "start_location": {
+              "lat": 53.569435,
+              "lng": 9.9630403
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "u~~eIohu{@z@kCrA{ElAmDl@_CTk@NSjAcAd@m@b@LReATw@nAwC`CcFdByD^oAlCmKl@gDVsBr@}EhAsH@a@j@yDJsABoE?eAEoB@{B?cAIB"
+    },
+    "summary": "Lappenbergsallee and Fruchtallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5608799,
+        "lng": 10.0956058
+      },
+      "southwest": {
+        "lat": 53.545798,
+        "lng": 10.0412907
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.8 km",
+          "value": 4781
+        },
+        "duration": {
+          "text": "16 mins",
+          "value": 966
+        },
+        "end_address": "U Legienstra\u00dfe / Riedweg, 22111 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5476916,
+          "lng": 10.0956058
+        },
+        "start_address": "U Burgstra\u00dfe, 20537 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5555969,
+          "lng": 10.0412907
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "81 m",
+              "value": 81
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5555202,
+              "lng": 10.0425151
+            },
+            "html_instructions": "Head <b>east</b> on <b>Hammer Landstra\u00dfe</b> toward <b>Sievekingdamm</b>",
+            "polyline": {
+              "points": "oa{eIaeh|@@k@B{A@_@@]@M@Q@O"
+            },
+            "start_location": {
+              "lat": 53.5555969,
+              "lng": 10.0412907
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 939
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 206
+            },
+            "end_location": {
+              "lat": 53.5608799,
+              "lng": 10.0532775
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sievekingdamm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_a{eIwlh|@EICGGIIKMQUWc@i@{@cAmAyA[a@EGAAS_@QYIMc@{@EGCG]o@a@y@CCg@cAUg@Yu@So@GUa@sAGUo@wBCGs@aCMc@KYi@kBUs@_@uA]oAGUGOMi@i@qBq@_C[gAc@yAQs@Qo@"
+            },
+            "start_location": {
+              "lat": 53.5555202,
+              "lng": 10.0425151
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.1 km",
+              "value": 2148
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 406
+            },
+            "end_location": {
+              "lat": 53.554966,
+              "lng": 10.0831037
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Sievekingsallee</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "ob|eI_pj|@@mA?w@@{@?MDcC@s@BqB@wABmADmABc@@g@Bg@Be@N_CVeENkCJuA@c@NeCBa@NuBBg@HiABa@RwCFcAFo@Dw@Di@LiBFgA@c@@]Fw@Fq@@O@O?IDm@Dm@?CJsADq@Hm@Hq@@EPu@FYDMBEFKRW^MJGPQJOJWFWJe@@QBW?]AWC[EYI[KY@E?CAE?EACAEACEW?MAQ?S@O?W@MDi@Fc@BWF]Fa@Hi@DYFa@Hm@Js@F_@D[Hc@Hg@Hm@DUFUT_BJg@HYHa@Hc@Lk@Lo@F[`AuEdAuE`A}Dr@qCZoAX}@L_@x@cC\\eATs@Tq@Vu@BMDOJ]"
+            },
+            "start_location": {
+              "lat": 53.5608799,
+              "lng": 10.0532775
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 505
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 80
+            },
+            "end_location": {
+              "lat": 53.5507685,
+              "lng": 10.0845276
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Rennbahnstra\u00dfe</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "q}zeIkjp|@DCBE@AHQZi@P_@n@UXMHEBELWVw@FQJMHEHCHCJ?L?J@LDPD\\Rb@TVD\\@NA~CQx@Kz@ERCXGPEn@O"
+            },
+            "start_location": {
+              "lat": 53.554966,
+              "lng": 10.0831037
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 182
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.5493022,
+              "lng": 10.0857245
+            },
+            "html_instructions": "Continue onto <b>Horner Rampe</b>",
+            "polyline": {
+              "points": "iczeIisp|@LIZWlAcAHI@ADQb@YVQj@_@r@]"
+            },
+            "start_location": {
+              "lat": 53.5507685,
+              "lng": 10.0845276
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "54 m",
+              "value": 54
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.54895699999999,
+              "lng": 10.0862214
+            },
+            "html_instructions": "Slight <b>left</b> toward <b>Weddestra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "czyeIwzp|@Pq@@IDGNSBE@ADALA"
+            },
+            "start_location": {
+              "lat": 53.5493022,
+              "lng": 10.0857245
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 450
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 81
+            },
+            "end_location": {
+              "lat": 53.545798,
+              "lng": 10.0904583
+            },
+            "html_instructions": "Continue onto <b>Weddestra\u00dfe</b>",
+            "polyline": {
+              "points": "_xyeI{}p|@\\c@bE_Fj@o@LSfA{AXc@b@q@|@_Bz@yA^s@HMp@yA"
+            },
+            "start_location": {
+              "lat": 53.54895699999999,
+              "lng": 10.0862214
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 397
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 87
+            },
+            "end_location": {
+              "lat": 53.5478342,
+              "lng": 10.0953175
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Vierbergen</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gdyeIkxq|@MYYu@K]Ma@K_@IWI]K_@EUMw@Ic@QgAKi@SgASw@Uw@Sm@Se@Wi@EKSc@[k@U]IOIMMS"
+            },
+            "start_location": {
+              "lat": 53.545798,
+              "lng": 10.0904583
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "25 m",
+              "value": 25
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5476916,
+              "lng": 10.0956058
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Riedweg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}pyeIwvr|@Pc@DOBE"
+            },
+            "start_location": {
+              "lat": 53.5478342,
+              "lng": 10.0953175
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oa{eIaeh|@HeEB_@@OEIKQW]cE_Fw@kAeAkBgAuB}@kBm@eBaBwFqAgE}BeIgAaEcCuIQo@@mA@sBJwHNwGXuFt@kMpAmS`@{FRaEb@oGN_BJw@XoAHSZc@^MJG\\a@Ro@Lw@Bu@Es@Ou@I_@AIESEe@Ae@H_B|@oGb@sC`@aC`@gCR{@l@{CfCkLtBoIt@mCfAcD`BaFH]Pa@j@cAP_@n@Ub@SP]^iATSRGX?XFn@Xb@TVDl@?xE]nAIj@Mn@OLIhB{AJKDQb@YbAq@r@]Pq@FQRYFCLA\\c@nFoGtAoBvDoGh@aAp@yAMYe@sAYaAe@kBu@mEg@_Ci@eBeA_CeAgBMSPc@HU"
+    },
+    "summary": "Sievekingsallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
