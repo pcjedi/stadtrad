@@ -39,3 +39,7 @@ def duration_available(origin, destination, allow_reverse=True):
         return duration_available(origin=destination, destination=origin, allow_reverse=False)
     else:
         return False
+
+
+def total_duration(coord_list):
+    return sum(get_duration(o, d) for o, d in zip(coord_list, coord_list[1:])) + get_duration(coord_list[-1], coord_list[0])
