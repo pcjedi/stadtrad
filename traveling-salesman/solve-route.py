@@ -5,7 +5,7 @@ import numpy as np
 import json
 import os
 from python_tsp.heuristics import solve_tsp_simulated_annealing
-from utils import get_duration
+from utils import get_duration, total_duration
 import datetime
 import googlemaps
 
@@ -17,9 +17,9 @@ positions = df[["position.lat", "position.lng"]]
 dm = great_circle_distance_matrix(positions, positions)
 stations = {f"{lat},{lng}": i for i, (lat, lng) in positions.iterrows()}
 
-not_loaded = 1
+end_reached = False
 start = datetime.datetime.now()
-while not_loaded > 0 and (datetime.datetime.now() - start).seconds < 3600 * 5:
+while not end_reached and (datetime.datetime.now() - start).seconds < 3600 * 5:
     duration_matrix = np.empty_like(dm)
     duration_matrix.fill(np.nan)
     values = []
@@ -52,9 +52,18 @@ while not_loaded > 0 and (datetime.datetime.now() - start).seconds < 3600 * 5:
             try:
                 get_duration(origin, destination, allow_reverse=False)
             except googlemaps.exceptions.Timeout:
-                not_loaded = 0
-                print("breaking ..")
+                end_reached = True
                 break
+    if not_loaded == 0:
+        coord_list = [positions.iloc[o].agg(lambda cols: ",".join([str(c) for c in cols])) for o in permutation2]
+        try:
+            with open("traveling-salesman/coord_list.json") as f:
+                td_old = total_duration(json.load(f))
+        except FileNotFoundError:
+            td_old = np.inf
+        if td_old > total_duration(coord_list):
+            with open("traveling-salesman/coord_list.json", "w+") as f:
+                json.dump(coord_list, f, indent=2)
     print(not_loaded)
 
 print(permutation2)

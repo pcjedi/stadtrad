@@ -1,0 +1,260 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5968204,
+        "lng": 9.9204052
+      },
+      "southwest": {
+        "lat": 53.5510279,
+        "lng": 9.9042209
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "6.0 km",
+          "value": 6049
+        },
+        "duration": {
+          "text": "21 mins",
+          "value": 1266
+        },
+        "end_address": "AKN+S Eidelstedt / Reichsbahnstrta\u00dfe, 22525 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5967164,
+          "lng": 9.9061639
+        },
+        "start_address": "Bleickenallee / Kinderkrankenhaus Altona, 22763 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5511636,
+          "lng": 9.9129357
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "14 m",
+              "value": 14
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5511501,
+              "lng": 9.912721699999999
+            },
+            "html_instructions": "Head <b>west</b> on <b>Bleickenallee</b> toward <b>Am Rathenaupark</b>",
+            "polyline": {
+              "points": "wezeI{bo{@@j@"
+            },
+            "start_location": {
+              "lat": 53.5511636,
+              "lng": 9.9129357
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 357
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5510901,
+              "lng": 9.9178958
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Am Rathenaupark</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "uezeIoao{@V@GaBIoCAuAAgA?sBAe@@gCBsA?m@?Q@gA@sA@k@"
+            },
+            "start_location": {
+              "lat": 53.5511501,
+              "lng": 9.912721699999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 958
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 185
+            },
+            "end_location": {
+              "lat": 53.5594073,
+              "lng": 9.9202573
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hohenzollernring</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "iezeI{ap{@WCuFUWGUECA[MWQIEOKG?GAOAQ?M?O@Q@OBE?m@Jg@JSDI@A?A?E?G?qAEaEMmCIS?OA[ASA_@Cs@c@oAw@{@i@WQoAw@wAgAY[OQSUCA[Y"
+            },
+            "start_location": {
+              "lat": 53.5510901,
+              "lng": 9.9178958
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 422
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 76
+            },
+            "end_location": {
+              "lat": 53.563077,
+              "lng": 9.920167099999999
+            },
+            "html_instructions": "Continue onto <b>Daimlerstra\u00dfe</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "polyline": {
+              "points": "iy{eIspp{@KISGGAE?OAG?AAC?A?GAE?GAKAm@b@c@j@A??A?AA??AA??AA?A??AA?A??@A?A@A??@?@A??@?@A??@?@?@?@?@_EMYAyCKaBAm@M"
+            },
+            "start_location": {
+              "lat": 53.5594073,
+              "lng": 9.9202573
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 122
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5640673,
+              "lng": 9.919442
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Bahrenfelder Steindamm</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "gp|eIapp{@_@f@GFc@`@QAIBa@X?@g@VSH"
+            },
+            "start_location": {
+              "lat": 53.563077,
+              "lng": 9.920167099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 768
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 178
+            },
+            "end_location": {
+              "lat": 53.5708093,
+              "lng": 9.918177199999999
+            },
+            "html_instructions": "Continue onto <b>Bornkampsweg</b>",
+            "polyline": {
+              "points": "mv|eIokp{@i@TGDKJMB]JOF]LSFA@[JUHw@XG@qAXw@N[H]HKFKDYFODc@JC@UEMBC?o@P_@Jk@Hi@HKDKFE@YBg@DO@]DYBQBc@BSBc@BQ@Q@M?UASACA[UYEMCi@UUIm@Y"
+            },
+            "start_location": {
+              "lat": 53.5640673,
+              "lng": 9.919442
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "3.3 km",
+              "value": 3320
+            },
+            "duration": {
+              "text": "12 mins",
+              "value": 699
+            },
+            "end_location": {
+              "lat": 53.5962417,
+              "lng": 9.905510999999999
+            },
+            "html_instructions": "Continue onto <b>Schnackenburgallee</b>",
+            "polyline": {
+              "points": "q`~eIscp{@OEi@Sc@OEAKAkASMC_@EK?E@C?K?_@GEAKAe@I}B[KCC?E?QCg@EK?QCm@E_AIIMQAQAOAi@AQ?O?m@@G?A?K?I?e@BI?G@C?q@DG?K@s@HK@o@JI@S@MBYFmAP}@JA@_AJgANINoAPi@FQBc@F_@Fs@JWDA?{@LsARE@G?WBYBC?WEOBE@K@KBEBOHMFIDCBEBIFIHQNUVORc@z@OXIXK\\SfAa@jBYzAI^UhAGTGf@a@|Bo@fDIf@I\\_@pBa@xBGVEZEd@UjAOt@Qt@c@dBGVIZUr@Sp@Wr@K^MX_@`AOZcAxBOVILABKREJs@pAQP[^INIHOTOROPQRKNEFOPe@j@o@h@GF{@d@ULWDk@NE@A@K?e@FU@K?m@Am@IOASGe@O]Ki@QMEOGSEMCGAQCOC[AS@Y?G@C?UDOBKBE@GBIBMDIDMFMFi@X]PCBa@PIBSDYBQDSCiBMGAEAG?Y?IAa@P}AWgB_@q@Q]KGCm@SmAe@yAo@GC{@_@IEWM"
+            },
+            "start_location": {
+              "lat": 53.5708093,
+              "lng": 9.918177199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "71 m",
+              "value": 71
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5968204,
+              "lng": 9.905965499999999
+            },
+            "html_instructions": "Continue onto <b>Reichsbahnstra\u00dfe</b>",
+            "polyline": {
+              "points": "o_cfImtm{@s@g@_@Y_@Y"
+            },
+            "start_location": {
+              "lat": 53.5962417,
+              "lng": 9.905510999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5967164,
+              "lng": 9.9061639
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cccfIiwm{@Re@"
+            },
+            "start_location": {
+              "lat": 53.5968204,
+              "lng": 9.905965499999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wezeI{bo{@@j@V@QqFEwHD{GB{C@k@WCuFUWGUE_@Oa@WWKGAa@A]@uAPgARaBEsJYo@C_@Cs@c@kCaBgBiAwAgAY[c@g@_@[KISGMAWAOCMAKAm@b@c@j@A??AAAAAECC@GN?@_EKsDMaBAm@Mg@n@c@`@QAk@\\g@X}@^SPyAd@gA^_AZiCh@y@RWLqAZUEMBs@PkATi@HKDQHaAHyANmBL_@@i@C_@Wg@I}B_A_Bg@yB]a@@kFu@wAMmBOIMQAa@C{@AgA@kCJ{BXeANmEj@gANINoAP{@JcANiC^yBX]BWEOBQBQFk@Zk@d@e@j@s@tAUv@u@rDaAzEi@dDy@nEsA`HK`Ae@`CgAnEmAxDaCpFg@|@y@|Am@p@s@bAs@|@u@|@w@p@qAr@cATy@Ja@@m@Am@Ic@IcA[{Ae@w@Mo@?a@@u@Le@N}CzAm@HQDSCqBOMAc@Aa@P}AWyCq@e@O{By@aBs@eAe@kAu@_As@Re@"
+    },
+    "summary": "Schnackenburgallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

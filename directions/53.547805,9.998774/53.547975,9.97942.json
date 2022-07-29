@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5487001,
+        "lng": 9.9987943
+      },
+      "southwest": {
+        "lat": 53.5471385,
+        "lng": 9.9794603
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.4 km",
+          "value": 1387
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 313
+        },
+        "end_address": "Michaeliskirche / Krayenkamp, 20459 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5479448,
+          "lng": 9.9794603
+        },
+        "start_address": "U Me\u00dfberg / Willy-Brandt-Stra\u00dfe, 20457 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5476766,
+          "lng": 9.9987943
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 128
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5475663,
+              "lng": 9.9968626
+            },
+            "html_instructions": "Head <b>west</b> on <b>Willy-Brandt-Stra\u00dfe</b>/<wbr/><b>B4</b> toward <b>Brandstwiete</b>",
+            "polyline": {
+              "points": "_pyeIm{_|@@NFdB@z@D`CBlA"
+            },
+            "start_location": {
+              "lat": 53.5476766,
+              "lng": 9.9987943
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5474483,
+              "lng": 9.9968807
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Brandstwiete</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ioyeIko_|@VC"
+            },
+            "start_location": {
+              "lat": 53.5475663,
+              "lng": 9.9968626
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1033
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 221
+            },
+            "end_location": {
+              "lat": 53.5487001,
+              "lng": 9.9816975
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Willy-Brandt-Stra\u00dfe</b>/<wbr/><b>B4</b><div style=\"font-size:0.9em\">Continue to follow B4</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qnyeIoo_|@@\\?XBl@Bt@BhA@VBdAD|@DhB?F@b@FtB@x@@fANvK?hAAbAAr@Af@Cd@Cd@Cd@Ed@Ef@Cj@Gv@YdDYlDIz@E`@Kl@WpAYlBIh@Mx@If@OdA?@K~@ADGj@SxAIh@e@zD"
+            },
+            "start_location": {
+              "lat": 53.5474483,
+              "lng": 9.9968807
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5483838,
+              "lng": 9.9813484
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Teilfeld</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kvyeIsp|{@~@dA"
+            },
+            "start_location": {
+              "lat": 53.5487001,
+              "lng": 9.9816975
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "73 m",
+              "value": 73
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.5486243,
+              "lng": 9.980357
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Teilfeld</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ktyeImn|{@EPk@tC?BAB?@?B?B?B?@@B@@"
+            },
+            "start_location": {
+              "lat": 53.5483838,
+              "lng": 9.9813484
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 98
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 13
+            },
+            "end_location": {
+              "lat": 53.5479448,
+              "lng": 9.9794603
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Krayenkamp</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{uyeIgh|{@\\V`@VBBBDDFDHDH@@BJf@nA"
+            },
+            "start_location": {
+              "lat": 53.5486243,
+              "lng": 9.980357
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_pyeIm{_|@PrHBlAVC@v@LdENtFLzGN`NCvBIrBS~CeAfMQnAq@~Dq@pEUrB]bCe@zD~@dAq@fDAF?L@D^Xd@ZHLP`@f@nA"
+    },
+    "summary": "B4",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

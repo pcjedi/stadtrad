@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5918599,
+        "lng": 10.0653471
+      },
+      "southwest": {
+        "lat": 53.58585129999999,
+        "lng": 10.0327131
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.7 km",
+          "value": 2685
+        },
+        "duration": {
+          "text": "12 mins",
+          "value": 696
+        },
+        "end_address": "U Saarlandstra\u00dfe / Wiesendamm, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5888018,
+          "lng": 10.0330122
+        },
+        "start_address": "U Alter Teichweg / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.58585129999999,
+          "lng": 10.0653471
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 340
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 62
+            },
+            "end_location": {
+              "lat": 53.5883304,
+              "lng": 10.0623527
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Nordschleswiger Str.</b> toward <b>Alter Teichweg</b>",
+            "polyline": {
+              "points": "q~`fIm{l|@e@b@cBbBeAjAGHEDW`@[f@_BvBMPOR[f@OTMRe@x@"
+            },
+            "start_location": {
+              "lat": 53.58585129999999,
+              "lng": 10.0653471
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 614
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 144
+            },
+            "end_location": {
+              "lat": 53.5918187,
+              "lng": 10.0551714
+            },
+            "html_instructions": "Continue onto <b>Habichtstra\u00dfe</b>",
+            "polyline": {
+              "points": "anafIuhl|@_AjBo@tAaArBMXUl@a@bAUp@ABa@dAUn@s@rBoC`IK`@ELOd@a@j@a@jAO`@Ut@a@pA"
+            },
+            "start_location": {
+              "lat": 53.5883304,
+              "lng": 10.0623527
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "26 m",
+              "value": 26
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5918599,
+              "lng": 10.0547842
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Hellbrookstra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "{cbfIy{j|@CVAPAR?N"
+            },
+            "start_location": {
+              "lat": 53.5918187,
+              "lng": 10.0551714
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5915657,
+              "lng": 10.0544001
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Hellbrookstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cdbfIkyj|@f@p@JPDF"
+            },
+            "start_location": {
+              "lat": 53.5918599,
+              "lng": 10.0547842
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1439
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 384
+            },
+            "end_location": {
+              "lat": 53.59081639999999,
+              "lng": 10.0327131
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Hellbrookstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ibbfI_wj|@@^@f@A|AE`C?`@?n@EpD?\\AbACvCAdB?lABhABzADfBHvCDrB@l@D~A@l@?D@hA@r@EtC@xAAZBrAB^?zA@zD?r@@lC@^?j@@dB@lC?`B?d@Bj@?BDt@H`B@ZB`@@VBf@@R?BHrBJvBHlB?DPzC@VFpA@b@BZHjB@j@"
+            },
+            "start_location": {
+              "lat": 53.5915657,
+              "lng": 10.0544001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 225
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.5888018,
+              "lng": 10.0330122
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Saarlandstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "s}afImof|@lEa@dCQPC^ALA"
+            },
+            "start_location": {
+              "lat": 53.59081639999999,
+              "lng": 10.0327131
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "q~`fIm{l|@iCfCmAtA]f@{B~CiAbBs@lAoB`EoAlCw@pBoAjDuEdNOd@a@j@q@lBw@fCEh@Ab@r@bADF@^?dCEbDE`FG~IBvCHbEVxKDpDEtC@xA@nBBzB@nFD~H@nFBpAPvDJtB^|IZjGPvErIs@p@ELA"
+    },
+    "summary": "Hellbrookstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
