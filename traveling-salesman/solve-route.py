@@ -58,12 +58,13 @@ while not end_reached and (datetime.datetime.now() - start).seconds < 3600 * 5:
         coord_list = [positions.iloc[o].agg(lambda cols: ",".join([str(c) for c in cols])) for o in permutation2]
         try:
             with open("traveling-salesman/coord_list.json") as f:
-                td_old = total_duration(json.load(f))
+                coord_list_old = json.load(f)
+            td_old = total_duration(coord_list_old)
+            coord_list_old_len = len(coord_list_old)
         except FileNotFoundError:
             td_old = np.inf
-        if td_old > total_duration(coord_list):
+            coord_list_old_len = 0
+        if td_old > total_duration(coord_list) or coord_list_old_len < len(coord_list):
             with open("traveling-salesman/coord_list.json", "w+") as f:
                 json.dump(coord_list, f, indent=2)
     print(not_loaded)
-
-print(permutation2)
