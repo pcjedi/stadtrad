@@ -54,11 +54,9 @@ def total_duration(coord_list):
     return sum(get_duration(o, d) for o, d in zip(coord_list, coord_list[1:])) + get_duration(coord_list[-1], coord_list[0])
 
 
-URL = "https://tile.openstreetmap.org/{z}/{x}/{y}.png".format
-
-
 @cache
 def get_tile(x, y, z):
+    URL = "https://tile.openstreetmap.org/{z}/{x}/{y}.png".format
     return Image.open(
         BytesIO(requests.get(URL(x=x, y=y, z=z), headers={"User-Agent": "requests" + requests.__version__}).content)
     )
