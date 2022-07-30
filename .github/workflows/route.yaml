@@ -25,6 +25,7 @@ jobs:
           git add directions
           git commit -m 'add directions' || exit 0
           git add traveling-salesman/coord_list.json
+          git add traveling-salesman/map.png
           git commit -m 'new best route' || exit 0
           git stash
           git pull --rebase

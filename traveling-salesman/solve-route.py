@@ -5,9 +5,10 @@ import numpy as np
 import json
 import os
 from python_tsp.heuristics import solve_tsp_simulated_annealing
-from utils import get_duration, total_duration
+from utils import get_duration, total_duration, plot_coords
 import datetime
 import googlemaps
+import matplotlib.lines as mlines
 
 
 df = pd.read_csv(sorted(glob("data/**/*.csv", recursive=True))[-1])
@@ -56,6 +57,7 @@ while not end_reached and (datetime.datetime.now() - start).seconds < 3600 * 5:
                 break
     if not_loaded == 0:
         coord_list = [positions.iloc[o].agg(lambda cols: ",".join([str(c) for c in cols])) for o in permutation2]
+        td = total_duration(coord_list)
         try:
             with open("traveling-salesman/coord_list.json") as f:
                 coord_list_old = json.load(f)
@@ -64,7 +66,32 @@ while not end_reached and (datetime.datetime.now() - start).seconds < 3600 * 5:
         except FileNotFoundError:
             td_old = np.inf
             coord_list_old_len = 0
-        if td_old > total_duration(coord_list) or coord_list_old_len < len(coord_list):
+        if td_old > td or coord_list_old_len < len(coord_list):
             with open("traveling-salesman/coord_list.json", "w+") as f:
                 json.dump(coord_list, f, indent=2)
-    print(not_loaded)
+            print(td / 3600)
+            coords = {
+                "lat": [],
+                "lng": [],
+            }
+            for o, d in zip(coord_list, coord_list[1:]):
+                with open("directions/" + o + "/" + d + ".json") as fd:
+                    direction = json.load(fd)
+                    for coord in ["lat", "lng"]:
+                        coords[coord].append(direction[0]["legs"][0]["steps"][0]["start_location"][coord])
+                        coords[coord] += [step["end_location"][coord] for step in direction[0]["legs"][0]["steps"]]
+            with open("directions/" + coord_list[-1] + "/" + coord_list[0] + ".json") as fd:
+                direction = json.load(fd)
+                for coord in ["lat", "lng"]:
+                    coords[coord].append(direction[0]["legs"][0]["steps"][0]["start_location"][coord])
+                    coords[coord] += [step["end_location"][coord] for step in direction[0]["legs"][0]["steps"]]
+            fig, ax = plot_coords(
+                lats=df["position.lat"].values,
+                lngs=df["position.lng"].values,
+                figsize=(25, 16),
+                s=100,
+                c="red",
+                TILE_SIZE=256,
+            )
+            ax.add_line(mlines.Line2D(coords["lng"], coords["lat"], color="red"))
+            fig.savefig("traveling-salesman/map.png", bbox_inches="tight")
