@@ -10,10 +10,6 @@ from io import BytesIO
 from itertools import product
 from functools import cache
 import requests
-import matplotlib.lines as mlines
-import pandas as pd
-from glob import glob
-import json
 
 gmaps = googlemaps.Client(key=os.getenv("GMAPSKEY"))
 
