@@ -1,0 +1,427 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57402099999999,
+        "lng": 10.0246707
+      },
+      "southwest": {
+        "lat": 53.5533318,
+        "lng": 10.0077892
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.1 km",
+          "value": 3111
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 681
+        },
+        "end_address": "S+U Berliner Tor / Beim Strohhause, 20099 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5533318,
+          "lng": 10.0245827
+        },
+        "start_address": "Sch\u00f6ne Aussicht / Karlstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57402099999999,
+          "lng": 10.0080497
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "17 m",
+              "value": 17
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5739934,
+              "lng": 10.0077892
+            },
+            "html_instructions": "Head <b>west</b> on <b>Karlstra\u00dfe</b> toward <b>Sch\u00f6ne Aussicht</b>",
+            "polyline": {
+              "points": "st~eIiua|@Dr@"
+            },
+            "start_location": {
+              "lat": 53.57402099999999,
+              "lng": 10.0080497
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 859
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 154
+            },
+            "end_location": {
+              "lat": 53.5683164,
+              "lng": 10.0151911
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sch\u00f6ne Aussicht</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mt~eIusa|@~BgALGdDwAXMjAm@h@WfAc@~@c@jAe@`Bo@LILMJSHSDWHe@Nq@HYDYReA^eCXuA^aB\\mAR{@j@wBLc@j@{BJc@"
+            },
+            "start_location": {
+              "lat": 53.5739934,
+              "lng": 10.0077892
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 120
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "html_instructions": "Continue onto <b>Eduard-Rhein-Ufer</b>",
+            "polyline": {
+              "points": "_q}eI}ac|@Xu@Te@T[x@y@HMHQH_@"
+            },
+            "start_location": {
+              "lat": 53.5683164,
+              "lng": 10.0151911
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 238
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 72
+            },
+            "end_location": {
+              "lat": 53.5654031,
+              "lng": 10.0168406
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Schwanenwik</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "al}eIoic|@PCPCPCt@Ib@G|@M^E\\C@?LAb@Gd@IHAr@KD?"
+            },
+            "start_location": {
+              "lat": 53.5675277,
+              "lng": 10.0163991
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 354
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.56257309999999,
+              "lng": 10.0146753
+            },
+            "html_instructions": "Slight <b>right</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "w~|eIglc|@l@RRDRBbANhATf@XTLf@`@p@l@LJh@r@x@hAp@`ADHDHHR"
+            },
+            "start_location": {
+              "lat": 53.5654031,
+              "lng": 10.0168406
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "73 m",
+              "value": 73
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.56306970000001,
+              "lng": 10.0153013
+            },
+            "html_instructions": "Sharp <b>right</b>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "am|eIw~b|@UKCAGGSSACWYEGEECEAC?CAE?C?E?G"
+            },
+            "start_location": {
+              "lat": 53.56257309999999,
+              "lng": 10.0146753
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 122
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.5623674,
+              "lng": 10.0167301
+            },
+            "html_instructions": "Take the pedestrian tunnel",
+            "polyline": {
+              "points": "ep|eIsbc|@?AN_@l@}AlA}C"
+            },
+            "start_location": {
+              "lat": 53.56306970000001,
+              "lng": 10.0153013
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 140
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 50
+            },
+            "end_location": {
+              "lat": 53.5614821,
+              "lng": 10.0156273
+            },
+            "html_instructions": "Take the pedestrian tunnel",
+            "polyline": {
+              "points": "yk|eIqkc|@^|@FLL^Vl@?@Rx@LXHDJ?JAHAFADEFM"
+            },
+            "start_location": {
+              "lat": 53.5623674,
+              "lng": 10.0167301
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 137
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 53.5603677,
+              "lng": 10.0147891
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Barcastra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gf|eIudc|@HNJLHJHHHFHFJHHDJFLDLFj@XHHLF\\P"
+            },
+            "start_location": {
+              "lat": 53.5614821,
+              "lng": 10.0156273
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 473
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5574161,
+              "lng": 10.0199371
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lohm\u00fchlenstra\u00dfe</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "i_|eIm_c|@HQJKHOTYbBoDXk@p@uAHQVk@Xk@Tg@bBmDXi@~@qBBIPa@N_@FODMRe@N_@"
+            },
+            "start_location": {
+              "lat": 53.5603677,
+              "lng": 10.0147891
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "49 m",
+              "value": 49
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5571916,
+              "lng": 10.0205463
+            },
+            "html_instructions": "Keep <b>left</b> to stay on <b>Lohm\u00fchlenstra\u00dfe</b>",
+            "maneuver": "keep-left",
+            "polyline": {
+              "points": "{l{eIs_d|@@U@K@G@GRk@P["
+            },
+            "start_location": {
+              "lat": 53.5574161,
+              "lng": 10.0199371
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 307
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.55493389999999,
+              "lng": 10.0231495
+            },
+            "html_instructions": "Continue onto <b>Berliner Tor</b>",
+            "polyline": {
+              "points": "mk{eImcd|@FGNSXc@lAcBJMLIV_@JSHK^[DG@AFKPa@T[\\e@l@y@JIXUTORIFA"
+            },
+            "start_location": {
+              "lat": 53.5571916,
+              "lng": 10.0205463
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "16 m",
+              "value": 16
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.55489559999999,
+              "lng": 10.0233829
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Kolbergstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "i}zeIusd|@?S@K@G@E"
+            },
+            "start_location": {
+              "lat": 53.55493389999999,
+              "lng": 10.0231495
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "81 m",
+              "value": 81
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 53.5542333,
+              "lng": 10.0238506
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Berliner Tor</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "c}zeIcud|@B@B?@?DAtB}A"
+            },
+            "start_location": {
+              "lat": 53.55489559999999,
+              "lng": 10.0233829
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "91 m",
+              "value": 91
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.5536165,
+              "lng": 10.0246281
+            },
+            "html_instructions": "Slight <b>left</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "}xzeIaxd|@Jm@HQZq@FMJGHERGTE"
+            },
+            "start_location": {
+              "lat": 53.5542333,
+              "lng": 10.0238506
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "34 m",
+              "value": 34
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 61
+            },
+            "end_location": {
+              "lat": 53.5533318,
+              "lng": 10.0245827
+            },
+            "html_instructions": "Take the crosswalk",
+            "polyline": {
+              "points": "cuzeI}|d|@TERANP"
+            },
+            "start_location": {
+              "lat": 53.5536165,
+              "lng": 10.0246281
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "st~eIiua|@Dr@~BgArD_BdB{@pB{@zFcCXa@Nk@h@kCr@kEx@wDjBeHv@_Dn@{AnAuAR_@H_@PCb@GvDe@pAMhBW`AXvARhATf@X|@n@~@x@bB|Bv@jAN\\YM[[e@k@GS?S|@}BlA}C^|@Tl@Vn@Rx@LXTDTCLGFMHNTXh@b@p@Zj@XHHj@XT]^i@xDcIjDmHnBgEp@cBN_@@UBSTs@Xc@bCiDLIV_@T_@d@c@HMf@}@jA_Bd@_@h@YFA?SBS@EB@D?zB_BJm@HQb@_ATMh@Mh@GNP"
+    },
+    "summary": "Sch\u00f6ne Aussicht",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

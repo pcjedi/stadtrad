@@ -1,0 +1,213 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5710752,
+        "lng": 10.0552857
+      },
+      "southwest": {
+        "lat": 53.5568052,
+        "lng": 10.0397317
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.4 km",
+          "value": 2403
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 597
+        },
+        "end_address": "U Hammer Kirche / Hammer Park, 20535 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5568052,
+          "lng": 10.0552857
+        },
+        "start_address": "Uferstra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5710752,
+          "lng": 10.0397317
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 505
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 130
+            },
+            "end_location": {
+              "lat": 53.56778329999999,
+              "lng": 10.0445938
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Wagnerstra\u00dfe</b> toward <b>Uferstra\u00dfe</b>",
+            "polyline": {
+              "points": "gb~eIi{g|@DCFGDENKv@o@n@c@d@YLKXSnAcAFEDGBGBI@SJeAFk@DWBIDMFSHO?A|AeCx@oARi@b@gADOPe@FOVs@FMBIFE"
+            },
+            "start_location": {
+              "lat": 53.5710752,
+              "lng": 10.0397317
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 580
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 155
+            },
+            "end_location": {
+              "lat": 53.5627665,
+              "lng": 10.046426
+            },
+            "html_instructions": "Continue onto <b>Ritterstra\u00dfe</b>",
+            "polyline": {
+              "points": "sm}eIuyh|@JI\\KHCDAXKRKXODAz@OXEJCPCBAD?HA\\EjDi@HCr@MBADCfBYfB[b@Ah@C~@IRCBADCHIJMFKFIHORc@DG@E"
+            },
+            "start_location": {
+              "lat": 53.56778329999999,
+              "lng": 10.0445938
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 124
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5619727,
+              "lng": 10.0477236
+            },
+            "html_instructions": "Continue onto <b>Riesserstra\u00dfe</b>",
+            "polyline": {
+              "points": "in|eIeei|@f@_AhAkCLOLWBC@CDCDA"
+            },
+            "start_location": {
+              "lat": 53.5627665,
+              "lng": 10.046426
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 21
+            },
+            "end_location": {
+              "lat": 53.561134,
+              "lng": 10.0475831
+            },
+            "html_instructions": "<b>Riesserstra\u00dfe</b> turns slightly <b>right</b> and becomes <b>Saling</b>",
+            "polyline": {
+              "points": "ii|eIgmi|@BAD?F?ZDJBNE^DH@\\DTJ"
+            },
+            "start_location": {
+              "lat": 53.5619727,
+              "lng": 10.0477236
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 507
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 146
+            },
+            "end_location": {
+              "lat": 53.5608242,
+              "lng": 10.0552368
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sievekingsallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ad|eIkli|@@_ABsB?IDyC?e@@S@O@O?G@SB[BaCFsD@oABqA@o@BmA@s@@mA?w@@{@?MDcC@s@"
+            },
+            "start_location": {
+              "lat": 53.561134,
+              "lng": 10.0475831
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 411
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 75
+            },
+            "end_location": {
+              "lat": 53.5573248,
+              "lng": 10.0533235
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hammer Steindamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cb|eIg|j|@RJtAn@HBrDbB|@^JR~@d@JFT?p@Tb@RrAn@NNPDPDHB"
+            },
+            "start_location": {
+              "lat": 53.5608242,
+              "lng": 10.0552368
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 182
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.5568052,
+              "lng": 10.0552857
+            },
+            "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>b. d. Hammer Kirche</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "gl{eIgpj|@A??@?@?@@@?@?@?@?@?@@@?@?@@@@@?@@@?@@?@@@??@@?@?@?@?@?@?@A@?@A@A?A@??A@A?A@??A?A?A@A?A?A?A@A?A?A?A?A?A?A?AAC?CAA?AAA?AAA?AA??AB]@W@m@Bk@Bg@@Y@]BUBWBKFYZi@"
+            },
+            "start_location": {
+              "lat": 53.5573248,
+              "lng": 10.0533235
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gb~eIi{g|@b@]v@o@n@c@r@e@vBeBFQLyALcAHWPc@|AgCx@oARi@h@wAx@wBJOh@U|@]^QtAUf@If@GtDm@v@OlB]fB[b@AhBMVENMd@s@bAqBhAkCLOP[FGHCt@HNE^Df@FTJ@_ABsBF}ED{@PaLJcGBoEFwDhBz@|DfB|@^JRjAl@T?p@TvBbANNPDZHA@@F@JJNF?HCHU@OEQCCFeBJkCFm@Je@Zi@"
+    },
+    "summary": "Ritterstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

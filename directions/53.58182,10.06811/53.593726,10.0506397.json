@@ -1,0 +1,95 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5937989,
+        "lng": 10.0679991
+      },
+      "southwest": {
+        "lat": 53.5817957,
+        "lng": 10.0507402
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1806
+        },
+        "duration": {
+          "text": "6 mins",
+          "value": 383
+        },
+        "end_address": "U Habichtstra\u00dfe / Steilshooper Stra\u00dfe, 22307 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5937989,
+          "lng": 10.0507402
+        },
+        "start_address": "U Stra\u00dfburger Stra\u00dfe / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5817957,
+          "lng": 10.0679991
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 826
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 177
+            },
+            "end_location": {
+              "lat": 53.5883304,
+              "lng": 10.0623527
+            },
+            "html_instructions": "Head <b>north</b> on <b>Nordschleswiger Str.</b> toward <b>Stra\u00dfburger Str.</b>",
+            "polyline": {
+              "points": "ge`fI_lm|@UNUF{@TUJIBa@N]b@g@RWJ{@^}@`@o@\\c@T_@Ro@`@WPaBhAiA|@q@l@s@n@cBbBeAjAGHEDW`@[f@_BvBMPOR[f@OTMRe@x@"
+            },
+            "start_location": {
+              "lat": 53.5817957,
+              "lng": 10.0679991
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 980
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 206
+            },
+            "end_location": {
+              "lat": 53.5937989,
+              "lng": 10.0507402
+            },
+            "html_instructions": "Continue onto <b>Habichtstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "anafIuhl|@_AjBo@tAaArBMXUl@a@bAUp@ABa@dAUn@s@rBoC`IK`@ELOd@a@j@a@jAO`@Ut@a@pAg@|Am@fBEHCNw@|Bg@`B_BnEg@vAYt@Qf@Wn@"
+            },
+            "start_location": {
+              "lat": 53.5883304,
+              "lng": 10.0623527
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ge`fI_lm|@k@V{@TUJk@R]b@g@RsAj@mB~@cAh@gAr@kDfCeB|AiDnDMNs@hAmBhCiAdBeBdDqBhE{A|DmBlFqDvKa@j@a@jAe@vA}B`H{@lCgCpHkBdF"
+    },
+    "summary": "Nordschleswiger Str. and Habichtstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

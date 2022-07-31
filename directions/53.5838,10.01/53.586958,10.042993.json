@@ -1,0 +1,96 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5890194,
+        "lng": 10.0430101
+      },
+      "southwest": {
+        "lat": 53.583683,
+        "lng": 10.0101259
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.4 km",
+          "value": 2395
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 543
+        },
+        "end_address": "S+U Barmbek / Wiesendamm, 22305 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5870079,
+          "lng": 10.0430101
+        },
+        "start_address": "Goldbekplatz / Semperstra\u00dfe, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.583683,
+          "lng": 10.0101259
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1021
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 208
+            },
+            "end_location": {
+              "lat": 53.5890194,
+              "lng": 10.0225958
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Semperstra\u00dfe</b> toward <b>Kuhnsweg</b>",
+            "polyline": {
+              "points": "_q`fIibb|@IYa@wAaAsDiC}IWcAEO[eAw@qC}C{Km@uBK_@kBcF}@}BmAiD_@iAw@qBqAwDOe@OYEIGGCACCEAKA"
+            },
+            "start_location": {
+              "lat": 53.583683,
+              "lng": 10.0101259
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1374
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 335
+            },
+            "end_location": {
+              "lat": 53.5870079,
+              "lng": 10.0430101
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wiesendamm</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "krafIgpd|@TmDNmCTqDVeEl@qJPwDVmEDm@HeBJyAH_B@{@@]?q@?YB[H}BD{@BYNqDC_A?U@SBc@Bi@Ba@De@@SDQT}@H_BBY@[JaBDm@D}@BUDk@Bc@Dk@HcAVqE@i@@OFkA@U?KCyAGuACg@Eo@L}B@Q"
+            },
+            "start_location": {
+              "lat": 53.5890194,
+              "lng": 10.0225958
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_q`fIibb|@k@qBkEqOqBkHkEqOwBcGcFcNaB}EUc@UOKATmDd@_IdAwPh@eKd@mIByA?kALyCHuANqDC_A@i@PuCFe@T}@H_BDu@PoCRcDNoBX{FJ}BKoDIwANoC"
+    },
+    "summary": "Semperstra\u00dfe and Wiesendamm",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

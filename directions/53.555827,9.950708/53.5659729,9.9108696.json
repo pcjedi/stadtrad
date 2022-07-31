@@ -1,0 +1,119 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.56585099999999,
+        "lng": 9.950607999999999
+      },
+      "southwest": {
+        "lat": 53.5558036,
+        "lng": 9.9107609
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.2 km",
+          "value": 3232
+        },
+        "duration": {
+          "text": "12 mins",
+          "value": 697
+        },
+        "end_address": "Bahrenfelder Chaussee / Von-Sauer-Stra\u00dfe, 22761 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.56585099999999,
+          "lng": 9.9107609
+        },
+        "start_address": "Holstenstra\u00dfe / Thadenstra\u00dfe, 22767 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5558036,
+          "lng": 9.950607999999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 880
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 229
+            },
+            "end_location": {
+              "lat": 53.56298719999999,
+              "lng": 9.9455008
+            },
+            "html_instructions": "Head <b>north</b> on <b>Holstenstra\u00dfe</b> toward <b>Chemnitzstra\u00dfe</b>",
+            "polyline": {
+              "points": "wb{eIinv{@OHq@VWHGDEDCFYHgA\\c@N_DbAa@LKEM?SDmA\\WH_Bt@KHMRQJe@VUNYP_@Vi@`@m@f@IF?@EBI@OPQPi@n@i@x@Yb@{@dAq@v@oApAMNIHIHMLWTGFA@WNi@Z"
+            },
+            "start_location": {
+              "lat": 53.5558036,
+              "lng": 9.950607999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "2.3 km",
+              "value": 2342
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 465
+            },
+            "end_location": {
+              "lat": 53.5658085,
+              "lng": 9.910896200000002
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Stresemannstra\u00dfe</b>/<wbr/><b>B431</b><div style=\"font-size:0.9em\">Continue to follow B431</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "uo|eIknu{@Cf@Ed@En@I~@C`@Gz@I|@K|AKxAIjAKZEZE\\GRSbAC`@?dA@jA?nBAnBAh@AhC?TA|@GzDAv@?RAt@?DAt@?F?DA^?RAtA?X?f@@b@@xB@N@j@DnB@PBb@Bb@?BDZ?BFn@@JHt@BL?D@D?D@PBV@R?L?P@|@?~@?\\B\\?z@?BAtAAl@A~ACpBCzA?DCp@IrBEnB?DCf@Ch@Ah@Az@CtAALClA?ZCtAGjCAj@Ct@AR?JKjFA^IdEAVGh@AX?FKxDAb@A\\Af@IjB@d@]~CKdAQbBGb@SzAYvBKv@EZa@|C]tBO~@Q|@Gb@CLi@vCCTIf@c@~B"
+            },
+            "start_location": {
+              "lat": 53.56298719999999,
+              "lng": 9.9455008
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "10 m",
+              "value": 10
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.56585099999999,
+              "lng": 9.9107609
+            },
+            "html_instructions": "Continue onto <b>Bahrenfelder Chaussee</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "polyline": {
+              "points": "ia}eIcvn{@GZ"
+            },
+            "start_location": {
+              "lat": 53.5658085,
+              "lng": 9.910896200000002
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wb{eIinv{@aBp@ILaBf@cErAa@LKEa@DeBf@_Bt@KHMRQJ{@f@y@h@aBrAODOP{@`AcA|AmB|B}A`By@v@IHaAj@Y|Da@xFUdDQv@Mp@SbAC`@@pCA~EEfGMfKCbDDtELpEHfAZbDDjA@|BBz@CbEIrH_@rM[pOOjHK|EIbAObGKrC@d@]~C]hD[~BmAhJcCzNk@zC"
+    },
+    "summary": "Holstenstra\u00dfe and B431",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

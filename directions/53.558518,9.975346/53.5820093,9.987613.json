@@ -1,0 +1,236 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5831707,
+        "lng": 9.987691
+      },
+      "southwest": {
+        "lat": 53.5584243,
+        "lng": 9.975441499999999
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.2 km",
+          "value": 3202
+        },
+        "duration": {
+          "text": "12 mins",
+          "value": 734
+        },
+        "end_address": "\u1e60 Haspa, Eppendorfer Baum, 20149 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5820614,
+          "lng": 9.987691
+        },
+        "start_address": "U Messehallen / Marktstra\u00dfe, 20357 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5584243,
+          "lng": 9.975441499999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.5585117,
+              "lng": 9.9756846
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Marktstra\u00dfe</b> toward <b>Karolinenstra\u00dfe</b>",
+            "polyline": {
+              "points": "cs{eIoi{{@Qo@"
+            },
+            "start_location": {
+              "lat": 53.5584243,
+              "lng": 9.975441499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 449
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 153
+            },
+            "end_location": {
+              "lat": 53.5624962,
+              "lng": 9.976084499999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Karolinenstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "us{eI_k{{@KHKHQHA@G@IBI?eA?i@?cB@[IcAC[EcBSu@My@OWBi@Kc@Ks@OWM"
+            },
+            "start_location": {
+              "lat": 53.5585117,
+              "lng": 9.9756846
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 645
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 193
+            },
+            "end_location": {
+              "lat": 53.5673165,
+              "lng": 9.9812086
+            },
+            "html_instructions": "Continue onto <b>Rentzelstra\u00dfe</b>",
+            "polyline": {
+              "points": "sl|eIom{{@]QKEGE}@c@y@c@UMUOSKc@YOc@YYGESMWQ_@SCAq@]WOYSa@_@MOMQa@o@Ua@GOMUKWe@cAKUEOIIKMYi@U[OYS[Yk@Ue@i@s@IOIKUWQQ"
+            },
+            "start_location": {
+              "lat": 53.5624962,
+              "lng": 9.976084499999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 571
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 116
+            },
+            "end_location": {
+              "lat": 53.5715465,
+              "lng": 9.9854833
+            },
+            "html_instructions": "Continue onto <b>Grindelhof</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+            "polyline": {
+              "points": "wj}eIqm|{@OUAAi@m@c@k@EEACACACACCI@K?I?GCGAECCIGKSIO]s@w@}AKSIKk@k@YYOOKKs@u@A?QOo@m@_@USKUK?A?A?A?A?A?A?A?AA??A?AA??AA??AA?A?A??@A??@A??@A@?@?@?@A?YOoBeA[Qi@WSKa@UIE"
+            },
+            "start_location": {
+              "lat": 53.5673165,
+              "lng": 9.9812086
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 126
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.5726125,
+              "lng": 9.9861237
+            },
+            "html_instructions": "Continue onto <b>Hallerpl.</b>",
+            "polyline": {
+              "points": "ee~eIgh}{@iAi@_@SIEIEuAu@"
+            },
+            "start_location": {
+              "lat": 53.5715465,
+              "lng": 9.9854833
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1183
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 198
+            },
+            "end_location": {
+              "lat": 53.5831707,
+              "lng": 9.9851494
+            },
+            "html_instructions": "Continue onto <b>Hochallee</b>",
+            "polyline": {
+              "points": "yk~eIgl}{@s@AoA?E?k@?sCC_B@}D?uDBA?mEAqB@M?cB@yB?i@?uE@QCq@?M?I@WBSHgA`@_E~Ak@TEBMFc@L"
+            },
+            "start_location": {
+              "lat": 53.5726125,
+              "lng": 9.9861237
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 190
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 53.58217730000001,
+              "lng": 9.9874893
+            },
+            "html_instructions": "Sharp <b>right</b> onto <b>Eppendorfer Baum</b>",
+            "maneuver": "turn-sharp-right",
+            "polyline": {
+              "points": "ym`fIef}{@l@mBNe@\\iAr@{Bt@yB"
+            },
+            "start_location": {
+              "lat": 53.5831707,
+              "lng": 9.9851494
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "19 m",
+              "value": 19
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5820614,
+              "lng": 9.987691
+            },
+            "html_instructions": "Keep <b>right</b> to stay on <b>Eppendorfer Baum</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "keep-right",
+            "polyline": {
+              "points": "sg`fIyt}{@DGHOFO"
+            },
+            "start_location": {
+              "lat": 53.58217730000001,
+              "lng": 9.9874893
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "cs{eIoi{{@Qo@KH]R]FoB?cB@[I_BIyCa@y@OWBmAWs@OWMi@WuC{Ai@[c@YOc@a@_@k@_@mBcA{@s@[a@w@qAUe@cAaCUWo@eAc@u@o@qAs@cA_@c@mAwAm@y@CGCI@K?QEMMKUc@uAqCU_@aBaBwBsBiAm@?A?A?ECIECGF?B[MiE{BuCyASKuAu@s@AuA?_ECuMDqL@cD?uE@QC_A?a@DgI`DSJc@Ll@mBl@oBhBuFVg@"
+    },
+    "summary": "Hochallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5581659,
+        "lng": 10.0053979
+      },
+      "southwest": {
+        "lat": 53.55277960000001,
+        "lng": 9.9837784
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.9 km",
+          "value": 1920
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 430
+        },
+        "end_address": "Hauptbahnhof / Glockengie\u00dferwall, 20095 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5536256,
+          "lng": 10.0044325
+        },
+        "start_address": "U G\u00e4nsemarkt / Caffamacherreihe, 20355 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.55608969999999,
+          "lng": 9.9842229
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 110
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.5570816,
+              "lng": 9.984179300000001
+            },
+            "html_instructions": "Head <b>north</b> on <b>Caffamacherreihe</b> toward <b>Drehbahn</b>",
+            "polyline": {
+              "points": "qd{eIk`}{@}@?e@Cg@By@F"
+            },
+            "start_location": {
+              "lat": 53.55608969999999,
+              "lng": 9.9842229
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "64 m",
+              "value": 64
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.55760799999999,
+              "lng": 9.9837784
+            },
+            "html_instructions": "Continue onto <b>Jungiusstra\u00dfe</b>",
+            "polyline": {
+              "points": "wj{eIc`}{@[R}@p@OH"
+            },
+            "start_location": {
+              "lat": 53.5570816,
+              "lng": 9.984179300000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 432
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 105
+            },
+            "end_location": {
+              "lat": 53.5579691,
+              "lng": 9.990167999999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Gorch-Fock-Wall</b>/<wbr/><b>Ring 1</b><div style=\"font-size:0.9em\">Continue to follow Ring 1</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "an{eIs}|{@c@aDOiAGcACi@MmDOoD?GE_A?GGuACm@@}@Ds@Fs@Dk@?MFcAFw@@U"
+            },
+            "start_location": {
+              "lat": 53.55760799999999,
+              "lng": 9.9837784
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 806
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 155
+            },
+            "end_location": {
+              "lat": 53.5553146,
+              "lng": 10.001247
+            },
+            "html_instructions": "Keep <b>right</b> to continue on <b>Esplanade</b>/<wbr/><b>Ring 1</b><div style=\"font-size:0.9em\">Continue to follow Ring 1</div>",
+            "maneuver": "keep-right",
+            "polyline": {
+              "points": "ip{eIqe~{@L]HeA\\}DNoBVgDB_@?S@W?Y?[?a@?s@@_@Dw@F_AFq@Fs@JaANgAHi@Fe@N_At@eE`@gC\\aBPm@J[HYPg@v@qB^w@HSNe@d@mAHO"
+            },
+            "start_location": {
+              "lat": 53.5579691,
+              "lng": 9.990167999999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 390
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 89
+            },
+            "end_location": {
+              "lat": 53.55277960000001,
+              "lng": 10.0052927
+            },
+            "html_instructions": "Continue onto <b>Glockengie\u00dferwall</b>",
+            "polyline": {
+              "points": "u_{eIyj`|@JKDEJWRc@HUHOHOfAyBXo@\\o@^q@Zw@HWJWZw@^q@^m@\\i@Ze@RUZ_@PQ"
+            },
+            "start_location": {
+              "lat": 53.5553146,
+              "lng": 10.001247
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 118
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 49
+            },
+            "end_location": {
+              "lat": 53.5536256,
+              "lng": 10.0044325
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Spitalerstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "{ozeIada|@KUc@j@qAbBY`@MN"
+            },
+            "start_location": {
+              "lat": 53.55277960000001,
+              "lng": 10.0052927
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "qd{eIk`}{@cBCaBJyAdAOHc@aDWmCQwEU_GKcCFqBTqDHmAL]nA{ODeB@qC\\}El@yEdAeG`@gC\\aB\\iAZaAv@qB^w@Xy@n@}APQr@aBhCiF^q@d@oAf@oA~@_Bx@oAn@u@PQKUuBnCg@p@"
+    },
+    "summary": "Ring 1 and Glockengie\u00dferwall",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

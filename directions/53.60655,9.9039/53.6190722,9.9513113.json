@@ -1,0 +1,504 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6190976,
+        "lng": 9.9511808
+      },
+      "southwest": {
+        "lat": 53.6065654,
+        "lng": 9.9025195
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.7 km",
+          "value": 4689
+        },
+        "duration": {
+          "text": "16 mins",
+          "value": 966
+        },
+        "end_address": "U Niendorf Markt / Tibarg, 22459 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6190976,
+          "lng": 9.9511808
+        },
+        "start_address": "Eidelstedt-Center / Elbgaustra\u00dfe, 22523 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.6065654,
+          "lng": 9.903887899999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "52 m",
+              "value": 52
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.6067219,
+              "lng": 9.904624900000002
+            },
+            "html_instructions": "Head <b>east</b>",
+            "polyline": {
+              "points": "a`efIijm{@QwBGSCE"
+            },
+            "start_location": {
+              "lat": 53.6065654,
+              "lng": 9.903887899999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 208
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.6080304,
+              "lng": 9.9025195
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Ekenknick</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_aefI{nm{@[b@w@r@A??BA@?@?@?B?D?@?@A@?@A?ABGD_@v@Yb@c@l@?@?D?H?FCHABM\\CFi@lA"
+            },
+            "start_location": {
+              "lat": 53.6067219,
+              "lng": 9.904624900000002
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 111
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.60876349999999,
+              "lng": 9.9036563
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Ekenknick</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "eiefIwam{@Wc@g@u@g@u@i@sA"
+            },
+            "start_location": {
+              "lat": 53.6080304,
+              "lng": 9.9025195
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "86 m",
+              "value": 86
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 53.6087401,
+              "lng": 9.9048641
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Pinneberger Ch</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wmefI{hm{@JUFYBK@[?]Iy@K_A"
+            },
+            "start_location": {
+              "lat": 53.60876349999999,
+              "lng": 9.9036563
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 53.6100302,
+              "lng": 9.9048605
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Holsteiner Chaussee</b>/<wbr/><b>B4</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "smefIkpm{@ODk@F_@@MAI@M?A?UBG?I?G?UAc@KSE"
+            },
+            "start_location": {
+              "lat": 53.6087401,
+              "lng": 9.9048641
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 520
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.6113598,
+              "lng": 9.9122788
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rungwisch</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uuefIkpm{@AeAAg@KmBCy@E_AAWG_AEoACmAEaAMqCEs@E_@YcBKw@[yBEUEUKc@K]g@kBM_@_@gA"
+            },
+            "start_location": {
+              "lat": 53.6100302,
+              "lng": 9.9048605
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1024
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 179
+            },
+            "end_location": {
+              "lat": 53.61024810000001,
+              "lng": 9.9265384
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Niendorfer Gehege</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "_~efIw~n{@As@?]@e@B_@BS@IBGXqBDWL}@BM?AL]BKDG@C\\m@NUR]Xg@LQDEBEFC@ALGXMLSBEDGBGBK@I@K@K@IB]?I@ODs@F}@Bc@@QB_@Dm@Ba@@M?K@I@KF{@@UBe@?]?_@A[C[Gk@CQGi@CYa@kDAKKeACQ?UEe@G{@Gy@Eg@?SIi@AKIoCGyD@uA?W@gA@mA@u@?i@@]?WCi@"
+            },
+            "start_location": {
+              "lat": 53.6113598,
+              "lng": 9.9122788
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 266
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.61217689999999,
+              "lng": 9.928459799999999
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Niendorfer Gehege</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "awefI{wq{@{@\\G@C?G?GAAAC?ACCAEEEGEAOYW_@QYoAuBe@w@o@gA]k@MO"
+            },
+            "start_location": {
+              "lat": 53.61024810000001,
+              "lng": 9.9265384
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 500
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.6116743,
+              "lng": 9.9352251
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ccffI{cr{@|AiBVa@\\i@Tg@HOF[@S?QAc@Eu@K{Cm@{OUgG"
+            },
+            "start_location": {
+              "lat": 53.61217689999999,
+              "lng": 9.928459799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 762
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 146
+            },
+            "end_location": {
+              "lat": 53.6162851,
+              "lng": 9.9419462
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}_ffIens{@iCiAaH}CQ{BMsCSmCCc@IsAGy@CgB?CG}@Q_@YYMI[UECi@]}@i@cAi@i@]u@o@q@_A"
+            },
+            "start_location": {
+              "lat": 53.6116743,
+              "lng": 9.9352251
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.6161697,
+              "lng": 9.9419977
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bondenwald</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "y|ffIext{@VI"
+            },
+            "start_location": {
+              "lat": 53.6162851,
+              "lng": 9.9419462
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 335
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.61690729999999,
+              "lng": 9.946425099999999
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "a|ffIoxt{@C_@Qq@Wm@OYIWGSCOIc@Cu@Aw@Kg@IY?A[gASg@Km@Km@I]CY?QDm@TaAL_@Pc@"
+            },
+            "start_location": {
+              "lat": 53.6161697,
+              "lng": 9.9419977
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 254
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 39
+            },
+            "end_location": {
+              "lat": 53.617601,
+              "lng": 9.949736300000001
+            },
+            "html_instructions": "Sharp <b>left</b>",
+            "maneuver": "turn-sharp-left",
+            "polyline": {
+              "points": "u`gfIetu{@OJMBGCGQ?ACMAUEqAMuDA?CGAIKaAm@mG"
+            },
+            "start_location": {
+              "lat": 53.61690729999999,
+              "lng": 9.946425099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "21 m",
+              "value": 21
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.6177698,
+              "lng": 9.94988
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Niendorfer Marktpl.</b>/<wbr/><b>B447</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_egfI{hv{@CA]Y"
+            },
+            "start_location": {
+              "lat": 53.617601,
+              "lng": 9.949736300000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "26 m",
+              "value": 26
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.617605,
+              "lng": 9.9501556
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Niendorfer Marktpl.</b>/<wbr/><b>B447</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "afgfIwiv{@P_@NW"
+            },
+            "start_location": {
+              "lat": 53.6177698,
+              "lng": 9.94988
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 129
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 37
+            },
+            "end_location": {
+              "lat": 53.6182481,
+              "lng": 9.9489307
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Garstedter Weg</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "_egfIokv{@Sc@MPEFGJGJM^IVI`@ELOx@A?OdA"
+            },
+            "start_location": {
+              "lat": 53.617605,
+              "lng": 9.9501556
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "57 m",
+              "value": 57
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.61875269999999,
+              "lng": 9.949082299999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Niendorfer Kirchenweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aigfIycv{@[MOE[G[A"
+            },
+            "start_location": {
+              "lat": 53.6182481,
+              "lng": 9.9489307
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 122
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 20
+            },
+            "end_location": {
+              "lat": 53.618604,
+              "lng": 9.950907899999999
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Niendorfer Kirchenweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "elgfIwdv{@@_A@q@DmCRmB"
+            },
+            "start_location": {
+              "lat": 53.61875269999999,
+              "lng": 9.949082299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "58 m",
+              "value": 58
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.6190976,
+              "lng": 9.9511808
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Tibarg</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "gkgfIepv{@cBu@"
+            },
+            "start_location": {
+              "lat": 53.618604,
+              "lng": 9.950907899999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "a`efIijm{@QwBGSCE[b@y@r@AD?L?BEFGD_@v@}@pA?XWr@i@lAWc@oAkBi@sAJUJe@@y@UyBODk@Fm@?o@Do@Aw@QCmBW_GW_HSeE_@cCs@}EWaAu@kC_@gAAs@@cALeAp@uEVs@bAeBp@eAp@[Zi@Hm@FaAb@eHJ}AD{@?}@Ew@K}@o@{FUsCUqDKu@QiIDcGBuCCi@{@\\K@UCQSU[i@y@cEaHMO|AiBt@kA^w@Ho@Au@QqEcAcXkLgFQ{BMsCWqDQmCCkBG}@Q_@g@c@iCaBmBgAu@o@q@_AVIC_@Qq@Wm@Yq@Kc@Ic@Cu@Aw@Kg@I[o@oBW{AMw@?QDm@TaAL_@Pc@OJMBOUCOW}GEQy@oIa@[`@w@Sc@MPMRUj@Sx@g@lCk@Sw@IBqBDmCRmBcBu@"
+    },
+    "summary": "Niendorfer Gehege",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

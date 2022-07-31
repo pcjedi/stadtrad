@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58319400000001,
+        "lng": 10.041543
+      },
+      "southwest": {
+        "lat": 53.5798126,
+        "lng": 10.0147472
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.0 km",
+          "value": 2017
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 468
+        },
+        "end_address": "Gertigstra\u00dfe / For\u00dfmannstra\u00dfe, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58195869999999,
+          "lng": 10.0147472
+        },
+        "start_address": "U Dehnhaide / Barmbeker Markt, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5799399,
+          "lng": 10.041543
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Barmbeker Markt</b> toward <b>Dehnhaide</b>",
+            "polyline": {
+              "points": "sy_fIsfh|@HPNb@"
+            },
+            "start_location": {
+              "lat": 53.5799399,
+              "lng": 10.041543
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "70 m",
+              "value": 70
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.5802844,
+              "lng": 10.0405664
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Weidestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yx_fI}dh|@SXMPKPMVGHINIJEN"
+            },
+            "start_location": {
+              "lat": 53.5798126,
+              "lng": 10.0412732
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1390
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 289
+            },
+            "end_location": {
+              "lat": 53.5814337,
+              "lng": 10.0199524
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Weidestra\u00dfe</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "w{_fIq`h|@AZAh@A^C~@Av@A\\@hA?r@?v@?V?T?Z?j@?`@@`B@J?jAHXHfA@LHpABRX|CBTHpAB^Ff@@h@Bn@@d@@j@?X?B?P?TAX?^Ad@?VG~@AREj@K|AIdAGb@CPIh@GfA?`@_@dGQ`DITEVI`AIdA@d@?DIzACl@CNa@vGg@fHGr@Ev@[nECREt@APIlAAJEdA"
+            },
+            "start_location": {
+              "lat": 53.5802844,
+              "lng": 10.0405664
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 201
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 53
+            },
+            "end_location": {
+              "lat": 53.58319400000001,
+              "lng": 10.0193328
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bachstra\u00dfe</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "}b`fIu_d|@E?E?E@G@GBGBIDKHQHIDMD}@ZQDe@Fg@Fg@HI@OBUF"
+            },
+            "start_location": {
+              "lat": 53.5814337,
+              "lng": 10.0199524
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 333
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 98
+            },
+            "end_location": {
+              "lat": 53.58195869999999,
+              "lng": 10.0147472
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Gertigstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}m`fIy{c|@Hf@Nz@Jj@TxAz@dFpArHj@nC"
+            },
+            "start_location": {
+              "lat": 53.58319400000001,
+              "lng": 10.0193328
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "sy_fIsfh|@Xt@a@j@k@bAOZCdAItD@lIBlB?jAHXJtALdBj@dHHpADtA@zACtBOvCUbDKt@QpB?`@_@dGQ`DITOxAIdA@d@I`BG|@iA~Pm@nIS`DEdAE?K@a@Nu@^oA`@mANwAVz@hFlCxOj@nC"
+    },
+    "summary": "Weidestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
