@@ -23,10 +23,10 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add directions
-          git commit -m 'add directions' || exit 0
+          git commit -m 'add directions' || :
           git add traveling-salesman/coord_list.json
           git add traveling-salesman/map.png
-          git commit -m 'new best route' || exit 0
+          git commit -m 'new best route' || :
           git stash
           git pull --rebase
           git push
