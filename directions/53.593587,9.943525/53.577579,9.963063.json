@@ -1,0 +1,406 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.59458840000001,
+        "lng": 9.963061699999999
+      },
+      "southwest": {
+        "lat": 53.5775784,
+        "lng": 9.9425616
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.1 km",
+          "value": 3098
+        },
+        "duration": {
+          "text": "12 mins",
+          "value": 701
+        },
+        "end_address": "Goebenstra\u00dfe / Eppendorfer Weg, 20253 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5775784,
+          "lng": 9.963061699999999
+        },
+        "start_address": "U Hagenbecks Tierpark / Koppelstra\u00dfe, 22527 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.593673,
+          "lng": 9.943502299999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 5
+            },
+            "end_location": {
+              "lat": 53.5936238,
+              "lng": 9.9430941
+            },
+            "html_instructions": "Head <b>west</b> toward <b>Lokstedter Grenzstra\u00dfe</b>",
+            "polyline": {
+              "points": "mobfI{au{@?DHjA"
+            },
+            "start_location": {
+              "lat": 53.593673,
+              "lng": 9.943502299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 53.5938552,
+              "lng": 9.9429842
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lokstedter Grenzstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cobfIi_u{@o@T"
+            },
+            "start_location": {
+              "lat": 53.5936238,
+              "lng": 9.9430941
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 108
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 19
+            },
+            "end_location": {
+              "lat": 53.59458840000001,
+              "lng": 9.9425616
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Lokstedter Grenzstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "spbfIs~t{@QYWCS?W@MDOFCBKJENENAp@"
+            },
+            "start_location": {
+              "lat": 53.5938552,
+              "lng": 9.9429842
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 153
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 59
+            },
+            "end_location": {
+              "lat": 53.5932529,
+              "lng": 9.9431116
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Lokstedter Grenzstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "eubfI_|t{@`@Q@ADAN@|Ae@z@[FADCNEXK"
+            },
+            "start_location": {
+              "lat": 53.59458840000001,
+              "lng": 9.9425616
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 235
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.5937016,
+              "lng": 9.9465763
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Koppelstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ylbfIm_u{@C_@?e@MoBAEImBM_DCUMoAUeBE_@"
+            },
+            "start_location": {
+              "lat": 53.5932529,
+              "lng": 9.9431116
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 679
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 128
+            },
+            "end_location": {
+              "lat": 53.5878552,
+              "lng": 9.9481564
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Julius-Vosseler-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "sobfIcuu{@LAF?D?D@HB\\HNHLFB@PJRPPLVHZHXBf@@j@EvAa@XIh@Q|@e@JEbAi@NIjBeA`@UdAk@fAm@fAk@TK`@MTETCBAN@r@D"
+            },
+            "start_location": {
+              "lat": 53.5937016,
+              "lng": 9.9465763
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "39 m",
+              "value": 39
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5878053,
+              "lng": 9.9487378
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>Julius-Vosseler-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ckafI__v{@HsB"
+            },
+            "start_location": {
+              "lat": 53.5878552,
+              "lng": 9.9481564
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 240
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 33
+            },
+            "end_location": {
+              "lat": 53.5858007,
+              "lng": 9.9500791
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Julius-Vosseler-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yjafIsbv{@hFcD~B{A`@IDA"
+            },
+            "start_location": {
+              "lat": 53.5878053,
+              "lng": 9.9487378
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "82 m",
+              "value": 82
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.58589929999999,
+              "lng": 9.9513093
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "g~`fI_kv{@C_@Ae@Cm@Aa@Ck@Cs@"
+            },
+            "start_location": {
+              "lat": 53.5858007,
+              "lng": 9.9500791
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "27 m",
+              "value": 27
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.586141,
+              "lng": 9.9513667
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{~`fIurv{@KA]GEA"
+            },
+            "start_location": {
+              "lat": 53.58589929999999,
+              "lng": 9.9513093
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 325
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5859319,
+              "lng": 9.9561517
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "k`afIasv{@DC@C@E@C?G?G?GQmEIuBCc@?e@?Q?[?U?s@?G@KFo@N_BLwALkBFc@"
+            },
+            "start_location": {
+              "lat": 53.586141,
+              "lng": 9.9513667
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 523
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 115
+            },
+            "end_location": {
+              "lat": 53.5813698,
+              "lng": 9.956120199999999
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Stresemannallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a_afI}pw{@PBl@JdBp@NFLFf@RPFH@T@PAd@I\\Mr@]x@c@XSTOb@SPIB?JCd@GZB^FzBZbANTD"
+            },
+            "start_location": {
+              "lat": 53.5859319,
+              "lng": 9.9561517
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 140
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 46
+            },
+            "end_location": {
+              "lat": 53.5804858,
+              "lng": 9.9576006
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eidelstedter Weg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qb`fIwpw{@\\_AFQTk@JWJW@AXg@b@q@@C@ABCBCNO"
+            },
+            "start_location": {
+              "lat": 53.5813698,
+              "lng": 9.956120199999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 444
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 127
+            },
+            "end_location": {
+              "lat": 53.5777574,
+              "lng": 9.962389499999999
+            },
+            "html_instructions": "Continue onto <b>Unnastra\u00dfe</b>",
+            "polyline": {
+              "points": "a}_fI_zw{@f@e@bAmA`@i@\\e@r@iAnA{Cx@wBrCgHXu@H}@"
+            },
+            "start_location": {
+              "lat": 53.5804858,
+              "lng": 9.9576006
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "49 m",
+              "value": 49
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.5775784,
+              "lng": 9.963061699999999
+            },
+            "html_instructions": "Continue onto <b>Goebenstra\u00dfe</b>",
+            "polyline": {
+              "points": "_l_fI}wx{@`@aC@C"
+            },
+            "start_location": {
+              "lat": 53.5777574,
+              "lng": 9.962389499999999
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "mobfI{au{@HpAo@TQYk@Ce@FSJKJENG`Ab@ST?xCaAv@WCeAOuBWmGQeB[eCTAr@Nr@^d@^r@R`ADj@EvAa@bA[hAk@`FoClCyA|Aw@v@SXEbAFHsBhFcD~B{A`@IDAC_@EsAEmACs@KAc@IJQ?OQuEMyC?w@?mBf@sFToC~@NjDtAZHf@?d@I\\MlBaAn@c@t@]NCd@GZBzCb@xATfAuCLY|@yAJMv@u@dBwBpAoBhCsGlD}IH}@`@aC@C"
+    },
+    "summary": "Julius-Vosseler-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

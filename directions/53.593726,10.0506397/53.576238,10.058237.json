@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5937989,
+        "lng": 10.0585368
+      },
+      "southwest": {
+        "lat": 53.5762157,
+        "lng": 10.0507402
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.3 km",
+          "value": 2314
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 497
+        },
+        "end_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "start_address": "U Habichtstra\u00dfe / Steilshooper Stra\u00dfe, 22307 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5937989,
+          "lng": 10.0507402
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 420
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 86
+            },
+            "end_location": {
+              "lat": 53.5914537,
+              "lng": 10.0557048
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Habichtstra\u00dfe</b> toward <b>Tieloh</b>",
+            "polyline": {
+              "points": "gpbfIc`j|@Vo@Pg@Xu@f@wA~AoEf@aBv@}BBODIlAwBL[Rg@n@sB"
+            },
+            "start_location": {
+              "lat": 53.5937989,
+              "lng": 10.0507402
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 605
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 119
+            },
+            "end_location": {
+              "lat": 53.5867519,
+              "lng": 10.0512327
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bramfelder Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qabfIc_k|@|@xAp@t@HLP\\HJt@vAb@b@HJJJB@JHPLdAr@~AbAlAv@JR@Bl@^b@VPJh@XHFHFPLPPVTd@b@`A|@j@h@NN"
+            },
+            "start_location": {
+              "lat": 53.5914537,
+              "lng": 10.0557048
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1289
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 292
+            },
+            "end_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Krausestra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "edafIecj|@TQp@q@Te@\\[LOTSfAiAfDwDfEeEJKDEp@q@DC`@c@vB{B~@gA`@a@DGDEPG~@c@FEXKd@S`Aa@`DyA\\Mx@a@l@WnEqBnA]ZIp@Kf@Kp@GVCNC`AEHAD?NCTNHDPHFB"
+            },
+            "start_location": {
+              "lat": 53.5867519,
+              "lng": 10.0512327
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gpbfIc`j|@jBeFfCqHz@mCrAaC`@cAn@sB|@xAz@bAZh@t@vAb@b@TVNJdG|DLVpAv@z@d@RN`BxAlBfBNNTQp@q@Te@j@k@|A}AfDwDfEeEPQv@u@xC_D`BiBJMpAk@hCgAfHaDnEqBnA]lAU`C[`BKx@b@"
+    },
+    "summary": "Bramfelder Str. and Krausestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

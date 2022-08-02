@@ -1,0 +1,143 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6014442,
+        "lng": 10.0624674
+      },
+      "southwest": {
+        "lat": 53.5762157,
+        "lng": 10.05141
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.2 km",
+          "value": 3151
+        },
+        "duration": {
+          "text": "12 mins",
+          "value": 726
+        },
+        "end_address": "Fabriciusstra\u00dfe / Buschrosenweg, 22177 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6014442,
+          "lng": 10.0624674
+        },
+        "start_address": "S Friedrichsberg / Krausestra\u00dfe, 22049 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5762157,
+          "lng": 10.0583551
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1281
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 312
+            },
+            "end_location": {
+              "lat": 53.5867299,
+              "lng": 10.05141
+            },
+            "html_instructions": "Head <b>north</b> on <b>Krausestra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+            "polyline": {
+              "points": "kb_fIwok|@GCQIIEUOOBE?I@aADOBWBq@Fg@Jq@J[HoA\\oEpBm@Vy@`@]LaDxAaA`@e@RYJGD_Ab@QFEDEFa@`@_AfAwBzBa@b@EBq@p@EDKJgEdEgDvDgAhAURMN]ZaAj@EDQR"
+            },
+            "start_location": {
+              "lat": 53.5762157,
+              "lng": 10.0583551
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 917
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 203
+            },
+            "end_location": {
+              "lat": 53.5934882,
+              "lng": 10.0589841
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bramfelder Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "adafIidj|@y@w@_A{@y@q@SQQOUOQMYMQKc@Uc@UMIO@mAw@_BcAeAs@QMKICAKKIKc@c@u@wAIKQ]IMa@mA{@eBS[y@sAc@]_AeB[i@EIGKm@eAWg@U_@w@wASa@e@o@"
+            },
+            "start_location": {
+              "lat": 53.5867299,
+              "lng": 10.05141
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "80 m",
+              "value": 80
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.5940221,
+              "lng": 10.0597603
+            },
+            "html_instructions": "Continue onto <b>Bramfelder Ch</b>",
+            "polyline": {
+              "points": "inbfIssk|@GKAE?EAECIOQq@}@OUGM"
+            },
+            "start_location": {
+              "lat": 53.5934882,
+              "lng": 10.0589841
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 873
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 197
+            },
+            "end_location": {
+              "lat": 53.6014442,
+              "lng": 10.0624674
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Fabriciusstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sqbfIoxk|@MVKNCDIJCBSPUPCBQFUHY@O@KBO?M@KAK?SEYI[KUMOIy@g@QKQIc@Y]S[QYOs@_@YOe@[QO_Ak@i@[i@_@WMu@a@c@U[K_@OKEKEa@Mg@OmBg@WIyBm@oA_@]K"
+            },
+            "start_location": {
+              "lat": 53.5940221,
+              "lng": 10.0597603
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "kb_fIwok|@y@c@aBJaCZmAToA\\oEpBgBx@_EfBiCfAqAj@KLaBhByC~CiAfAgEdEgDvD}A|Ak@j@gAp@QRy@w@yBmBmA_AsBeAMIO@mAw@eDwB]W}@}@{AoCa@mA{@eBmAoBc@]_AeBa@s@cByCkAyBm@{@G[aAoAWc@g@x@q@j@g@Pi@Bu@B_@Eu@UqBkAoBiAmAo@_Ak@eDwBmAo@_Aa@yAi@gHoBmBk@"
+    },
+    "summary": "Krausestra\u00dfe, Bramfelder Str. and Fabriciusstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

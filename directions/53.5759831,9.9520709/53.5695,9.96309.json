@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.576037,
+        "lng": 9.9630209
+      },
+      "southwest": {
+        "lat": 53.5694916,
+        "lng": 9.9520903
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.3 km",
+          "value": 1304
+        },
+        "duration": {
+          "text": "5 mins",
+          "value": 303
+        },
+        "end_address": "U Christuskirche / Fruchtallee, 20259 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5694916,
+          "lng": 9.9630209
+        },
+        "start_address": "Osterstra\u00dfe 121, 20255 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.576037,
+          "lng": 9.9520903
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 653
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 135
+            },
+            "end_location": {
+              "lat": 53.5739221,
+              "lng": 9.9612585
+            },
+            "html_instructions": "Head <b>east</b> on <b>Osterstra\u00dfe</b>",
+            "polyline": {
+              "points": "ga_fIqwv{@?AHgA@C@QHw@BOL}@Fe@L{@Da@He@Fg@Jy@Fe@R{ALaATgB@G^uC@QDWP{ALyABWD[BMBW@KBUDc@Hi@Hy@D_@Nq@@KHc@DU@OJ]@CPo@ZcA`@kA"
+            },
+            "start_location": {
+              "lat": 53.576037,
+              "lng": 9.9520903
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 250
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 53.5721013,
+              "lng": 9.9590362
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eppendorfer Weg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_t~eI{px{@lAzAxAnBj@p@Td@x@fARTr@x@"
+            },
+            "start_location": {
+              "lat": 53.5739221,
+              "lng": 9.9612585
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 370
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 63
+            },
+            "end_location": {
+              "lat": 53.56976909999999,
+              "lng": 9.9629476
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Weidenstieg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sh~eI_cx{@\\s@Zo@l@oAL]x@aBTs@D?BABCBCT]LQLMDGBCXa@\\_@LUBGDIFKHQJa@BGDK?AXs@LYFMBC?AJ]DQ"
+            },
+            "start_location": {
+              "lat": 53.5721013,
+              "lng": 9.9590362
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "31 m",
+              "value": 31
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5694916,
+              "lng": 9.9630209
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "az}eIm{x{@JANCLCLC"
+            },
+            "start_location": {
+              "lat": 53.56976909999999,
+              "lng": 9.9629476
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ga_fIqwv{@L_Bb@kDzAiLx@wGh@eFl@kF`@aCFe@La@l@sB`@kAlAzAdC`DTd@x@fAfAnAx@cBz@mBx@aBTs@HAFGv@eA\\e@\\_@LUHQP]Tw@r@_BJ_@DQJA\\GLC"
+    },
+    "summary": "Osterstra\u00dfe and Weidenstieg",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

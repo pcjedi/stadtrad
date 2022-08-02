@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5943171,
+        "lng": 9.9977696
+      },
+      "southwest": {
+        "lat": 53.57208,
+        "lng": 9.9886328
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.9 km",
+          "value": 2939
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 628
+        },
+        "end_address": "U Hudtwalckerstra\u00dfe / Bebelallee, 22299 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5943171,
+          "lng": 9.995889
+        },
+        "start_address": "U Hallerstra\u00dfe / Rothenbaumchaussee, 20148 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.57208,
+          "lng": 9.988886299999999
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "32 m",
+              "value": 32
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 6
+            },
+            "end_location": {
+              "lat": 53.57228689999999,
+              "lng": 9.9886328
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Rothenbaumchaussee</b>",
+            "polyline": {
+              "points": "oh~eIq}}{@M?C@C@CDA@EFCHAHAJ"
+            },
+            "start_location": {
+              "lat": 53.57208,
+              "lng": 9.988886299999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1000
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 198
+            },
+            "end_location": {
+              "lat": 53.5812731,
+              "lng": 9.988736
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rothenbaumchaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "yi~eI}{}{@QAy@?g@Aq@AI?a@A_@AYAaCIqCGeCEwDIcACkCGaAAi@?]@I@W@{@DcCHU@cAFS@aBF[@w@DOGu@C"
+            },
+            "start_location": {
+              "lat": 53.57228689999999,
+              "lng": 9.9886328
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 574
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 124
+            },
+            "end_location": {
+              "lat": 53.5838204,
+              "lng": 9.995866000000001
+            },
+            "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>St. Benedictstra\u00dfe</b>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "}a`fIs|}{@AQCOAGAGCGEKOWSOEEGCI?M?G@OFYy@GUc@qB_@iBOs@eBuJAC[eBAQCi@GYc@sBKOOy@S_AMq@I_@S}@"
+            },
+            "start_location": {
+              "lat": 53.5812731,
+              "lng": 9.988736
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1152
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 215
+            },
+            "end_location": {
+              "lat": 53.5932828,
+              "lng": 9.994148599999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Leinpfad</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "{q`fIei_|@]?A?g@G_@ISGQGq@YgAc@SIWKk@WgBs@KE}B_ASI{@[SGCCa@OaA_@UGWE]CqB?gA@oC?W?i@Dg@FG?g@L_@Pa@V]V[X]`@o@x@y@fA}@tAS^Wh@aAlBUb@S`@{@`B"
+            },
+            "start_location": {
+              "lat": 53.5838204,
+              "lng": 9.995866000000001
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 145
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.593998,
+              "lng": 9.9959911
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Hudtwalckerstra\u00dfe</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_mbfIm~~{@YeAa@sAEK[kACG]uAO_@"
+            },
+            "start_location": {
+              "lat": 53.5932828,
+              "lng": 9.994148599999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 27
+            },
+            "end_location": {
+              "lat": 53.5943171,
+              "lng": 9.995889
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oqbfI}i_|@i@JUF"
+            },
+            "start_location": {
+              "lat": 53.593998,
+              "lng": 9.9959911
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oh~eIq}}{@Q@GFGHERAJQAaBA}BEsLYiMWiBD_ENyAHiEPOGu@CEa@Mc@OWSOMI_@@OFYy@k@gCo@}CgByJ]wBCi@GYc@sBKOc@yBWqAS}@]?i@Gs@Q_DoAcAc@sBy@aFmB}B{@u@IyD@gD?qALo@LaAh@y@p@mAzAwB|Ck@hAgDtG}AqFa@}AO_@i@JUF"
+    },
+    "summary": "Rothenbaumchaussee and Leinpfad",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

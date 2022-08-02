@@ -1,0 +1,120 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6200044,
+        "lng": 10.0460319
+      },
+      "southwest": {
+        "lat": 53.5878428,
+        "lng": 10.0320479
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.8 km",
+          "value": 3840
+        },
+        "duration": {
+          "text": "13 mins",
+          "value": 761
+        },
+        "end_address": "S+U Ohlsdorf / Alsterdorfer Stra\u00dfe, 22337 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.61999429999999,
+          "lng": 10.0320817
+        },
+        "start_address": "S+U Barmbek / Piazzetta-Ralph-Giordano, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5878428,
+          "lng": 10.0460319
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "3.7 km",
+              "value": 3691
+            },
+            "duration": {
+              "text": "12 mins",
+              "value": 721
+            },
+            "end_location": {
+              "lat": 53.6200044,
+              "lng": 10.0336604
+            },
+            "html_instructions": "Head <b>north</b> on <b>Fuhlsb\u00fcttler Str.</b> toward <b>Drosselstra\u00dfe</b>",
+            "polyline": {
+              "points": "_kafIubi|@a@Dm@LMFc@NQ@_@Fg@NUDA@KDGD}An@k@R[LiDxAGBOF_@LOFc@PQDULsAXW?_@?kAG[AWCW?cABUBQ?E?C@E?C?G@e@Ds@NkAXeATwA\\i@NmA^}Af@_@JkAj@w@b@}CrB[PWNSJYRCBSJEFCD[PGBIFSJMJUPoAb@{ARoALaBLOB]DmAFk@Da@BmAJOBm@DUDQDWDSDg@JI@SDKBw@NyBf@sA^gA\\[NA@k@VA?IDA?CBWL{@b@s@Zq@VWHWHWFa@HoAZSDaC^G@O@c@JQDm@PeAn@YNe@XSJg@Zc@XaAj@_@TQHQHGB]DK@G@SD_@JuAZc@JOD_@H{@RYHm@Ni@P[L[LIDWLWLu@d@{Ap@_@R]NSHE@OFm@Ro@RwA\\aEz@g@H{@Pg@JiANq@J}@Nm@JSFYDGBSFI@SDcATUFwA^S^"
+            },
+            "start_location": {
+              "lat": 53.5878428,
+              "lng": 10.0460319
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 106
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.6196293,
+              "lng": 10.0321806
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alsterdorfer Str.</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_tgfIkuf|@Hp@`@dCRfAHf@"
+            },
+            "start_location": {
+              "lat": 53.6200044,
+              "lng": 10.0336604
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.61999429999999,
+              "lng": 10.0320817
+            },
+            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "uqgfIclf|@SRSD_@E"
+            },
+            "start_location": {
+              "lat": 53.6196293,
+              "lng": 10.0321806
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_kafIubi|@oARq@Vq@H}@TsB|@yF~BcBn@g@RsAXW?kBGs@E{ABg@BS@m@F_Ch@}Cr@wBn@}Br@cCnAyDdCk@Zw@j@q@b@a@VUPoAb@kD`@qBPyDVaDZeB\\aBZyBf@sA^gA\\[Nm@XKDyAt@eBr@o@R}Cr@}Dn@_AV_B~@eCzAeCtAy@LmDx@eCl@wA`@[L}@`@mAr@{BdAgAb@}Af@yGxAcBZqBZqDn@eGvAS^Hp@t@lEHf@SRSD_@E"
+    },
+    "summary": "Fuhlsb\u00fcttler Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

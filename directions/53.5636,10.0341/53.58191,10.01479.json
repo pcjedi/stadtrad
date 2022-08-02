@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.58319400000001,
+        "lng": 10.036957
+      },
+      "southwest": {
+        "lat": 53.5616627,
+        "lng": 10.0147472
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.5 km",
+          "value": 3497
+        },
+        "duration": {
+          "text": "13 mins",
+          "value": 770
+        },
+        "end_address": "Gertigstra\u00dfe / For\u00dfmannstra\u00dfe, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.58195869999999,
+          "lng": 10.0147472
+        },
+        "start_address": "U Wartenau / L\u00fcbecker Stra\u00dfe, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5636566,
+          "lng": 10.0339528
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "64 m",
+              "value": 64
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.56412419999999,
+              "lng": 10.0345047
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b> toward <b>Landwehr</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "{s|eIewf|@IK]a@SYGGIKMQ"
+            },
+            "start_location": {
+              "lat": 53.5636566,
+              "lng": 10.0339528
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 319
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 65
+            },
+            "end_location": {
+              "lat": 53.5616627,
+              "lng": 10.036957
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Landwehr</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wv|eIszf|@bAoA\\e@f@k@RWl@k@x@q@fAaA\\]dAcAx@o@"
+            },
+            "start_location": {
+              "lat": 53.56412419999999,
+              "lng": 10.0345047
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 946
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 236
+            },
+            "end_location": {
+              "lat": 53.5687192,
+              "lng": 10.0290063
+            },
+            "html_instructions": "Make a <b>U-turn</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "kg|eI_jg|@y@n@eAbA]\\gA`Ay@p@m@j@SVg@j@]d@cAnAQNQRa@f@STuAbB_ArAiAzAi@h@MLsAdBQTq@v@SVcBxBc@j@UXIJy@dAEDU\\qAbBOTY^"
+            },
+            "start_location": {
+              "lat": 53.5616627,
+              "lng": 10.036957
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.8 km",
+              "value": 1835
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 361
+            },
+            "end_location": {
+              "lat": 53.58319400000001,
+              "lng": 10.0193328
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Lerchenfeld</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "os}eIixe|@_@`@q@v@SXKLKNQVW`@Y\\W^OP_@b@s@t@MLA@MNEDMNMPINUZABGZk@t@UVMPyAdBy@bA_@h@c@h@_@d@MPC@SXGHi@r@MLQT}@hAo@v@aAnAWZORk@n@_@d@e@n@G@C?A@OH}@~@i@p@}AjBeArAGHm@r@m@l@eAhAYJKBMBMBOHK?cCBcEBa@?oA?I?_@A_@?OAQAOAMCUOMIKIKIa@_@{@cAKMCAEAEAC?E?E?E?E?E@G@GBGBIDKHQHIDMD}@ZQDe@Fg@Fg@HI@OBUF"
+            },
+            "start_location": {
+              "lat": 53.5687192,
+              "lng": 10.0290063
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 333
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 98
+            },
+            "end_location": {
+              "lat": 53.58195869999999,
+              "lng": 10.0147472
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Gertigstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}m`fIy{c|@Hf@Nz@Jj@TxAz@dFpArHj@nC"
+            },
+            "start_location": {
+              "lat": 53.58319400000001,
+              "lng": 10.0193328
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "{s|eIewf|@cAoAW]`BuBz@cAfB}AdB_BdAcAx@o@y@n@eAbAeB~AgB|A{@bAeCxCu@|@uAbB_ArAiAzAi@h@aBrB{D~E}BvC}B|Cy@`AeApAaAvAaBrBqAtAk@v@W^GZk@t@c@h@sChDqBjCwE~FuCnDeAtAK@QJgBpByE|FsBvBe@N[FOHK?gIFqB?yACa@Cc@SYSm@i@gAqAICUAYBe@V[NkA`@gC^YDUFHf@ZfBpA~HpArHj@nC"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

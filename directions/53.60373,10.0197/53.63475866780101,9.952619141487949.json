@@ -1,0 +1,381 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6347333,
+        "lng": 10.0194576
+      },
+      "southwest": {
+        "lat": 53.59948079999999,
+        "lng": 9.9489307
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "8.2 km",
+          "value": 8189
+        },
+        "duration": {
+          "text": "28 mins",
+          "value": 1681
+        },
+        "end_address": "U Schippelsweg / Paul-Sorge-Stra\u00dfe, 22455 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6347333,
+          "lng": 9.9527155
+        },
+        "start_address": "\u00dcberseering / New-York-Ring, 22297 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.60362319999999,
+          "lng": 10.0194576
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 120
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 53.6038039,
+              "lng": 10.0177086
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>New-York-Ring</b> toward <b>\u00dcberseering</b>",
+            "polyline": {
+              "points": "smdfIs|c|@A@EFENEL?BCJANAd@?L?V?D?`@AZApACr@"
+            },
+            "start_location": {
+              "lat": 53.60362319999999,
+              "lng": 10.0194576
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 371
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 97
+            },
+            "end_location": {
+              "lat": 53.6004852,
+              "lng": 10.0175814
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>\u00dcberseering</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wndfIuqc|@z@J`@D^Fv@Jf@FxAJVAP@R?X?x@ATAl@CXCZCn@K`@C"
+            },
+            "start_location": {
+              "lat": 53.6038039,
+              "lng": 10.0177086
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 745
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 163
+            },
+            "end_location": {
+              "lat": 53.5995047,
+              "lng": 10.0064531
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Jahnring</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "azcfI{pc|@HpADn@@XDn@D~@@DNpBL|ADn@BNHx@TdDBh@@X@RDl@?@?j@Bf@BdAB~@Bh@BhB@~@D~CDdBBjAFxAHxBJjB@LH~@Bp@?HC|A"
+            },
+            "start_location": {
+              "lat": 53.6004852,
+              "lng": 10.0175814
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 640
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 121
+            },
+            "end_location": {
+              "lat": 53.6020196,
+              "lng": 9.9978414
+            },
+            "html_instructions": "Continue onto <b>Braamkamp</b>",
+            "polyline": {
+              "points": "{scfIika|@Mx@I\\c@dBUv@CTEPg@|Ae@xAWv@IXO\\GROl@i@tBQ|@Mj@?D?B@PShASfAERM|@EZUzAMjAAHEXQtACPAJEb@MfAAHIv@CDCBABAFCNE`@"
+            },
+            "start_location": {
+              "lat": 53.5995047,
+              "lng": 10.0064531
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 221
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.6021638,
+              "lng": 9.9945124
+            },
+            "html_instructions": "Keep <b>left</b> to stay on <b>Braamkamp</b>",
+            "maneuver": "keep-left",
+            "polyline": {
+              "points": "scdfIou_|@MvCEhBAr@Az@?XAb@CjC?r@@h@"
+            },
+            "start_location": {
+              "lat": 53.6020196,
+              "lng": 9.9978414
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 527
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 150
+            },
+            "end_location": {
+              "lat": 53.60360499999999,
+              "lng": 9.9870764
+            },
+            "html_instructions": "Continue onto <b>Deelb\u00f6ge</b>",
+            "polyline": {
+              "points": "oddfIu`_|@BzA@r@?^?x@?R?NAB?T@r@CJADUlB?DGPGn@SvAIj@KXABCDWxAOp@Kj@Qz@SbAMj@Kf@O`AIXKr@OhAEZY~B"
+            },
+            "start_location": {
+              "lat": 53.6021638,
+              "lng": 9.9945124
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "69 m",
+              "value": 69
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 52
+            },
+            "end_location": {
+              "lat": 53.6038712,
+              "lng": 9.9861395
+            },
+            "html_instructions": "Continue onto <b>Borsteler Chaussee</b>",
+            "polyline": {
+              "points": "omdfIgr}{@SlACNAP[jA"
+            },
+            "start_location": {
+              "lat": 53.60360499999999,
+              "lng": 9.9870764
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1277
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 226
+            },
+            "end_location": {
+              "lat": 53.6121187,
+              "lng": 9.973442
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Borsteler Chaussee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "eodfIkl}{@M@a@hAa@rASn@k@fB[bA[bAEXEJ[z@a@hAe@nAUp@_@fAc@rASn@IVGPy@|B]`AGRo@hBGPy@~B_@dAWb@w@vAiBhDcC`Es@jAiAtAa@^KJC?E?QFYNc@\\YTOHe@RWNEDGJ[Nc@Xa@Xc@Tk@X]VYLa@T"
+            },
+            "start_location": {
+              "lat": 53.6038712,
+              "lng": 9.9861395
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "72 m",
+              "value": 72
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 12
+            },
+            "end_location": {
+              "lat": 53.6127372,
+              "lng": 9.973231799999999
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Borsteler Chaussee</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "wbffI_}z{@EFABGDMDKFQDm@DQA"
+            },
+            "start_location": {
+              "lat": 53.6121187,
+              "lng": 9.973442
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.2 km",
+              "value": 1175
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 231
+            },
+            "end_location": {
+              "lat": 53.6116608,
+              "lng": 9.955796099999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Papenreye</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sfffIu{z{@Ar@Et@ALIx@W|CCj@ChA?|@?jB?lA?\\AdB?J?|A?vB?B?D@|A?^?L?REnB?jA?j@Bx@B|@D`A?PBXD`AFbADj@Hf@@XDp@Dv@FbA?JBt@vA`W^~FHn@@FLr@?N@J@LVbAX`A"
+            },
+            "start_location": {
+              "lat": 53.6127372,
+              "lng": 9.973231799999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 909
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 215
+            },
+            "end_location": {
+              "lat": 53.6182481,
+              "lng": 9.9489307
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Kollaustra\u00dfe</b>/<wbr/><b>B447</b><div style=\"font-size:0.9em\">Continue to follow B447</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{_ffIwnw{@Qf@]v@a@bAa@bA]x@Wn@Sf@Sh@Yl@ABGLo@nA_AhBGNMRMPSTA@UPc@Z[R[RYL_@NSDQ@OBSBe@F[DE?_@HMBUF}@TKDc@Jq@Po@Pe@La@J_@JULQFKDIDQLMLMPEFGJGJM^IVI`@ELOx@A?OdA"
+            },
+            "start_location": {
+              "lat": 53.6116608,
+              "lng": 9.955796099999999
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 565
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 84
+            },
+            "end_location": {
+              "lat": 53.623038,
+              "lng": 9.950698
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Niendorfer Kirchenweg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "aigfIycv{@[MOE[G[AKAOAuBCyBAqA@I?M?c@@G?kAEoAM_@K]KSMMK[a@mAeBu@iA[e@"
+            },
+            "start_location": {
+              "lat": 53.6182481,
+              "lng": 9.9489307
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "76 m",
+              "value": 76
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.6225171,
+              "lng": 9.9514385
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wendlohstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_ghfI{nv{@Vc@nAoB"
+            },
+            "start_location": {
+              "lat": 53.623038,
+              "lng": 9.950698
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1422
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 262
+            },
+            "end_location": {
+              "lat": 53.6347333,
+              "lng": 9.9527155
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Paul-Sorge-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "wchfIosv{@OASEO@G?s@DO@SBI@m@DmANm@Ds@JUB}CVo@JSFYDqBPq@Ci@?U?S@[?SDUFC@g@RSH[PGBGDGDKHm@\\QFi@ZI@MFYJw@\\YPIDSBOBW@K?K?OCMCOE]QOK{@u@eA}@CCYY_@[SS[Wi@i@IG_@]o@i@m@i@sAeAe@[CAECGEIGMGIGEAKGECGCIEUMQIMCEACACAGAMGQCYGQAC?U@Q@UBMBG@MBG@A?IBC?E@"
+            },
+            "start_location": {
+              "lat": 53.6225171,
+              "lng": 9.9514385
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "smdfIs|c|@Sf@GdA?lAClBCr@z@J`AL~ARpBHd@@vCGt@GpAOVjEd@tGh@~GLdCTnLJdGJdDTdFJlABz@C|AMx@m@bCYlAkB`GYv@W`AiAdF@Tg@pCo@hEg@dEYhCK`AGHM|@MvCEhBCnBE|FFxEA`B@hAEPUrBO`A]bCM\\w@|D_ArEYzA[|Bw@xFAP[jAM@a@hAu@bCgAjD[bAEXa@fA}BrGiAlDoC|HaApC_@dAWb@aD`GwDlGiAtAa@^OJWF}@l@i@^}@b@MP_Ah@eAn@iAp@{@b@GJa@R_AJQAAr@GbAa@vEGtB?hDA|E?~E@~CEzDBdBLjDLdCNrATfEB`AvB`_@Jv@Lr@?NBXp@dCsBfF}AzDsAnCgAxB[d@UVy@l@w@f@y@\\iANgBVyGdBaAVg@TUJ_@Zc@p@Wv@On@Qx@OdA[Mk@Mg@CeCEkE?cA@kAEoAM}@Wa@YiBgCqAoBfBsCc@GW@aBLm@D{BTiAN}CVo@Jm@LqBPq@C_A?o@@i@Lk@T_Ad@SN_Ad@aAd@uB`Ac@Fc@@[C]Im@]aCsBqAmAoBgB}AsAyBaB[Si@Ym@[i@Qk@Ok@IY@g@DUDa@HI@"
+    },
+    "summary": "Paul-Sorge-Stra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5597632,
+        "lng": 10.0044325
+      },
+      "southwest": {
+        "lat": 53.5536256,
+        "lng": 9.9818793
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009), Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "1.8 km",
+          "value": 1800
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 451
+        },
+        "end_address": "St. Petersburger Stra\u00dfe / Bei den Kirchh\u00f6fen, 20355 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5597124,
+          "lng": 9.9818793
+        },
+        "start_address": "Hauptbahnhof / Glockengie\u00dferwall, 20095 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5536256,
+          "lng": 10.0044325
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 401
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 143
+            },
+            "end_location": {
+              "lat": 53.5560795,
+              "lng": 10.0000705
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Glockengie\u00dferwall</b> toward <b>Ernst-Merck-Stra\u00dfe</b>",
+            "polyline": {
+              "points": "euzeIu~`|@u@~@A@SVOP[b@Yf@A@u@zAu@|AWf@CTMf@Ml@Ud@q@zAYr@Qf@O^Sh@Wr@AB"
+            },
+            "start_location": {
+              "lat": 53.5536256,
+              "lng": 10.0044325
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 495
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 88
+            },
+            "end_location": {
+              "lat": 53.5577632,
+              "lng": 9.9931739
+            },
+            "html_instructions": "Continue onto <b>Lombardsbr\u00fccke</b>",
+            "polyline": {
+              "points": "od{eImc`|@Qf@[hAUx@Mn@c@fCUnAKj@]vBg@zCYfBMbAAFEb@AJI|@CXEZIn@C`AOpAE^Gr@"
+            },
+            "start_location": {
+              "lat": 53.5560795,
+              "lng": 10.0000705
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 642
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 144
+            },
+            "end_location": {
+              "lat": 53.5577402,
+              "lng": 9.9836841
+            },
+            "html_instructions": "Continue onto <b>Esplanade</b>/<wbr/><b>Ring 1</b><div style=\"font-size:0.9em\">Continue to follow Ring 1</div>",
+            "polyline": {
+              "points": "_o{eIix~{@Eb@ObB_@nFOhBKvAGx@Iz@APA\\Cb@Cz@?XDpCBf@Dz@?PBh@@h@HnBHdCL|CF`ABZF`@@BNbABNPfA"
+            },
+            "start_location": {
+              "lat": 53.5577632,
+              "lng": 9.9931739
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.2 km",
+              "value": 249
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 74
+            },
+            "end_location": {
+              "lat": 53.5597632,
+              "lng": 9.9820563
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Jungiusstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{n{eI_}|{@e@ZSLGFGDSPUP[VKHm@`@m@d@EBmAz@OJKHWVSN"
+            },
+            "start_location": {
+              "lat": 53.5577402,
+              "lng": 9.9836841
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "13 m",
+              "value": 13
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 53.5597124,
+              "lng": 9.9818793
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>b. den Kirchh\u00f6fen</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "o{{eI{r|{@Hb@"
+            },
+            "start_location": {
+              "lat": 53.5597632,
+              "lng": 9.9820563
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "euzeIu~`|@{AjBu@jAw@|AmAdCQ|@Ml@Ud@kAnCmAdDSj@q@bCsArHeArGg@jDStBIt@In@C`AUpBMvAkAtOUdDG~ADjDL~Cb@|LJ|AHd@RrAPfAe@Z[TGDeAz@mBtA}AfAc@`@SNHb@"
+    },
+    "summary": "Lombardsbr\u00fccke and Ring 1",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

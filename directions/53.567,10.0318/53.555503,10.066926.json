@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5670015,
+        "lng": 10.0669316
+      },
+      "southwest": {
+        "lat": 53.5554475,
+        "lng": 10.0313309
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.4 km",
+          "value": 3407
+        },
+        "duration": {
+          "text": "12 mins",
+          "value": 735
+        },
+        "end_address": "U Rauhes Haus / Horner Weg, 20535 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5554624,
+          "lng": 10.0669316
+        },
+        "start_address": "Lerchenfeld / Uferstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5670015,
+          "lng": 10.031798
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "36 m",
+              "value": 36
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 10
+            },
+            "end_location": {
+              "lat": 53.5668266,
+              "lng": 10.0313309
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Uferstra\u00dfe</b> toward <b>Lerchenfeld</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "wh}eIwif|@BHRr@H^"
+            },
+            "start_location": {
+              "lat": 53.5670015,
+              "lng": 10.031798
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 993
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 241
+            },
+            "end_location": {
+              "lat": 53.5591332,
+              "lng": 10.0388125
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lerchenfeld</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ug}eIyff|@RWp@w@PUrAeBLMh@i@hA{A~@sAtAcBRU`@g@PSPObAoA\\e@f@k@RWl@k@x@q@fAaA\\]dAcAx@o@NKn@i@`@Y|@{@z@u@DCBCHEHEJEJGVQPMHGPKHERK`@STKB?RQr@U"
+            },
+            "start_location": {
+              "lat": 53.5668266,
+              "lng": 10.0313309
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.6 km",
+              "value": 1567
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 349
+            },
+            "end_location": {
+              "lat": 53.5602433,
+              "lng": 10.0614128
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Sievekingsallee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "qw{eIqug|@KYQ_@Q[GKOY[i@AAYa@MUIMCEKSISKWIUM]AGM]I]GUEOG[EU?CESIg@G]Ea@Gc@C]Ec@E[AYCWC_@AMCm@AIAKCc@E}@Ew@Ew@MwBCs@Eo@Ac@C[A_@?]Ak@AO?SA_@?a@?s@@}@@_ABsB?IDyC?e@@S@O@O?G@SB[BaCFsD@oABqA@o@BmA@s@@mA?w@@{@?MDcC@s@BqB@wABmADmABc@@g@Bg@Be@N_CVeENkCJuA@c@NeC"
+            },
+            "start_location": {
+              "lat": 53.5591332,
+              "lng": 10.0388125
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 492
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 53.5558493,
+              "lng": 10.0621748
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Caspar-Voght-Stra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "o~{eIybl|@r@Iv@Gj@INBp@MLArC[TCjBQZCZGB?JCpAMZEjCOl@I"
+            },
+            "start_location": {
+              "lat": 53.5602433,
+              "lng": 10.0614128
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 319
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 57
+            },
+            "end_location": {
+              "lat": 53.5554624,
+              "lng": 10.0669316
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Horner Weg</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ac{eIqgl|@?]FwBFiADaAL_CBUFsA@_@NaAH_B@w@@m@?eAAu@?G"
+            },
+            "start_location": {
+              "lat": 53.5558493,
+              "lng": 10.0621748
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "wh}eIwif|@V|@H^RWbAmA`BsBh@i@hA{A~@sAtAcBt@}@b@c@|CyDlE}DdAcAx@o@~@u@~AuA`Ay@b@U~@o@pAq@XKRQr@U]y@Yg@gAgBg@}@m@_Ba@yASeA]{BWaCWgEo@iMEyBAiCNoMD{@PaLJcGBoELaKNgFn@sKZaFPiDjBQj@INB~@OhD_@fD]|AQfDUl@I?]NaE^kH@_@NaAJwC@sBA}@"
+    },
+    "summary": "Sievekingsallee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

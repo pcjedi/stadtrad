@@ -1,0 +1,168 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5914673,
+        "lng": 10.0445087
+      },
+      "southwest": {
+        "lat": 53.5840751,
+        "lng": 10.0211118
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.1 km",
+          "value": 2070
+        },
+        "duration": {
+          "text": "8 mins",
+          "value": 467
+        },
+        "end_address": "Jarrestra\u00dfe / Rambatzweg, 22303 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5840751,
+          "lng": 10.0211118
+        },
+        "start_address": "Fuhlsb\u00fcttler Stra\u00dfe / Hellbrookstra\u00dfe, 22305 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5914673,
+          "lng": 10.0445087
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "35 m",
+              "value": 35
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 47
+            },
+            "end_location": {
+              "lat": 53.5914589,
+              "lng": 10.043984
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hellbrookstra\u00dfe</b> toward <b>Fuhlsb\u00fcttler Str.</b>",
+            "polyline": {
+              "points": "uabfIeyh|@?N@xA"
+            },
+            "start_location": {
+              "lat": 53.5914673,
+              "lng": 10.0445087
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 509
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 128
+            },
+            "end_location": {
+              "lat": 53.587185,
+              "lng": 10.0414033
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Hufnerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "sabfI{uh|@PDPFrAv@NHLDv@b@@?`B`ALJlAt@`An@JZNLh@VVLXRNJJDb@LR@J?hAl@b@LZDd@L"
+            },
+            "start_location": {
+              "lat": 53.5914589,
+              "lng": 10.043984
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 558
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 102
+            },
+            "end_location": {
+              "lat": 53.5880623,
+              "lng": 10.0331241
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wiesendamm</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{fafIweh|@?t@?r@?^AZe@bHg@xHQvDAT?TAV@~@AN?PAZEh@Gv@Eh@CVERABENCNCJ?NA`@Q~CE~@"
+            },
+            "start_location": {
+              "lat": 53.587185,
+              "lng": 10.0414033
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "91 m",
+              "value": 91
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 38
+            },
+            "end_location": {
+              "lat": 53.5872501,
+              "lng": 10.0332415
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Saarlandstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "klafI_rf|@b@AXCb@EDAj@CLE"
+            },
+            "start_location": {
+              "lat": 53.5880623,
+              "lng": 10.0331241
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 877
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 152
+            },
+            "end_location": {
+              "lat": 53.5840751,
+              "lng": 10.0211118
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Jarrestra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "igafIwrf|@VlA@Dn@|CFZn@`Dj@|Cl@jC|@hEd@zBp@dDLv@n@|E@Dx@fGDb@F^X|BHh@@Ln@pEh@bE"
+            },
+            "start_location": {
+              "lat": 53.5872501,
+              "lng": 10.0332415
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "uabfIeyh|@@hBb@LhDjBbB`AzA`A`An@JZx@d@lAr@b@LR@J?hAl@b@LZDd@L?t@?rAg@~Hg@xHQvDAj@AxBUfDQ~@GZAp@W~E|@Eh@Gx@IpAlGzA~HjBtIvA`H|@tGhApItAfKh@bE"
+    },
+    "summary": "Wiesendamm and Jarrestra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

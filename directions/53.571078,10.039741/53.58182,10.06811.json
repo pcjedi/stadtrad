@@ -1,0 +1,191 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5822855,
+        "lng": 10.0679991
+      },
+      "southwest": {
+        "lat": 53.571053,
+        "lng": 10.0397317
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.6 km",
+          "value": 2649
+        },
+        "duration": {
+          "text": "9 mins",
+          "value": 554
+        },
+        "end_address": "U Stra\u00dfburger Stra\u00dfe / Nordschleswiger Stra\u00dfe, 22049 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5817957,
+          "lng": 10.0679991
+        },
+        "start_address": "Uferstra\u00dfe / Wagnerstra\u00dfe, 22081 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5710752,
+          "lng": 10.0397317
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "3 m",
+              "value": 3
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 0
+            },
+            "end_location": {
+              "lat": 53.571053,
+              "lng": 10.0397503
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Wagnerstra\u00dfe</b> toward <b>Uferstra\u00dfe</b>",
+            "polyline": {
+              "points": "gb~eIi{g|@DC"
+            },
+            "start_location": {
+              "lat": 53.5710752,
+              "lng": 10.0397317
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 316
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 73
+            },
+            "end_location": {
+              "lat": 53.5722591,
+              "lng": 10.044082
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Uferstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ab~eIm{g|@Mc@Ou@i@cC[aBQiAKi@E]]qB]mBMw@Mu@QaA"
+            },
+            "start_location": {
+              "lat": 53.571053,
+              "lng": 10.0397503
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 769
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 134
+            },
+            "end_location": {
+              "lat": 53.5789666,
+              "lng": 10.0460574
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Von-Essen-Stra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "si~eIovh|@cBKcCSqAKiAIc@GcAKu@GcAGw@GWOMKKM[c@MQi@u@QUIGGEGCICKCqBSg@CaAI]IwB_@eBW"
+            },
+            "start_location": {
+              "lat": 53.5722591,
+              "lng": 10.044082
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 762
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 162
+            },
+            "end_location": {
+              "lat": 53.5800025,
+              "lng": 10.0572239
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Dehnhaide</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qs_fI{bi|@FiAD}@Di@NyCF{@?OHsABu@@c@?U?m@?UA]Ck@Ek@GgAGs@Go@CWK{@W_C_@aDWuBGe@Ea@Q{AQ{BY}BGi@Gk@MyACc@QgBEo@"
+            },
+            "start_location": {
+              "lat": 53.5789666,
+              "lng": 10.0460574
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.7 km",
+              "value": 737
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 162
+            },
+            "end_location": {
+              "lat": 53.5822855,
+              "lng": 10.067607
+            },
+            "html_instructions": "Continue onto <b>Stra\u00dfburger Str.</b>",
+            "polyline": {
+              "points": "_z_fIshk|@MiAIq@CWWaCCWY}Bc@yDe@kEe@}DE[CUEWGWIYEEIMIGKOISIUE[MeAK{@AMo@wFAGo@kFGe@CWOqAKs@"
+            },
+            "start_location": {
+              "lat": 53.5800025,
+              "lng": 10.0572239
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "62 m",
+              "value": 62
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 23
+            },
+            "end_location": {
+              "lat": 53.5817957,
+              "lng": 10.0679991
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Nordschleswiger Str.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ih`fIqim|@RONGP]TGTO"
+            },
+            "start_location": {
+              "lat": 53.5822855,
+              "lng": 10.067607
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "gb~eIi{g|@DCMc@y@yD_AsFwAmIQaAcBKuE_@gFe@{BOe@[_ByB[]OIUGyCWaAI]I}Ew@b@kITuE@}BS}D_@wDwA}LW}BQ{BY}BOuAQ}BWwCW{By@oHuB_RIm@Qq@e@k@Si@SaB_AiIkA{JKs@RONGP]j@W"
+    },
+    "summary": "Von-Essen-Stra\u00dfe, Dehnhaide and Stra\u00dfburger Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

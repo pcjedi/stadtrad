@@ -1,0 +1,239 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6120975,
+        "lng": 10.0334396
+      },
+      "southwest": {
+        "lat": 53.5878488,
+        "lng": 10.0230505
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.0 km",
+          "value": 3031
+        },
+        "duration": {
+          "text": "11 mins",
+          "value": 649
+        },
+        "end_address": "Alsterdorfer Markt / Evangelische Stiftung, 22297 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6120975,
+          "lng": 10.0239366
+        },
+        "start_address": "U Saarlandstra\u00dfe / Wiesendamm, 22303 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5887523,
+          "lng": 10.0330194
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 97
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 53.5878848,
+              "lng": 10.0331337
+            },
+            "html_instructions": "Head <b>south</b> on <b>Saarlandstra\u00dfe</b> toward <b>Wiesendamm</b>",
+            "polyline": {
+              "points": "upafIkqf|@TCbAIn@Eb@A"
+            },
+            "start_location": {
+              "lat": 53.5887523,
+              "lng": 10.0330194
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1333
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 302
+            },
+            "end_location": {
+              "lat": 53.599531,
+              "lng": 10.0310695
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Wiesendamm</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "gkafIarf|@D{@c@A}CRiAPq@JQ@}@Fm@FC?{@JwATmCd@YD_BVu@Pa@F_ANg@HOBI@y@N{@PiDf@yF|@O@c@FiLFw@HO@A@oANGBYFQJQNQR?@"
+            },
+            "start_location": {
+              "lat": 53.5878848,
+              "lng": 10.0331337
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 642
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 123
+            },
+            "end_location": {
+              "lat": 53.6047334,
+              "lng": 10.0282815
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "atcfIeef|@[_@USWKUKKAc@KU?WD_@Ta@TOJW\\SREDY\\IL[HS@E?O@Y@a@J]JA@UDc@T]\\UROXMVa@Xe@b@QJODW@YTC@i@V{@p@u@h@ONMJIJI^IPCB"
+            },
+            "start_location": {
+              "lat": 53.599531,
+              "lng": 10.0310695
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 295
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.6070473,
+              "lng": 10.0266408
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qtdfIwse|@IGA?EAAACAC?C?C?A@O?M?A?A?C?C?C@CDIHIJGFIDG@A@GBI@I@KCOCM?O@KBIDKHSRA@{@v@GHUXW^INKRGNGPGNYd@"
+            },
+            "start_location": {
+              "lat": 53.6047334,
+              "lng": 10.0282815
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 537
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 125
+            },
+            "end_location": {
+              "lat": 53.6113696,
+              "lng": 10.0230505
+            },
+            "html_instructions": "Continue onto <b>Sengelmannstra\u00dfe</b>",
+            "polyline": {
+              "points": "acefIoie|@ULk@Xk@^sAx@cAt@OJ}@l@IFi@^{A~@UNYRg@`@CDC?CBYX]^y@z@u@x@k@j@KLEBCDm@n@"
+            },
+            "start_location": {
+              "lat": 53.6070473,
+              "lng": 10.0266408
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "69 m",
+              "value": 69
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 14
+            },
+            "end_location": {
+              "lat": 53.6117034,
+              "lng": 10.0239273
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alsterdorfer Markt</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "a~efIasd|@k@_CEQEMCICCAA"
+            },
+            "start_location": {
+              "lat": 53.6113696,
+              "lng": 10.0230505
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "15 m",
+              "value": 15
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 3
+            },
+            "end_location": {
+              "lat": 53.6117466,
+              "lng": 10.024148
+            },
+            "html_instructions": "Slight <b>right</b>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "c`ffIqxd|@EWAMAE"
+            },
+            "start_location": {
+              "lat": 53.6117034,
+              "lng": 10.0239273
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "43 m",
+              "value": 43
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.6120975,
+              "lng": 10.0239366
+            },
+            "html_instructions": "Turn <b>left</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "m`ffI}yd|@m@f@GDC@A?C?A?ACAA"
+            },
+            "start_location": {
+              "lat": 53.6117466,
+              "lng": 10.024148
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "upafIkqf|@xAMrAGD{@c@A}CRiAPcALkBNeHfAqEv@aC^uB`@cLdBs@HiLFw@HQBwARYFQJc@b@[]m@_@a@Mc@KU?WD_@Tq@`@k@p@_@b@IL[HY@i@B_AVWFc@T]\\UROXMVa@Xe@b@QJg@F]Vi@V{@p@u@h@ONWVSp@CBIGGAMCc@@K?[\\[PQDUA]C[DID_@\\eAbAm@x@Ub@Wp@Yd@ULwAx@wCnBmAx@eDvBiAz@uBxBsBvBq@t@q@qCIWEEGe@AEm@f@KFE?EE"
+    },
+    "summary": "Saarlandstra\u00dfe",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

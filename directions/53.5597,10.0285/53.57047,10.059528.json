@@ -1,0 +1,95 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.57029319999999,
+        "lng": 10.0596417
+      },
+      "southwest": {
+        "lat": 53.5598849,
+        "lng": 10.0282665
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.5 km",
+          "value": 2468
+        },
+        "duration": {
+          "text": "7 mins",
+          "value": 448
+        },
+        "end_address": "S+U Wandsbeker Chaussee / B\u00f6rnestra\u00dfe, 22089 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.57029319999999,
+          "lng": 10.0596417
+        },
+        "start_address": "L\u00fcbecker Stra\u00dfe / Marienkrankenhaus, 22087 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5598849,
+          "lng": 10.0282665
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 642
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 53.56412419999999,
+              "lng": 10.0345047
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>L\u00fcbecker Str.</b>/<wbr/><b>B75</b> toward <b>Alfredstra\u00dfe</b>",
+            "polyline": {
+              "points": "g|{eIuse|@O]_@gAMY[}@k@cB?G?G?CAEEO[{@IUKWIUQg@CIM]EMYs@EMISQa@KSIMGIMQUY]_@e@c@a@_@c@_@QMa@MUU[[OOSSi@g@QOG[s@w@]a@SYGGIKMQ"
+            },
+            "start_location": {
+              "lat": 53.5598849,
+              "lng": 10.0282665
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.8 km",
+              "value": 1826
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 355
+            },
+            "end_location": {
+              "lat": 53.57029319999999,
+              "lng": 10.0596417
+            },
+            "html_instructions": "Continue onto <b>Wandsbeker Chaussee</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "wv|eIszf|@KQKMO][s@EGEEgAaDmAqDaBaFyAmEKYK{@Mi@EMOw@QmACWWcDOcBA[QoBUeCMwACa@O}BEq@Ea@Ok@KyAEk@Gi@Ky@E_@]yBe@cDCUCUS{AAe@[kCCUEo@Eo@EQ@I?GI{AAOCk@SiDCc@Eo@Ag@Cm@Ck@?AEg@Gs@E]Eg@MgAG[GWI_@Ia@EWKq@SUCQG]c@uCKo@CSS}@e@mCEUCOYiBSuAKk@SiAE[M}@"
+            },
+            "start_location": {
+              "lat": 53.56412419999999,
+              "lng": 10.0345047
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "g|{eIuse|@yA}Dk@cB?G?Km@gBk@_Bs@mB[u@Ua@iAuAgAcAu@m@a@MUUk@k@}@{@QOG[qAyA[a@o@}@k@qAKMqIcWKYK{@Sw@a@eC[{Dy@uJg@iHEa@Ok@QeCw@}FaAkHAe@[kCIeAKaA@Qc@aIOiDCm@M{AKeAUcBa@qBKq@SUKo@o@eEWqAiA}Gy@gFM}@"
+    },
+    "summary": "L\u00fcbecker Str./B75 and Wandsbeker Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

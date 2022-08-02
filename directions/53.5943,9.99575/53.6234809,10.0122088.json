@@ -1,0 +1,192 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.6235783,
+        "lng": 10.0121832
+      },
+      "southwest": {
+        "lat": 53.5943171,
+        "lng": 9.9938744
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "3.9 km",
+          "value": 3904
+        },
+        "duration": {
+          "text": "14 mins",
+          "value": 834
+        },
+        "end_address": "R\u00f6ntgenstra\u00dfe / Philips, 22335 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.6235783,
+          "lng": 10.0121832
+        },
+        "start_address": "U Hudtwalckerstra\u00dfe / Bebelallee, 22299 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5943171,
+          "lng": 9.995889
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 559
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 98
+            },
+            "end_location": {
+              "lat": 53.59913419999999,
+              "lng": 9.9938915
+            },
+            "html_instructions": "Head <b>north</b> toward <b>Lattenkampstieg</b>",
+            "polyline": {
+              "points": "osbfIii_|@QDq@Ru@NYFo@NwA\\_B^qAXe@Lg@LiATmBf@}A\\eAROFIHKPMRIPEJER"
+            },
+            "start_location": {
+              "lat": 53.5943171,
+              "lng": 9.995889
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1329
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 280
+            },
+            "end_location": {
+              "lat": 53.6090411,
+              "lng": 10.0037296
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Bebelallee</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qqcfIy|~{@Q@c@Ai@?S?S@a@@eAGSCa@GWEUEy@OIAA?IE_@Ga@MMWACkAg@]Wg@_@WSGIQSIEOEMS]c@q@u@GIQQMMOSMKQSe@g@MM_@a@]]i@g@YWm@i@i@o@c@c@k@s@[]?Ak@q@o@s@USY[o@q@[[SW]c@OSS[CEYa@U]g@y@KOs@yAe@gAw@qBe@sAK[e@aBGQc@{AMc@"
+            },
+            "start_location": {
+              "lat": 53.59913419999999,
+              "lng": 9.9938915
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 535
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 112
+            },
+            "end_location": {
+              "lat": 53.6130486,
+              "lng": 9.9997458
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Alsterdorfer Damm</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ooefIiz`|@UTMHULg@Ha@Ds@HUDODSVUZGHOTw@vAc@p@k@dAINi@`AKRMTYd@Yf@MTWh@Wb@]f@]ZKJ[HYH{@P"
+            },
+            "start_location": {
+              "lat": 53.6090411,
+              "lng": 10.0037296
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1306
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 288
+            },
+            "end_location": {
+              "lat": 53.6224207,
+              "lng": 10.0109135
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alsterkrugchaussee</b>/<wbr/><b>B433</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "qhffIma`|@uAcCa@s@a@u@a@o@OU]e@SYIIWa@WQCEk@iAKQi@aAKScAmB{@}AEI[m@S_@CE_@s@Ua@c@{@k@cAYc@EGKOCQAKMa@Sc@Q_@KUGK[e@IKSS{AmCi@_AEK_@s@CEa@s@?Aa@o@?Ao@}@MMY][Y[YYSAA_@Ug@W[MMGUIOEQIEAg@QOEKEk@QYKSGMEKESG_@IGEWQSGUEKCa@I"
+            },
+            "start_location": {
+              "lat": 53.6130486,
+              "lng": 9.9997458
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 134
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 32
+            },
+            "end_location": {
+              "lat": 53.6235536,
+              "lng": 10.0115687
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Alsterkrugchaussee</b> (signs for <b>Langenhorn</b>)",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "cchfIegb|@KMMKSKCAWOq@[QI]OGCCAIC_@K"
+            },
+            "start_location": {
+              "lat": 53.6224207,
+              "lng": 10.0109135
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 24
+            },
+            "end_location": {
+              "lat": 53.6235783,
+              "lng": 10.0121832
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R\u00f6ntgenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "ejhfIikb|@AaACw@"
+            },
+            "start_location": {
+              "lat": 53.6235536,
+              "lng": 10.0115687
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "osbfIii_|@sCp@yHfBmAZwD|@cDp@YPi@bAERQ@mAAg@@a@@eAGu@Km@KcAQKEaAUO[kAg@]W_As@Y]YKk@w@y@_A}@_AeBkBgAeAgAaAmAsAgAqAqB{ByBaCeAyAcBiCyAaD}AeE}AkFMc@UTc@VsC^ODSV]d@wCdFmAzByAlCu@jAi@f@u@R{@PuAcCcAiBq@eAsAkB[Ww@{AuDaHy@}AeCuE_@k@KOCQOm@e@cASa@e@q@SS{AmCo@kAeAoBa@q@}@kAu@w@u@m@a@WcAe@eAa@qDkAgA]WQSGa@Ia@IKMa@W_Bw@s@Y_@KAaACw@"
+    },
+    "summary": "Bebelallee and Alsterkrugchaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

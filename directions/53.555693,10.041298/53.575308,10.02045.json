@@ -1,0 +1,144 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5751903,
+        "lng": 10.0412907
+      },
+      "southwest": {
+        "lat": 53.5555959,
+        "lng": 10.0205632
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "2.7 km",
+          "value": 2651
+        },
+        "duration": {
+          "text": "10 mins",
+          "value": 592
+        },
+        "end_address": "Winterhuder Weg / Zimmerstra\u00dfe, 22085 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5750903,
+          "lng": 10.0205632
+        },
+        "start_address": "U Burgstra\u00dfe, 20537 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5555969,
+          "lng": 10.0412907
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "41 m",
+              "value": 41
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 7
+            },
+            "end_location": {
+              "lat": 53.5555959,
+              "lng": 10.0406697
+            },
+            "html_instructions": "Head <b>west</b> on <b>Hammer Landstra\u00dfe</b> toward <b>Burgstra\u00dfe</b>/<wbr/><b>Grevenweg</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "oa{eIaeh|@?B?X?L?nA"
+            },
+            "start_location": {
+              "lat": 53.5555969,
+              "lng": 10.0412907
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.7 km",
+              "value": 1674
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 356
+            },
+            "end_location": {
+              "lat": 53.5687192,
+              "lng": 10.0290063
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Burgstra\u00dfe</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "oa{eIeah|@E@G@KBGDIDQJABIDSNQPIHEBIHKDSNmA`@wBr@QDc@NIGA?A?O@IDSFWFYDi@LUDIBODi@HODM@UFSDKFKDSLUHQJGDIDGFGFOLUV_@b@k@n@SXCF{@t@}@z@a@Xo@h@OJy@n@eAbA]\\gA`Ay@p@m@j@SVg@j@]d@cAnAQNQRa@f@STuAbB_ArAiAzAi@h@MLsAdBQTq@v@SVcBxBc@j@UXIJy@dAEDU\\qAbBOTY^"
+            },
+            "start_location": {
+              "lat": 53.5555959,
+              "lng": 10.0406697
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 880
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 178
+            },
+            "end_location": {
+              "lat": 53.5751903,
+              "lng": 10.0213947
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Lerchenfeld</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "os}eIixe|@_@`@q@v@SXKLKNQVW`@Y\\W^OP_@b@s@t@MLA@MNEDMNMPINUZABGZk@t@UVMPyAdBy@bA_@h@c@h@_@d@MPC@SXGHi@r@MLQT}@hAo@v@aAnAWZORk@n@_@d@e@n@G@C?A@OH}@~@"
+            },
+            "start_location": {
+              "lat": 53.5687192,
+              "lng": 10.0290063
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "56 m",
+              "value": 56
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 51
+            },
+            "end_location": {
+              "lat": 53.5750903,
+              "lng": 10.0205632
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Zimmerstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}{~eIuhd|@Df@L|B"
+            },
+            "start_location": {
+              "lat": 53.5751903,
+              "lng": 10.0213947
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "oa{eIaeh|@?zBa@Lg@Zu@n@UNSNmA`@iCx@c@NIGC?O@]Lq@LyA\\y@Nc@H_@L_@Ry@`@u@t@kArAW`@yBpBqAbAiAz@cB`BaCrBaAbA{CpD}CtDiCnDw@v@kDjEgDjEgDlEi@t@qAxA}@nAyApBcBhBo@v@_@j@I^iDdEkEtFaHxIkAtAe@n@G@E@OH}@~@RdD"
+    },
+    "summary": "B5",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
