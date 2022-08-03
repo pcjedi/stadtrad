@@ -1,0 +1,334 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5980208,
+        "lng": 10.1018199
+      },
+      "southwest": {
+        "lat": 53.5723543,
+        "lng": 10.0690082
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.6 km",
+          "value": 4619
+        },
+        "duration": {
+          "text": "16 mins",
+          "value": 938
+        },
+        "end_address": "U Trabrennbahn / Traberweg, 22159 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5980208,
+          "lng": 10.1014753
+        },
+        "start_address": "U Wandsbek Markt / Wandsbeker Marktstra\u00dfe, 22041 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5723543,
+          "lng": 10.0690082
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "23 m",
+              "value": 23
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.57239999999999,
+              "lng": 10.0693493
+            },
+            "html_instructions": "Head <b>east</b>",
+            "polyline": {
+              "points": "ej~eIirm|@COCYAY"
+            },
+            "start_location": {
+              "lat": 53.5723543,
+              "lng": 10.0690082
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "44 m",
+              "value": 44
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5727768,
+              "lng": 10.0694343
+            },
+            "html_instructions": "Turn <b>left</b> toward <b>Wandsbeker Marktstra\u00dfe</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "oj~eImtm|@GMEEC?C?I@G@c@?"
+            },
+            "start_location": {
+              "lat": 53.57239999999999,
+              "lng": 10.0693493
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 283
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 105
+            },
+            "end_location": {
+              "lat": 53.5740273,
+              "lng": 10.0731649
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Wandsbeker Marktstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "{l~eI}tm|@E[SgAWeAIa@YmAYiAc@gBEQ_@{AOs@Me@CQCECCUy@"
+            },
+            "start_location": {
+              "lat": 53.5727768,
+              "lng": 10.0694343
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 379
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5757345,
+              "lng": 10.0781081
+            },
+            "html_instructions": "Continue onto <b>R\u00fcterstra\u00dfe</b>",
+            "polyline": {
+              "points": "ut~eIgln|@YqAkAqFKg@I_@Oe@EMQg@Uu@ISGOGUCGYiAW}@Mc@WaAMq@Ms@Gi@"
+            },
+            "start_location": {
+              "lat": 53.5740273,
+              "lng": 10.0731649
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 319
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.5766418,
+              "lng": 10.0826825
+            },
+            "html_instructions": "Continue straight onto <b>Wandsbeker Zollstra\u00dfe</b>",
+            "maneuver": "straight",
+            "polyline": {
+              "points": "i__fIeko|@Ie@WaCO}AQ}AIu@E[Ky@WiBYoC]qCEU"
+            },
+            "start_location": {
+              "lat": 53.5757345,
+              "lng": 10.0781081
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "22 m",
+              "value": 22
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 4
+            },
+            "end_location": {
+              "lat": 53.5767394,
+              "lng": 10.0825305
+            },
+            "html_instructions": "Make a <b>U-turn</b> at <b>Efftingestra\u00dfe</b>",
+            "maneuver": "uturn-left",
+            "polyline": {
+              "points": "_e_fIwgp|@WDBV"
+            },
+            "start_location": {
+              "lat": 53.5766418,
+              "lng": 10.0826825
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.1 km",
+              "value": 1099
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 254
+            },
+            "end_location": {
+              "lat": 53.58620089999999,
+              "lng": 10.0777736
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Holzm\u00fchlenstra\u00dfe</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "se_fIyfp|@a@LKBoAd@A?[J[LoC|@k@RSFKDA?g@JwBd@m@JmBz@MDWLw@Xe@Rc@RGBGDcDrAe@R{E~Bg@Xk@ZgAn@qBbAWH}@`@SHi@V_Ab@w@\\YH"
+            },
+            "start_location": {
+              "lat": 53.5767394,
+              "lng": 10.0825305
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 366
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 58
+            },
+            "end_location": {
+              "lat": 53.58932470000001,
+              "lng": 10.0782519
+            },
+            "html_instructions": "Continue onto <b>Lesserstra\u00dfe</b>",
+            "polyline": {
+              "points": "w`afIaio|@KBI@QA]IQKmAu@mAk@qBkASGUEU?[?OJKFC@c@TiB`A"
+            },
+            "start_location": {
+              "lat": 53.58620089999999,
+              "lng": 10.0777736
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.4 km",
+              "value": 1364
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 242
+            },
+            "end_location": {
+              "lat": 53.5934704,
+              "lng": 10.0976901
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Tilsiter Str.</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "gtafIalo|@Im@iA{ISwAiAqIEU?CG]Mk@Ia@Ki@[cCCS?CE[gBqNE]SyA?CS{AEYe@cEo@iFg@gEYyBa@kDG]CWu@iGAEGc@UeBWoBSyAUcBYkBGc@AIAUCQOsA"
+            },
+            "start_location": {
+              "lat": 53.58932470000001,
+              "lng": 10.0782519
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 386
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 88
+            },
+            "end_location": {
+              "lat": 53.5966604,
+              "lng": 10.0980049
+            },
+            "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>Am Stadtrand</b>",
+            "maneuver": "roundabout-right",
+            "polyline": {
+              "points": "enbfIqes|@@A?A@A?A@A?A@A?C?A@A?C?A?A?C?A?A?C?A?A?CAA?EAA?AAA?AAA?AAAAAAA?AA?AAA?A??AA?A?A?A?A@A?C@A@A@A@A@?@EAGGEEECMEe@D{CF]@g@Be@@mBBuCD"
+            },
+            "start_location": {
+              "lat": 53.5934704,
+              "lng": 10.0976901
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 267
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5974567,
+              "lng": 10.1018199
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Eckerkoppel</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "cbcfIogs|@q@sFAIGg@CMAGQsAAGGk@OoASyAOmAM_A"
+            },
+            "start_location": {
+              "lat": 53.5966604,
+              "lng": 10.0980049
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "67 m",
+              "value": 67
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 9
+            },
+            "end_location": {
+              "lat": 53.5980208,
+              "lng": 10.1014753
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Traberweg</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "cgcfIk_t|@u@`@YLKFSJ"
+            },
+            "start_location": {
+              "lat": 53.5974567,
+              "lng": 10.1018199
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ej~eIirm|@Gi@AYGMIEM@k@@YcBuA_GyAiGQw@GIo@kCwAyGYeAWu@o@oBcAsDe@sBU}AcAcJs@uFw@aHEUWDBVa@L{Ah@iEvAmA`@_Dp@m@JmBz@e@R}Al@wEpBaGrCsAt@yDrBuAj@uDbBe@L[?]IQK{CaBqBkASGUEU?[?OJOHmCvAsAiKcBcMk@uCgDeX{Eo`@{C_Va@oCC_@SeB@CBGBI?UEUKMKAMHABMIKIMEe@DyDHmADcGHs@}F_@qCm@}E]mCoAn@_@R"
+    },
+    "summary": "Tilsiter Str.",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 53.5751648,
+        "lng": 10.0685945
+      },
+      "southwest": {
+        "lat": 53.5657612,
+        "lng": 10.0205632
+      }
+    },
+    "copyrights": "Map data \u00a92022 GeoBasis-DE/BKG (\u00a92009)",
+    "legs": [
+      {
+        "distance": {
+          "text": "4.1 km",
+          "value": 4122
+        },
+        "duration": {
+          "text": "16 mins",
+          "value": 936
+        },
+        "end_address": "Schlo\u00dfstra\u00dfe 40, 22041 Hamburg, Germany",
+        "end_location": {
+          "lat": 53.5716167,
+          "lng": 10.0685945
+        },
+        "start_address": "Winterhuder Weg / Zimmerstra\u00dfe, 22085 Hamburg, Germany",
+        "start_location": {
+          "lat": 53.5750903,
+          "lng": 10.0205632
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "42 m",
+              "value": 42
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5751648,
+              "lng": 10.0211868
+            },
+            "html_instructions": "Head <b>east</b> on <b>Zimmerstra\u00dfe</b> toward <b>Winterhuder Weg</b>/<wbr/><b>B5</b>",
+            "polyline": {
+              "points": "i{~eIocd|@M}B"
+            },
+            "start_location": {
+              "lat": 53.5750903,
+              "lng": 10.0205632
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.8 km",
+              "value": 780
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 174
+            },
+            "end_location": {
+              "lat": 53.5692551,
+              "lng": 10.0267129
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Winterhuder Weg</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "w{~eImgd|@jA_BBIDKd@o@^e@j@o@NSV[`AoAn@w@|@iAPULMh@s@FIRYBALQ^e@b@i@^i@x@cAxAeBLQTWj@u@FCFCHMx@aA@ADGFEFCFCFALAH?L@N@NDZHrA\\HB"
+            },
+            "start_location": {
+              "lat": 53.5751648,
+              "lng": 10.0211868
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "85 m",
+              "value": 85
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 29
+            },
+            "end_location": {
+              "lat": 53.5690671,
+              "lng": 10.0276718
+            },
+            "html_instructions": "Keep <b>left</b> to continue on <b>Sch\u00fcrbeker Str.</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "keep-left",
+            "polyline": {
+              "points": "{v}eI}ie|@RGFEFGBCDGBG@IBG@M?K@Q?QAOAUQ_@"
+            },
+            "start_location": {
+              "lat": 53.5692551,
+              "lng": 10.0267129
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "54 m",
+              "value": 54
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 53.5694358,
+              "lng": 10.0281578
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Sch\u00fcrbeker Bogen</b>/<wbr/><b>B5</b>",
+            "maneuver": "turn-slight-left",
+            "polyline": {
+              "points": "uu}eI}oe|@IOACQ_@O[EGACA?ECGAC?"
+            },
+            "start_location": {
+              "lat": 53.5690671,
+              "lng": 10.0276718
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.4 km",
+              "value": 417
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 92
+            },
+            "end_location": {
+              "lat": 53.566394,
+              "lng": 10.0318377
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Lerchenfeld</b>/<wbr/><b>B5</b><div style=\"font-size:0.9em\">Continue to follow B5</div>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_x}eI_se|@PWJOJMRYp@w@^a@X_@NUpAcBT]DEx@eAHKTYb@k@bByBRWp@w@PU"
+            },
+            "start_location": {
+              "lat": 53.5694358,
+              "lng": 10.0281578
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 273
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 55
+            },
+            "end_location": {
+              "lat": 53.5679993,
+              "lng": 10.0349649
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Eilenau</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "}d}eI_jf|@s@eBqA_D}AuD}AsD"
+            },
+            "start_location": {
+              "lat": 53.566394,
+              "lng": 10.0318377
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 318
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 60
+            },
+            "end_location": {
+              "lat": 53.5657612,
+              "lng": 10.0379698
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Auenstieg</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "_o}eIo}f|@pAuBZe@Va@pCgEfDsE"
+            },
+            "start_location": {
+              "lat": 53.5679993,
+              "lng": 10.0349649
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "1.6 km",
+              "value": 1612
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 377
+            },
+            "end_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Wandsbeker Chaussee</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_a}eIipg|@yAmEKYK{@Mi@EMOw@QmACWWcDOcBA[QoBUeCMwACa@O}BEq@Ea@Ok@KyAEk@Gi@Ky@E_@]yBe@cDCUCUS{AAe@[kCCUEo@Eo@EQ@I?GI{AAOCk@SiDCc@Eo@Ag@Cm@Ck@?AEg@Gs@E]Eg@MgAG[GWI_@Ia@EWKq@SUCQG]c@uCKo@CSS}@e@mCEUCOYiBSuAKk@SiAE[OeAM{@?Ac@{C"
+            },
+            "start_location": {
+              "lat": 53.5657612,
+              "lng": 10.0379698
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 276
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": 53.5713512,
+              "lng": 10.0647251
+            },
+            "html_instructions": "Continue onto <b>Wandsbeker Marktstra\u00dfe</b>",
+            "polyline": {
+              "points": "}~}eIy~k|@[oCAECSW}BIk@OuAIo@[iCKw@Gc@QwA"
+            },
+            "start_location": {
+              "lat": 53.5705476,
+              "lng": 10.0607662
+            },
+            "travel_mode": "BICYCLING"
+          },
+          {
+            "distance": {
+              "text": "0.3 km",
+              "value": 265
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 53.5716167,
+              "lng": 10.0685945
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Schlo\u00dfstra\u00dfe</b> (signs for <b>Bergedorf</b>/<wbr/><b>Horn</b>)",
+            "maneuver": "turn-slight-right",
+            "polyline": {
+              "points": "}c~eIqwl|@@K@G?G@IASKo@?IAM?OBSDQ@IF_@?C@K@K?OAYCe@Cc@?AKYE}@EeAEc@MwBMuA"
+            },
+            "start_location": {
+              "lat": 53.5713512,
+              "lng": 10.0647251
+            },
+            "travel_mode": "BICYCLING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "i{~eIocd|@M}BjA_BHUdAuAz@cAfEmFpAaBdAsAvE}Fb@i@j@u@FCPQz@cALMNGl@AnCn@HBRGNMN]Fs@Aa@AUQ_@KSa@{@OOKA\\g@^g@pAyApCwDlHgJPUs@eBoDuI}AsDpAuBr@gApCgEfDsEeBgFYeBUeAUeBg@gGw@iJ_@sFOk@KyAMuAuAwJGk@S{AAe@_@aDK_BM_C]iGOqDS{BSoBOs@e@kCSUCQk@sDOcAy@kEw@eFu@wEmAiJiBkOY{BBS@QMcAAWBc@N_ABWAi@GkAKYE}@KiB[mE"
+    },
+    "summary": "B5 and Wandsbeker Chaussee",
+    "warnings": [
+      "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+    ],
+    "waypoint_order": []
+  }
+]
